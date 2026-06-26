@@ -1,0 +1,7 @@
+/* TEAM */
+Entity: First To Respond Restoration
+Site: http://first2respond.com
+
+/* SITE */
+Last update: 2026-06-26
+Standards: HTML5, JSON-LD, Schema.org

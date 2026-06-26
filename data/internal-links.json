@@ -1,0 +1,981 @@
+{
+  "generatedAt": "2026-06-26T23:05:25.002Z",
+  "links": [
+    {
+      "path": "services/fire-and-smoke-damage-restoration-encino-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-north-hollywood-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-san-fernando-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-studio-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-tarzana-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-van-nuys-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-and-woodland-hills-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/mold-remediation-encino-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/mold-remediation-north-hollywood-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/mold-remediation-san-fernando-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/mold-remediation-studio-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/mold-remediation-tarzana-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/mold-remediation-van-nuys-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/mold-remediation-and-woodland-hills-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/water-damage-restoration-encino-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/water-damage-restoration-north-hollywood-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/water-damage-restoration-san-fernando-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/water-damage-restoration-studio-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/water-damage-restoration-tarzana-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/water-damage-restoration-van-nuys-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/water-damage-restoration-and-woodland-hills-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-encino-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-north-hollywood-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-san-fernando-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-studio-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-tarzana-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-van-nuys-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-and-woodland-hills-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/storm-damage-restoration-encino-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/storm-damage-restoration-north-hollywood-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/storm-damage-restoration-san-fernando-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/storm-damage-restoration-studio-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/storm-damage-restoration-tarzana-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/storm-damage-restoration-van-nuys-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/storm-damage-restoration-and-woodland-hills-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/biohazard-cleanup-encino-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/biohazard-cleanup-north-hollywood-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/biohazard-cleanup-san-fernando-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/biohazard-cleanup-studio-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/biohazard-cleanup-tarzana-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/biohazard-cleanup-van-nuys-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/biohazard-cleanup-and-woodland-hills-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/commercial-restoration-services-encino-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/commercial-restoration-services-north-hollywood-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/commercial-restoration-services-san-fernando-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/commercial-restoration-services-studio-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/commercial-restoration-services-tarzana-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/commercial-restoration-services-van-nuys-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/commercial-restoration-services-and-woodland-hills-service.json",
+      "category": "services"
+    },
+    {
+      "path": "help/my-house-just-had-a-fire-what-do-i-do-first.json",
+      "category": "help"
+    },
+    {
+      "path": "help/can-i-really-get-rid-of-that-smoke-smell-after-a-fire.json",
+      "category": "help"
+    },
+    {
+      "path": "help/help-my-home-is-soot-covered-after-a-fire.json",
+      "category": "help"
+    },
+    {
+      "path": "help/uh-oh-i-think-i-have-mold-now-what.json",
+      "category": "help"
+    },
+    {
+      "path": "help/why-does-this-mold-keep-coming-back.json",
+      "category": "help"
+    },
+    {
+      "path": "help/can-mold-really-be-hiding-in-my-walls.json",
+      "category": "help"
+    },
+    {
+      "path": "help/what-to-do-when-your-pipes-burst-and-water-starts-flooding-your-home.json",
+      "category": "help"
+    },
+    {
+      "path": "help/why-acting-fast-is-key-when-your-property-experiences-water-damage.json",
+      "category": "help"
+    },
+    {
+      "path": "help/when-is-water-damage-restoration-more-than-just-drying.json",
+      "category": "help"
+    },
+    {
+      "path": "help/suddenly-your-toilet-s-backed-up-now-what.json",
+      "category": "help"
+    },
+    {
+      "path": "help/why-you-can-t-diy-sewage-cleanup-after-a-backup.json",
+      "category": "help"
+    },
+    {
+      "path": "help/how-to-know-if-your-water-damage-is-a-biohazard-situation.json",
+      "category": "help"
+    },
+    {
+      "path": "help/my-roof-leaks-after-a-storm-what-now.json",
+      "category": "help"
+    },
+    {
+      "path": "help/can-i-deal-with-storm-damage-myself.json",
+      "category": "help"
+    },
+    {
+      "path": "help/what-happens-when-storm-water-gets-inside-my-home.json",
+      "category": "help"
+    },
+    {
+      "path": "help/when-is-professional-biohazard-cleanup-necessary.json",
+      "category": "help"
+    },
+    {
+      "path": "help/is-it-safe-to-clean-up-sewage-myself.json",
+      "category": "help"
+    },
+    {
+      "path": "help/how-do-i-know-if-my-property-needs-biohazard-remediation.json",
+      "category": "help"
+    },
+    {
+      "path": "help/what-to-do-when-your-commercial-property-suffers-water-damage.json",
+      "category": "help"
+    },
+    {
+      "path": "help/how-to-get-your-business-back-up-and-running-after-a-fire.json",
+      "category": "help"
+    },
+    {
+      "path": "help/my-business-had-a-disaster-how-do-i-minimize-downtime.json",
+      "category": "help"
+    },
+    {
+      "path": "locations/first-to-respond-restoration-office.json",
+      "category": "locations"
+    },
+    {
+      "path": "organization/first-to-respond-restoration-organization.json",
+      "category": "organization"
+    },
+    {
+      "path": "faqs/what-should-i-do-immediately-after-a-fire-is-extinguished.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/do-fire-restoration-companies-work-with-my-insurance-and-how-do-they-document-da.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-is-the-fire-and-smoke-damage-restoration-process.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-long-does-fire-and-smoke-damage-restoration-take.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-are-the-cleaning-scope-and-cost-estimates-for-smoke-damage.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-do-i-document-fire-and-smoke-damage-for-my-insurance-claim.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-do-you-address-smoke-damage-inside-walls-insulation-and-hvac-systems.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-exactly-is-mold-remediation-and-how-does-it-work.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/when-do-i-need-a-professional-for-mold-removal-instead-of-doing-it-myself.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/is-mold-dangerous-to-my-health-and-what-symptoms-can-it-cause.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-long-does-the-mold-remediation-process-usually-take.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-much-does-mold-remediation-cost-and-what-factors-affect-the-price.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-can-i-stop-mold-from-coming-back-after-remediation.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-certifications-should-a-mold-remediation-company-have-before-i-hire-them.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-should-i-do-immediately-when-water-damage-starts-in-my-home.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-long-does-the-water-damage-restoration-process-usually-take.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-is-the-typical-cost-for-water-damage-restoration-services.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/is-it-safe-to-clean-up-water-damage-myself-or-should-i-call-a-professional.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-exactly-happens-during-the-water-damage-restoration-process.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-documentation-do-i-need-for-my-insurance-claim-after-water-damage.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-if-i-don-t-fix-water-damage-quickly.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-should-i-do-right-now-if-sewage-backs-up-into-my-house-in-encino.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/will-my-homeowners-insurance-cover-sewage-cleanup-in-north-hollywood.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-do-professionals-actually-clean-up-sewage-damage-in-san-fernando.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-long-does-sewage-cleanup-take-in-studio-city-before-i-can-live-there-again.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-is-the-average-cost-for-sewage-damage-cleanup-in-tarzana.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/is-sewage-damage-dangerous-to-my-health-in-san-fernando-valley.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/can-i-clean-up-sewage-damage-myself-in-los-angeles-county-or-should-i-hire-a-pro.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-should-i-do-right-after-a-storm-hits-my-home-in-los-angeles-county.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-soon-after-a-storm-should-i-inspect-my-home-and-can-i-do-it-myself.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-exactly-happens-during-the-storm-damage-restoration-process.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-long-does-it-take-to-fully-restore-a-home-after-severe-storm-damage.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-much-does-storm-damage-restoration-cost-and-will-insurance-cover-it.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-documentation-do-i-need-for-my-storm-damage-insurance-claim.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-i-should-worry-about-during-storm-damage-restoration.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/when-do-i-actually-need-to-hire-a-biohazard-cleanup-company-instead-of-just-clea.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-should-i-do-right-now-if-i-just-discovered-a-biohazard-situation-in-my-home.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-does-the-biohazard-cleanup-process-actually-work-from-start-to-finish.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-long-does-it-usually-take-to-completely-clean-up-a-biohazard-scene.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-much-does-biohazard-cleanup-cost-and-will-my-insurance-cover-it.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/is-biohazard-cleanup-legally-required-and-who-is-responsible-for-paying-for-it.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/why-can-t-i-just-clean-up-blood-or-biohazards-myself-with-bleach-and-regular-cle.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-credentials-should-a-commercial-restoration-contractor-have-before-i-hire-t.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-quickly-can-a-commercial-restoration-team-get-to-my-business-after-an-emerge.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/will-a-commercial-restoration-company-help-me-with-my-insurance-claim.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-is-the-typical-process-for-commercial-restoration-services.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/does-the-contractor-have-experience-with-my-specific-type-of-commercial-damage.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/can-i-keep-my-business-open-during-commercial-restoration-work.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-warranties-and-protections-should-i-expect-from-a-commercial-restoration-co.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/i-think-i-just-discovered-a-drug-lab-in-a-rental-property-what-should-i-do-first.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/is-it-ever-safe-to-clean-up-a-former-drug-lab-myself-or-do-i-really-need-to-hire.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-exactly-is-included-in-professional-drug-lab-cleanup-and-decontamination.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-long-does-drug-lab-cleanup-usually-take-before-a-property-is-safe-to-live-in.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-much-does-professional-drug-lab-cleanup-usually-cost-and-what-drives-the-pri.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/when-is-it-actually-safe-to-go-back-into-a-property-after-a-drug-lab-has-been-di.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/do-i-really-need-lab-testing-before-and-after-drug-lab-cleanup-or-can-we-just-do.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-do-i-choose-the-right-drug-lab-cleanup-company-in-encino-or-the-nearby-san-f.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-does-professional-hoarding-cleanup-actually-work-step-by-step-and-what-shoul.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/is-it-realistic-to-handle-a-severe-hoarding-cleanup-ourselves-as-a-family-or-do.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-much-does-hoarding-cleanup-usually-cost-and-what-makes-one-home-way-more-exp.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-does-professional-odor-removal-and-deodorization-actually-get-rid-of-smells.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/are-professional-odor-removal-treatments-like-ozone-or-fogging-actually-safe-for.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-is-rodent-bio-cleanup-and-how-is-it-different-from-just-cleaning-up-mouse-d.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/can-rodent-droppings-and-urine-really-make-us-sick-and-when-is-it-serious-enough.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-does-rodent-bio-cleanup-usually-involve-for-attics-and-crawl-spaces-in-enci.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-can-i-do-if-i-clearly-need-hoarding-or-biohazard-cleanup-but-i-just-can-t-a.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-do-i-pick-the-right-hoarding-cleanup-and-odor-removal-company-for-a-home-in.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/do-professional-cleanup-companies-guarantee-that-odors-contamination-or-hoarding.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/after-a-drug-lab-or-heavy-contamination-do-we-have-to-throw-away-all-the-furnitu.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-should-i-do-if-i-m-still-smelling-odors-or-feeling-sick-after-a-professiona.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/do-i-need-both-a-rodent-exterminator-and-a-rodent-bio-cleanup-company-or-will-on.json",
+      "category": "faqs"
+    },
+    {
+      "path": "help/my-property-was-a-drug-lab-now-what.json",
+      "category": "help"
+    },
+    {
+      "path": "help/dealing-with-a-hoarder-cleanout-where-do-i-begin.json",
+      "category": "help"
+    },
+    {
+      "path": "help/the-mystery-smell-that-won-t-go-away.json",
+      "category": "help"
+    },
+    {
+      "path": "reviews/anonymous-1-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-2-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-3-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-4-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-5-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-6-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-7-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-8-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-9-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-10-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-11-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-12-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-13-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-14-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-15-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-16-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-17-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-18-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/aggregate-rating.json",
+      "category": "reviews"
+    },
+    {
+      "path": "index.html",
+      "category": "public"
+    },
+    {
+      "path": "about.html",
+      "category": "public"
+    },
+    {
+      "path": "services.html",
+      "category": "public"
+    },
+    {
+      "path": "testimonials.html",
+      "category": "public"
+    },
+    {
+      "path": "contact.html",
+      "category": "public"
+    },
+    {
+      "path": "faqs.html",
+      "category": "public"
+    },
+    {
+      "path": "help.html",
+      "category": "public"
+    },
+    {
+      "path": "qnas.html",
+      "category": "public"
+    },
+    {
+      "path": "organization.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "home-and-construction-business.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "local-business.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "entity-profile.json",
+      "category": "entity"
+    },
+    {
+      "path": "business-overview.json",
+      "category": "entity"
+    },
+    {
+      "path": "brand-profile.json",
+      "category": "entity"
+    },
+    {
+      "path": "identifiers.json",
+      "category": "entity"
+    },
+    {
+      "path": "same-as.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "about.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "contact.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "knowledge-graph.json",
+      "category": "entity"
+    },
+    {
+      "path": "full-context.json",
+      "category": "entity"
+    },
+    {
+      "path": "full-context.yaml",
+      "category": "entity"
+    },
+    {
+      "path": "team.jsonld",
+      "category": "team"
+    },
+    {
+      "path": "professionals.jsonld",
+      "category": "team"
+    },
+    {
+      "path": "team.json",
+      "category": "team"
+    },
+    {
+      "path": "team-bios.md",
+      "category": "team"
+    },
+    {
+      "path": "team-bios.json",
+      "category": "team"
+    },
+    {
+      "path": "homeandconstructionbusiness-team.jsonld",
+      "category": "team"
+    },
+    {
+      "path": "locations.jsonld",
+      "category": "locations"
+    },
+    {
+      "path": "service-areas.jsonld",
+      "category": "locations"
+    },
+    {
+      "path": "location-pages.json",
+      "category": "locations"
+    },
+    {
+      "path": "city-service-areas.json",
+      "category": "locations"
+    },
+    {
+      "path": "geo-coverage.json",
+      "category": "locations"
+    },
+    {
+      "path": "services.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "practice-areas.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "specialties.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "case-types.json",
+      "category": "services"
+    },
+    {
+      "path": "offer-catalog.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "service-catalog.json",
+      "category": "services"
+    },
+    {
+      "path": "service-pages.json",
+      "category": "services"
+    },
+    {
+      "path": "faqs.jsonld",
+      "category": "faqs"
+    },
+    {
+      "path": "faq.md",
+      "category": "faqs"
+    },
+    {
+      "path": "qnas.jsonld",
+      "category": "qna"
+    },
+    {
+      "path": "qna.md",
+      "category": "qna"
+    },
+    {
+      "path": "help-articles.jsonld",
+      "category": "help"
+    },
+    {
+      "path": "help-articles.md",
+      "category": "help"
+    },
+    {
+      "path": "topical-hubs.jsonld",
+      "category": "hubs"
+    },
+    {
+      "path": "topical-hubs.md",
+      "category": "hubs"
+    },
+    {
+      "path": "semantic-authority-pages.json",
+      "category": "hubs"
+    },
+    {
+      "path": "reviews.jsonld",
+      "category": "reviews"
+    },
+    {
+      "path": "testimonials.jsonld",
+      "category": "reviews"
+    },
+    {
+      "path": "awards.jsonld",
+      "category": "awards"
+    },
+    {
+      "path": "licenses.jsonld",
+      "category": "awards"
+    },
+    {
+      "path": "associations.jsonld",
+      "category": "awards"
+    },
+    {
+      "path": "case-results.jsonld",
+      "category": "case-results"
+    },
+    {
+      "path": "media-mentions.jsonld",
+      "category": "press"
+    },
+    {
+      "path": "credentials.json",
+      "category": "awards"
+    },
+    {
+      "path": "about.html",
+      "category": "pages"
+    },
+    {
+      "path": "services.html",
+      "category": "pages"
+    },
+    {
+      "path": "locations.html",
+      "category": "pages"
+    },
+    {
+      "path": "team.html",
+      "category": "pages"
+    },
+    {
+      "path": "faqs.html",
+      "category": "pages"
+    },
+    {
+      "path": "qnas.html",
+      "category": "pages"
+    },
+    {
+      "path": "help.html",
+      "category": "pages"
+    },
+    {
+      "path": "topical-hubs.html",
+      "category": "pages"
+    },
+    {
+      "path": "reviews.html",
+      "category": "pages"
+    },
+    {
+      "path": "case-results.html",
+      "category": "pages"
+    },
+    {
+      "path": "contact.html",
+      "category": "pages"
+    },
+    {
+      "path": "data/entity.json",
+      "category": "data"
+    },
+    {
+      "path": "data/entity.yaml",
+      "category": "data"
+    },
+    {
+      "path": "data/entity.jsonl",
+      "category": "data"
+    },
+    {
+      "path": "data/services.json",
+      "category": "data"
+    },
+    {
+      "path": "data/locations.json",
+      "category": "data"
+    },
+    {
+      "path": "data/faqs.json",
+      "category": "data"
+    },
+    {
+      "path": "data/qnas.json",
+      "category": "data"
+    },
+    {
+      "path": "data/help-articles.json",
+      "category": "data"
+    },
+    {
+      "path": "data/team.json",
+      "category": "data"
+    },
+    {
+      "path": "data/reviews.json",
+      "category": "data"
+    },
+    {
+      "path": "data/case-results.json",
+      "category": "data"
+    },
+    {
+      "path": "data/knowledge-graph.json",
+      "category": "data"
+    }
+  ]
+}

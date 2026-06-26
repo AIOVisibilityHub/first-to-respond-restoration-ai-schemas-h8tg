@@ -1,0 +1,1765 @@
+{
+  "entity": "First To Respond Restoration",
+  "generatedAt": "2026-06-26T23:05:25.003Z",
+  "workflow": "research → review → approval → public",
+  "notes": "Research and Q&A items require explicit approval before publishing. Non-research entity files (services, locations, attorneys, FAQs) are produced from supplied entity data.",
+  "files": [
+    {
+      "path": "services/fire-and-smoke-damage-restoration-encino-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-north-hollywood-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-san-fernando-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-studio-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-tarzana-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-van-nuys-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-and-woodland-hills-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/mold-remediation-encino-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/mold-remediation-north-hollywood-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/mold-remediation-san-fernando-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/mold-remediation-studio-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/mold-remediation-tarzana-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/mold-remediation-van-nuys-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/mold-remediation-and-woodland-hills-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/water-damage-restoration-encino-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/water-damage-restoration-north-hollywood-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/water-damage-restoration-san-fernando-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/water-damage-restoration-studio-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/water-damage-restoration-tarzana-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/water-damage-restoration-van-nuys-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/water-damage-restoration-and-woodland-hills-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/sewage-damage-cleanup-encino-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/sewage-damage-cleanup-north-hollywood-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/sewage-damage-cleanup-san-fernando-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/sewage-damage-cleanup-studio-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/sewage-damage-cleanup-tarzana-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/sewage-damage-cleanup-van-nuys-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/sewage-damage-cleanup-and-woodland-hills-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/storm-damage-restoration-encino-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/storm-damage-restoration-north-hollywood-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/storm-damage-restoration-san-fernando-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/storm-damage-restoration-studio-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/storm-damage-restoration-tarzana-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/storm-damage-restoration-van-nuys-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/storm-damage-restoration-and-woodland-hills-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/biohazard-cleanup-encino-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/biohazard-cleanup-north-hollywood-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/biohazard-cleanup-san-fernando-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/biohazard-cleanup-studio-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/biohazard-cleanup-tarzana-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/biohazard-cleanup-van-nuys-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/biohazard-cleanup-and-woodland-hills-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/commercial-restoration-services-encino-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/commercial-restoration-services-north-hollywood-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/commercial-restoration-services-san-fernando-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/commercial-restoration-services-studio-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/commercial-restoration-services-tarzana-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/commercial-restoration-services-van-nuys-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/commercial-restoration-services-and-woodland-hills-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/my-house-just-had-a-fire-what-do-i-do-first.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/can-i-really-get-rid-of-that-smoke-smell-after-a-fire.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/help-my-home-is-soot-covered-after-a-fire.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/uh-oh-i-think-i-have-mold-now-what.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/why-does-this-mold-keep-coming-back.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/can-mold-really-be-hiding-in-my-walls.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-to-do-when-your-pipes-burst-and-water-starts-flooding-your-home.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/why-acting-fast-is-key-when-your-property-experiences-water-damage.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/when-is-water-damage-restoration-more-than-just-drying.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/suddenly-your-toilet-s-backed-up-now-what.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/why-you-can-t-diy-sewage-cleanup-after-a-backup.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-to-know-if-your-water-damage-is-a-biohazard-situation.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/my-roof-leaks-after-a-storm-what-now.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/can-i-deal-with-storm-damage-myself.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-happens-when-storm-water-gets-inside-my-home.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/when-is-professional-biohazard-cleanup-necessary.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/is-it-safe-to-clean-up-sewage-myself.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-do-i-know-if-my-property-needs-biohazard-remediation.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/what-to-do-when-your-commercial-property-suffers-water-damage.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/how-to-get-your-business-back-up-and-running-after-a-fire.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/my-business-had-a-disaster-how-do-i-minimize-downtime.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations/first-to-respond-restoration-office.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "organization/first-to-respond-restoration-organization.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-immediately-after-a-fire-is-extinguished.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/do-fire-restoration-companies-work-with-my-insurance-and-how-do-they-document-da.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-is-the-fire-and-smoke-damage-restoration-process.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-fire-and-smoke-damage-restoration-take.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-cleaning-scope-and-cost-estimates-for-smoke-damage.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-document-fire-and-smoke-damage-for-my-insurance-claim.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-you-address-smoke-damage-inside-walls-insulation-and-hvac-systems.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-exactly-is-mold-remediation-and-how-does-it-work.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/when-do-i-need-a-professional-for-mold-removal-instead-of-doing-it-myself.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-mold-dangerous-to-my-health-and-what-symptoms-can-it-cause.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-the-mold-remediation-process-usually-take.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-mold-remediation-cost-and-what-factors-affect-the-price.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-can-i-stop-mold-from-coming-back-after-remediation.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-certifications-should-a-mold-remediation-company-have-before-i-hire-them.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-immediately-when-water-damage-starts-in-my-home.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-the-water-damage-restoration-process-usually-take.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-is-the-typical-cost-for-water-damage-restoration-services.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-safe-to-clean-up-water-damage-myself-or-should-i-call-a-professional.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-exactly-happens-during-the-water-damage-restoration-process.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-documentation-do-i-need-for-my-insurance-claim-after-water-damage.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-if-i-don-t-fix-water-damage-quickly.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-right-now-if-sewage-backs-up-into-my-house-in-encino.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/will-my-homeowners-insurance-cover-sewage-cleanup-in-north-hollywood.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-professionals-actually-clean-up-sewage-damage-in-san-fernando.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-sewage-cleanup-take-in-studio-city-before-i-can-live-there-again.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-is-the-average-cost-for-sewage-damage-cleanup-in-tarzana.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-sewage-damage-dangerous-to-my-health-in-san-fernando-valley.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-clean-up-sewage-damage-myself-in-los-angeles-county-or-should-i-hire-a-pro.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-right-after-a-storm-hits-my-home-in-los-angeles-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-soon-after-a-storm-should-i-inspect-my-home-and-can-i-do-it-myself.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-exactly-happens-during-the-storm-damage-restoration-process.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-it-take-to-fully-restore-a-home-after-severe-storm-damage.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-storm-damage-restoration-cost-and-will-insurance-cover-it.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-documentation-do-i-need-for-my-storm-damage-insurance-claim.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-i-should-worry-about-during-storm-damage-restoration.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/when-do-i-actually-need-to-hire-a-biohazard-cleanup-company-instead-of-just-clea.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-right-now-if-i-just-discovered-a-biohazard-situation-in-my-home.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-does-the-biohazard-cleanup-process-actually-work-from-start-to-finish.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-it-usually-take-to-completely-clean-up-a-biohazard-scene.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-biohazard-cleanup-cost-and-will-my-insurance-cover-it.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-biohazard-cleanup-legally-required-and-who-is-responsible-for-paying-for-it.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/why-can-t-i-just-clean-up-blood-or-biohazards-myself-with-bleach-and-regular-cle.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-credentials-should-a-commercial-restoration-contractor-have-before-i-hire-t.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-quickly-can-a-commercial-restoration-team-get-to-my-business-after-an-emerge.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/will-a-commercial-restoration-company-help-me-with-my-insurance-claim.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-is-the-typical-process-for-commercial-restoration-services.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/does-the-contractor-have-experience-with-my-specific-type-of-commercial-damage.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-i-keep-my-business-open-during-commercial-restoration-work.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-warranties-and-protections-should-i-expect-from-a-commercial-restoration-co.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/i-think-i-just-discovered-a-drug-lab-in-a-rental-property-what-should-i-do-first.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-ever-safe-to-clean-up-a-former-drug-lab-myself-or-do-i-really-need-to-hire.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-exactly-is-included-in-professional-drug-lab-cleanup-and-decontamination.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-long-does-drug-lab-cleanup-usually-take-before-a-property-is-safe-to-live-in.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-professional-drug-lab-cleanup-usually-cost-and-what-drives-the-pri.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/when-is-it-actually-safe-to-go-back-into-a-property-after-a-drug-lab-has-been-di.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/do-i-really-need-lab-testing-before-and-after-drug-lab-cleanup-or-can-we-just-do.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-choose-the-right-drug-lab-cleanup-company-in-encino-or-the-nearby-san-f.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-does-professional-hoarding-cleanup-actually-work-step-by-step-and-what-shoul.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/is-it-realistic-to-handle-a-severe-hoarding-cleanup-ourselves-as-a-family-or-do.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-much-does-hoarding-cleanup-usually-cost-and-what-makes-one-home-way-more-exp.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-does-professional-odor-removal-and-deodorization-actually-get-rid-of-smells.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/are-professional-odor-removal-treatments-like-ozone-or-fogging-actually-safe-for.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-is-rodent-bio-cleanup-and-how-is-it-different-from-just-cleaning-up-mouse-d.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/can-rodent-droppings-and-urine-really-make-us-sick-and-when-is-it-serious-enough.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-does-rodent-bio-cleanup-usually-involve-for-attics-and-crawl-spaces-in-enci.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-can-i-do-if-i-clearly-need-hoarding-or-biohazard-cleanup-but-i-just-can-t-a.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/how-do-i-pick-the-right-hoarding-cleanup-and-odor-removal-company-for-a-home-in.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/do-professional-cleanup-companies-guarantee-that-odors-contamination-or-hoarding.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/after-a-drug-lab-or-heavy-contamination-do-we-have-to-throw-away-all-the-furnitu.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/what-should-i-do-if-i-m-still-smelling-odors-or-feeling-sick-after-a-professiona.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs/do-i-need-both-a-rodent-exterminator-and-a-rodent-bio-cleanup-company-or-will-on.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/my-property-was-a-drug-lab-now-what.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/dealing-with-a-hoarder-cleanout-where-do-i-begin.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help/the-mystery-smell-that-won-t-go-away.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-1-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-2-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-3-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-4-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-5-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-6-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-7-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-8-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-9-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-10-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-11-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-12-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-13-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-14-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-15-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-16-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-17-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-18-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/aggregate-rating.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "index.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "about.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "testimonials.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "contact.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qnas.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "organization.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "home-and-construction-business.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "local-business.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "entity-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "business-overview.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "brand-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "identifiers.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "same-as.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "about.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "contact.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "knowledge-graph.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "full-context.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "full-context.yaml",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "professionals.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team-bios.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team-bios.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "homeandconstructionbusiness-team.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "service-areas.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "location-pages.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "city-service-areas.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "geo-coverage.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "practice-areas.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "specialties.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-types.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "offer-catalog.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "service-catalog.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "service-pages.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faq.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qnas.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qna.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help-articles.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help-articles.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "topical-hubs.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "topical-hubs.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "semantic-authority-pages.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "testimonials.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "awards.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "licenses.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "associations.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-results.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "media-mentions.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "credentials.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "about.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qnas.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "topical-hubs.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-results.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "contact.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/entity.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/entity.yaml",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/entity.jsonl",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/services.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/locations.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/faqs.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/qnas.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/help-articles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/team.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/reviews.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/case-results.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/knowledge-graph.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/internal-links.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/source-map.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/research-sources.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/source-provenance.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "ai-disclaimer.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "legal-disclaimer.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data-sources.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    }
+  ]
+}

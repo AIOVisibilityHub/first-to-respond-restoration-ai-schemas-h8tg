@@ -1,0 +1,4 @@
+Contact: http://first2respond.com/contact
+Expires: 2027-06-26T23:05:25.003Z
+Preferred-Languages: en
+Canonical: http://first2respond.com/security.txt

@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-06-26T23:05:25.004Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "First To Respond Restoration",
+    "canonicalUrl": "http://first2respond.com",
+    "aiDataHub": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "First To Respond Restoration — canonical website",
+      "url": "http://first2respond.com"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "First To Respond Restoration — AI Data Hub",
+      "url": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html"
+    }
+  ],
+  "destinations": {}
+}

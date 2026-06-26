@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-06-26T23:05:24.992Z",
+  "kind": "locations",
+  "total": 1,
+  "items": [
+    {
+      "url": "http://first2respond.com",
+      "name": "First To Respond Restoration - First To Respond Restoration Office",
+      "@type": "LocalBusiness",
+      "address": {
+        "@type": "PostalAddress",
+        "postalCode": "91335",
+        "addressRegion": "CA",
+        "streetAddress": "18412 Gault St.",
+        "addressLocality": "Reseda"
+      },
+      "@context": "https://schema.org",
+      "telephone": "(844) 721-0319"
+    }
+  ]
+}

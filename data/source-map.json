@@ -1,0 +1,1720 @@
+{
+  "generatedAt": "2026-06-26T23:05:25.003Z",
+  "files": [
+    {
+      "path": "services/fire-and-smoke-damage-restoration-encino-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1718,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-north-hollywood-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1754,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-san-fernando-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1742,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-studio-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1738,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-tarzana-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1722,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-van-nuys-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1726,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/fire-and-smoke-damage-restoration-and-woodland-hills-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1766,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/mold-remediation-encino-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1501,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/mold-remediation-north-hollywood-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1537,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/mold-remediation-san-fernando-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1525,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/mold-remediation-studio-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1521,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/mold-remediation-tarzana-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1505,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/mold-remediation-van-nuys-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1509,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/mold-remediation-and-woodland-hills-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1549,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/water-damage-restoration-encino-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1705,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/water-damage-restoration-north-hollywood-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1741,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/water-damage-restoration-san-fernando-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1729,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/water-damage-restoration-studio-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1725,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/water-damage-restoration-tarzana-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1709,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/water-damage-restoration-van-nuys-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1713,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/water-damage-restoration-and-woodland-hills-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1753,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-encino-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1507,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-north-hollywood-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1543,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-san-fernando-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1531,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-studio-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1527,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-tarzana-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1511,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-van-nuys-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1515,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/sewage-damage-cleanup-and-woodland-hills-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1555,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/storm-damage-restoration-encino-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1700,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/storm-damage-restoration-north-hollywood-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1736,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/storm-damage-restoration-san-fernando-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1724,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/storm-damage-restoration-studio-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1720,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/storm-damage-restoration-tarzana-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1704,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/storm-damage-restoration-van-nuys-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1708,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/storm-damage-restoration-and-woodland-hills-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1748,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/biohazard-cleanup-encino-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1509,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/biohazard-cleanup-north-hollywood-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1545,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/biohazard-cleanup-san-fernando-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1533,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/biohazard-cleanup-studio-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1529,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/biohazard-cleanup-tarzana-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1513,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/biohazard-cleanup-van-nuys-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1517,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/biohazard-cleanup-and-woodland-hills-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1557,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/commercial-restoration-services-encino-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1712,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/commercial-restoration-services-north-hollywood-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1748,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/commercial-restoration-services-san-fernando-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1736,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/commercial-restoration-services-studio-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1732,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/commercial-restoration-services-tarzana-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1716,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/commercial-restoration-services-van-nuys-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1720,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/commercial-restoration-services-and-woodland-hills-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1760,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/my-house-just-had-a-fire-what-do-i-do-first.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1908,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/can-i-really-get-rid-of-that-smoke-smell-after-a-fire.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1829,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/help-my-home-is-soot-covered-after-a-fire.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1907,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/uh-oh-i-think-i-have-mold-now-what.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1710,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/why-does-this-mold-keep-coming-back.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1795,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/can-mold-really-be-hiding-in-my-walls.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1984,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/what-to-do-when-your-pipes-burst-and-water-starts-flooding-your-home.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1706,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/why-acting-fast-is-key-when-your-property-experiences-water-damage.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1733,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/when-is-water-damage-restoration-more-than-just-drying.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1896,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/suddenly-your-toilet-s-backed-up-now-what.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1689,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/why-you-can-t-diy-sewage-cleanup-after-a-backup.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1994,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/how-to-know-if-your-water-damage-is-a-biohazard-situation.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 1277,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/my-roof-leaks-after-a-storm-what-now.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2419,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/can-i-deal-with-storm-damage-myself.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2343,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/what-happens-when-storm-water-gets-inside-my-home.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2456,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/when-is-professional-biohazard-cleanup-necessary.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2452,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/is-it-safe-to-clean-up-sewage-myself.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2518,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/how-do-i-know-if-my-property-needs-biohazard-remediation.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2513,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/what-to-do-when-your-commercial-property-suffers-water-damage.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2496,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/how-to-get-your-business-back-up-and-running-after-a-fire.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2574,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/my-business-had-a-disaster-how-do-i-minimize-downtime.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 2386,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "locations/first-to-respond-restoration-office.json",
+      "category": "locations",
+      "purpose": "schema",
+      "bytes": 334,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "organization/first-to-respond-restoration-organization.json",
+      "category": "organization",
+      "purpose": "schema",
+      "bytes": 1454,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-should-i-do-immediately-after-a-fire-is-extinguished.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1193,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/do-fire-restoration-companies-work-with-my-insurance-and-how-do-they-document-da.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1257,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-is-the-fire-and-smoke-damage-restoration-process.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1184,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-long-does-fire-and-smoke-damage-restoration-take.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1038,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-are-the-cleaning-scope-and-cost-estimates-for-smoke-damage.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1143,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-do-i-document-fire-and-smoke-damage-for-my-insurance-claim.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1072,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-do-you-address-smoke-damage-inside-walls-insulation-and-hvac-systems.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1142,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-exactly-is-mold-remediation-and-how-does-it-work.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 871,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/when-do-i-need-a-professional-for-mold-removal-instead-of-doing-it-myself.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1000,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/is-mold-dangerous-to-my-health-and-what-symptoms-can-it-cause.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 839,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-long-does-the-mold-remediation-process-usually-take.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 872,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-much-does-mold-remediation-cost-and-what-factors-affect-the-price.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 939,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-can-i-stop-mold-from-coming-back-after-remediation.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 908,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-certifications-should-a-mold-remediation-company-have-before-i-hire-them.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 921,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-should-i-do-immediately-when-water-damage-starts-in-my-home.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1228,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-long-does-the-water-damage-restoration-process-usually-take.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1132,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-is-the-typical-cost-for-water-damage-restoration-services.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1099,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/is-it-safe-to-clean-up-water-damage-myself-or-should-i-call-a-professional.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1209,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-exactly-happens-during-the-water-damage-restoration-process.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1235,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-documentation-do-i-need-for-my-insurance-claim-after-water-damage.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1199,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-if-i-don-t-fix-water-damage-quickly.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1188,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-should-i-do-right-now-if-sewage-backs-up-into-my-house-in-encino.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1369,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/will-my-homeowners-insurance-cover-sewage-cleanup-in-north-hollywood.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1268,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-do-professionals-actually-clean-up-sewage-damage-in-san-fernando.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1281,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-long-does-sewage-cleanup-take-in-studio-city-before-i-can-live-there-again.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1230,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-is-the-average-cost-for-sewage-damage-cleanup-in-tarzana.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1207,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/is-sewage-damage-dangerous-to-my-health-in-san-fernando-valley.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1277,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/can-i-clean-up-sewage-damage-myself-in-los-angeles-county-or-should-i-hire-a-pro.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1291,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-should-i-do-right-after-a-storm-hits-my-home-in-los-angeles-county.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1154,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-soon-after-a-storm-should-i-inspect-my-home-and-can-i-do-it-myself.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1138,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-exactly-happens-during-the-storm-damage-restoration-process.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1077,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-long-does-it-take-to-fully-restore-a-home-after-severe-storm-damage.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1012,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-much-does-storm-damage-restoration-cost-and-will-insurance-cover-it.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1095,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-documentation-do-i-need-for-my-storm-damage-insurance-claim.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1118,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-i-should-worry-about-during-storm-damage-restoration.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1118,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/when-do-i-actually-need-to-hire-a-biohazard-cleanup-company-instead-of-just-clea.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1159,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-should-i-do-right-now-if-i-just-discovered-a-biohazard-situation-in-my-home.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 941,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-does-the-biohazard-cleanup-process-actually-work-from-start-to-finish.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1022,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-long-does-it-usually-take-to-completely-clean-up-a-biohazard-scene.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 935,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-much-does-biohazard-cleanup-cost-and-will-my-insurance-cover-it.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 931,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/is-biohazard-cleanup-legally-required-and-who-is-responsible-for-paying-for-it.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 965,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/why-can-t-i-just-clean-up-blood-or-biohazards-myself-with-bleach-and-regular-cle.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1029,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-credentials-should-a-commercial-restoration-contractor-have-before-i-hire-t.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 818,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-quickly-can-a-commercial-restoration-team-get-to-my-business-after-an-emerge.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 800,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/will-a-commercial-restoration-company-help-me-with-my-insurance-claim.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 802,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-is-the-typical-process-for-commercial-restoration-services.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 866,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/does-the-contractor-have-experience-with-my-specific-type-of-commercial-damage.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 823,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/can-i-keep-my-business-open-during-commercial-restoration-work.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 794,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-warranties-and-protections-should-i-expect-from-a-commercial-restoration-co.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 861,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/i-think-i-just-discovered-a-drug-lab-in-a-rental-property-what-should-i-do-first.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2348,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/is-it-ever-safe-to-clean-up-a-former-drug-lab-myself-or-do-i-really-need-to-hire.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2289,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-exactly-is-included-in-professional-drug-lab-cleanup-and-decontamination.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2129,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-long-does-drug-lab-cleanup-usually-take-before-a-property-is-safe-to-live-in.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2084,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-much-does-professional-drug-lab-cleanup-usually-cost-and-what-drives-the-pri.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2073,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/when-is-it-actually-safe-to-go-back-into-a-property-after-a-drug-lab-has-been-di.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2127,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/do-i-really-need-lab-testing-before-and-after-drug-lab-cleanup-or-can-we-just-do.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2032,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-do-i-choose-the-right-drug-lab-cleanup-company-in-encino-or-the-nearby-san-f.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2136,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-does-professional-hoarding-cleanup-actually-work-step-by-step-and-what-shoul.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2073,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/is-it-realistic-to-handle-a-severe-hoarding-cleanup-ourselves-as-a-family-or-do.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2085,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-much-does-hoarding-cleanup-usually-cost-and-what-makes-one-home-way-more-exp.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2102,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-does-professional-odor-removal-and-deodorization-actually-get-rid-of-smells.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2151,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/are-professional-odor-removal-treatments-like-ozone-or-fogging-actually-safe-for.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2050,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-is-rodent-bio-cleanup-and-how-is-it-different-from-just-cleaning-up-mouse-d.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2022,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/can-rodent-droppings-and-urine-really-make-us-sick-and-when-is-it-serious-enough.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2083,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-does-rodent-bio-cleanup-usually-involve-for-attics-and-crawl-spaces-in-enci.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2029,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-can-i-do-if-i-clearly-need-hoarding-or-biohazard-cleanup-but-i-just-can-t-a.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2105,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/how-do-i-pick-the-right-hoarding-cleanup-and-odor-removal-company-for-a-home-in.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2123,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/do-professional-cleanup-companies-guarantee-that-odors-contamination-or-hoarding.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2106,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/after-a-drug-lab-or-heavy-contamination-do-we-have-to-throw-away-all-the-furnitu.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2057,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/what-should-i-do-if-i-m-still-smelling-odors-or-feeling-sick-after-a-professiona.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 2084,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs/do-i-need-both-a-rodent-exterminator-and-a-rodent-bio-cleanup-company-or-will-on.json",
+      "category": "faqs",
+      "purpose": "schema",
+      "bytes": 1966,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/my-property-was-a-drug-lab-now-what.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 3033,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/dealing-with-a-hoarder-cleanout-where-do-i-begin.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 3165,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "help/the-mystery-smell-that-won-t-go-away.json",
+      "category": "help",
+      "purpose": "schema",
+      "bytes": 3266,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-1-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 704,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-2-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 682,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-3-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 650,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-4-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 684,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-5-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 646,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-6-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 664,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-7-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 663,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-8-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 663,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-9-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 664,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-10-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 689,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-11-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 628,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-12-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 634,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-13-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 659,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-14-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 641,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-15-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 640,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-16-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 632,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-17-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 631,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-18-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 648,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/aggregate-rating.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 222,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "index.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 2139,
+      "mime": "text/html"
+    },
+    {
+      "path": "about.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 4714,
+      "mime": "text/html"
+    },
+    {
+      "path": "services.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 122600,
+      "mime": "text/html"
+    },
+    {
+      "path": "testimonials.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 24083,
+      "mime": "text/html"
+    },
+    {
+      "path": "contact.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 2997,
+      "mime": "text/html"
+    },
+    {
+      "path": "faqs.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 79086,
+      "mime": "text/html"
+    },
+    {
+      "path": "help.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 90113,
+      "mime": "text/html"
+    },
+    {
+      "path": "qnas.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 112644,
+      "mime": "text/html"
+    },
+    {
+      "path": "organization.jsonld",
+      "category": "entity",
+      "purpose": "Primary Organization JSON-LD",
+      "bytes": 2171,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "home-and-construction-business.jsonld",
+      "category": "entity",
+      "purpose": "HomeAndConstructionBusiness JSON-LD",
+      "bytes": 2186,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "local-business.jsonld",
+      "category": "entity",
+      "purpose": "LocalBusiness JSON-LD",
+      "bytes": 2172,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "entity-profile.json",
+      "category": "entity",
+      "purpose": "Entity profile summary",
+      "bytes": 2934,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "business-overview.json",
+      "category": "entity",
+      "purpose": "Business overview",
+      "bytes": 2934,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "brand-profile.json",
+      "category": "entity",
+      "purpose": "Brand profile",
+      "bytes": 179,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "identifiers.json",
+      "category": "entity",
+      "purpose": "External identifiers & sameAs",
+      "bytes": 151,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "same-as.jsonld",
+      "category": "entity",
+      "purpose": "sameAs graph for entity disambiguation",
+      "bytes": 160,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "about.jsonld",
+      "category": "entity",
+      "purpose": "AboutPage JSON-LD",
+      "bytes": 2528,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "contact.jsonld",
+      "category": "entity",
+      "purpose": "ContactPage JSON-LD",
+      "bytes": 328,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "knowledge-graph.json",
+      "category": "entity",
+      "purpose": "Combined Schema.org @graph",
+      "bytes": 133332,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "full-context.json",
+      "category": "entity",
+      "purpose": "Full entity context (JSON)",
+      "bytes": 2934,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "full-context.yaml",
+      "category": "entity",
+      "purpose": "Full entity context (YAML)",
+      "bytes": 2215,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "team.jsonld",
+      "category": "team",
+      "purpose": "Aggregate team ItemList",
+      "bytes": 158,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "professionals.jsonld",
+      "category": "team",
+      "purpose": "Professionals ItemList",
+      "bytes": 167,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "team.json",
+      "category": "team",
+      "purpose": "Team data bundle",
+      "bytes": 94,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "team-bios.md",
+      "category": "team",
+      "purpose": "Team bios (markdown)",
+      "bytes": 51,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "team-bios.json",
+      "category": "team",
+      "purpose": "Team bios (JSON)",
+      "bytes": 80,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "homeandconstructionbusiness-team.jsonld",
+      "category": "team",
+      "purpose": "HomeAndConstructionBusiness team wrapper",
+      "bytes": 203,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "locations.jsonld",
+      "category": "locations",
+      "purpose": "Locations ItemList",
+      "bytes": 708,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "service-areas.jsonld",
+      "category": "locations",
+      "purpose": "Service areas ItemList",
+      "bytes": 712,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "location-pages.json",
+      "category": "locations",
+      "purpose": "Location pages data",
+      "bytes": 551,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "city-service-areas.json",
+      "category": "locations",
+      "purpose": "City service areas",
+      "bytes": 198,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "geo-coverage.json",
+      "category": "locations",
+      "purpose": "Geographic coverage summary",
+      "bytes": 218,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services.jsonld",
+      "category": "services",
+      "purpose": "Services ItemList",
+      "bytes": 142435,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "practice-areas.jsonld",
+      "category": "services",
+      "purpose": "Practice areas ItemList",
+      "bytes": 142441,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "specialties.jsonld",
+      "category": "services",
+      "purpose": "Specialties ItemList",
+      "bytes": 142438,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "case-types.json",
+      "category": "services",
+      "purpose": "Case types",
+      "bytes": 290,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "offer-catalog.jsonld",
+      "category": "services",
+      "purpose": "OfferCatalog JSON-LD",
+      "bytes": 141548,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "service-catalog.json",
+      "category": "services",
+      "purpose": "Service catalog data",
+      "bytes": 130378,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "service-pages.json",
+      "category": "services",
+      "purpose": "Service pages data",
+      "bytes": 130383,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs.jsonld",
+      "category": "faqs",
+      "purpose": "FAQs ItemList",
+      "bytes": 118191,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "faq.md",
+      "category": "faqs",
+      "purpose": "FAQs (markdown)",
+      "bytes": 49974,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "qnas.jsonld",
+      "category": "qna",
+      "purpose": "Q&A ItemList",
+      "bytes": 154,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "qna.md",
+      "category": "qna",
+      "purpose": "Q&A (markdown)",
+      "bytes": 29,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "help-articles.jsonld",
+      "category": "help",
+      "purpose": "Help articles ItemList",
+      "bytes": 68649,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "help-articles.md",
+      "category": "help",
+      "purpose": "Help articles (markdown)",
+      "bytes": 22606,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "topical-hubs.jsonld",
+      "category": "hubs",
+      "purpose": "Topical hubs ItemList",
+      "bytes": 163,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "topical-hubs.md",
+      "category": "hubs",
+      "purpose": "Topical hubs (markdown)",
+      "bytes": 47,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "semantic-authority-pages.json",
+      "category": "hubs",
+      "purpose": "Semantic authority pages",
+      "bytes": 64646,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews.jsonld",
+      "category": "reviews",
+      "purpose": "Reviews ItemList",
+      "bytes": 18921,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "testimonials.jsonld",
+      "category": "reviews",
+      "purpose": "Testimonials ItemList",
+      "bytes": 18926,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "awards.jsonld",
+      "category": "awards",
+      "purpose": "Awards ItemList",
+      "bytes": 157,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "licenses.jsonld",
+      "category": "awards",
+      "purpose": "Licenses ItemList",
+      "bytes": 159,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "associations.jsonld",
+      "category": "awards",
+      "purpose": "Associations ItemList",
+      "bytes": 163,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "case-results.jsonld",
+      "category": "case-results",
+      "purpose": "Case results ItemList",
+      "bytes": 163,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "media-mentions.jsonld",
+      "category": "press",
+      "purpose": "Media mentions ItemList",
+      "bytes": 165,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "credentials.json",
+      "category": "awards",
+      "purpose": "Credentials summary",
+      "bytes": 100,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "about.html",
+      "category": "pages",
+      "purpose": "About page",
+      "bytes": 3634,
+      "mime": "text/html"
+    },
+    {
+      "path": "services.html",
+      "category": "pages",
+      "purpose": "Services page",
+      "bytes": 18360,
+      "mime": "text/html"
+    },
+    {
+      "path": "locations.html",
+      "category": "pages",
+      "purpose": "Locations page",
+      "bytes": 2032,
+      "mime": "text/html"
+    },
+    {
+      "path": "team.html",
+      "category": "pages",
+      "purpose": "Team page",
+      "bytes": 1846,
+      "mime": "text/html"
+    },
+    {
+      "path": "faqs.html",
+      "category": "pages",
+      "purpose": "FAQs page",
+      "bytes": 27346,
+      "mime": "text/html"
+    },
+    {
+      "path": "qnas.html",
+      "category": "pages",
+      "purpose": "Q&A page",
+      "bytes": 1858,
+      "mime": "text/html"
+    },
+    {
+      "path": "help.html",
+      "category": "pages",
+      "purpose": "Help page",
+      "bytes": 4011,
+      "mime": "text/html"
+    },
+    {
+      "path": "topical-hubs.html",
+      "category": "pages",
+      "purpose": "Topical hubs page",
+      "bytes": 1878,
+      "mime": "text/html"
+    },
+    {
+      "path": "reviews.html",
+      "category": "pages",
+      "purpose": "Reviews page",
+      "bytes": 2601,
+      "mime": "text/html"
+    },
+    {
+      "path": "case-results.html",
+      "category": "pages",
+      "purpose": "Case results page",
+      "bytes": 1878,
+      "mime": "text/html"
+    },
+    {
+      "path": "contact.html",
+      "category": "pages",
+      "purpose": "Contact page",
+      "bytes": 1957,
+      "mime": "text/html"
+    },
+    {
+      "path": "data/entity.json",
+      "category": "data",
+      "purpose": "Entity data (JSON)",
+      "bytes": 2934,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/entity.yaml",
+      "category": "data",
+      "purpose": "Entity data (YAML)",
+      "bytes": 2215,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "data/entity.jsonl",
+      "category": "data",
+      "purpose": "Entity data (JSONL)",
+      "bytes": 1927,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "data/services.json",
+      "category": "data",
+      "purpose": "Services data",
+      "bytes": 130378,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/locations.json",
+      "category": "data",
+      "purpose": "Locations data",
+      "bytes": 551,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/faqs.json",
+      "category": "data",
+      "purpose": "FAQs data",
+      "bytes": 110684,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/qnas.json",
+      "category": "data",
+      "purpose": "Q&A data",
+      "bytes": 94,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/help-articles.json",
+      "category": "data",
+      "purpose": "Help articles data",
+      "bytes": 64632,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/team.json",
+      "category": "data",
+      "purpose": "Team data",
+      "bytes": 94,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/reviews.json",
+      "category": "data",
+      "purpose": "Reviews data",
+      "bytes": 16598,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/case-results.json",
+      "category": "data",
+      "purpose": "Case results data",
+      "bytes": 102,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/knowledge-graph.json",
+      "category": "data",
+      "purpose": "Knowledge graph @graph",
+      "bytes": 133332,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/internal-links.json",
+      "category": "data",
+      "purpose": "Internal links index",
+      "bytes": 26117,
+      "mime": "application/ld+json"
+    }
+  ]
+}
