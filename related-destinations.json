@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-06-26T23:05:25.004Z",
+  "generatedAt": "2026-06-26T23:05:32.877Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -24,7 +24,25 @@
       "role": "ai-data-hub",
       "label": "First To Respond Restoration — AI Data Hub",
       "url": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html"
     }
   ],
-  "destinations": {}
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/",
+      "repo": "AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg"
+    }
+  }
 }

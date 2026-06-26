@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-06-26T23:05:25.008Z",
+  "generatedAt": "2026-06-26T23:05:32.880Z",
   "client": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "http://first2respond.com",
@@ -39,7 +39,7 @@
   },
   "package": {
     "totalFiles": 269,
-    "totalBytes": 2972348,
+    "totalBytes": 2978301,
     "stats": {
       "faqs": 71,
       "helpArticles": 24,
@@ -1388,7 +1388,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 1108,
+        "bytes": 1849,
         "purpose": "LLM hint"
       },
       {
@@ -1408,32 +1408,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1027,
+        "bytes": 1758,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 118009,
+        "bytes": 119526,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 39504,
+        "bytes": 40245,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 39504,
+        "bytes": 40245,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 891,
+        "bytes": 1632,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 32756,
+        "bytes": 33497,
         "purpose": "Repository README"
       },
       {
@@ -1448,5 +1448,11 @@
       }
     ]
   },
-  "destinations": {}
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/",
+      "repo": "AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg"
+    }
+  }
 }
