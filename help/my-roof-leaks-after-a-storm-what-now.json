@@ -1,0 +1,62 @@
+{
+  "name": "My Roof Leaks After a Storm—What Now?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "It's a really stressful situation when a storm hits and you find your roof leaking. Your first thought might be to panic, but try to stay calm. The immediate objective is to prevent more water from getting in and causing further damage. If it's safe to do so, you can try to place buckets or tarps to catch the water and protect your belongings. Don't try to go onto a damaged roof yourself, especially if there's still wind, rain, or if it's dark. This is often when accidents happen.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Next, you'll want to get in touch with a local restoration company as soon as possible. We're talking 24/7 emergency services because the longer water sits, the higher the risk of secondary issues like mold growth. When they arrive, a good team will assess the damage, ensure the area is structurally sound, and take immediate steps like tarping your roof or boarding up broken windows. They’ll also take plenty of photos and videos for your insurance claim.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Documentation is super important here for your insurer. You don’t want to throw anything away until they’ve had a chance to see it. A professional team can also help you understand what your homeowners or commercial property insurance might cover for roof damage and flooding. Remember, dealing with significant roof damage and water intrusion really highlights why professional help becomes important. We’ve seen firsthand how delaying mitigation can turn a manageable problem into a much bigger, more expensive mess. They have the equipment and expertise to handle structural repairs, water extraction, and proper drying that your household fans just can’t match.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "Ready to get your home back to normal? Reach out to us for a consultation, and let’s get things sorted quickly.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "and Woodland Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "My Roof Leaks After a Storm—What Now?"
+}

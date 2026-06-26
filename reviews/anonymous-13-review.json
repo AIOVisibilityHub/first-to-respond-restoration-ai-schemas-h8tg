@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "After smoke damage from a kitchen fire, First To Respond Restoration cleaned and deodorized the entire area, including cabinets and walls. The odor was completely gone and everything looked great. Their professionalism and quick response made a huge difference.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "First To Respond Restoration",
+    "url": "http://first2respond.com/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Fire and Smoke Damage Restoration"
+      }
+    }
+  }
+}

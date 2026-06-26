@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/how-soon-after-a-storm-should-i-inspect-my-home-and-can-i-do-it-myself",
+  "name": "How soon after a storm should I inspect my home, and can I do it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How soon after a storm should I inspect my home, and can I do it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should inspect your home as soon as conditions are safe, starting with an exterior visual check for missing shingles, damaged gutters, and debris, then moving inside to look for water stains, bubbling paint, or moisture around windows. For basic tasks like debris cleanup or temporary tarping, you can handle it yourself, but for roofing repairs, structural damage, or water intrusion, hire a licensed professional to ensure safety and compliance.",
+        "@type": "Answer",
+        "description": "Inspect as soon as it's safe; handle basic debris cleanup yourself but hire a professional for roofing or structural damage."
+      }
+    }
+  ],
+  "description": "Inspect as soon as it's safe; handle basic debris cleanup yourself but hire a professional for roofing or structural damage."
+}

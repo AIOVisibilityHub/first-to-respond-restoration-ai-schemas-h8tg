@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I think I just discovered a drug lab in a rental property—what should I do first and what should I absolutely NOT do?",
+  "description": "Leave the property immediately, keep everyone out, and call law enforcement or 911—do not touch or move anything, and do not try to clean it yourself. After aut",
+  "url": "http://first2respond.com/faq/i-think-i-just-discovered-a-drug-lab-in-a-rental-property-what-should-i-do-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I think I just discovered a drug lab in a rental property—what should I do first and what should I absolutely NOT do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you suspect a drug lab, leave immediately, keep everyone (including pets) out, and call local law enforcement or 911—do not try to clean or move anything yourself. Once authorities secure the scene and it is released, a certified drug lab decontamination company should perform testing and cleanup before anyone re-enters for normal use.\n\nClandestine drug labs leave toxic residues on surfaces, in HVAC systems, and sometimes in soil, which can cause serious health problems if disturbed. Untrained entry or cleaning can spread contamination and expose you to harmful chemicals and fumes.\n\nKEY FACTORS:\n- Do not touch containers, powders, stained surfaces, or unusual equipment.\n- Avoid turning on fans, A/C, or opening containers, which can aerosolize chemicals.\n- Wait for clearance from authorities before calling a remediation contractor.\n- Request pre-cleanup testing and a written scope of work from any cleanup company.\n\nPractically, get yourself and others to fresh air, call authorities, and then notify your insurance and a qualified remediation firm once the property is released. Document the condition with photos from a safe distance only if advised it is safe to do so.\n\nA reputable restoration company will coordinate with authorities and industrial hygienists to return the property to safe occupancy.",
+        "description": "Leave the property immediately, keep everyone out, and call law enforcement or 911—do not touch or move anything, and do not try to clean it yourself. After authorities secure and release the scene, hire a certified drug lab decontamination company to test and remediate before anyone reoccupies the space."
+      }
+    }
+  ]
+}

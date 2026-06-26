@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-dangerous-to-my-health-and-what-symptoms-can-it-cause",
+  "name": "Is mold dangerous to my health and what symptoms can it cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is mold dangerous to my health and what symptoms can it cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, mold exposure can cause allergic reactions, respiratory problems, skin irritation, and other health issues. The risk increases with extensive mold growth or if mold is in hard-to-reach places like HVAC systems.",
+        "@type": "Answer",
+        "description": "Yes, mold can cause allergies, respiratory issues, and skin problems; risk is higher with extensive growth."
+      }
+    }
+  ],
+  "description": "Yes, mold can cause allergies, respiratory issues, and skin problems; risk is higher with extensive growth."
+}

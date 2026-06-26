@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/is-sewage-damage-dangerous-to-my-health-in-san-fernando-valley",
+  "name": "Is sewage damage dangerous to my health in San Fernando Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is sewage damage dangerous to my health in San Fernando Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER: Yes, sewage contains E. coli, salmonella, and hepatitis A, which cause severe illness if you touch or inhale it. 2. CONTEXT: These pathogens spread through skin contact, contaminated air, and porous materials like carpets. 3. KEY FACTORS: - Respiratory issues: Inhaling airborne bacteria. - Skin infections: Direct contact with waste. - Mold growth: If not dried within 24 hours. - Long-term health risks: Chronic illness from untreated exposure. 4. PRACTICAL GUIDANCE: Never clean sewage without gloves, boots, and masks; call a pro immediately. 5. SOFT POSITIONING: Ignoring health risks can lead to hospitalization.",
+        "@type": "Answer",
+        "description": "Yes, sewage contains deadly bacteria like E. coli and hepatitis A that cause severe illness if touched or inhaled."
+      }
+    }
+  ],
+  "description": "Yes, sewage contains deadly bacteria like E. coli and hepatitis A that cause severe illness if touched or inhaled."
+}

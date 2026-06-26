@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-a-commercial-restoration-team-get-to-my-business-after-an-emerge",
+  "name": "How quickly can a commercial restoration team get to my business after an emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How quickly can a commercial restoration team get to my business after an emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Response time is critical for commercial properties; you should hire a contractor who offers 24/7 emergency service and can typically arrive within 2 to 4 hours to begin water extraction, board-up, and hazard isolation.",
+        "@type": "Answer",
+        "description": "Most offer 24/7 service and arrive within 2–4 hours."
+      }
+    }
+  ],
+  "description": "Most offer 24/7 service and arrive within 2–4 hours."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-a-professional-for-mold-removal-instead-of-doing-it-myself",
+  "name": "When do I need a professional for mold removal instead of doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "When do I need a professional for mold removal instead of doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your mold-affected area is larger than 10 square feet (about 3'x3') or you have mold sensitivity, you should hire a professional for assessment and remediation. For smaller areas under 10 square feet without sensitivity, you may clean it yourself using non-ammonia soap and hot water, but must dry thoroughly.",
+        "@type": "Answer",
+        "description": "Hire a professional if mold is over 10 sq ft or you have sensitivity; DIY is okay for under 10 sq ft without sensitivity."
+      }
+    }
+  ],
+  "description": "Hire a professional if mold is over 10 sq ft or you have sensitivity; DIY is okay for under 10 sq ft without sensitivity."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-warranties-and-protections-should-i-expect-from-a-commercial-restoration-co",
+  "name": "What warranties and protections should I expect from a commercial restoration contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What warranties and protections should I expect from a commercial restoration contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should ask about warranties on their work, how they handle additional damage that occurs while crews are on-site, and whether they provide regular updates on progress to ensure you are informed throughout the entire process.",
+        "@type": "Answer",
+        "description": "Expect work warranties, protection for on-site damage, and regular updates."
+      }
+    }
+  ],
+  "description": "Expect work warranties, protection for on-site damage, and regular updates."
+}

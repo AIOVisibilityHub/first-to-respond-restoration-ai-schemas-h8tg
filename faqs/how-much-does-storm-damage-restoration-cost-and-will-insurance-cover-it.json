@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-storm-damage-restoration-cost-and-will-insurance-cover-it",
+  "name": "How much does storm damage restoration cost, and will insurance cover it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How much does storm damage restoration cost, and will insurance cover it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm damage restoration costs vary significantly based on the extent of damage, but emergency measures like tarping, window board-ups, and water extraction are typically reimbursable under homeowners' insurance policies. Document all temporary repairs with photos and receipts, and get professional estimates from licensed contractors since most carriers require these for claim purposes.",
+        "@type": "Answer",
+        "description": "Costs vary by damage extent; emergency repairs like tarping and water extraction are usually reimbursable with proper documentation."
+      }
+    }
+  ],
+  "description": "Costs vary by damage extent; emergency repairs like tarping and water extraction are usually reimbursable with proper documentation."
+}

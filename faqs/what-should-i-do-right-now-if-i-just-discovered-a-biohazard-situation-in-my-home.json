@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-right-now-if-i-just-discovered-a-biohazard-situation-in-my-home",
+  "name": "What should I do right now if I just discovered a biohazard situation in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do right now if I just discovered a biohazard situation in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most critical first step is to avoid disturbing the area and limit access to prevent spreading contaminants. Immediately contact a professional biohazard cleanup company to receive guidance on next steps and ensure safe remediation.",
+        "@type": "Answer",
+        "description": "Avoid disturbing the area, limit access, and immediately contact a professional biohazard cleanup company for guidance."
+      }
+    }
+  ],
+  "description": "Avoid disturbing the area, limit access, and immediately contact a professional biohazard cleanup company for guidance."
+}

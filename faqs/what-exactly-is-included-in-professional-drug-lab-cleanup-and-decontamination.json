@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is included in professional drug lab cleanup and decontamination?",
+  "description": "Professional drug lab decontamination includes pre-cleanup testing, containment, removal of contaminated materials, deep cleaning and neutralization of residues",
+  "url": "http://first2respond.com/faq/what-exactly-is-included-in-professional-drug-lab-cleanup-and-decontamination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is included in professional drug lab cleanup and decontamination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drug lab decontamination typically includes testing, containment, removal of contaminated materials, deep cleaning of all surfaces, HVAC cleaning, and post-cleanup clearance testing. The goal is to bring contamination levels below health-based standards and restore the property to safe, habitable condition.\n\nThe process usually starts with an assessment to map out contaminated areas and items that must be cleaned or discarded. Then technicians use specialized cleaners, HEPA equipment, and disposal methods tailored to the chemicals involved.\n\nKEY FACTORS:\n- Pre-cleanup testing to determine where and how extensive contamination is.\n- Removal of porous items like carpets, certain furniture, and sometimes drywall.\n- Thorough cleaning and decontamination of remaining surfaces and HVAC systems.\n- Final clearance testing and documentation for re-occupancy and insurance.\n\nAsk your contractor for a detailed written plan showing each step, from testing to final verification, so you know what to expect. Keep copies of reports and clearance documents for future buyers, tenants, and insurers.\n\nAn experienced restoration company will walk you through each stage and keep communication clear and documented.",
+        "description": "Professional drug lab decontamination includes pre-cleanup testing, containment, removal of contaminated materials, deep cleaning and neutralization of residues on all surfaces and HVAC, and post-cleanup clearance testing with documentation to confirm the property is safe to occupy again."
+      }
+    }
+  ]
+}

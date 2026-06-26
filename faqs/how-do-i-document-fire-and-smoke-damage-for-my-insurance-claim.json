@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-document-fire-and-smoke-damage-for-my-insurance-claim",
+  "name": "How do I document fire and smoke damage for my insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do I document fire and smoke damage for my insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You must document damage with photographs and take an inventory of everything before throwing anything away to support your insurance claim. Smoke rises, so inspect your attic and remove insulation, which acts like a smoke sponge, then HEPA-vacuum to remove particles. Regular vacuums blow smoke particles out the exhaust, so use HEPA vacuums instead.",
+        "@type": "Answer",
+        "description": "Document damage with photographs, take an inventory of everything, and remove attic insulation (a smoke sponge) before HEPA-vacuuming to remove particles."
+      }
+    }
+  ],
+  "description": "Document damage with photographs, take an inventory of everything, and remove attic insulation (a smoke sponge) before HEPA-vacuuming to remove particles."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/does-the-contractor-have-experience-with-my-specific-type-of-commercial-damage",
+  "name": "Does the contractor have experience with my specific type of commercial damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Does the contractor have experience with my specific type of commercial damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should ask if the contractor has specific experience with your type of damage (e.g., fire, mold, water) and how many similar commercial projects they have completed, as some specialize in fire while others focus on mold or structural repairs.",
+        "@type": "Answer",
+        "description": "Ask about their experience with your specific damage type."
+      }
+    }
+  ],
+  "description": "Ask about their experience with your specific damage type."
+}

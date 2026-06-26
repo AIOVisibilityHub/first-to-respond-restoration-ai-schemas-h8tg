@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-usually-take-to-completely-clean-up-a-biohazard-scene",
+  "name": "How long does it usually take to completely clean up a biohazard scene?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How long does it usually take to completely clean up a biohazard scene?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleanup duration varies from a few hours for minor incidents to several days for extensive contamination requiring thorough remediation. Factors include the size of the affected area, type of biohazardous material, and extent of remediation needed.",
+        "@type": "Answer",
+        "description": "Cleanup can take a few hours for minor incidents or several days for extensive contamination, depending on size and severity."
+      }
+    }
+  ],
+  "description": "Cleanup can take a few hours for minor incidents or several days for extensive contamination, depending on size and severity."
+}

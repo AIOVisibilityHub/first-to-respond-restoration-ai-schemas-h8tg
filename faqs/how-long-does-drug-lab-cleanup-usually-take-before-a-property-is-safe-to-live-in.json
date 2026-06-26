@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does drug lab cleanup usually take before a property is safe to live in again?",
+  "description": "Drug lab cleanup can take anywhere from a few days to several weeks, depending on contamination levels, property size, and how much material must be removed and",
+  "url": "http://first2respond.com/faq/how-long-does-drug-lab-cleanup-usually-take-before-a-property-is-safe-to-live-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does drug lab cleanup usually take before a property is safe to live in again?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The time to clean up a drug lab ranges from a couple of days for minor contamination to several weeks for heavily contaminated or complex properties. The actual timeline depends on test results, the size and layout of the property, and how much material must be removed and replaced.\n\nCleanup cannot be rushed because each step—assessment, removal, cleaning, drying, and clearance testing—takes time and must be sequenced. Delays can also come from lab turnaround times for tests and waiting on approvals or insurance.\n\nKEY FACTORS:\n- Size and type of property (small apartment vs multi-unit building).\n- Level and spread of contamination, including HVAC and structural impacts.\n- Need for demolition and reconstruction of walls, flooring, or cabinetry.\n- Scheduling and turnaround for initial and clearance lab testing.\n\nWhen you get estimates, ask for a projected schedule with best-case and worst-case durations. Plan for temporary housing or alternative arrangements, because re-occupancy should only happen after final clearance testing.\n\nA seasoned restoration provider will give you realistic timing and keep you updated instead of overpromising a one-day fix.",
+        "description": "Drug lab cleanup can take anywhere from a few days to several weeks, depending on contamination levels, property size, and how much material must be removed and tested. You should only move back in after post-cleanup clearance testing confirms the space is safe."
+      }
+    }
+  ]
+}

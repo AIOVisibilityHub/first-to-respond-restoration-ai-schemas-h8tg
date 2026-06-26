@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-documentation-do-i-need-for-my-storm-damage-insurance-claim",
+  "name": "What documentation do I need for my storm damage insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What documentation do I need for my storm damage insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thorough documentation is key to a smooth insurance process: take clear, well-lit photos and videos of all damage including close-ups and wide shots, create an inventory of damaged items with descriptions and estimated values, and keep receipts for emergency repairs or temporary housing. Most carriers require professional estimates from licensed contractors, so avoid relying on handyman assessments for claim purposes.",
+        "@type": "Answer",
+        "description": "Photos/videos of all damage, inventory of damaged items with values, and receipts for emergency repairs; get licensed contractor estimates."
+      }
+    }
+  ],
+  "description": "Photos/videos of all damage, inventory of damaged items with values, and receipts for emergency repairs; get licensed contractor estimates."
+}

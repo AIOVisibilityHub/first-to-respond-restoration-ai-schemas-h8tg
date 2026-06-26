@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-fire-and-smoke-damage-restoration-take",
+  "name": "How long does fire and smoke damage restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How long does fire and smoke damage restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "How long restoration takes depends on the fire's cause, heat level, duration, and extent of damage, but you should expect a thorough inspection and cleaning plan before work begins. Ask the company directly how long it should take and if they handle reconstruction. Post-cleaning testing confirms successful remediation, which is part of the timeline.",
+        "@type": "Answer",
+        "description": "The timeline depends on the fire's cause, heat, duration, and damage extent; ask the company directly for an estimate and if they handle reconstruction."
+      }
+    }
+  ],
+  "description": "The timeline depends on the fire's cause, heat, duration, and damage extent; ask the company directly for an estimate and if they handle reconstruction."
+}

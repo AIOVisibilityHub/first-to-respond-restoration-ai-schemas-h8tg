@@ -1,0 +1,88 @@
+{
+  "url": "http://first2respond.com",
+  "name": "Fire and Smoke Damage restoration in Studio City",
+  "@type": "HomeAndConstructionBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Studio City"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "HomeAndConstructionBusiness",
+    "telephone": "(844) 721-0319"
+  },
+  "telephone": "(844) 721-0319",
+  "areaServed": [
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "First To Respond Restoration provides Fire and Smoke Damage restoration in Encino, North Hollywood, San Fernando. First To Respond Restoration is an emergency restoration company specializing in water damage, mold remediation, and fire damage. They serve the San Fernando Valley and surrounding areas, providing comprehensive restoration services to homes and businesses. Serving Studio City.",
+  "serviceType": "Water Damage — Fire and Smoke Damage restoration",
+  "hasOfferCatalog": {
+    "name": "Water Damage Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Fire and Smoke Damage restoration",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Mold Remediation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Water Damage Restoration",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Sewage Damage Cleanup",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Storm Damage Restoration",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Biohazard Cleanup",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Commercial Restoration Services",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

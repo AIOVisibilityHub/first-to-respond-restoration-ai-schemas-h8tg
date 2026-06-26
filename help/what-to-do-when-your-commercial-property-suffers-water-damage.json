@@ -1,0 +1,56 @@
+{
+  "name": "What to Do When Your Commercial Property Suffers Water Damage",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Finding water damage in your commercial property can be pretty shocking, right? Whether it’s a burst pipe, a leaky roof, or even a flood, fast action is super important to protect your business. Delays of even a day or two can seriously increase the chances of mold growing and make the structural damage much worse, leading to longer closures and more headaches. Getting a professional team on-site as quickly as possible is key. They can immediately stabilize the situation, like shutting off the water or containing the spread, which prevents further damage.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Once the immediate crisis is handled, a good restoration company will perform a thorough assessment, documenting everything with photos and a detailed scope of work. This is crucial for insurance claims, so don’t skip this step! They’ll then get to work mitigating the damage, which means things like water extraction, structural drying, and removing any contaminated materials. Sometimes, your business assets, like furniture and equipment, need to be carefully packed out, cleaned, and stored to keep them safe. Finally, trained teams will handle repairs and reconstruction to get your property back to normal.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Don’t try to tackle major water damage yourself with your internal maintenance crew. Commercial water damage often hides behind walls or under floors, and if not dried properly, it can lead to recurring issues. A professional commercial restoration company, like First To Respond Restoration, has the specialized equipment and expertise to ensure the job is done right, following industry standards like IICRC. They’ll also work around your business hours to minimize disruption. If your business has been hit by water damage, don't wait — call a professional for help right away to get things under control and your business back on track.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "and Woodland Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Do When Your Commercial Property Suffers Water Damage"
+}

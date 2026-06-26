@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowners-insurance-cover-sewage-cleanup-in-north-hollywood",
+  "name": "Will my homeowners insurance cover sewage cleanup in North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will my homeowners insurance cover sewage cleanup in North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER: Yes, sewage damage is typically covered by homeowners insurance, but you must document it thoroughly and call a pro quickly. 2. CONTEXT: Insurance companies require proof of sudden damage and professional remediation to prevent mold claims. 3. KEY FACTORS: - Take photos and notes immediately for your claim. - Most policies cover \"sudden and accidental\" backups. - Delays can void coverage due to mold growth. 4. PRACTICAL GUIDANCE: Contact your insurer before hiring, but get a pro on-site to stop the source and remove waste. 5. SOFT POSITIONING: Without proper documentation, your claim could be denied.",
+        "@type": "Answer",
+        "description": "Yes, usually for sudden backups, but you must document damage immediately and hire a pro to prevent mold."
+      }
+    }
+  ],
+  "description": "Yes, usually for sudden backups, but you must document damage immediately and hire a pro to prevent mold."
+}

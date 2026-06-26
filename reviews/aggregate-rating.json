@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "First To Respond Restoration",
+  "url": "http://first2respond.com/",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 5,
+    "bestRating": 5,
+    "reviewCount": 18
+  }
+}

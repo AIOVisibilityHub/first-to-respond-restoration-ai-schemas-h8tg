@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-exactly-is-mold-remediation-and-how-does-it-work",
+  "name": "What exactly is mold remediation and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What exactly is mold remediation and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold remediation is the professional process of removing mold growth and addressing the underlying moisture source to prevent it from returning. It involves identifying the water leak, containing the affected area, safely removing contaminated materials, and disinfecting surfaces.",
+        "@type": "Answer",
+        "description": "Mold remediation is the professional removal of mold and fixing the moisture source to prevent return."
+      }
+    }
+  ],
+  "description": "Mold remediation is the professional removal of mold and fixing the moisture source to prevent return."
+}

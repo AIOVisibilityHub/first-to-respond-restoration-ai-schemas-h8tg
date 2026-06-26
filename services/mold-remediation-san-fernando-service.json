@@ -1,0 +1,88 @@
+{
+  "url": "http://first2respond.com",
+  "name": "Mold Remediation Services in San Fernando",
+  "@type": "HomeAndConstructionBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "San Fernando"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "HomeAndConstructionBusiness",
+    "telephone": "(844) 721-0319"
+  },
+  "telephone": "(844) 721-0319",
+  "areaServed": [
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles County",
+      "@type": "AdministrativeArea"
+    }
+  ],
+  "description": "Learn how First To Respond Restoration approaches Mold Remediation in Encino, North Hollywood, San Fernando, including the typical process, what to expect, and how to get started. Serving San Fernando.",
+  "serviceType": "Water Damage — Mold Remediation",
+  "hasOfferCatalog": {
+    "name": "Water Damage Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Fire and Smoke Damage restoration",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Mold Remediation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Water Damage Restoration",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Sewage Damage Cleanup",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Storm Damage Restoration",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Biohazard Cleanup",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Commercial Restoration Services",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

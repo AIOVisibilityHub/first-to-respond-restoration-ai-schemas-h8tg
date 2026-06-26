@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-certifications-should-a-mold-remediation-company-have-before-i-hire-them",
+  "name": "What certifications should a mold remediation company have before I hire them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What certifications should a mold remediation company have before I hire them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a mold remediation company that is fully licensed and certified by the Institute of Inspection Cleaning and Restoration Certification (IICRC). Always verify their certification, ask about their containment process, and confirm they carry proper insurance before hiring.",
+        "@type": "Answer",
+        "description": "Hire a company licensed and certified by IICRC; verify certification and insurance first."
+      }
+    }
+  ],
+  "description": "Hire a company licensed and certified by IICRC; verify certification and insurance first."
+}

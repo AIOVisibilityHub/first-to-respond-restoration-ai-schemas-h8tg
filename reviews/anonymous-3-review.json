@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "First To Respond Restoration arrived quickly after a major water leak, set up drying equipment, and checked on the property every day until everything was completely dry. They were courteous, efficient, and made a very stressful situation much easier to handle.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "First To Respond Restoration",
+    "url": "http://first2respond.com/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Water Damage Restoration"
+      }
+    }
+  }
+}

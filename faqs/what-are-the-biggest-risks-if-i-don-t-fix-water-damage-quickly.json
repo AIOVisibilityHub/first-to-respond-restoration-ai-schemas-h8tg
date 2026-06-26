@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-biggest-risks-if-i-don-t-fix-water-damage-quickly",
+  "name": "What are the biggest risks if I don't fix water damage quickly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the biggest risks if I don't fix water damage quickly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold can grow within 24–48 hours, causing respiratory issues and allergic reactions. Structural damage includes weakened floors, walls, and ceilings that may collapse. Electrical hazards from water-contacted wiring can cause fires or shocks. Contaminated water spreads bacteria and pathogens. Long-term moisture leads to rot and permanent material loss. These risks make professional intervention essential. Ignoring water damage is dangerous.",
+        "@type": "Answer",
+        "description": "Risks include mold growth within 48 hours, structural collapse, electrical fires, bacterial infection from contaminated water, and permanent rot if not fixed immediately."
+      }
+    }
+  ],
+  "description": "Risks include mold growth within 48 hours, structural collapse, electrical fires, bacterial infection from contaminated water, and permanent rot if not fixed im"
+}

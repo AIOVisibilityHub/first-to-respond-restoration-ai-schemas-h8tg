@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do professional cleanup companies guarantee that odors, contamination, or hoarding problems won’t come back after they’re done?",
+  "description": "Cleanup companies typically provide documentation and may offer limited warranties on their work, but they cannot guarantee that odors, contamination, or hoardi",
+  "url": "http://first2respond.com/faq/do-professional-cleanup-companies-guarantee-that-odors-contamination-or-hoarding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do professional cleanup companies guarantee that odors, contamination, or hoarding problems won’t come back after they’re done?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most professional cleanups—drug lab, hoarding, odor, rodent bio—come with some form of documentation and, in some cases, limited warranties, but they cannot guarantee that problems will never return. For example, odors can come back if new leaks or infestations occur, and hoarding behaviors can resume.\n\nWhat you should expect is clear reporting of what was done, test results when applicable, and realistic descriptions of what is and is not covered. Overly broad “lifetime” guarantees are often not credible.\n\nKEY FACTORS:\n- Written scope of work and completion report.\n- For drug labs, independent clearance testing documentation.\n- Defined warranty period and exactly what it covers (e.g., workmanship).\n- Clear explanation of conditions that could void or limit guarantees.\n\nAsk for sample reports and warranty terms before signing anything, and avoid companies that promise impossible results (like “permanent odor-free no matter what”).\n\nA professional restoration company will offer solid workmanship guarantees while being honest about future risks.",
+        "description": "Cleanup companies typically provide documentation and may offer limited warranties on their work, but they cannot guarantee that odors, contamination, or hoarding behaviors will never return. Expect clear reports, defined warranty terms, and realistic explanations of what is and isn’t covered."
+      }
+    }
+  ]
+}

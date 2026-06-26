@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/do-fire-restoration-companies-work-with-my-insurance-and-how-do-they-document-da",
+  "name": "Do fire restoration companies work with my insurance and how do they document damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Do fire restoration companies work with my insurance and how do they document damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, restoration companies work with insurance and document everything for your claim by thoroughly inspecting, measuring, and assessing the interior and exterior condition of your home, including attics and duct systems. They prepare a cleaning plan addressing all findings and conduct post-cleaning testing to confirm successful remediation. Ask how they document damage, how long the process takes, and if they handle reconstruction.",
+        "@type": "Answer",
+        "description": "Yes, they work with insurance and document damage by thoroughly inspecting and assessing your entire home, including attics and ducts, then preparing a cleaning plan and testing results."
+      }
+    }
+  ],
+  "description": "Yes, they work with insurance and document damage by thoroughly inspecting and assessing your entire home, including attics and ducts, then preparing a cleaning"
+}

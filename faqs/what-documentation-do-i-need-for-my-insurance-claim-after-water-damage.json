@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-documentation-do-i-need-for-my-insurance-claim-after-water-damage",
+  "name": "What documentation do I need for my insurance claim after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What documentation do I need for my insurance claim after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should document damage with photos, list damaged belongings, and keep receipts for cleanup or temporary repairs. Contact your insurance company to start the claim; they may send an adjuster or recommend contractors. Evidence-based reports from professionals help warrant equipment charges. Take clear photos of all affected areas and items. Documentation is essential for successful insurance claims. Don't forget to track all expenses.",
+        "@type": "Answer",
+        "description": "Take photos of damage, document all damaged belongings, keep receipts for cleanup/temporary repairs, and contact insurance immediately to start the claim process."
+      }
+    }
+  ],
+  "description": "Take photos of damage, document all damaged belongings, keep receipts for cleanup/temporary repairs, and contact insurance immediately to start the claim proces"
+}

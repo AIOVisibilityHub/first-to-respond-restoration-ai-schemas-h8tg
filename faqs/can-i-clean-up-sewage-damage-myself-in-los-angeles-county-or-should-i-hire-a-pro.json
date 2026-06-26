@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-sewage-damage-myself-in-los-angeles-county-or-should-i-hire-a-pro",
+  "name": "Can I clean up sewage damage myself in Los Angeles County, or should I hire a pro?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I clean up sewage damage myself in Los Angeles County, or should I hire a pro?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER: DIY cleanup is unsafe and often fails because household cleaners can't kill sewage pathogens, leading to mold and illness. 2. CONTEXT: Pros use industrial-grade disinfectants and extraction machines that homeowners don't have. 3. KEY FACTORS: - Household sprays are ineffective against sewage bacteria. - Wet vacuums can't remove all waste from carpets. - Mold grows if drying isn't perfect. - Insurance may deny DIY claims. 4. PRACTICAL GUIDANCE: Only hire a certified pro; DIY risks your health and home value. 5. SOFT POSITIONING: Saving money now could cost you thousands in mold repairs later.",
+        "@type": "Answer",
+        "description": "Hire a pro; DIY is unsafe, ineffective against pathogens, and often leads to mold and insurance denial."
+      }
+    }
+  ],
+  "description": "Hire a pro; DIY is unsafe, ineffective against pathogens, and often leads to mold and insurance denial."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-right-after-a-storm-hits-my-home-in-los-angeles-county",
+  "name": "What should I do right after a storm hits my home in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do right after a storm hits my home in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately check for structural hazards, gas leaks, and electrical dangers before entering your home, then document all damage with photos and videos before making temporary repairs. Contact your insurance company within 24-48 hours to expedite your claim and hire a licensed, local restoration contractor to avoid \"storm chasers.\" Expect a multi-stage process starting with emergency mitigation (24-72 hours) followed by full repairs that can take weeks to months.",
+        "@type": "Answer",
+        "description": "Check for hazards, document damage with photos, contact insurance within 24-48 hours, and hire a licensed local contractor."
+      }
+    }
+  ],
+  "description": "Check for hazards, document damage with photos, contact insurance within 24-48 hours, and hire a licensed local contractor."
+}

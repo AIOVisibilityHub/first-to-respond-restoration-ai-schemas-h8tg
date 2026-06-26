@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-address-smoke-damage-inside-walls-insulation-and-hvac-systems",
+  "name": "How do you address smoke damage inside walls, insulation, and HVAC systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How do you address smoke damage inside walls, insulation, and HVAC systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke damage inside walls, insulation, and HVAC systems is addressed by thoroughly inspecting cavities, removing insulation that acts as a smoke sponge, and cleaning or replacing the HVAC system to restore air quality. Regular vacuums blow smoke particles out, so use HEPA vacuums for dry removal. Post-cleaning testing confirms successful remediation of hidden damage.",
+        "@type": "Answer",
+        "description": "Address hidden smoke damage by inspecting cavities, removing insulation (a smoke sponge), and cleaning or replacing the HVAC system; use HEPA vacuums for dry removal."
+      }
+    }
+  ],
+  "description": "Address hidden smoke damage by inspecting cavities, removing insulation (a smoke sponge), and cleaning or replacing the HVAC system; use HEPA vacuums for dry re"
+}

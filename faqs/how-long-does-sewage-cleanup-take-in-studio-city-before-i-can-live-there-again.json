@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-sewage-cleanup-take-in-studio-city-before-i-can-live-there-again",
+  "name": "How long does sewage cleanup take in Studio City before I can live there again?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "How long does sewage cleanup take in Studio City before I can live there again?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER: Cleanup takes 24–48 hours for removal and drying, but full restoration can take days to weeks depending on damage. 2. CONTEXT: The longer sewage sits, the deeper it penetrates walls and floors, extending the timeline. 3. KEY FACTORS: - Water removal: 1–4 hours. - Drying/dehumidifying: 24–48 hours. - Repairs (drywall, flooring): Days to weeks. - Mold prevention is critical if delayed. 4. PRACTICAL GUIDANCE: Act within the first hour to minimize the timeline and cost. 5. SOFT POSITIONING: Waiting even one day can double the restoration time.",
+        "@type": "Answer",
+        "description": "Removal and drying take 24–48 hours; full repairs take days to weeks depending on damage severity."
+      }
+    }
+  ],
+  "description": "Removal and drying take 24–48 hours; full repairs take days to weeks depending on damage severity."
+}

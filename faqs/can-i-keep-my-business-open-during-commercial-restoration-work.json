@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/can-i-keep-my-business-open-during-commercial-restoration-work",
+  "name": "Can I keep my business open during commercial restoration work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Can I keep my business open during commercial restoration work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can keep your business open depends on the damage extent, utility status (power, water, HVAC), and if the contractor can isolate the work area; many offer pack-out services to preserve contents off-site while structural work continues.",
+        "@type": "Answer",
+        "description": "It depends on damage extent and utility status; pack-outs may help."
+      }
+    }
+  ],
+  "description": "It depends on damage extent and utility status; pack-outs may help."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-cleaning-scope-and-cost-estimates-for-smoke-damage",
+  "name": "What are the cleaning scope and cost estimates for smoke damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the cleaning scope and cost estimates for smoke damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning scope and cost estimates vary based on the extent of smoke testing and cleaning needed, but reputable companies wipe down all salvageable items and dispose of what cannot be cleaned. Food packaged in paper, cardboard, or plastic is generally unsafe and should be thrown away. Take an inventory and photos to document your claim before discarding anything. Restoration can be more cost-effective than total replacement.",
+        "@type": "Answer",
+        "description": "Costs vary by damage extent; reputable companies clean salvageable items and dispose of unsafe food, while taking inventory and photos for your claim."
+      }
+    }
+  ],
+  "description": "Costs vary by damage extent; reputable companies clean salvageable items and dispose of unsafe food, while taking inventory and photos for your claim."
+}

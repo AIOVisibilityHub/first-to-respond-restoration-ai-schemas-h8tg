@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it ever safe to clean up a former drug lab myself, or do I really need to hire a professional?",
+  "description": "It is generally not safe to clean up a former drug lab yourself because the residues and chemicals can be highly toxic and need specialized testing, PPE, and di",
+  "url": "http://first2respond.com/faq/is-it-ever-safe-to-clean-up-a-former-drug-lab-myself-or-do-i-really-need-to-hire",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it ever safe to clean up a former drug lab myself, or do I really need to hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drug lab cleanup is not a normal cleaning job; the chemicals, residues, and fumes can be highly toxic and sometimes explosive, so professional remediation is strongly recommended. Most health and environmental agencies advise against DIY drug lab cleanup because improper handling can make contamination worse and endanger your health.\n\nEven inactive or “old” labs can leave meth, fentanyl, and solvent residues in walls, ductwork, and porous materials for years. Without specialized PPE, equipment, and protocols, you cannot safely remove or verify the elimination of these contaminants.\n\nKEY FACTORS:\n- Residues may be invisible but still harmful when touched or inhaled.\n- Specialized testing is needed to measure contamination levels before and after cleanup.\n- Professional crews use chemical neutralizers, HEPA tools, and hazardous waste disposal.\n- Some states or insurers require certified contractors for drug lab cleanup.\n\nIf you suspect a former lab, have an industrial hygienist or certified cleanup company perform testing and assessment before deciding on any DIY work. When in doubt, err on the side of professional remediation to protect your health and future liability.\n\nA qualified restoration firm will follow current health and environmental guidelines rather than treating it like a simple deep clean.",
+        "description": "It is generally not safe to clean up a former drug lab yourself because the residues and chemicals can be highly toxic and need specialized testing, PPE, and disposal. Health agencies and insurers typically recommend or require certified professional decontamination instead of DIY cleaning."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-water-damage-restoration-services",
+  "name": "What is the typical cost for water damage restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for water damage restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typical costs range from $500 to $3,000, with isolated room damage averaging $500–$1,000. Prices vary based on water volume, contamination level, and required repairs. Contaminated water (sewage) costs more due to extra sanitation steps. Most jobs fall in the $1,000–$3,000 range. Always get a detailed estimate before starting work. Budget-friendly options exist for minor leaks.",
+        "@type": "Answer",
+        "description": "Costs range from $500 to $3,000, with minor room damage averaging $500–$1,000 and larger jobs $1,000–$3,000 depending on contamination and repairs."
+      }
+    }
+  ],
+  "description": "Costs range from $500 to $3,000, with minor room damage averaging $500–$1,000 and larger jobs $1,000–$3,000 depending on contamination and repairs."
+}

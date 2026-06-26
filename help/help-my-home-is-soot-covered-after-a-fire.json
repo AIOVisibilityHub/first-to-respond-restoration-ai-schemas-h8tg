@@ -1,0 +1,46 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Help! My Home is Soot-Covered After a Fire!",
+  "publisher": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "and Woodland Hills",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering your home covered in soot after a fire is a distressing situation, and it's more than just a visible mess. Soot, often a byproduct of fire, isn't just dirty; it's corrosive and can cause permanent damage to surfaces and belongings if not handled correctly and quickly. Many homeowners make the mistake of trying to clean soot themselves with regular household cleaners, which can often spread the soot and make the problem worse, etching it deeper into materials. The key to successful soot removal is specialized cleaning agents and techniques that effectively lift and remove the particles without causing further damage. This typically involves a multi-stage process of HEPA vacuuming, specialized cleaning, and often odor treatment. Professional restoration companies, like First To Respond Restoration, have the right tools and expertise to tackle soot safely and effectively, even in hard-to-reach places like inside your ductwork. They can also help with 'content pack-out,' where your salvageable belongings are carefully removed, cleaned, restored, and stored while your home is being repaired. If your property in places like North Hollywood or Tarzana is facing soot damage, getting immediate professional help is crucial to prevent long-term damage and health hazards.",
+  "datePublished": "2026-06-26"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need lab testing before and after drug lab cleanup, or can we just do a deep clean and call it good?",
+  "description": "Yes, you should have lab testing before and after drug lab cleanup to map contamination, guide the work, and verify the property meets safety standards. Skippin",
+  "url": "http://first2respond.com/faq/do-i-really-need-lab-testing-before-and-after-drug-lab-cleanup-or-can-we-just-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need lab testing before and after drug lab cleanup, or can we just do a deep clean and call it good?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drug lab cleanup usually requires lab testing before and after work to document contamination levels and prove that the property is safe again. These tests are often performed by an independent lab or industrial hygienist and compared to health-based standards.\n\nWithout testing, you are relying on guesswork about where residues are and whether cleanup was effective. Proper documentation also helps with insurance, future sales, and tenant concerns.\n\nKEY FACTORS:\n- Pre-cleanup sampling to map contamination and guide the scope of work.\n- Post-cleanup clearance sampling in representative rooms and HVAC systems.\n- Use of accredited labs or qualified industrial hygienists.\n- Written reports with measured levels and pass/fail criteria.\n\nWhen hiring a contractor, ask who performs the testing and whether it is independent of the cleanup company. Keep all test reports with your property records in case questions arise later.\n\nA quality-focused remediation firm will build third-party testing into the process rather than skipping it to save time.",
+        "description": "Yes, you should have lab testing before and after drug lab cleanup to map contamination, guide the work, and verify the property meets safety standards. Skipping testing leaves you guessing about where residues remain and provides no documentation for insurers or future occupants."
+      }
+    }
+  ]
+}

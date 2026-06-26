@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it actually safe to go back into a property after a drug lab has been discovered there?",
+  "description": "Only enter after authorities release the scene and a qualified professional says limited access is safe, often with protective gear and time limits. Full-time o",
+  "url": "http://first2respond.com/faq/when-is-it-actually-safe-to-go-back-into-a-property-after-a-drug-lab-has-been-di",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it actually safe to go back into a property after a drug lab has been discovered there?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can generally enter a property after a drug lab only once authorities have released it and a qualified professional has confirmed that limited entry is safe, often with restrictions. Full occupancy should wait until post-remediation clearance testing shows contamination is below required health standards.\n\nEven if police say the scene is released, contamination can remain on surfaces, dust, and in the air. Short, limited access to retrieve essentials might be allowed, but extended occupancy without remediation is risky.\n\nKEY FACTORS:\n- Official release of the scene by law enforcement or relevant agency.\n- Initial hazard assessment by a remediation professional or industrial hygienist.\n- Use of PPE, limited time inside, and avoiding children or vulnerable people.\n- Final clearance testing and documentation before regular living resumes.\n\nAsk your remediation contractor what level of access is safe at each stage and follow their guidance closely. Do not let kids, pregnant people, or those with health issues enter until the property has passed clearance.\n\nA responsible restoration company will prioritize your safety over convenience when advising on re-entry.",
+        "description": "Only enter after authorities release the scene and a qualified professional says limited access is safe, often with protective gear and time limits. Full-time occupancy should wait until professional remediation and clearance testing confirm contamination is below health standards."
+      }
+    }
+  ]
+}

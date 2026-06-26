@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-fire-and-smoke-damage-restoration-process",
+  "name": "What is the fire and smoke damage restoration process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What is the fire and smoke damage restoration process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire damage restoration is the process of returning a fire and smoke damaged property to pre-loss condition, involving assessment, security, demolition, water removal, dry out, clean up, smoke removal, and construction. The process includes removing unsafe components, evaluating framing, treating salvageable materials, and cleaning contents. Restoration involves removing soot, using odor counteractants, and cleaning or replacing the HVAC system to restore air quality.",
+        "@type": "Answer",
+        "description": "The process includes assessment, security, demolition, water removal, dry out, clean up, smoke removal, and construction to return the property to pre-loss condition."
+      }
+    }
+  ],
+  "description": "The process includes assessment, security, demolition, water removal, dry out, clean up, smoke removal, and construction to return the property to pre-loss cond"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "What to Do When Your Pipes Burst and Water Starts Flooding Your Home",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Finding your home deluged by water from a burst pipe is incredibly stressful, but acting quickly can significantly reduce the damage. First, you need to shut off the main water supply to your home. Knowing where this valve is located ahead of time can be a huge time-saver. Once the water flow has stopped, try to safely remove as much standing water as possible – buckets, mops, and even old towels can help. Ventilate the area by opening windows and doors, if it’s safe to do so. It's also really important to turn off your electricity in the affected areas from your main breaker panel to avoid electrical hazards. Take photos or videos of the damage as soon as you can, as this will be incredibly helpful for any insurance claims. While you might want to start scrubbing and drying everything yourself, remember that hidden moisture can quickly lead to bigger problems like mold. That’s why getting a professional team like First To Respond Restoration out quickly, ideally within 24-48 hours, is crucial. They've got the specialized equipment to properly extract water, thoroughly dry out hidden areas, and prevent secondary damage.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "and Woodland Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Do When Your Pipes Burst and Water Starts Flooding Your Home"
+}

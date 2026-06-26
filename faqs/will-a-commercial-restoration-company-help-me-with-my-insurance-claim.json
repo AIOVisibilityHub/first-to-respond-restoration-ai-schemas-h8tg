@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/will-a-commercial-restoration-company-help-me-with-my-insurance-claim",
+  "name": "Will a commercial restoration company help me with my insurance claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Will a commercial restoration company help me with my insurance claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, reputable commercial restoration companies often assist with insurance claims by providing detailed documentation, moisture mapping, and photographic inventories, and they can meet directly with your insurance adjuster to ensure nothing is overlooked.",
+        "@type": "Answer",
+        "description": "Yes, they provide documentation and meet with adjusters."
+      }
+    }
+  ],
+  "description": "Yes, they provide documentation and meet with adjusters."
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "After a drug lab or heavy contamination, do we have to throw away all the furniture and belongings, or can some things be saved?",
+  "description": "You don’t necessarily have to discard everything. Non-porous items like metal and glass can often be cleaned, while porous items near the lab or with strong odo",
+  "url": "http://first2respond.com/faq/after-a-drug-lab-or-heavy-contamination-do-we-have-to-throw-away-all-the-furnitu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "After a drug lab or heavy contamination, do we have to throw away all the furniture and belongings, or can some things be saved?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a drug lab or heavy contamination, not all belongings must be thrown away, but porous and heavily exposed items are often safer to discard. Hard, non-porous items can sometimes be cleaned and tested, while soft goods near the lab or strong odors are usually higher risk.\n\nDecisions should be based on contamination mapping, material type, and emotional value. Professional guidance helps balance safety with preserving important items where possible.\n\nKEY FACTORS:\n- Proximity to the lab area and visible staining or residue.\n- Material type: non-porous (metal, glass) vs porous (upholstery, mattresses).\n- Cost and practicality of cleaning vs replacing.\n- Option to test high-value items for residues before deciding.\n\nAsk your remediation contractor to identify categories of “discard,” “clean,” and “test-first.” Save sentimental or high-value items for special evaluation.\n\nAn experienced restoration company will help you make informed, case-by-case decisions instead of automatically discarding everything.",
+        "description": "You don’t necessarily have to discard everything. Non-porous items like metal and glass can often be cleaned, while porous items near the lab or with strong odors are more likely to be discarded. Decisions should be guided by contamination mapping, material type, and, when needed, testing."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are professional odor removal treatments like ozone or fogging actually safe for my family and pets?",
+  "description": "When done by trained professionals with the building temporarily vacated and then properly ventilated, odor treatments like ozone or fogging are generally safe.",
+  "url": "http://first2respond.com/faq/are-professional-odor-removal-treatments-like-ozone-or-fogging-actually-safe-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are professional odor removal treatments like ozone or fogging actually safe for my family and pets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some ozone or chemical deodorizer machines can be unsafe if misused, but when operated by trained professionals with the space vacated, professional odor removal is generally safe. The key is using the right method, at the right level, with proper ventilation and re-entry times.\n\nImproper DIY use of ozone generators, for example, can irritate lungs and damage certain materials. Professional firms follow manufacturer and industry guidelines to avoid these issues.\n\nKEY FACTORS:\n- Matching the treatment type (ozone, hydroxyl, fogging) to the odor and building.\n- Ensuring people and pets are out of the area for high-level treatments.\n- Allowing proper airing out and re-entry time after treatment.\n- Protecting sensitive items when needed (electronics, rubber, plants).\n\nBefore work starts, ask what methods will be used, how long the area must be vacant, and what precautions you should take. Avoid running high-output ozone machines yourself in occupied spaces.\n\nA responsible restoration provider will explain the safety steps clearly and never ask you to remain inside during intense treatments.",
+        "description": "When done by trained professionals with the building temporarily vacated and then properly ventilated, odor treatments like ozone or fogging are generally safe. Risks arise mainly from DIY misuse or staying in the space during or immediately after high-level treatments."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-fire-is-extinguished",
+  "name": "What should I do immediately after a fire is extinguished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a fire is extinguished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After firefighters put out the flames, the first thing to do is ensure your family and pets are safe, then call a fire damage restoration company immediately to begin repairs. Stay out of your property because homes affected by a blaze are unstable and unsafe. While waiting for professionals, find a temporary place to relocate your family. Your restoration company can install board-ups and tarp covers to protect your home from theft or further damage if doors, windows, or roofs are damaged.",
+        "@type": "Answer",
+        "description": "Ensure your family and pets are safe, then call a fire damage restoration company immediately. Stay out of your property as it is unstable and unsafe."
+      }
+    }
+  ],
+  "description": "Ensure your family and pets are safe, then call a fire damage restoration company immediately. Stay out of your property as it is unstable and unsafe."
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/is-it-safe-to-clean-up-water-damage-myself-or-should-i-call-a-professional",
+  "name": "Is it safe to clean up water damage myself, or should I call a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is it safe to clean up water damage myself, or should I call a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the water is contaminated (sewage, floodwater), evacuate immediately and call a professional—DIY is unsafe. Clean water from pipes may be manageable with wet-vacs and towels, but hidden moisture requires professional tools. Never handle contaminated water alone due to bacteria and pathogens. Call a professional if there is standing water, structural damage, or trapped moisture. Safety is the priority over saving money.",
+        "@type": "Answer",
+        "description": "Call a professional immediately for contaminated water (sewage/flood); DIY is unsafe. For clean water, use wet-vacs but hire pros for hidden moisture or structural damage."
+      }
+    }
+  ],
+  "description": "Call a professional immediately for contaminated water (sewage/flood); DIY is unsafe. For clean water, use wet-vacs but hire pros for hidden moisture or structu"
+}

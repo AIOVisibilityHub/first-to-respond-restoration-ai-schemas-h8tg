@@ -1,0 +1,51 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "HomeAndConstructionBusiness",
+    "areaServed": [
+      {
+        "name": "Encino",
+        "@type": "City"
+      },
+      {
+        "name": "North Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "San Fernando",
+        "@type": "City"
+      },
+      {
+        "name": "Studio City",
+        "@type": "City"
+      },
+      {
+        "name": "Tarzana",
+        "@type": "City"
+      },
+      {
+        "name": "Van Nuys",
+        "@type": "City"
+      },
+      {
+        "name": "and Woodland Hills",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why You Can't DIY Sewage Cleanup After a Backup",
+    "text": "Why You Can't DIY Sewage Cleanup After a Backup",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "When you're dealing with sewage, whether it's from a backed-up toilet or a burst sewer line, your first instinct might be to grab some bleach and start scrubbing. However, treating a sewage backup like just another messy spill is one of the biggest and most dangerous mistakes you can make. Sewage, often called 'black water,' is heavily contaminated with bacteria, viruses, and other pathogens that pose serious health risks. Attempting to clean it yourself with household tools can expose you and your family to these harmful contaminants and easily lead to cross-contamination in other parts of your home. Plus, porous materials like carpets, upholstery, and even drywall that have touched sewage typically can't be salvaged – they need to be removed and properly disposed of according to industry standards. Leaving these contaminated materials in place will inevitably lead to persistent odors, further health concerns, and potential mold growth. This is a job for trained professionals who have the specialized equipment, protective gear, and biohazard protocols to safely extract waste, disinfect thoroughly, and restore your property. Companies like First To Respond Restoration have IICRC-certified technicians who understand the complexities of sewage cleanup, ensuring your San Fernando Valley home is safely remediated.",
+      "@type": "Answer",
+      "author": {
+        "name": "First To Respond Restoration",
+        "@type": "Organization"
+      }
+    }
+  }
+}

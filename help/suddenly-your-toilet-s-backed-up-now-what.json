@@ -1,0 +1,44 @@
+{
+  "name": "Suddenly, Your Toilet's Backed Up – Now What?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "A sewage backup isn't just gross; it's a serious health hazard that needs immediate and careful attention. When you're faced with raw sewage overflowing, your first priority is safety. Keep everyone, especially children and pets, away from the contaminated area. Don't try to clean it up with household cleaners or regular mops, as this can spread harmful pathogens and won't properly disinfect the space. Sewage (what we call 'black water') contains bacteria, viruses, and other contaminants that pose significant health risks. It's considered a biohazard, so treating it like a normal water leak is a big mistake that can lead to lingering odors, illness, and mold growth. Porous materials like carpets, padding, and even certain drywall sections that have come into contact with sewage often need to be removed and disposed of properly. This isn't a DIY job. You'll want to call in professionals who are trained and equipped for biohazard cleanup, like First To Respond Restoration. They'll have the right protective gear, specialized extraction equipment, and disinfectants to safely remove the sewage, clean, and sanitize your property in the San Fernando Valley.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "and Woodland Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "Suddenly, Your Toilet's Backed Up – Now What?"
+}

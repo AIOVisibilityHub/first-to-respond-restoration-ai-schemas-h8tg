@@ -1,0 +1,46 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My House Just Had a Fire — What Do I Do First?",
+  "publisher": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "and Woodland Hills",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s really tough when your home has been hit by a fire, and it's totally normal to feel overwhelmed. The first thing you need to do, after ensuring everyone's safe of course, is to call in the pros. Seriously, don't try to handle the initial cleanup yourself. There can be hidden structural issues or tricky contamination from smoke and soot that you just don't want to mess with. We’re talking about things like corroded ash that can further damage your belongings if not removed quickly, or structural damage that isn't immediately obvious. A professional restoration company, like First To Respond Restoration, can quickly assess the full extent of the damage, which often goes beyond what you can see. They’ll also help you figure out what can actually be salvaged, which is a common question folks have after a fire. Getting an early start on cleanup is crucial because it can dramatically reduce secondary damage and increase the chances of saving your valuable possessions. Don't throw anything away yet! Your insurance company will likely want to see everything first. Having experts on site means proper documentation for insurance and a clear plan to get your home back to normal safely. If you're in the San Fernando Valley or surrounding areas, we're here 24/7 to help.",
+  "datePublished": "2026-06-26"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/is-biohazard-cleanup-legally-required-and-who-is-responsible-for-paying-for-it",
+  "name": "Is biohazard cleanup legally required, and who is responsible for paying for it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Is biohazard cleanup legally required, and who is responsible for paying for it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Biohazard cleanup is legally required for safety and liability reasons after traumatic events like unattended deaths or crime scenes. Property owners or authorities are typically responsible for arranging cleanup to prevent health risks and legal issues.",
+        "@type": "Answer",
+        "description": "Yes, it is legally required for safety; property owners or authorities are responsible for arranging and paying for cleanup."
+      }
+    }
+  ],
+  "description": "Yes, it is legally required for safety; property owners or authorities are responsible for arranging and paying for cleanup."
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can rodent droppings and urine really make us sick, and when is it serious enough to call in a professional cleanup crew?",
+  "description": "Yes, rodent droppings and urine can carry diseases and become dangerous when disturbed and inhaled as dust. Call professionals if contamination is widespread, i",
+  "url": "http://first2respond.com/faq/can-rodent-droppings-and-urine-really-make-us-sick-and-when-is-it-serious-enough",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can rodent droppings and urine really make us sick, and when is it serious enough to call in a professional cleanup crew?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, rodent droppings and urine can make you sick if you breathe in contaminated dust or touch contaminated surfaces and then your mouth or eyes. Risks include diseases like hantavirus and leptospirosis, so large or old accumulations should be treated as a biohazard.\n\nThe danger is highest when dried droppings are disturbed by sweeping or vacuuming, which can send particles into the air. People with respiratory issues are particularly vulnerable.\n\nKEY FACTORS:\n- Amount and age of contamination (attics, crawl spaces, long-vacant homes).\n- Whether droppings are being disturbed without protection.\n- Ventilation and confinement of the contaminated area.\n- Use of proper PPE and disinfectant-based cleaning techniques.\n\nIf you discover significant rodent contamination, avoid dry sweeping or regular vacuuming. Either follow public health guidelines for safe DIY cleanup with PPE and disinfectants, or hire a professional biohazard team for larger jobs.\n\nAn experienced restoration firm will help reduce health risks by containing, removing, and disinfecting rodent biohazards properly.",
+        "description": "Yes, rodent droppings and urine can carry diseases and become dangerous when disturbed and inhaled as dust. Call professionals if contamination is widespread, in difficult-to-access areas like attics or crawl spaces, or if anyone in the home has respiratory or immune issues."
+      }
+    }
+  ]
+}

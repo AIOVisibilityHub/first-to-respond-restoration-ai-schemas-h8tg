@@ -1,0 +1,18 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-biggest-risks-i-should-worry-about-during-storm-damage-restoration",
+  "name": "What are the biggest risks I should worry about during storm damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "What are the biggest risks I should worry about during storm damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common risks include mold growth if moisture isn fully dried, structural instability from hidden water damage, electrical hazards from flooding, and injury from lifting heavy debris or handling hazardous materials like broken glass. Always wear protective gear, avoid entering unsafe spaces, and hire professionals for roofing, structural, or electrical repairs to ensure safety and compliance with building standards.",
+        "@type": "Answer",
+        "description": "Mold growth, structural instability, electrical hazards, and injury from debris; hire professionals for major repairs."
+      }
+    }
+  ],
+  "description": "Mold growth, structural instability, electrical hazards, and injury from debris; hire professionals for major repairs."
+}

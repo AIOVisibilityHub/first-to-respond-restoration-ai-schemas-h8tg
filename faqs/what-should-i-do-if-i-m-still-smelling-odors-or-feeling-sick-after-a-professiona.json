@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I’m still smelling odors or feeling sick after a professional cleanup was supposedly finished?",
+  "description": "If problems persist after cleanup, contact the company immediately, document smells or symptoms, and request a reinspection. Review your warranty, consider inde",
+  "url": "http://first2respond.com/faq/what-should-i-do-if-i-m-still-smelling-odors-or-feeling-sick-after-a-professiona",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I’m still smelling odors or feeling sick after a professional cleanup was supposedly finished?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If odors, stains, or health symptoms persist after a cleanup, contact the cleanup company right away, document what you are experiencing, and request a reinspection. In some cases, hidden contamination, new leaks, or unrelated issues may be discovered.\n\nGood providers expect some callbacks, especially after complex jobs, and they usually have processes to investigate and address them. Quick communication matters; don’t wait months.\n\nKEY FACTORS:\n- Keep a written and photo record of remaining concerns.\n- Review your contract for warranty or follow-up visit terms.\n- Consider independent testing if serious health or contamination concerns remain.\n- Check for new contributing factors (fresh leaks, new pets, new infestations).\n\nBe specific when describing what seems wrong—locations, times, smells, and symptoms. If you cannot resolve concerns with the original provider, you may want a second opinion from another qualified remediation or testing professional.\n\nA reputable restoration firm will take post-project concerns seriously and work to understand what is going on.",
+        "description": "If problems persist after cleanup, contact the company immediately, document smells or symptoms, and request a reinspection. Review your warranty, consider independent testing if needed, and check for new issues like leaks or infestations that could be causing ongoing odors or contamination."
+      }
+    }
+  ]
+}
