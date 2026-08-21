@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-restoration-company-for-a-musty-smell-after-a-water-leak",
+  "name": "When should I call a restoration company for a musty smell after a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a restoration company for a musty smell after a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a restoration company immediately if you detect a persistent musty smell after a water leak, especially if the leak was significant or the smell doesn't dissipate quickly after basic drying efforts. A professional assessment is vital because musty odors often indicate hidden mold growth in areas you can't easily see, such as behind walls, under flooring, or within ceiling cavities. Early intervention by a restoration company can prevent mold from spreading, reduce potential health risks, and mitigate more extensive and costly damage to your property.",
+        "@type": "Answer",
+        "description": "Call a restoration company immediately if a musty smell persists after a water leak, as it often indicates hidden mold growth requiring professional assessment and remediation."
+      }
+    }
+  ],
+  "description": "Call a restoration company immediately if a musty smell persists after a water leak, as it often indicates hidden mold growth requiring professional assessment"
+}

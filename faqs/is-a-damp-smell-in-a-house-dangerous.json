@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-damp-smell-in-a-house-dangerous",
+  "name": "Is a damp smell in a house dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a damp smell in a house dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a damp smell itself isn't inherently dangerous, it's a strong indicator of underlying moisture issues that can be. Persistent dampness creates an ideal environment for mold and mildew to thrive. Exposure to mold can lead to respiratory problems, allergies, skin irritation, and other health concerns for sensitive individuals. Additionally, prolonged moisture can compromise structural integrity over time. Addressing the source of dampness is important for both health and property preservation.",
+        "@type": "Answer",
+        "description": "A damp smell indicates moisture issues that can cause mold growth, potentially leading to health problems and structural damage."
+      }
+    }
+  ],
+  "description": "A damp smell indicates moisture issues that can cause mold growth, potentially leading to health problems and structural damage."
+}

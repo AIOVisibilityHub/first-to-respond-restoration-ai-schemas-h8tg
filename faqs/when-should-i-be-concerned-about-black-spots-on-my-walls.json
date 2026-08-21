@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-be-concerned-about-black-spots-on-my-walls",
+  "name": "When should I be concerned about black spots on my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I be concerned about black spots on my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should be concerned about black spots on your walls if they are spreading, appear in damp areas like bathrooms or basements, or are accompanied by a musty odor. These are strong indicators of mold growth, which can impact air quality and potentially damage building materials. Prompt action is recommended to prevent further spread and address any underlying moisture issues. Ignoring them can lead to more extensive and costly problems.",
+        "@type": "Answer",
+        "description": "Be concerned if black spots spread, appear in damp areas, or smell musty, as these indicate mold. Early action helps prevent further damage."
+      }
+    }
+  ],
+  "description": "Be concerned if black spots spread, appear in damp areas, or smell musty, as these indicate mold. Early action helps prevent further damage."
+}

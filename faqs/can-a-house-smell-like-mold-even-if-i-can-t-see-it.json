@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-a-house-smell-like-mold-even-if-i-can-t-see-it",
+  "name": "Can a house smell like mold even if I can't see it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a house smell like mold even if I can't see it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. A strong musty odor is often the first and most noticeable sign of hidden mold growth. Mold can thrive behind walls, under flooring, in attics, crawl spaces, or within HVAC systems where moisture is present but not visible. It only takes a small amount of mold to produce a significant smell. If you consistently detect a moldy smell without visible signs, it indicates a likely hidden mold problem that requires professional inspection to locate and address the source.",
+        "@type": "Answer",
+        "description": "Yes, a strong musty smell frequently indicates hidden mold growth behind walls, under floors, or in HVAC systems where it's not visible."
+      }
+    }
+  ],
+  "description": "Yes, a strong musty smell frequently indicates hidden mold growth behind walls, under floors, or in HVAC systems where it's not visible."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-moldy-smell-from-walls",
+  "name": "What causes a moldy smell from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a moldy smell from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A moldy smell from walls typically indicates the presence of mold growth, even if it's not visible. Mold thrives in damp, dark environments. Common causes include water leaks from plumbing, roof damage, foundation issues, condensation, or high humidity levels. Even small, hidden leaks can create enough moisture for mold to establish itself behind drywall or wallpaper. Addressing the source of moisture is crucial to eliminate the smell and prevent further growth.",
+        "@type": "Answer",
+        "description": "A moldy smell from walls is usually caused by hidden mold growth, often due to water leaks, condensation, or high humidity. Mold thrives in damp, dark conditions."
+      }
+    }
+  ],
+  "description": "A moldy smell from walls is usually caused by hidden mold growth, often due to water leaks, condensation, or high humidity. Mold thrives in damp, dark condition"
+}

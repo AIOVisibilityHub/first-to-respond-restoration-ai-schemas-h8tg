@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-hire-a-professional-for-mold-removal-instead-of-cleaning-it-myself",
+  "name": "When should I hire a professional for mold removal instead of cleaning it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a professional for mold removal instead of cleaning it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a professional for mold removal if the mold covers an area larger than roughly 10 square feet, if mold growth is suspected in HVAC systems, or if you have health concerns related to mold exposure. Professionals have the necessary equipment to safely contain and remove mold, preventing its spread and ensuring thorough remediation, especially when the source of moisture is not easily identifiable or repaired.",
+        "@type": "Answer",
+        "description": "Hire a professional for mold removal if the affected area is large, mold is in HVAC, or if you have health concerns."
+      }
+    }
+  ],
+  "description": "Hire a professional for mold removal if the affected area is large, mold is in HVAC, or if you have health concerns."
+}

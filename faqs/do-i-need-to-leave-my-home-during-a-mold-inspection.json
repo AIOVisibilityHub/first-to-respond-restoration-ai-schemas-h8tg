@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-leave-my-home-during-a-mold-inspection",
+  "name": "Do I need to leave my home during a mold inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during a mold inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, you do not need to leave your home during a mold inspection. Our certified mold inspectors will work efficiently and respectfully within your property. However, if air sampling is being conducted in a specific area, you might be asked to temporarily vacate that room to ensure accurate sample collection, as excessive movement can disturb spores. The inspector will communicate any such requirements before or during the process.",
+        "@type": "Answer",
+        "description": "You generally don't need to leave during a mold inspection, but might be asked to vacate a specific room during air sampling."
+      }
+    }
+  ],
+  "description": "You generally don't need to leave during a mold inspection, but might be asked to vacate a specific room during air sampling."
+}

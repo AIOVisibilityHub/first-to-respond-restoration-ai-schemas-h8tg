@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-of-mold-remediation-for-a-moldy-wall",
+  "name": "What is the typical cost of mold remediation for a moldy wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of mold remediation for a moldy wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold remediation for a moldy wall can vary significantly based on the extent of the mold growth, the type of materials affected, and the source of the moisture. Factors influencing cost include the size of the contaminated area, accessibility, and whether demolition and reconstruction are needed. A thorough inspection is required to provide an accurate estimate. Our company offers inspections to assess the situation and provide a detailed breakdown of the necessary steps and associated costs.",
+        "@type": "Answer",
+        "description": "The cost of mold remediation for a wall varies depending on the mold's extent, affected materials, and the source of moisture. An inspection is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost of mold remediation for a wall varies depending on the mold's extent, affected materials, and the source of moisture. An inspection is needed for an ac"
+}

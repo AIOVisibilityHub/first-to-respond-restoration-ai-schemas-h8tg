@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-suspected-mold-behind-walls",
+  "name": "When should I call a professional for suspected mold behind walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for suspected mold behind walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you suspect mold behind walls, especially if you notice a persistent musty odor, unexplained health issues, or signs of water damage. Professionals have specialized tools like moisture meters and thermal imaging cameras to accurately detect hidden mold without damaging your property. They can also identify the extent of the problem and recommend appropriate remediation steps, ensuring the mold is safely and effectively removed and preventing future growth.",
+        "@type": "Answer",
+        "description": "Call a professional if you suspect hidden mold due to odor, health issues, or water damage. They have tools to detect it accurately."
+      }
+    }
+  ],
+  "description": "Call a professional if you suspect hidden mold due to odor, health issues, or water damage. They have tools to detect it accurately."
+}

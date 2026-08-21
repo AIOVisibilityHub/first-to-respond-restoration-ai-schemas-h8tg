@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-black-mold-under-a-sink",
+  "name": "What is black mold under a sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is black mold under a sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black mold, often identified by its dark, slimy appearance, typically grows in areas with persistent moisture and organic material. Under a sink, it commonly develops due to leaks from pipes, drains, or faucets, or from condensation accumulating in the cabinet. It feeds on porous materials like wood, drywall, or old food particles, and can spread quickly if the moisture source isn't addressed. While many dark molds exist, 'black mold' often refers to Stachybotrys chartarum, known for producing mycotoxins, which can pose health concerns if present in significant amounts.",
+        "@type": "Answer",
+        "description": "Black mold under a sink is a dark, slimy fungal growth caused by leaks and moisture, feeding on organic materials. It can spread quickly and some types, like Stachybotrys chartarum, produce mycotoxins."
+      }
+    }
+  ],
+  "description": "Black mold under a sink is a dark, slimy fungal growth caused by leaks and moisture, feeding on organic materials. It can spread quickly and some types, like St"
+}

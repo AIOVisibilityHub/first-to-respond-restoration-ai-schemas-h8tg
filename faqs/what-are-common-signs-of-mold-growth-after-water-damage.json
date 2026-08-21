@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-of-mold-growth-after-water-damage",
+  "name": "What are common signs of mold growth after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of mold growth after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold growth include a musty or earthy odor, visible discoloration on walls, ceilings, floors, or belongings, and the presence of fuzzy or slimy textures. Mold can appear in various colors, such as black, green, brown, or white. If you or occupants experience unexplained allergic reactions, respiratory issues, or skin irritation after water damage, these could also indicate hidden mold. Always investigate persistent musty smells, even without visible signs.",
+        "@type": "Answer",
+        "description": "Look for musty odors, visible discoloration or fuzzy growth, and unexplained allergic reactions. Mold can be various colors."
+      }
+    }
+  ],
+  "description": "Look for musty odors, visible discoloration or fuzzy growth, and unexplained allergic reactions. Mold can be various colors."
+}

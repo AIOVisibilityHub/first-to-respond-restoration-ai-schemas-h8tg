@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-myself-after-a-small-roof-leak",
+  "name": "Can I remove mold myself after a small roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold myself after a small roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For very small areas of mold (less than 10 square feet) on non-porous surfaces, you might be able to clean it yourself using appropriate personal protective equipment and a detergent solution. However, if the leak penetrated porous materials like drywall or insulation, or if the mold area is larger, professional remediation is strongly recommended to prevent further spread and ensure complete removal.",
+        "@type": "Answer",
+        "description": "You can tackle very small mold spots on non-porous surfaces, but larger areas, hidden mold, or growth on porous materials require professional help."
+      }
+    }
+  ],
+  "description": "You can tackle very small mold spots on non-porous surfaces, but larger areas, hidden mold, or growth on porous materials require professional help."
+}

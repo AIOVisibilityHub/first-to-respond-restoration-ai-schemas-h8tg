@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-crime-scene-cleanup",
+  "name": "What is crime scene cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is crime scene cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crime scene cleanup, often referred to as biohazard remediation, involves the thorough cleaning, disinfection, and deodorization of areas where traumatic events have occurred. This includes situations involving blood, bodily fluids, and other potentially infectious materials. Professionals use specialized equipment and cleaning agents to safely remove contaminants and restore the affected environment to a safe and habitable condition, adhering to strict health and safety protocols to protect occupants from biological hazards.",
+        "@type": "Answer",
+        "description": "Crime scene cleanup is the professional cleaning and disinfection of areas affected by traumatic events involving biohazards like blood and bodily fluids."
+      }
+    }
+  ],
+  "description": "Crime scene cleanup is the professional cleaning and disinfection of areas affected by traumatic events involving biohazards like blood and bodily fluids."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-remove-black-mold-under-my-sink-myself",
+  "name": "How do I remove black mold under my sink myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I remove black mold under my sink myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small areas of mold (less than 10 square feet) and if you're comfortable, you might attempt DIY removal. First, find and fix the moisture source. Wear gloves, a respirator, and eye protection. Use a stiff brush and a detergent solution to scrub the mold. For porous materials like drywall or wood, mold roots deeply, making complete removal challenging and often requiring professional intervention. Avoid bleach, as it may not penetrate porous surfaces effectively and its fumes can be hazardous. Always ensure the area is thoroughly dried afterward to prevent recurrence.",
+        "@type": "Answer",
+        "description": "For small areas, fix the leak, wear protective gear, and scrub with detergent. For larger or porous areas, professional help is recommended as DIY methods might not fully remove it."
+      }
+    }
+  ],
+  "description": "For small areas, fix the leak, wear protective gear, and scrub with detergent. For larger or porous areas, professional help is recommended as DIY methods might"
+}

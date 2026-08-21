@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-restoration-companies-fix-dampness-and-mold",
+  "name": "How do restoration companies fix dampness and mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do restoration companies fix dampness and mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration companies follow a multi-step process to address dampness and mold. First, they conduct an inspection to identify the moisture source using specialized equipment. Once the source is fixed, they perform water extraction and professional drying using industrial-grade dehumidifiers and air movers. Any mold-affected materials are contained and safely removed, and antimicrobial treatments are applied. Finally, the affected areas are cleaned, sanitized, and often restored to their pre-damage condition.",
+        "@type": "Answer",
+        "description": "Restoration companies detect moisture sources, extract water, professionally dry, safely remove mold, apply antimicrobials, and restore affected areas."
+      }
+    }
+  ],
+  "description": "Restoration companies detect moisture sources, extract water, professionally dry, safely remove mold, apply antimicrobials, and restore affected areas."
+}

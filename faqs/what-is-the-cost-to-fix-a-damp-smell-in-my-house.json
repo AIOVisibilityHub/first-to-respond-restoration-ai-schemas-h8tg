@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-to-fix-a-damp-smell-in-my-house",
+  "name": "What is the cost to fix a damp smell in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost to fix a damp smell in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a damp smell varies significantly based on the cause and extent of the moisture issue. Minor problems, like improving ventilation, might be inexpensive. However, if the smell is due to a hidden leak, extensive water damage, or mold growth, costs can increase due to detection, repair, drying, and remediation. A professional assessment is necessary to provide an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Costs vary based on the moisture source and damage extent. Minor fixes are cheap, but leaks or mold can increase expenses. An assessment provides an estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on the moisture source and damage extent. Minor fixes are cheap, but leaks or mold can increase expenses. An assessment provides an estimate."
+}

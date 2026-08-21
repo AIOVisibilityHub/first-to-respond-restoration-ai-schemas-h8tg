@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-mold-remediation-and-mold-removal",
+  "name": "What is the difference between mold remediation and mold removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between mold remediation and mold removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold remediation is a comprehensive process that goes beyond just removing visible mold. It involves identifying and correcting the moisture problem that caused the mold, containing the affected area to prevent cross-contamination, removing mold-contaminated materials, cleaning and disinfecting salvageable items, drying the area completely, and restoring the affected property. Mold removal, while a key part of remediation, often refers specifically to the physical act of getting rid of mold. Remediation encompasses the entire strategy to return the environment to a healthy, mold-free condition.",
+        "@type": "Answer",
+        "description": "Mold remediation is a comprehensive process that includes identifying moisture sources, containment, removal, cleaning, drying, and restoration. Mold removal is specifically the physical act of getting rid of mold."
+      }
+    }
+  ],
+  "description": "Mold remediation is a comprehensive process that includes identifying moisture sources, containment, removal, cleaning, drying, and restoration. Mold removal is"
+}

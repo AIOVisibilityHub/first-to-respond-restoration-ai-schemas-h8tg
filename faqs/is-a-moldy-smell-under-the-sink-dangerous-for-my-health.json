@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-moldy-smell-under-the-sink-dangerous-for-my-health",
+  "name": "Is a moldy smell under the sink dangerous for my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a moldy smell under the sink dangerous for my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all mold is immediately dangerous, a persistent moldy smell suggests active mold growth, which can pose health risks, particularly for sensitive individuals. Exposure to mold spores can trigger allergic reactions, asthma attacks, skin irritation, or respiratory issues. Prolonged exposure may lead to more severe health problems. It's important to address mold growth quickly to protect indoor air quality and the health of occupants.",
+        "@type": "Answer",
+        "description": "Yes, a moldy smell indicates active mold growth which can cause allergic reactions, respiratory issues, and other health problems, especially for sensitive individuals."
+      }
+    }
+  ],
+  "description": "Yes, a moldy smell indicates active mold growth which can cause allergic reactions, respiratory issues, and other health problems, especially for sensitive indi"
+}

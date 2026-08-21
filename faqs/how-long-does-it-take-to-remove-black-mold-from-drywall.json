@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-black-mold-from-drywall",
+  "name": "How long does it take to remove black mold from drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove black mold from drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of black mold removal from drywall depends on the severity and scope of the mold problem. A small, localized area might take 1-3 days for remediation, including drying time. Larger infestations affecting multiple rooms or hidden areas could extend the process to a week or more. This timeline typically includes setting up containment, removing affected materials, thorough cleaning, and ensuring proper drying before reconstruction can begin. An initial assessment will provide a clearer timeframe.",
+        "@type": "Answer",
+        "description": "Mold removal time varies; small areas might take 1-3 days, while larger infestations could take a week or more, depending on the extent of damage and drying needs."
+      }
+    }
+  ],
+  "description": "Mold removal time varies; small areas might take 1-3 days, while larger infestations could take a week or more, depending on the extent of damage and drying nee"
+}

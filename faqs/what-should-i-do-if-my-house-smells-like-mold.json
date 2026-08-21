@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-if-my-house-smells-like-mold",
+  "name": "What should I do if my house smells like mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my house smells like mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you detect a moldy smell, first try to locate the source. Check areas prone to moisture such as basements, bathrooms, kitchens, and around windows or leaky pipes. Look for visible mold growth or signs of water damage. Improve ventilation in the affected area and reduce humidity if possible. If the smell persists or you suspect hidden mold, it's recommended to contact a professional mold remediation company for inspection and assessment. They can identify the source and extent of the problem.",
+        "@type": "Answer",
+        "description": "Identify the source, improve ventilation, reduce humidity, and if the smell persists, contact a professional mold remediation company."
+      }
+    }
+  ],
+  "description": "Identify the source, improve ventilation, reduce humidity, and if the smell persists, contact a professional mold remediation company."
+}

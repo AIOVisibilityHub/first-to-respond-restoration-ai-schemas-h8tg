@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-mold-make-my-house-smell-musty",
+  "name": "Why does mold make my house smell musty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does mold make my house smell musty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold produces microbial volatile organic compounds (MVOCs) as it grows and breaks down organic materials. These MVOCs are airborne chemicals that often have a strong, unpleasant, earthy, or musty odor. The intensity of the smell can vary depending on the type of mold, the materials it's growing on, and the level of humidity in the area. A persistent musty smell is a key indicator of hidden mold growth, even if you can't visually see it.",
+        "@type": "Answer",
+        "description": "Mold produces microbial volatile organic compounds (MVOCs) that create a distinctive musty odor as it grows."
+      }
+    }
+  ],
+  "description": "Mold produces microbial volatile organic compounds (MVOCs) that create a distinctive musty odor as it grows."
+}

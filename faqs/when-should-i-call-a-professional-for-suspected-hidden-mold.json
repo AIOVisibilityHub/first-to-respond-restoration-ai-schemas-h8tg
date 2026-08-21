@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-suspected-hidden-mold",
+  "name": "When should I call a professional for suspected hidden mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for suspected hidden mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for suspected hidden mold if you notice persistent musty odors, experience unexplained health symptoms that improve when away from home, or if you've had recent water damage that wasn't immediately or properly dried. If you see signs of water intrusion but no visible mold, or if you're concerned about health risks, a professional assessment is crucial. Early detection can prevent mold from spreading and causing more extensive damage, ensuring a safer and healthier living environment.",
+        "@type": "Answer",
+        "description": "Call a professional if you notice musty odors, unexplained health issues, recent water damage, or signs of water intrusion without visible mold."
+      }
+    }
+  ],
+  "description": "Call a professional if you notice musty odors, unexplained health issues, recent water damage, or signs of water intrusion without visible mold."
+}

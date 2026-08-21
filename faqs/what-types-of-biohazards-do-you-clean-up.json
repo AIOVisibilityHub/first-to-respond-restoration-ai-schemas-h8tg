@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-biohazards-do-you-clean-up",
+  "name": "What types of biohazards do you clean up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of biohazards do you clean up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We clean up a wide range of biohazards, including blood and bodily fluids resulting from accidents, crime scenes, or unattended deaths. Our services also cover sewage backups, which contain dangerous bacteria and viruses, as well as significant mold infestations that pose respiratory and health risks. We are equipped to handle animal waste and remains, chemical spills, and situations involving hoarding where biological materials have accumulated. Our trained technicians address each specific biohazard with specialized protocols and equipment.",
+        "@type": "Answer",
+        "description": "We clean blood, bodily fluids, sewage backups, significant mold, animal waste/remains, and chemical spills, using specialized protocols for each type of biohazard."
+      }
+    }
+  ],
+  "description": "We clean blood, bodily fluids, sewage backups, significant mold, animal waste/remains, and chemical spills, using specialized protocols for each type of biohaza"
+}

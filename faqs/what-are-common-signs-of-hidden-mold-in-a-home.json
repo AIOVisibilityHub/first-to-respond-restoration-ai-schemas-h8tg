@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-of-hidden-mold-in-a-home",
+  "name": "What are common signs of hidden mold in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of hidden mold in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden mold often reveals itself through a persistent musty or earthy odor, even if you can't see the mold itself. You might also notice unexplained health symptoms like chronic allergies, coughing, sneezing, or irritated eyes that improve when you leave the affected area. Other signs include water stains or discoloration on walls, ceilings, or floors, peeling paint or wallpaper, or warped drywall, which can indicate moisture issues conducive to mold growth behind surfaces. Keep an eye out for these indicators, as they suggest the presence of moisture and potential hidden mold.",
+        "@type": "Answer",
+        "description": "Common signs include a musty odor, unexplained allergy-like symptoms, or visible water damage like stains or peeling paint, which suggest hidden moisture."
+      }
+    }
+  ],
+  "description": "Common signs include a musty odor, unexplained allergy-like symptoms, or visible water damage like stains or peeling paint, which suggest hidden moisture."
+}

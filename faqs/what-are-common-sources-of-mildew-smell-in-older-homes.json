@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-sources-of-mildew-smell-in-older-homes",
+  "name": "What are common sources of mildew smell in older homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common sources of mildew smell in older homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes are often more susceptible to mildew smells due to various factors. Common sources include outdated plumbing systems prone to leaks, less effective insulation leading to condensation, and basements or crawl spaces with poor ventilation and higher moisture levels. Additionally, foundation issues, old roofs, or windows that are not properly sealed can allow water intrusion. Many older homes may also have had previous water damage incidents that were not fully dried, leaving residual mold behind. Regular inspections and maintenance are crucial to prevent these issues in older properties.",
+        "@type": "Answer",
+        "description": "Older homes often get mildew smells from leaky plumbing, poor insulation, unventilated basements/crawl spaces, and previous unaddressed water damage. Maintenance is key."
+      }
+    }
+  ],
+  "description": "Older homes often get mildew smells from leaky plumbing, poor insulation, unventilated basements/crawl spaces, and previous unaddressed water damage. Maintenanc"
+}

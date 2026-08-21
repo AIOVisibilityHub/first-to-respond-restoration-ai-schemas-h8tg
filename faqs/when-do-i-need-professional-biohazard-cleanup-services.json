@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-biohazard-cleanup-services",
+  "name": "When do I need professional biohazard cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional biohazard cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional biohazard cleanup is necessary whenever an area is contaminated with biological materials that could pose a health risk. This includes scenes involving blood, bodily fluids, sewage backups, animal waste, or situations where infectious diseases may be present. Attempting to clean these areas yourself can expose you to pathogens and further contamination. Experts have the training, equipment, and certifications to handle these dangerous situations safely and effectively, ensuring complete decontamination.",
+        "@type": "Answer",
+        "description": "You need professional biohazard cleanup when an area is contaminated with biological materials that present a health risk, such as blood, bodily fluids, or sewage."
+      }
+    }
+  ],
+  "description": "You need professional biohazard cleanup when an area is contaminated with biological materials that present a health risk, such as blood, bodily fluids, or sewa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-remove-musty-smells-caused-by-water-damage",
+  "name": "How do professionals remove musty smells caused by water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals remove musty smells caused by water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals tackle musty smells by first identifying and eliminating the moisture source. They use specialized equipment like thermal imaging and moisture meters to detect hidden water and dampness within structures. Once the area is dry, they identify and remove all mold-affected materials, including drywall, insulation, or flooring. Air scrubbers with HEPA filters are used to clean the air of mold spores and other contaminants. Finally, antimicrobial treatments may be applied, and powerful deodorizers or ozone generators might be used to neutralize any lingering odors, ensuring the air is clean and fresh.",
+        "@type": "Answer",
+        "description": "Professionals remove musty smells by stopping the leak, drying the area, removing mold-affected materials, cleaning the air with HEPA filters, and deodorizing."
+      }
+    }
+  ],
+  "description": "Professionals remove musty smells by stopping the leak, drying the area, removing mold-affected materials, cleaning the air with HEPA filters, and deodorizing."
+}

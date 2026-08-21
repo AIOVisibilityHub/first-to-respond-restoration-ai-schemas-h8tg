@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-mold-removal-if-my-room-smells-moldy",
+  "name": "Does homeowner's insurance cover mold removal if my room smells moldy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover mold removal if my room smells moldy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for mold removal depends on the cause of the mold. Generally, if the mold resulted from a sudden and accidental peril covered by your policy, such as a burst pipe, it may be covered. However, mold stemming from long-term neglect, poor maintenance, or pre-existing conditions like chronic leaks is typically not covered. Policy details vary, so it's crucial to review your specific policy or contact your insurance provider directly to understand your coverage for mold remediation.",
+        "@type": "Answer",
+        "description": "Insurance often covers mold if caused by a sudden, accidental event, but not typically for long-term neglect. Check your specific policy for details."
+      }
+    }
+  ],
+  "description": "Insurance often covers mold if caused by a sudden, accidental event, but not typically for long-term neglect. Check your specific policy for details."
+}

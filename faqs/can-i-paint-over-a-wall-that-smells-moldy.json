@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-paint-over-a-wall-that-smells-moldy",
+  "name": "Can I paint over a wall that smells moldy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over a wall that smells moldy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, painting over a wall that smells moldy is not a solution and can actually worsen the problem. Paint will only temporarily mask the odor without addressing the underlying mold growth or its moisture source. The mold will continue to grow beneath the paint, potentially causing further damage to the wall structure and continuing to release spores and odors into your indoor environment. Proper remediation is essential before any cosmetic repairs.",
+        "@type": "Answer",
+        "description": "No, painting over a moldy wall will only mask the smell and allow the mold to continue growing, causing more damage and health risks. Remediation is required first."
+      }
+    }
+  ],
+  "description": "No, painting over a moldy wall will only mask the smell and allow the mold to continue growing, causing more damage and health risks. Remediation is required fi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-professional-mold-remediation",
+  "name": "What is the typical process for professional mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for professional mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold remediation typically involves several steps. First, the source of moisture causing the mold growth is identified and repaired. Next, containment barriers are set up to prevent mold spores from spreading to unaffected areas. Affected materials are then removed, and surfaces are cleaned with EPA-approved antimicrobial agents. Finally, the area is dried, and air scrubbers are used to filter airborne mold spores, followed by thorough cleaning and restoration of the affected space.",
+        "@type": "Answer",
+        "description": "The process involves moisture source repair, containment, removal of affected materials, cleaning, drying, and air filtration."
+      }
+    }
+  ],
+  "description": "The process involves moisture source repair, containment, removal of affected materials, cleaning, drying, and air filtration."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-black-mold-and-other-types-of-mold-under-a-sink",
+  "name": "What's the difference between black mold and other types of mold under a sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between black mold and other types of mold under a sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many types of mold can appear dark or black, such as Cladosporium or Alternaria, the term 'black mold' often refers specifically to Stachybotrys chartarum. The primary difference lies in their potential health impact and growth characteristics. Stachybotrys chartarum is known to produce mycotoxins, which can be more concerning for health when present in significant quantities. Other dark molds might primarily cause allergic reactions. However, all mold types indicate a moisture problem and should be removed. Only laboratory testing can definitively identify the mold species, but professional remediation addresses all types effectively.",
+        "@type": "Answer",
+        "description": "While many dark molds exist, 'black mold' specifically refers to Stachybotrys chartarum, known for producing mycotoxins. All mold indicates a moisture issue and requires professional removal."
+      }
+    }
+  ],
+  "description": "While many dark molds exist, 'black mold' specifically refers to Stachybotrys chartarum, known for producing mycotoxins. All mold indicates a moisture issue and"
+}

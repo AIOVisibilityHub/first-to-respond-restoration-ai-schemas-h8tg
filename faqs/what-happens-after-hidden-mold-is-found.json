@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-happens-after-hidden-mold-is-found",
+  "name": "What happens after hidden mold is found?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after hidden mold is found?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once hidden mold is found, the next step is remediation, which involves safely and effectively removing the mold and addressing the underlying moisture issue. This process typically includes containing the affected area to prevent spread, removing mold-damaged materials, cleaning and disinfecting surfaces, and thoroughly drying the environment. A professional restoration company will also identify and fix the source of moisture to prevent recurrence. After remediation, post-remediation verification may be conducted to ensure the mold has been successfully removed.",
+        "@type": "Answer",
+        "description": "After hidden mold is found, the remediation process involves containing the area, removing damaged materials, cleaning, drying, fixing the moisture source, and verifying successful removal."
+      }
+    }
+  ],
+  "description": "After hidden mold is found, the remediation process involves containing the area, removing damaged materials, cleaning, drying, fixing the moisture source, and"
+}

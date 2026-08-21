@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-mold-remediation-take-for-an-under-sink-issue",
+  "name": "How long does mold remediation take for an under-sink issue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does mold remediation take for an under-sink issue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold remediation for an under-sink issue depends on the severity of the mold growth and the complexity of the moisture source. A small, superficial mold patch might be resolved in a few hours. However, if there's significant mold requiring containment, drying of affected materials, or repairs to plumbing and structural elements, the process could take several days. Your remediation specialist will provide a more accurate timeline after their initial assessment.",
+        "@type": "Answer",
+        "description": "Duration depends on mold severity; superficial growth can be hours, while extensive issues may take several days."
+      }
+    }
+  ],
+  "description": "Duration depends on mold severity; superficial growth can be hours, while extensive issues may take several days."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-mold-removal",
+  "name": "What areas do you serve for mold removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for mold removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide professional mold removal services across various locations including Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to address mold issues in residential and commercial properties within these areas, responding promptly to emergencies and scheduled remediation projects. We aim to serve our local communities efficiently and effectively.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for mold removal."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for mold removal."
+}

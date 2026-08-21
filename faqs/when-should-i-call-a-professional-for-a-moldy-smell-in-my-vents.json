@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-moldy-smell-in-my-vents",
+  "name": "When should I call a professional for a moldy smell in my vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a moldy smell in my vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the moldy smell is persistent, covers a large area, or if you suspect mold is hidden within your HVAC system or walls. If you or family members are experiencing mold-related health symptoms, professional assessment is also recommended. DIY solutions are often insufficient for extensive mold, which requires specialized equipment and expertise to safely and effectively remove and prevent recurrence.",
+        "@type": "Answer",
+        "description": "Call a professional if the moldy smell is persistent, widespread, hidden, or if you or others are experiencing health symptoms."
+      }
+    }
+  ],
+  "description": "Call a professional if the moldy smell is persistent, widespread, hidden, or if you or others are experiencing health symptoms."
+}

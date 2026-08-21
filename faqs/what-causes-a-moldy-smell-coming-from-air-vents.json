@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-moldy-smell-coming-from-air-vents",
+  "name": "What causes a moldy smell coming from air vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a moldy smell coming from air vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A moldy smell from air vents typically indicates the presence of mold growth within your HVAC system or ductwork. This often happens due to excess moisture, which can be caused by condensation from AC coils, leaks in the ductwork, or high humidity levels in your home. The mold spores can then spread through the air circulation system, leading to the distinct musty odor. Addressing the underlying moisture source is crucial to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Moldy smells from air vents are usually caused by mold growth in the HVAC system or ductwork due to excess moisture."
+      }
+    }
+  ],
+  "description": "Moldy smells from air vents are usually caused by mold growth in the HVAC system or ductwork due to excess moisture."
+}

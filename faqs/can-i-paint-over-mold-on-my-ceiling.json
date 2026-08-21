@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-paint-over-mold-on-my-ceiling",
+  "name": "Can I paint over mold on my ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over mold on my ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, painting over mold on your ceiling is not a permanent solution and is not recommended. Paint will not kill the mold or address the underlying moisture problem. The mold will eventually grow through the paint, and the moisture issue will persist, potentially causing further damage. Proper remediation involves identifying and fixing the moisture source, removing the mold, and then repairing and repainting the surface.",
+        "@type": "Answer",
+        "description": "No, painting over mold won't solve the problem; mold will grow through, and the moisture issue remains. Proper remediation is required."
+      }
+    }
+  ],
+  "description": "No, painting over mold won't solve the problem; mold will grow through, and the moisture issue remains. Proper remediation is required."
+}

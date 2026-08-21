@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-it-safe-to-live-in-a-house-with-hidden-mold",
+  "name": "Is it safe to live in a house with hidden mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it safe to live in a house with hidden mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally not safe to live in a house with hidden mold, especially if individuals in the household are sensitive to mold, have respiratory conditions like asthma, or weakened immune systems. Mold exposure can cause or worsen various health problems, ranging from allergy-like symptoms to more severe respiratory issues. While not all mold is immediately life-threatening, prolonged exposure to any type of mold can negatively impact health. Prompt identification and professional remediation are recommended to ensure a safe living environment.",
+        "@type": "Answer",
+        "description": "It is not safe to live in a house with hidden mold due to potential health risks, especially for sensitive individuals."
+      }
+    }
+  ],
+  "description": "It is not safe to live in a house with hidden mold due to potential health risks, especially for sensitive individuals."
+}

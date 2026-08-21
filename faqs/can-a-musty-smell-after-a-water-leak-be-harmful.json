@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-a-musty-smell-after-a-water-leak-be-harmful",
+  "name": "Can a musty smell after a water leak be harmful?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a musty smell after a water leak be harmful?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a musty smell after a water leak can indicate potential health concerns. The odor is primarily caused by mold and mildew growth. Exposure to mold can trigger allergic reactions in sensitive individuals, leading to symptoms like sneezing, runny nose, red eyes, skin rash, or asthma attacks. For some, prolonged exposure might cause irritation to the eyes, skin, nose, throat, and lungs. While not all molds are toxic, any significant mold growth compromises indoor air quality and should be addressed promptly by professionals to ensure a safe environment.",
+        "@type": "Answer",
+        "description": "Yes, a musty smell indicates mold growth, which can cause allergic reactions, respiratory issues, and other irritations in sensitive individuals."
+      }
+    }
+  ],
+  "description": "Yes, a musty smell indicates mold growth, which can cause allergic reactions, respiratory issues, and other irritations in sensitive individuals."
+}

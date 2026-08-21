@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/where-does-mold-commonly-hide-in-houses",
+  "name": "Where does mold commonly hide in houses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where does mold commonly hide in houses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold frequently hides in areas with consistent moisture and limited ventilation. Common spots include behind drywall, under flooring, inside wall cavities, in attics with roof leaks, basements or crawl spaces with water intrusion, and around leaky pipes or appliances. It can also develop within HVAC systems or air ducts, spreading spores throughout the home. Check areas prone to condensation, like window sills or refrigerator drip pans, and remember that any past or current water damage event is a prime suspect for hidden mold growth.",
+        "@type": "Answer",
+        "description": "Mold commonly hides behind walls, under floors, in attics, basements, and around leaky pipes or appliances, especially in areas with moisture or poor ventilation."
+      }
+    }
+  ],
+  "description": "Mold commonly hides behind walls, under floors, in attics, basements, and around leaky pipes or appliances, especially in areas with moisture or poor ventilatio"
+}

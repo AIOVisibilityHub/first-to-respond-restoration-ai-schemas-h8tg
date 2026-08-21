@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-identify-black-mold-in-my-bathroom",
+  "name": "How can I identify black mold in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I identify black mold in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying black mold usually involves visual inspection and smell. It often appears as slimy, black, dark green, or grayish patches, typically in areas with persistent moisture like shower corners, around sinks, or under leaky pipes. A strong, earthy, or musty odor is a key indicator, even if the mold isn't immediately visible. If you suspect mold behind walls or under floors due to a persistent smell or water damage, professional inspection may be necessary, as spores are not always visible.",
+        "@type": "Answer",
+        "description": "Look for slimy, dark patches (black, green, or gray) and a strong, musty smell in damp areas of your bathroom. Hidden mold may be indicated by odor alone."
+      }
+    }
+  ],
+  "description": "Look for slimy, dark patches (black, green, or gray) and a strong, musty smell in damp areas of your bathroom. Hidden mold may be indicated by odor alone."
+}

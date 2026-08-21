@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-black-mold-remediation-under-a-sink-take",
+  "name": "How long does black mold remediation under a sink take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does black mold remediation under a sink take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of black mold remediation under a sink depends largely on the severity of the infestation and the extent of water damage. For a small, contained mold issue with a clear moisture source, the process might take a day or two, including drying time. However, if the mold has spread significantly, requires demolition of affected materials, or involves complex leak repairs, the project could extend to several days. A professional inspection can provide a more accurate timeline after assessing the specific situation.",
+        "@type": "Answer",
+        "description": "Black mold remediation under a sink can take one to several days, depending on the mold's severity, extent of water damage, and necessary repairs. A professional assessment provides an accurate timeline."
+      }
+    }
+  ],
+  "description": "Black mold remediation under a sink can take one to several days, depending on the mold's severity, extent of water damage, and necessary repairs. A professiona"
+}

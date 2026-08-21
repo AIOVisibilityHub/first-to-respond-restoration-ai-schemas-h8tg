@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-is-professional-biohazard-cleanup-necessary",
+  "name": "When is professional biohazard cleanup necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is professional biohazard cleanup necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional biohazard cleanup is necessary whenever an area has been contaminated with potentially infectious biological materials that cannot be safely handled with standard cleaning methods. This includes scenes involving unattended deaths, accidents with blood, crime scenes, sewage backups, or significant mold growth. Due to the health risks associated with exposure to pathogens and the need for proper disposal, trained professionals with personal protective equipment (PPE) and specific protocols are required to ensure the area is fully decontaminated.",
+        "@type": "Answer",
+        "description": "Professional biohazard cleanup is necessary for contamination by potentially infectious biological materials such as blood, bodily fluids, or sewage that pose health risks."
+      }
+    }
+  ],
+  "description": "Professional biohazard cleanup is necessary for contamination by potentially infectious biological materials such as blood, bodily fluids, or sewage that pose h"
+}

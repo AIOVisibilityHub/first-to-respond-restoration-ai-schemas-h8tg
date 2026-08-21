@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-of-mold-growth-in-a-home",
+  "name": "What are common signs of mold growth in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of mold growth in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold growth include a musty odor, visible spots or discoloration on walls, ceilings, floors, or furniture, and recurring allergy-like symptoms such as sneezing, coughing, or skin irritation. Mold can appear in various colors, including black, green, or white, and often thrives in damp, humid areas like bathrooms, kitchens, basements, or areas affected by water leaks. Early detection through smell or sight is important for prompt intervention.",
+        "@type": "Answer",
+        "description": "Musty odors, visible spots on surfaces, and unexplained allergy symptoms are common indicators of mold."
+      }
+    }
+  ],
+  "description": "Musty odors, visible spots on surfaces, and unexplained allergy symptoms are common indicators of mold."
+}

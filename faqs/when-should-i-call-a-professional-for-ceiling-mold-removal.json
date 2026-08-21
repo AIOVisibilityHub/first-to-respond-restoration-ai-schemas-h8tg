@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-ceiling-mold-removal",
+  "name": "When should I call a professional for ceiling mold removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for ceiling mold removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the mold covers an area larger than 10 square feet, if you suspect it's growing behind walls, or if you're experiencing health symptoms. Professionals have the training, equipment, and experience to safely contain and remove mold, especially if it's from contaminated water (like sewage) or affects sensitive areas like HVAC systems. Early intervention can prevent further damage and spread.",
+        "@type": "Answer",
+        "description": "Call a professional for mold removal if it's a large area, hidden, or causing health symptoms, or if it's from contaminated water."
+      }
+    }
+  ],
+  "description": "Call a professional for mold removal if it's a large area, hidden, or causing health symptoms, or if it's from contaminated water."
+}

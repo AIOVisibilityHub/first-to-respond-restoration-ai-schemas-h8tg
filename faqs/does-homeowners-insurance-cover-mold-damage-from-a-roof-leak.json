@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowners-insurance-cover-mold-damage-from-a-roof-leak",
+  "name": "Does homeowners insurance cover mold damage from a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowners insurance cover mold damage from a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners insurance coverage for mold damage related to a roof leak can vary depending on your specific policy and the cause of the leak. Generally, if the roof leak is sudden and accidental, resulting in mold, it might be covered. However, damage from long-term neglect or maintenance issues is often excluded. It is crucial to review your policy and consult with your insurance provider.",
+        "@type": "Answer",
+        "description": "Coverage depends on your specific policy and the cause of the leak. Sudden accidental leaks may be covered, but neglect typically is not."
+      }
+    }
+  ],
+  "description": "Coverage depends on your specific policy and the cause of the leak. Sudden accidental leaks may be covered, but neglect typically is not."
+}

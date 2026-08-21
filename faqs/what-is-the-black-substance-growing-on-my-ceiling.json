@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-black-substance-growing-on-my-ceiling",
+  "name": "What is the black substance growing on my ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the black substance growing on my ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The black substance on your ceiling is likely mold, a type of fungus that thrives in damp environments. It can appear black, green, or even dark brown. Mold spores are naturally present in the air, but they can multiply rapidly on surfaces with moisture. Common causes include water leaks, high humidity, or condensation issues. Identifying the source of moisture is crucial for effective removal and preventing its return. Mold can spread quickly if left unaddressed.",
+        "@type": "Answer",
+        "description": "The black substance on your ceiling is likely mold, caused by excess moisture. It can spread quickly if not addressed."
+      }
+    }
+  ],
+  "description": "The black substance on your ceiling is likely mold, caused by excess moisture. It can spread quickly if not addressed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-mold-remediation-company-in-encino-for-a-musty-smell",
+  "name": "How do I choose a mold remediation company in Encino for a musty smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a mold remediation company in Encino for a musty smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a mold remediation company in Encino, look for certified professionals with experience in mold removal. Verify their credentials, check for positive customer reviews, and ensure they are properly insured. Ask about their remediation process, the equipment they use, and if they offer post-remediation verification. A reputable company will provide a detailed estimate and clearly explain the steps they will take to resolve the mold issue and eliminate the accompanying smell. We serve Encino and surrounding areas with certified mold remediation services.",
+        "@type": "Answer",
+        "description": "Choose a certified and insured company with good reviews, ask about their process and equipment, and get a detailed estimate."
+      }
+    }
+  ],
+  "description": "Choose a certified and insured company with good reviews, ask about their process and equipment, and get a detailed estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-biohazard-cleanup-services-in-encino-or-north-hollywood",
+  "name": "Do you offer biohazard cleanup services in Encino or North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer biohazard cleanup services in Encino or North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration proudly offers comprehensive biohazard cleanup services in Encino, North Hollywood, and surrounding areas such as San Fernando, Studio City, and Tarzana. Our certified teams are equipped to handle various biohazard situations, including crime scenes, unattended deaths, sewage backups, and hoarding scenarios, providing discreet, professional, and rapid response. We understand the urgency and sensitivity required for these situations and are committed to restoring your property safely and efficiently.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration provides comprehensive biohazard cleanup services in Encino, North Hollywood, and surrounding areas, offering rapid, professional response."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration provides comprehensive biohazard cleanup services in Encino, North Hollywood, and surrounding areas, offering rapid, professio"
+}

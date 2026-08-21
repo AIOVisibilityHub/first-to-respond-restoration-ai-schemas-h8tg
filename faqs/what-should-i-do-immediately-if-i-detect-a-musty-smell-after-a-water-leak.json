@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-detect-a-musty-smell-after-a-water-leak",
+  "name": "What should I do immediately if I detect a musty smell after a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I detect a musty smell after a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you detect a musty smell after a water leak, your immediate steps should be to locate and stop the source of the leak if it's still active. Then, increase ventilation by opening windows and using fans to help dry the area. However, avoid spreading mold spores by not disturbing visible mold. Contacting a professional water damage restoration company is crucial. They can accurately assess the extent of moisture intrusion, identify hidden mold, safely remove contaminated materials, and thoroughly dry and dehumidify the affected areas. Prompt action minimizes damage and prevents further mold proliferation.",
+        "@type": "Answer",
+        "description": "Immediately stop the leak, increase ventilation, and contact a professional water damage restoration company to assess and address the moisture and potential mold."
+      }
+    }
+  ],
+  "description": "Immediately stop the leak, increase ventilation, and contact a professional water damage restoration company to assess and address the moisture and potential mo"
+}

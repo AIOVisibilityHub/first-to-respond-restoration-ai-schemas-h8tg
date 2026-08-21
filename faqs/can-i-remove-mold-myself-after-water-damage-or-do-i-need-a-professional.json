@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-myself-after-water-damage-or-do-i-need-a-professional",
+  "name": "Can I remove mold myself after water damage, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold myself after water damage, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small areas of mold, less than 10 square feet (about a 3x3 foot section), can sometimes be cleaned by property owners using appropriate safety gear and cleaning solutions. However, if the mold covers a larger area, if it's associated with contaminated water (sewage), or if you experience health symptoms, professional mold remediation is recommended. Professionals have specialized equipment to safely contain, remove, and prevent the return of mold, ensuring the underlying moisture issue is resolved.",
+        "@type": "Answer",
+        "description": "You can clean small mold patches yourself, but for larger areas, contaminated water, or health concerns, professional mold remediation is recommended."
+      }
+    }
+  ],
+  "description": "You can clean small mold patches yourself, but for larger areas, contaminated water, or health concerns, professional mold remediation is recommended."
+}

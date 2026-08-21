@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-mold-remediation-in-hvac-systems-and-air-ducts",
+  "name": "What is the process for mold remediation in HVAC systems and air ducts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for mold remediation in HVAC systems and air ducts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold remediation for HVAC systems typically involves several steps. First, technicians inspect to identify the source and extent of mold growth. They then contain the affected area to prevent cross-contamination. Specialized equipment, like HEPA vacuums and air scrubbers, is used to remove mold spores from ductwork and system components. Cleaning agents are applied, and finally, the system is disinfected and thoroughly dried to prevent future growth. Post-remediation testing may be performed.",
+        "@type": "Answer",
+        "description": "The process includes inspection, containment, removal of mold using specialized equipment, cleaning, disinfection, and drying of the HVAC system and ducts."
+      }
+    }
+  ],
+  "description": "The process includes inspection, containment, removal of mold using specialized equipment, cleaning, disinfection, and drying of the HVAC system and ducts."
+}

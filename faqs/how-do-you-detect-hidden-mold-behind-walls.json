@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-detect-hidden-mold-behind-walls",
+  "name": "How do you detect hidden mold behind walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you detect hidden mold behind walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detecting hidden mold behind walls often involves a combination of methods. Our professionals use advanced tools such as moisture meters to identify elevated moisture levels in walls, even without visible signs of water. Thermal imaging cameras can detect temperature differences that may indicate hidden moisture. We also rely on a strong moldy odor as a key indicator. In some cases, small, non-invasive exploratory openings might be necessary to visually confirm mold presence, always done with care to minimize disruption.",
+        "@type": "Answer",
+        "description": "We detect hidden mold using moisture meters, thermal imaging cameras for moisture detection, and a strong moldy odor. Small exploratory openings may also be used."
+      }
+    }
+  ],
+  "description": "We detect hidden mold using moisture meters, thermal imaging cameras for moisture detection, and a strong moldy odor. Small exploratory openings may also be use"
+}

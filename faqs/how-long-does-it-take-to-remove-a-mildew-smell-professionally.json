@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-a-mildew-smell-professionally",
+  "name": "How long does it take to remove a mildew smell professionally?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove a mildew smell professionally?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for professional mildew smell removal and mold remediation varies based on the severity and extent of the problem. For minor, localized issues, the process might take 1-3 days, including drying times. More extensive mold growth, especially if it's hidden or affects multiple areas, can extend the project to 3-7 days or even longer. This includes assessment, containment, mold removal, structural drying, cleaning, and deodorization. A professional restoration company can provide a more precise timeline after a thorough inspection of your property.",
+        "@type": "Answer",
+        "description": "Professional mildew smell and mold removal can take 1-7 days or more, depending on the problem's severity, extent, and location. A thorough inspection provides an accurate timeline."
+      }
+    }
+  ],
+  "description": "Professional mildew smell and mold removal can take 1-7 days or more, depending on the problem's severity, extent, and location. A thorough inspection provides"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-crime-scene-cleanup",
+  "name": "What is the process for crime scene cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for crime scene cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process begins with a thorough assessment of the scene to identify all contaminated areas. Technicians then establish containment zones to prevent cross-contamination. Biohazardous materials are carefully removed, followed by deep cleaning, disinfection, and deodorization using professional-grade products. Any affected structural materials, such as carpet or drywall, are removed and properly disposed of. Finally, the area is sanitized and verified clean, ensuring the property is safe for re-occupancy.",
+        "@type": "Answer",
+        "description": "The process involves assessment, containment, removal of biohazards, deep cleaning, disinfection, deodorization, and proper disposal of contaminated materials to restore safety."
+      }
+    }
+  ],
+  "description": "The process involves assessment, containment, removal of biohazards, deep cleaning, disinfection, deodorization, and proper disposal of contaminated materials t"
+}

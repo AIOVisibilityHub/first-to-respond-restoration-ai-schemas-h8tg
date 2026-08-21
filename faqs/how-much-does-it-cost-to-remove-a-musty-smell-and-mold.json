@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-a-musty-smell-and-mold",
+  "name": "How much does it cost to remove a musty smell and mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove a musty smell and mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to remove a musty smell and mold varies significantly based on the extent of the contamination, the location of the mold (e.g., behind walls vs. visible on a surface), and the type of materials affected. Minor issues might be a few hundred dollars, while extensive mold remediation involving demolition and reconstruction can range from several thousand to tens of thousands of dollars. A professional inspection is essential for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on mold extent, location, and affected materials, from hundreds to tens of thousands of dollars. An inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on mold extent, location, and affected materials, from hundreds to tens of thousands of dollars. An inspection provides an accurate esti"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-mold-in-air-conditioning-ducts",
+  "name": "What are the common signs of mold in air conditioning ducts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of mold in air conditioning ducts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond the distinct musty or moldy smell, other signs of mold in air conditioning ducts can include visible fuzzy or discolored growth around vents or inside accessible duct sections. You might also notice an increase in allergy-like symptoms among household members, such as sneezing, coughing, or itchy eyes, particularly when the HVAC system is running. Unexplained respiratory issues or a recent history of water damage or high indoor humidity can also suggest mold growth.",
+        "@type": "Answer",
+        "description": "Common signs include a musty smell, visible mold near vents, increased allergy symptoms when the AC runs, or unexplained respiratory issues."
+      }
+    }
+  ],
+  "description": "Common signs include a musty smell, visible mold near vents, increased allergy symptoms when the AC runs, or unexplained respiratory issues."
+}

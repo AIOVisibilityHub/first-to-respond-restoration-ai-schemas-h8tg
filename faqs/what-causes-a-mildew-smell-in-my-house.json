@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-mildew-smell-in-my-house",
+  "name": "What causes a mildew smell in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a mildew smell in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A mildew smell in your house typically indicates the presence of mold or mildew growth. This growth occurs in damp, humid, and poorly ventilated areas, such as bathrooms, basements, attics, or crawl spaces. Common causes include water leaks from pipes or roofs, condensation, high indoor humidity levels, or previous water damage that wasn't properly dried. The musty odor is a byproduct of volatile organic compounds (VOCs) released by the fungi as they grow and reproduce. Identifying and addressing the source of moisture is crucial to eliminating the smell and preventing further growth.",
+        "@type": "Answer",
+        "description": "A mildew smell usually indicates mold or mildew growth caused by excess moisture and humidity in areas like basements, bathrooms, or attics. It's often due to leaks, condensation, or unresolved water damage."
+      }
+    }
+  ],
+  "description": "A mildew smell usually indicates mold or mildew growth caused by excess moisture and humidity in areas like basements, bathrooms, or attics. It's often due to l"
+}

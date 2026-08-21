@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-detect-mold-behind-walls-or-under-flooring",
+  "name": "How can I detect mold behind walls or under flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I detect mold behind walls or under flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detecting mold behind walls or under flooring often relies on sensory cues. The most reliable indicator is a strong, persistent musty odor, even without visible mold. You might also notice unexplained health issues like respiratory problems or headaches that improve when you leave the house. Physical signs can include warped or buckled flooring, discolored drywall, or condensation on cold pipes within wall cavities. Professional mold inspectors use specialized equipment like moisture meters and thermal cameras to identify hidden moisture sources that could be fostering mold growth in inaccessible areas.",
+        "@type": "Answer",
+        "description": "Detect hidden mold by a strong musty odor, unexplained health issues, or physical signs like warped flooring or discolored drywall. Professionals use moisture meters."
+      }
+    }
+  ],
+  "description": "Detect hidden mold by a strong musty odor, unexplained health issues, or physical signs like warped flooring or discolored drywall. Professionals use moisture m"
+}

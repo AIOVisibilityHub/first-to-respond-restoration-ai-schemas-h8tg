@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-mold-and-mildew-under-a-sink",
+  "name": "What's the difference between mold and mildew under a sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between mold and mildew under a sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both mold and mildew are types of fungi that thrive in damp conditions, often found under sinks. Mildew typically appears as a flat, powdery or downy growth, often white, gray, or yellow, and is usually easier to clean. Mold, on the other hand, can be fuzzy or slimy, often appearing in darker shades like black, green, or brown, and can penetrate deeper into materials, making it harder to remove. While both can cause a musty odor, mold often indicates a more significant moisture problem and can pose greater health risks.",
+        "@type": "Answer",
+        "description": "Mildew is usually powdery, flat, and easier to clean, while mold is often fuzzy or slimy, darker, and can penetrate deeper, indicating a more serious issue."
+      }
+    }
+  ],
+  "description": "Mildew is usually powdery, flat, and easier to clean, while mold is often fuzzy or slimy, darker, and can penetrate deeper, indicating a more serious issue."
+}

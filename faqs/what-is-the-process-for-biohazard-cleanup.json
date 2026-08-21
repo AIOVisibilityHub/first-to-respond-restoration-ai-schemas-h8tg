@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-biohazard-cleanup",
+  "name": "What is the process for biohazard cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for biohazard cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biohazard cleanup process typically begins with an assessment of the scene to identify all contaminated areas and potential hazards. Technicians then establish a safety perimeter and don appropriate personal protective equipment (PPE). Contaminated materials are meticulously removed, followed by thorough cleaning, disinfection, and deodorization of all affected surfaces. Specialized equipment like HEPA vacuums and air scrubbers may be used. Finally, all biohazardous waste is properly packaged and transported for safe and compliant disposal according to regulatory standards.",
+        "@type": "Answer",
+        "description": "The process involves assessment, securing the scene, removal of contaminants, thorough cleaning and disinfection, deodorization, and proper disposal of biohazardous waste."
+      }
+    }
+  ],
+  "description": "The process involves assessment, securing the scene, removal of contaminants, thorough cleaning and disinfection, deodorization, and proper disposal of biohazar"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-know-if-the-moldy-smell-is-coming-from-under-the-sink-or-somewhere-else",
+  "name": "How do I know if the moldy smell is coming from under the sink or somewhere else?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if the moldy smell is coming from under the sink or somewhere else?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To pinpoint the source, start by carefully inspecting the area directly under the sink. Look for visible mold, water stains, pooling water, or drips from pipes and connections. Check the cabinet base, back panel, and any items stored inside. If the smell is strongest there, it's likely the source. If you don't find obvious signs, expand your search to nearby walls, floors, or the surrounding cabinet structures, as mold can sometimes be hidden behind surfaces or travel from adjacent areas.",
+        "@type": "Answer",
+        "description": "Check under the sink for visible mold or moisture; if none, expand inspection to nearby walls or floors."
+      }
+    }
+  ],
+  "description": "Check under the sink for visible mold or moisture; if none, expand inspection to nearby walls or floors."
+}

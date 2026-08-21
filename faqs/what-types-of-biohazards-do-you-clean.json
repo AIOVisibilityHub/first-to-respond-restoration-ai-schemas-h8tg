@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-biohazards-do-you-clean",
+  "name": "What types of biohazards do you clean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of biohazards do you clean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We specialize in cleaning and decontaminating a wide range of biohazardous materials. This includes blood and bodily fluids from trauma scenes or unattended deaths, infectious waste, animal waste (e.g., hoarding situations or pest infestations), sewage backups, and illicit drug residue (e.g., meth labs). Our certified technicians are equipped to handle hazardous biological and chemical contaminants, ensuring proper cleanup and disposal to restore the safety and cleanliness of your property.",
+        "@type": "Answer",
+        "description": "We clean various biohazards, including blood, bodily fluids, infectious waste, animal waste, sewage backups, and illicit drug residue."
+      }
+    }
+  ],
+  "description": "We clean various biohazards, including blood, bodily fluids, infectious waste, animal waste, sewage backups, and illicit drug residue."
+}

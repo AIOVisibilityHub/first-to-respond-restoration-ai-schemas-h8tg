@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-biohazard-cleanup",
+  "name": "What is biohazard cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is biohazard cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Biohazard cleanup involves the thorough removal, cleaning, and disinfection of hazardous biological substances. These substances can include blood, bodily fluids, animal remains, mold, and sewage, which may contain bacteria, viruses, and other pathogens that pose health risks. Specialized training, equipment, and cleaning agents are required to safely handle and dispose of these materials according to health regulations. The goal is to restore the affected area to a safe and habitable condition, eliminating contamination and odors.",
+        "@type": "Answer",
+        "description": "Biohazard cleanup is the specialized process of removing, cleaning, and disinfecting hazardous biological substances like blood, bodily fluids, or mold to eliminate health risks."
+      }
+    }
+  ],
+  "description": "Biohazard cleanup is the specialized process of removing, cleaning, and disinfecting hazardous biological substances like blood, bodily fluids, or mold to elimi"
+}

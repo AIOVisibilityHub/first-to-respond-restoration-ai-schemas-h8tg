@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-water-damage-restoration-when-there-s-a-musty-smell-in-n",
+  "name": "What is the process for water damage restoration when there's a musty smell in North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for water damage restoration when there's a musty smell in North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In North Hollywood, the restoration process for water damage with a musty smell typically begins with an emergency response to contain the water and prevent further damage. Our team will perform a thorough inspection to locate the moisture source and assess all affected areas, including hidden spaces where mold might be growing. We then extract standing water, set up professional-grade drying equipment, and dehumidifiers to remove all moisture. Any materials contaminated with mold that cannot be salvaged are safely removed and disposed of. Finally, the area is cleaned, disinfected, and deodorized to eliminate the musty smell and restore healthy indoor air quality.",
+        "@type": "Answer",
+        "description": "The North Hollywood restoration process involves emergency response, water extraction, professional drying and dehumidification, mold remediation, and final cleaning and deodorization."
+      }
+    }
+  ],
+  "description": "The North Hollywood restoration process involves emergency response, water extraction, professional drying and dehumidification, mold remediation, and final cle"
+}

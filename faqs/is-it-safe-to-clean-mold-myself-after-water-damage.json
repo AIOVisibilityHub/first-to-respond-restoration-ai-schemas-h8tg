@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-it-safe-to-clean-mold-myself-after-water-damage",
+  "name": "Is it safe to clean mold myself after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it safe to clean mold myself after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small areas of mold (less than 10 square feet) on non-porous surfaces, you may attempt to clean it yourself using appropriate personal protective equipment, such as gloves and an N-95 respirator. However, if the mold covers a large area, is in HVAC systems, or if you suspect it's on porous materials like drywall or carpet, it is generally recommended to hire a professional. Improper cleaning can spread mold spores and worsen the problem, especially after water damage which often creates conditions for extensive growth.",
+        "@type": "Answer",
+        "description": "You can clean small mold patches on non-porous surfaces yourself with proper safety gear. For larger areas or porous materials, professional mold remediation is recommended to prevent spreading."
+      }
+    }
+  ],
+  "description": "You can clean small mold patches on non-porous surfaces yourself with proper safety gear. For larger areas or porous materials, professional mold remediation is"
+}

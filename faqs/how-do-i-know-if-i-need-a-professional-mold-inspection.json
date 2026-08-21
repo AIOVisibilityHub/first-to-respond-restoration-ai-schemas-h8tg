@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-know-if-i-need-a-professional-mold-inspection",
+  "name": "How do I know if I need a professional mold inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a professional mold inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a professional mold inspection if you see visible mold growth, smell a musty odor, or have experienced a recent water leak or flood. If family members are experiencing unexplained allergy-like symptoms, such as sneezing, coughing, or skin irritation, and there's no visible mold, an inspection can help determine if hidden mold is the cause. Professionals use specialized tools to detect moisture and hidden mold.",
+        "@type": "Answer",
+        "description": "Consider a professional mold inspection if you see mold, smell musty odors, had water damage, or experience unexplained allergy symptoms."
+      }
+    }
+  ],
+  "description": "Consider a professional mold inspection if you see mold, smell musty odors, had water damage, or experience unexplained allergy symptoms."
+}

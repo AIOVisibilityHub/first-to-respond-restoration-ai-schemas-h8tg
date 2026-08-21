@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-happens-after-a-mold-inspection",
+  "name": "What happens after a mold inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a mold inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a mold inspection, First To Respond Restoration will provide you with a detailed report outlining our findings. This report will include any identified mold growth, areas of moisture intrusion, lab results if samples were taken, and a clear, actionable plan for mold remediation. We will explain the report in full and discuss the recommended steps to safely and effectively remove the mold and prevent its return.",
+        "@type": "Answer",
+        "description": "After the inspection, you receive a detailed report with findings, lab results (if applicable), and a plan for mold remediation and prevention."
+      }
+    }
+  ],
+  "description": "After the inspection, you receive a detailed report with findings, lab results (if applicable), and a plan for mold remediation and prevention."
+}

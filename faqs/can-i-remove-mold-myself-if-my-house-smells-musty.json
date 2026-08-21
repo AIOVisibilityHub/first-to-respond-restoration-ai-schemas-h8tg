@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-myself-if-my-house-smells-musty",
+  "name": "Can I remove mold myself if my house smells musty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold myself if my house smells musty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small areas of surface mold (less than 10 square feet) on non-porous surfaces may sometimes be cleaned by homeowners using appropriate safety gear and cleaning solutions. However, if the mold covers a larger area, is deeply embedded in porous materials like drywall or carpets, or if you have underlying health concerns, professional remediation is strongly advised. Mold that causes a strong smell often indicates a more significant or hidden problem that requires specialized equipment and expertise for safe and effective removal.",
+        "@type": "Answer",
+        "description": "You can clean small surface mold, but for extensive, hidden, or strong-smelling mold, professional remediation is recommended for safety and effectiveness."
+      }
+    }
+  ],
+  "description": "You can clean small surface mold, but for extensive, hidden, or strong-smelling mold, professional remediation is recommended for safety and effectiveness."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-mold-and-mildew",
+  "name": "What's the difference between mold and mildew?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between mold and mildew?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both mold and mildew are types of fungi that thrive in damp conditions and can cause musty odors. Mildew typically appears as a flat, powdery or downy growth, often white, gray, or yellowish, and usually grows on surface layers. Mold, however, is often fuzzy or slimy, can be black, green, or other colors, and penetrates deeper into porous materials. While both need moisture, mold can cause more significant structural damage and has a stronger, more pervasive smell.",
+        "@type": "Answer",
+        "description": "Mildew is usually powdery surface growth, while mold is often fuzzy, deeper, and causes more damage. Both cause musty smells."
+      }
+    }
+  ],
+  "description": "Mildew is usually powdery surface growth, while mold is often fuzzy, deeper, and causes more damage. Both cause musty smells."
+}

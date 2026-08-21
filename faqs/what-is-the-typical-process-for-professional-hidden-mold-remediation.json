@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-professional-hidden-mold-remediation",
+  "name": "What is the typical process for professional hidden mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for professional hidden mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional hidden mold remediation typically begins with containment to prevent mold spores from spreading to unaffected areas. Technicians then identify and address the moisture source that caused the mold. Affected materials, such as drywall, insulation, or flooring, are carefully removed and safely disposed of. The area is cleaned using specialized antimicrobial agents and thoroughly dried. Finally, air scrubbers and HEPA vacuums are used to remove airborne mold spores. Post-remediation verification testing is often conducted to ensure the mold has been effectively removed.",
+        "@type": "Answer",
+        "description": "Professional hidden mold remediation involves containment, moisture source repair, removal of affected materials, cleaning, drying, and air purification."
+      }
+    }
+  ],
+  "description": "Professional hidden mold remediation involves containment, moisture source repair, removal of affected materials, cleaning, drying, and air purification."
+}

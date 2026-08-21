@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-mold-remediation-behind-walls",
+  "name": "What is the process for mold remediation behind walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for mold remediation behind walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for mold remediation behind walls typically begins with isolating the affected area to prevent cross-contamination. Professionals then use specialized equipment to remove mold-infested materials, such as drywall or insulation. The structural elements are thoroughly cleaned, disinfected, and dried to prevent recurrence. Air filtration devices are used to capture airborne mold spores. After cleaning, antimicrobial treatments are applied, and finally, affected areas are rebuilt to restore the property to its original condition. Proper safety protocols are followed throughout.",
+        "@type": "Answer",
+        "description": "Mold remediation involves isolating the area, removing contaminated materials, cleaning and drying affected structures, and using air filtration, followed by rebuilding."
+      }
+    }
+  ],
+  "description": "Mold remediation involves isolating the area, removing contaminated materials, cleaning and drying affected structures, and using air filtration, followed by re"
+}

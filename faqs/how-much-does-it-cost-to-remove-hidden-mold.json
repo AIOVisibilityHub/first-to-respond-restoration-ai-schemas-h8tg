@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-hidden-mold",
+  "name": "How much does it cost to remove hidden mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove hidden mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of hidden mold removal varies widely, making it difficult to give an exact figure without an inspection. Factors influencing cost include the size and type of mold, the extent of water damage, the accessibility of the mold (e.g., behind walls vs. open surfaces), and the amount of material that needs to be removed and replaced. Minor, localized issues might cost a few hundred dollars, while extensive hidden infestations requiring structural work could range from several thousand dollars or more. An inspection by a professional restoration company is necessary for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Hidden mold removal costs vary based on mold size, damage extent, accessibility, and material replacement needs. A professional inspection is required for an estimate."
+      }
+    }
+  ],
+  "description": "Hidden mold removal costs vary based on mold size, damage extent, accessibility, and material replacement needs. A professional inspection is required for an es"
+}

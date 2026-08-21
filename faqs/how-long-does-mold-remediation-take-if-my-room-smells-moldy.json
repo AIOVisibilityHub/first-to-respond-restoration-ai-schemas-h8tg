@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-mold-remediation-take-if-my-room-smells-moldy",
+  "name": "How long does mold remediation take if my room smells moldy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does mold remediation take if my room smells moldy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold remediation depends on the severity and extent of the mold problem. Small, accessible mold issues might be resolved in 1-3 days. However, more complex situations involving hidden mold, extensive water damage, or significant structural elements can take 3-7 days or even longer, especially if drying and reconstruction are needed. A professional assessment will provide a more precise timeline for your specific situation, ensuring all mold is removed and the area is thoroughly dried.",
+        "@type": "Answer",
+        "description": "Mold remediation time varies from 1-3 days for small issues to over a week for complex cases, depending on severity and scope."
+      }
+    }
+  ],
+  "description": "Mold remediation time varies from 1-3 days for small issues to over a week for complex cases, depending on severity and scope."
+}

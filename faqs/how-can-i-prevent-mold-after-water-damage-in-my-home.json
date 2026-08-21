@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-mold-after-water-damage-in-my-home",
+  "name": "How can I prevent mold after water damage in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent mold after water damage in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most effective way to prevent mold after water damage is to act quickly. Dry out all affected areas completely within 24 to 48 hours. Use dehumidifiers, fans, and open windows to increase air circulation. Remove and discard porous materials that cannot be thoroughly dried, such as soaked carpet padding, insulation, or drywall. Clean non-porous surfaces with an antimicrobial solution. Ensure proper ventilation in bathrooms and kitchens, and address any leaks or plumbing issues promptly.",
+        "@type": "Answer",
+        "description": "Prevent mold by drying affected areas within 24-48 hours, using fans and dehumidifiers, removing unsalvageable porous materials, and fixing leaks promptly."
+      }
+    }
+  ],
+  "description": "Prevent mold by drying affected areas within 24-48 hours, using fans and dehumidifiers, removing unsalvageable porous materials, and fixing leaks promptly."
+}

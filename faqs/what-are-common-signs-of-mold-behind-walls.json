@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-of-mold-behind-walls",
+  "name": "What are common signs of mold behind walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of mold behind walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold behind walls often include a persistent musty or earthy odor, even if no visible mold is present. You might also notice discolored or warped areas on walls, such as peeling paint or wallpaper, or bulging surfaces. If you or others in the building experience unexplained respiratory issues, sneezing, coughing, or eye irritation, these could be indicators of hidden mold. Another sign is past water damage in the area, as moisture is a primary catalyst for mold growth.",
+        "@type": "Answer",
+        "description": "Look for musty odors, discolored or warped walls, and unexplained respiratory issues, especially in areas with past water damage."
+      }
+    }
+  ],
+  "description": "Look for musty odors, discolored or warped walls, and unexplained respiratory issues, especially in areas with past water damage."
+}

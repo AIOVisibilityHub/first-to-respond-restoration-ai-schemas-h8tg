@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-get-rid-of-mold-smell",
+  "name": "How long does it take to get rid of mold smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to get rid of mold smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to eliminate a mold smell depends on the extent of the mold growth and the effectiveness of the remediation. Once the mold source is identified and properly removed, the smell typically dissipates within a few days to a few weeks, provided the affected areas are thoroughly cleaned, dried, and treated. If the underlying moisture problem isn't resolved or remediation is incomplete, the smell may return. Professional remediation ensures comprehensive removal, leading to faster and more permanent odor elimination.",
+        "@type": "Answer",
+        "description": "After professional mold removal and drying, the smell usually dissipates within days to a few weeks, depending on the severity."
+      }
+    }
+  ],
+  "description": "After professional mold removal and drying, the smell usually dissipates within days to a few weeks, depending on the severity."
+}

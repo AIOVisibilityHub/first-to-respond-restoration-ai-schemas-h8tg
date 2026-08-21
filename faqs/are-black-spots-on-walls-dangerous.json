@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/are-black-spots-on-walls-dangerous",
+  "name": "Are black spots on walls dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are black spots on walls dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black spots on walls, often mold, can pose health risks, especially for individuals with allergies, asthma, or compromised immune systems. Symptoms can include respiratory issues, skin irritation, and headaches. Beyond health concerns, mold can also cause structural damage to your home over time by weakening building materials like drywall and wood. Early detection and remediation are important to mitigate these risks.",
+        "@type": "Answer",
+        "description": "Black spots, often mold, can cause health issues like respiratory problems and structural damage to your home, making professional assessment advisable."
+      }
+    }
+  ],
+  "description": "Black spots, often mold, can cause health issues like respiratory problems and structural damage to your home, making professional assessment advisable."
+}

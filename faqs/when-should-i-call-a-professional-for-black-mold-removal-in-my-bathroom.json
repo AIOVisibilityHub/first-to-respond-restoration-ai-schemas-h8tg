@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-black-mold-removal-in-my-bathroom",
+  "name": "When should I call a professional for black mold removal in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for black mold removal in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for black mold removal if the affected area is larger than 10 square feet, if mold growth is extensive or suspected behind walls, or if you or your family are experiencing health issues related to mold exposure. Professionals have the specialized equipment, training, and containment procedures to safely and effectively remove mold, prevent its spread, and address the underlying moisture source. Attempting large-scale mold removal yourself without proper precautions can worsen the problem.",
+        "@type": "Answer",
+        "description": "Call a professional for black mold removal if the area is extensive (over 10 sq ft), hidden, or if health issues are present. Professionals ensure safe and effective remediation."
+      }
+    }
+  ],
+  "description": "Call a professional for black mold removal if the area is extensive (over 10 sq ft), hidden, or if health issues are present. Professionals ensure safe and effe"
+}

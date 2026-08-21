@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-for-mold-to-grow-behind-walls-after-water-damage",
+  "name": "How long does it take for mold to grow behind walls after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take for mold to grow behind walls after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold can begin to grow behind walls surprisingly quickly after water damage occurs. Under ideal conditions, with sufficient moisture, a food source (like drywall or wood), and a suitable temperature, mold spores can germinate and start to colonize within 24 to 48 hours. Visible growth might take a few days to a week to appear, but the process begins almost immediately. Prompt drying and remediation after any water intrusion are critical to preventing significant mold development.",
+        "@type": "Answer",
+        "description": "Mold can start growing behind walls within 24 to 48 hours after water damage if moisture and food sources are present."
+      }
+    }
+  ],
+  "description": "Mold can start growing behind walls within 24 to 48 hours after water damage if moisture and food sources are present."
+}

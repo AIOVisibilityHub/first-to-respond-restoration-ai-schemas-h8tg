@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/where-should-i-look-for-hidden-mold-after-a-leak",
+  "name": "Where should I look for hidden mold after a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should I look for hidden mold after a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden mold can often be found in areas that were wet but not thoroughly dried, or in enclosed spaces. Check behind drywall, under flooring (especially carpet or wood), inside wall cavities, and in insulation. Basements, attics, and crawl spaces are also common hiding spots due to their potential for dampness and lack of ventilation. Look for water stains on ceilings or walls that might indicate a hidden leak and subsequent mold growth. A persistent musty smell without a visible source is a strong indicator of hidden mold.",
+        "@type": "Answer",
+        "description": "Look for hidden mold behind drywall, under flooring, inside wall cavities, and in insulation. Basements, attics, and crawl spaces are also common damp areas where mold can hide."
+      }
+    }
+  ],
+  "description": "Look for hidden mold behind drywall, under flooring, inside wall cavities, and in insulation. Basements, attics, and crawl spaces are also common damp areas whe"
+}

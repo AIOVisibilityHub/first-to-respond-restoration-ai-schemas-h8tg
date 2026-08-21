@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-mildew-smell-dangerous-to-my-health",
+  "name": "Is a mildew smell dangerous to my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a mildew smell dangerous to my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all mold and mildew are highly toxic, prolonged exposure to a mildew smell can negatively impact health, especially for sensitive individuals. Common symptoms include respiratory issues like coughing, wheezing, and shortness of breath, as well as nasal congestion, eye irritation, skin rashes, and headaches. People with allergies, asthma, or compromised immune systems are particularly vulnerable. It's best to address the source of the smell promptly to mitigate potential health risks and improve indoor air quality. If symptoms persist, consult a healthcare professional.",
+        "@type": "Answer",
+        "description": "A mildew smell can indicate mold exposure, potentially causing respiratory issues, allergies, or irritation, especially for sensitive individuals. It's important to address the source promptly."
+      }
+    }
+  ],
+  "description": "A mildew smell can indicate mold exposure, potentially causing respiratory issues, allergies, or irritation, especially for sensitive individuals. It's importan"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-musty-smell-in-a-house",
+  "name": "What causes a musty smell in a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a musty smell in a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A musty smell typically indicates the presence of mold or mildew, often caused by excessive moisture. Common sources include leaks in plumbing, roofs, or foundations; high humidity levels; inadequate ventilation; and water damage from floods or spills that weren't thoroughly dried. These conditions create an ideal environment for fungi to grow, releasing volatile organic compounds (VOCs) that produce the characteristic odor. Addressing the source of moisture is crucial for eliminating the smell.",
+        "@type": "Answer",
+        "description": "A musty smell usually signals mold or mildew, which thrive in excessive moisture from leaks, high humidity, or water damage."
+      }
+    }
+  ],
+  "description": "A musty smell usually signals mold or mildew, which thrive in excessive moisture from leaks, high humidity, or water damage."
+}

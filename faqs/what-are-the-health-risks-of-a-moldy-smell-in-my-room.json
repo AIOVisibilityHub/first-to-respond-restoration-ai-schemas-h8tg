@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-health-risks-of-a-moldy-smell-in-my-room",
+  "name": "What are the health risks of a moldy smell in my room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the health risks of a moldy smell in my room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exposure to mold, even if you only smell it, can trigger various health issues, especially for individuals with allergies, asthma, or compromised immune systems. Common symptoms include respiratory problems like coughing, wheezing, and shortness of breath, as well as nasal stuffiness, eye irritation, skin rashes, and headaches. Prolonged exposure can lead to more severe chronic conditions. It's crucial to identify and remediate the mold source to protect your health and the well-being of anyone in the affected environment.",
+        "@type": "Answer",
+        "description": "A moldy smell can cause respiratory issues, allergies, and other health problems. Prompt remediation is important for health and safety."
+      }
+    }
+  ],
+  "description": "A moldy smell can cause respiratory issues, allergies, and other health problems. Prompt remediation is important for health and safety."
+}

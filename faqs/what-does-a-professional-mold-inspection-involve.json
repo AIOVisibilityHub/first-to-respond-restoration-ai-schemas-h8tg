@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-a-professional-mold-inspection-involve",
+  "name": "What does a professional mold inspection involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a professional mold inspection involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional mold inspection typically involves a thorough visual examination of your property, both interior and exterior, to identify signs of water damage or mold growth. Inspectors use moisture meters and thermal imaging cameras to detect hidden moisture behind walls or under flooring. Air samples and surface samples may be taken for laboratory analysis to identify mold types and concentrations. A detailed report with findings and recommendations for remediation will then be provided.",
+        "@type": "Answer",
+        "description": "A professional mold inspection involves visual checks, moisture detection, air and surface sampling, and a detailed report with recommendations."
+      }
+    }
+  ],
+  "description": "A professional mold inspection involves visual checks, moisture detection, air and surface sampling, and a detailed report with recommendations."
+}

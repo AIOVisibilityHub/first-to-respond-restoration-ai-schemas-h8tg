@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-odors-can-be-left-after-a-crime-scene-and-how-are-they-removed",
+  "name": "What kind of odors can be left after a crime scene and how are they removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of odors can be left after a crime scene and how are they removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traumatic events involving biological materials often leave persistent and strong odors that regular cleaning cannot eliminate. These odors are caused by decomposing organic matter. Professional cleanup addresses this through specialized deodorization techniques. After all biohazards are removed and surfaces are disinfected, we use industrial-grade air scrubbers, ozone generators (under controlled conditions), and thermal fogging to neutralize and eliminate odors at their source, rather than just masking them. This ensures the property is completely restored to a fresh and neutral state.",
+        "@type": "Answer",
+        "description": "Persistent odors from biohazards are removed after cleanup using specialized techniques like industrial air scrubbers, ozone generators, and thermal fogging to neutralize them completely."
+      }
+    }
+  ],
+  "description": "Persistent odors from biohazards are removed after cleanup using specialized techniques like industrial air scrubbers, ozone generators, and thermal fogging to"
+}

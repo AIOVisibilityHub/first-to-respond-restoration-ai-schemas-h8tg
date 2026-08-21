@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-black-spots-on-my-walls",
+  "name": "When should I call a professional for black spots on my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for black spots on my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company if black spots cover an area larger than 10 square feet, if they reappear after cleaning, or if you suspect the mold is due to a hidden water leak. Professionals can accurately identify the mold type, locate the moisture source, safely contain and remove the mold, and prevent future growth. This is especially important for extensive infestations or if you have health concerns.",
+        "@type": "Answer",
+        "description": "Call a professional if black spots are extensive (over 10 sq ft), recur after cleaning, or stem from a hidden water leak, ensuring safe and effective remediation."
+      }
+    }
+  ],
+  "description": "Call a professional if black spots are extensive (over 10 sq ft), recur after cleaning, or stem from a hidden water leak, ensuring safe and effective remediatio"
+}

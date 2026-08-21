@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/which-areas-do-you-serve-for-musty-smell-and-mold-remediation",
+  "name": "Which areas do you serve for musty smell and mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas do you serve for musty smell and mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We proudly serve clients experiencing musty smells and mold issues in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our local teams are familiar with the specific environmental factors and building types in these communities. We are committed to providing prompt, effective, and reliable mold remediation services to help residents and businesses in these areas restore their properties to a healthy and safe condition.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for musty smell and mold remediation services."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for musty smell and mold remediation services."
+}

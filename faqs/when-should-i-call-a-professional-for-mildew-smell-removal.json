@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mildew-smell-removal",
+  "name": "When should I call a professional for mildew smell removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mildew smell removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for mildew smell removal if the odor persists despite your cleaning efforts, if you see widespread mold growth (larger than a small patch), or if you suspect mold is hidden behind walls or under flooring. Professionals are also necessary after significant water damage, like a flood or burst pipe, to ensure complete drying and prevent future mold. They have specialized equipment to detect hidden moisture, contain contamination, safely remove mold, and use industrial-grade air scrubbers to eliminate odors, ensuring a healthier environment.",
+        "@type": "Answer",
+        "description": "Call a professional for mildew smell removal if the odor persists, mold growth is extensive or hidden, or after significant water damage. They have tools for detection, safe removal, and air purification."
+      }
+    }
+  ],
+  "description": "Call a professional for mildew smell removal if the odor persists, mold growth is extensive or hidden, or after significant water damage. They have tools for de"
+}

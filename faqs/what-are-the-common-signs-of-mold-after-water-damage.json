@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-mold-after-water-damage",
+  "name": "What are the common signs of mold after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of mold after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After water damage, mold often presents with a distinct musty or earthy odor. Visible signs can include discolored patches on walls, ceilings, or floors, which might appear black, green, brown, or white. Look for fuzzy or slimy textures. Mold can also hide behind or under materials like drywall, flooring, or wallpaper. Other indicators might be peeling paint or wallpaper, or new allergic reactions in occupants, such as sneezing, coughing, or itchy eyes, which worsen when in the affected area.",
+        "@type": "Answer",
+        "description": "Common signs of mold after water damage include a musty odor, visible discolored patches, and fuzzy or slimy textures on surfaces. You might also notice peeling paint or unexplained allergic reactions."
+      }
+    }
+  ],
+  "description": "Common signs of mold after water damage include a musty odor, visible discolored patches, and fuzzy or slimy textures on surfaces. You might also notice peeling"
+}

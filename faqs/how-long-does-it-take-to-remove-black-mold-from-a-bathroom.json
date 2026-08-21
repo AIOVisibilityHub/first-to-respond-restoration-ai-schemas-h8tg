@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-black-mold-from-a-bathroom",
+  "name": "How long does it take to remove black mold from a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove black mold from a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of black mold removal from a bathroom depends on the severity and extent of the infestation. A small, easily accessible mold patch might be remediated within a day. However, more extensive mold growth, especially if it's hidden behind walls or involves significant water damage, can take several days to a week or more. This timeframe includes containment, removal, drying, and final cleaning. Addressing the moisture source and any necessary repairs can also extend the overall project timeline.",
+        "@type": "Answer",
+        "description": "Removal time varies from a day for small patches to a week or more for extensive, hidden growth. Factors include severity, accessibility, and necessary repairs."
+      }
+    }
+  ],
+  "description": "Removal time varies from a day for small patches to a week or more for extensive, hidden growth. Factors include severity, accessibility, and necessary repairs."
+}

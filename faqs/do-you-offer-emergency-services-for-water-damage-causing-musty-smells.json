@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-emergency-services-for-water-damage-causing-musty-smells",
+  "name": "Do you offer emergency services for water damage causing musty smells?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency services for water damage causing musty smells?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we provide 24/7 emergency restoration services for water damage, which is a common cause of musty smells and mold growth. Swift action is crucial to minimize damage and prevent mold. Our team can respond rapidly to extract water, dry affected areas using industrial-grade equipment, and begin the process of mitigating potential mold issues. Our immediate response helps protect your property and health by addressing the problem before it escalates.",
+        "@type": "Answer",
+        "description": "Yes, we offer 24/7 emergency water damage services to prevent musty smells and mold by quickly extracting water and drying affected areas."
+      }
+    }
+  ],
+  "description": "Yes, we offer 24/7 emergency water damage services to prevent musty smells and mold by quickly extracting water and drying affected areas."
+}

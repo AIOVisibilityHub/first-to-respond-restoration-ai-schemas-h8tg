@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-training-do-biohazard-cleanup-technicians-have",
+  "name": "What kind of training do biohazard cleanup technicians have?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of training do biohazard cleanup technicians have?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Biohazard cleanup technicians undergo extensive training to safely and effectively handle hazardous biological materials. This training typically includes instruction on OSHA Bloodborne Pathogen standards, proper use of personal protective equipment (PPE), containment procedures, disinfection techniques, and waste disposal regulations. They are also trained in the use of specialized cleaning agents and equipment to ensure thorough decontamination and odor removal. Continuous education ensures they stay updated on the latest safety protocols and industry best practices for various biohazard scenarios.",
+        "@type": "Answer",
+        "description": "Technicians are trained in OSHA Bloodborne Pathogen standards, PPE use, containment, disinfection techniques, and hazardous waste disposal to safely handle biohazards."
+      }
+    }
+  ],
+  "description": "Technicians are trained in OSHA Bloodborne Pathogen standards, PPE use, containment, disinfection techniques, and hazardous waste disposal to safely handle bioh"
+}

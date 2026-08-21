@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-have-a-professional-find-hidden-mold",
+  "name": "How much does it cost to have a professional find hidden mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to have a professional find hidden mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a professional hidden mold inspection can vary widely based on factors such as the size of your property, the suspected extent of the mold problem, and the complexity of the investigation. A basic inspection might range from a few hundred dollars, while more extensive assessments involving multiple samples, specialized equipment, and detailed reports could cost upwards of $500 or more. Some companies offer free initial consultations, but comprehensive testing and detailed reports typically incur a fee. It's best to get a detailed quote from a local restoration company.",
+        "@type": "Answer",
+        "description": "Costs vary based on property size and inspection complexity, ranging from a few hundred to over $500. Obtain a detailed quote from a local company."
+      }
+    }
+  ],
+  "description": "Costs vary based on property size and inspection complexity, ranging from a few hundred to over $500. Obtain a detailed quote from a local company."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-paint-over-black-spots-on-walls",
+  "name": "Can I paint over black spots on walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over black spots on walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, painting over black spots on walls is not recommended. If the black spots are mold, painting over them will not kill the mold or address the underlying moisture problem. The mold will continue to grow beneath the paint, eventually resurfacing and potentially causing further damage to your wall and indoor air quality. It's crucial to remove the mold and fix the moisture source before any repainting is considered.",
+        "@type": "Answer",
+        "description": "No, painting over black spots (mold) is not advised, as it won't kill the mold or fix the moisture issue, allowing it to continue growing beneath the paint."
+      }
+    }
+  ],
+  "description": "No, painting over black spots (mold) is not advised, as it won't kill the mold or fix the moisture issue, allowing it to continue growing beneath the paint."
+}

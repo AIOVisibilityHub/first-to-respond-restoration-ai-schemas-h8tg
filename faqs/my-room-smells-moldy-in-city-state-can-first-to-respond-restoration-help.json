@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/my-room-smells-moldy-in-city-state-can-first-to-respond-restoration-help",
+  "name": "My room smells moldy in [City, State]. Can First To Respond Restoration help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My room smells moldy in [City, State]. Can First To Respond Restoration help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration serves various areas, including Encino, North Hollywood, San Fernando, and Studio City. If your room smells moldy in these locations or surrounding communities we serve, our certified mold remediation specialists can help. We provide comprehensive services from inspection and identification of the mold source to safe removal and restoration. Contact us for prompt and professional assistance to resolve your mold problem and restore a healthy environment.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration assists with moldy smells in Encino, North Hollywood, San Fernando, Studio City, and surrounding areas."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration assists with moldy smells in Encino, North Hollywood, San Fernando, Studio City, and surrounding areas."
+}

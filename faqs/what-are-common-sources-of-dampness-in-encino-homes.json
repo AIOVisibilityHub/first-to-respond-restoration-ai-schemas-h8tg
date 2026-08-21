@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-sources-of-dampness-in-encino-homes",
+  "name": "What are common sources of dampness in Encino homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common sources of dampness in Encino homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Encino homes, common sources of dampness can include plumbing leaks within walls or under sinks, roof leaks from damaged shingles or flashing, and foundation issues that allow groundwater intrusion, especially after heavy rains. High humidity levels, particularly during certain seasons, can also contribute if ventilation is insufficient. Older homes might also have less effective moisture barriers, exacerbating the problem.",
+        "@type": "Answer",
+        "description": "Common dampness sources in Encino homes include plumbing leaks, roof leaks, foundation issues, and high humidity from insufficient ventilation."
+      }
+    }
+  ],
+  "description": "Common dampness sources in Encino homes include plumbing leaks, roof leaks, foundation issues, and high humidity from insufficient ventilation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-mildew-and-black-mold-on-walls",
+  "name": "What is the difference between mildew and black mold on walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between mildew and black mold on walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mildew is a common type of surface mold that usually appears as a flat, powdery or fuzzy growth, often white, gray, or yellowish. It typically grows on surfaces in humid conditions and can be easier to clean. Black mold (Stachybotrys chartarum), however, is a more serious type of fungus that can appear greenish-black and often has a slimy texture. It can grow embedded within porous materials like drywall and is associated with more significant health concerns, requiring professional remediation.",
+        "@type": "Answer",
+        "description": "Mildew is a superficial, powdery growth, often white or gray, while 'black mold' is a more severe, often slimy, greenish-black fungus embedded in materials, posing greater health risks."
+      }
+    }
+  ],
+  "description": "Mildew is a superficial, powdery growth, often white or gray, while 'black mold' is a more severe, often slimy, greenish-black fungus embedded in materials, pos"
+}

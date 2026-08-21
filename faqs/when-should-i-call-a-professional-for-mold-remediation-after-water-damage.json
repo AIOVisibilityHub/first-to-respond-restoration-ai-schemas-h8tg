@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-remediation-after-water-damage",
+  "name": "When should I call a professional for mold remediation after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold remediation after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for mold remediation if you see mold growth covering an area larger than 10 square feet, if mold is present in your HVAC system, or if you experience persistent mold-related health symptoms. Professionals are also needed when water damage has affected porous materials like drywall, insulation, or carpeting, as these often require specialized drying and removal. If the water damage was from contaminated sources (e.g., sewage), professional help is immediately necessary due to health risks.",
+        "@type": "Answer",
+        "description": "Call a professional for mold remediation if mold covers a large area, is in your HVAC system, affects porous materials, or if you have health symptoms. Also, contact them for contaminated water damage."
+      }
+    }
+  ],
+  "description": "Call a professional for mold remediation if mold covers a large area, is in your HVAC system, affects porous materials, or if you have health symptoms. Also, co"
+}

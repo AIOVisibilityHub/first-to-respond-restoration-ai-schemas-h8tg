@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-company-to-find-hidden-mold-in-the-encino-area",
+  "name": "How do I choose a company to find hidden mold in the Encino area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a company to find hidden mold in the Encino area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company to find hidden mold in the Encino area, look for one with certifications in mold assessment and remediation from recognized organizations. Prioritize companies with extensive local experience and positive customer reviews specific to mold detection and restoration. Ensure they use advanced equipment like moisture meters and thermal cameras for thorough inspections. Ask for proof of insurance and inquire about their process for identifying hidden mold and providing a detailed report. A reputable company will offer transparent pricing and clear communication throughout the process.",
+        "@type": "Answer",
+        "description": "Choose a company in Encino with mold assessment certifications, local experience, positive reviews, advanced equipment, insurance, and transparent pricing for hidden mold detection."
+      }
+    }
+  ],
+  "description": "Choose a company in Encino with mold assessment certifications, local experience, positive reviews, advanced equipment, insurance, and transparent pricing for h"
+}

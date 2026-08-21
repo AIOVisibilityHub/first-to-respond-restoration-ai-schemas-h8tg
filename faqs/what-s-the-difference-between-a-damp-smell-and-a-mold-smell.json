@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-a-damp-smell-and-a-mold-smell",
+  "name": "What's the difference between a damp smell and a mold smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a damp smell and a mold smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A damp smell often precedes a mold smell and indicates general excess moisture. It can be earthy or stale. A mold smell is typically more distinct and pungent, often described as musty, stale, or rotten. While all mold growth requires dampness, not all dampness immediately produces a strong mold odor. If you smell mold, it indicates active mold growth, which requires professional attention due to potential health risks and property damage.",
+        "@type": "Answer",
+        "description": "A damp smell indicates general moisture, while a mold smell is more pungent and signals active mold growth."
+      }
+    }
+  ],
+  "description": "A damp smell indicates general moisture, while a mold smell is more pungent and signals active mold growth."
+}

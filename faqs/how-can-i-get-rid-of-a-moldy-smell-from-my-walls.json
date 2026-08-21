@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-get-rid-of-a-moldy-smell-from-my-walls",
+  "name": "How can I get rid of a moldy smell from my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I get rid of a moldy smell from my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To eliminate a moldy smell, you must first identify and rectify the moisture source causing the mold growth. This could involve repairing leaks, improving ventilation, or dehumidifying the area. Once the moisture issue is resolved, professional mold remediation is often necessary. Technicians will safely contain the area, remove contaminated materials, clean affected surfaces, and apply antimicrobial treatments to prevent recurrence. Simply masking the smell will not solve the underlying problem.",
+        "@type": "Answer",
+        "description": "To get rid of a moldy smell, find and fix the moisture source, then engage professional mold remediation to safely remove the mold and treat the affected areas."
+      }
+    }
+  ],
+  "description": "To get rid of a moldy smell, find and fix the moisture source, then engage professional mold remediation to safely remove the mold and treat the affected areas."
+}

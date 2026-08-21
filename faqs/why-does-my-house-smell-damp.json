@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-my-house-smell-damp",
+  "name": "Why does my house smell damp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my house smell damp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A damp smell in your house typically indicates excess moisture. This can be caused by various factors, including leaks from plumbing, roofs, or foundations, high humidity levels, poor ventilation, or even hidden water damage from a past incident. Prolonged dampness can lead to mold and mildew growth, which also contributes to the musty odor. Identifying the source of the moisture is the first step in resolving the issue.",
+        "@type": "Answer",
+        "description": "A damp smell usually means excess moisture from leaks, high humidity, or poor ventilation, which can lead to mold."
+      }
+    }
+  ],
+  "description": "A damp smell usually means excess moisture from leaks, high humidity, or poor ventilation, which can lead to mold."
+}

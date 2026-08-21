@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-moldy-smell-dangerous",
+  "name": "Is a moldy smell dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a moldy smell dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a persistent moldy smell can be a sign of hidden mold growth, which can pose health risks. Mold spores, when inhaled, can trigger allergic reactions like sneezing, coughing, watery eyes, and skin irritation. For individuals with asthma or compromised immune systems, exposure can lead to more severe respiratory issues. Long-term exposure to certain types of mold may also have other health implications. It's important to investigate the source of the smell to protect your health.",
+        "@type": "Answer",
+        "description": "A moldy smell can indicate hidden mold, which can cause allergic reactions, respiratory issues, and other health problems, especially for sensitive individuals."
+      }
+    }
+  ],
+  "description": "A moldy smell can indicate hidden mold, which can cause allergic reactions, respiratory issues, and other health problems, especially for sensitive individuals."
+}

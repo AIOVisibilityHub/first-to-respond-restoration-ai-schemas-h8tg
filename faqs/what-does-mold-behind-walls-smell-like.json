@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-mold-behind-walls-smell-like",
+  "name": "What does mold behind walls smell like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does mold behind walls smell like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold behind walls typically emits a distinct, pungent, and musty odor. Some describe it as damp, earthy, or like old, rotting leaves. This smell is often the most noticeable sign of hidden mold, especially if no visible mold is present. The odor can become more intense in humid conditions or when the heating or air conditioning system circulates air from the affected area. If you consistently detect such a smell in a particular part of your home, it warrants further investigation.",
+        "@type": "Answer",
+        "description": "Mold behind walls smells distinctly musty, earthy, or like decaying leaves. This odor often intensifies in humid conditions."
+      }
+    }
+  ],
+  "description": "Mold behind walls smells distinctly musty, earthy, or like decaying leaves. This odor often intensifies in humid conditions."
+}

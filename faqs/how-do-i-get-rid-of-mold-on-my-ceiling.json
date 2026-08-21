@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-get-rid-of-mold-on-my-ceiling",
+  "name": "How do I get rid of mold on my ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I get rid of mold on my ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small areas of surface mold might be cleaned with appropriate personal protective equipment and specific cleaning agents, but this often doesn't address the underlying moisture problem. For larger or persistent growth, professional mold remediation is highly recommended. Professionals identify the moisture source, contain the area, remove contaminated materials, clean surfaces, and thoroughly dry the structure to prevent recurrence. This ensures safe and effective removal.",
+        "@type": "Answer",
+        "description": "For small areas, you might clean it, but professional mold remediation is recommended for larger or persistent growth to address the moisture source and safely remove it."
+      }
+    }
+  ],
+  "description": "For small areas, you might clean it, but professional mold remediation is recommended for larger or persistent growth to address the moisture source and safely"
+}

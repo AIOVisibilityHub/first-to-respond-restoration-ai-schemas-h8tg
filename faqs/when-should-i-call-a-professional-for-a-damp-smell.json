@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-damp-smell",
+  "name": "When should I call a professional for a damp smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a damp smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the damp smell persists despite your efforts, if you suspect hidden leaks, or if you see signs of mold growth. A professional restoration company has specialized equipment to detect hidden moisture, assess the extent of water damage, and safely remove mold. Early intervention can prevent further damage and more costly repairs. If you're in Encino or North Hollywood, consider reaching out for an assessment.",
+        "@type": "Answer",
+        "description": "Call a professional if the damp smell persists, you suspect hidden leaks, or see mold. They can detect hidden moisture and safely remediate damage."
+      }
+    }
+  ],
+  "description": "Call a professional if the damp smell persists, you suspect hidden leaks, or see mold. They can detect hidden moisture and safely remediate damage."
+}

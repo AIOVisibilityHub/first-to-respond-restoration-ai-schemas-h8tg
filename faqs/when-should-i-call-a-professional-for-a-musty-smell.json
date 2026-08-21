@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-musty-smell",
+  "name": "When should I call a professional for a musty smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a musty smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the musty smell persists despite your efforts to clean and dry the area, or if you suspect hidden mold growth behind walls, under flooring, or in HVAC systems. Additionally, if the affected area is large (more than 10 square feet), or if you or your family experience respiratory issues, it's best to consult experts. Professionals can identify the exact source, safely remove mold, and prevent its return.",
+        "@type": "Answer",
+        "description": "Call a professional if the musty smell persists, you suspect hidden mold, the affected area is large, or health issues arise."
+      }
+    }
+  ],
+  "description": "Call a professional if the musty smell persists, you suspect hidden mold, the affected area is large, or health issues arise."
+}

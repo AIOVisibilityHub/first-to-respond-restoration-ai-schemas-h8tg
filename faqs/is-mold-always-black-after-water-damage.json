@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-always-black-after-water-damage",
+  "name": "Is mold always black after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold always black after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, mold is not always black. While black mold is often talked about, mold can appear in a wide range of colors, including green, brown, white, gray, orange, and even purple or pink, depending on the species, moisture source, and food source. The color of mold is not a reliable indicator of its potential toxicity. All types of mold should be treated as potentially hazardous and professionally addressed, especially after water damage.",
+        "@type": "Answer",
+        "description": "No, mold comes in many colors, not just black. Its color doesn't indicate its danger level, and all mold should be addressed professionally."
+      }
+    }
+  ],
+  "description": "No, mold comes in many colors, not just black. Its color doesn't indicate its danger level, and all mold should be addressed professionally."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-perform-my-own-mold-inspection",
+  "name": "Can I perform my own mold inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform my own mold inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can visually check for obvious mold growth or musty odors, a professional mold inspection offers a much more thorough and accurate assessment. Professionals have specialized equipment like moisture meters and thermal cameras to detect hidden moisture and mold behind walls or under floors. They also understand mold types and growth patterns, ensuring a comprehensive evaluation that typical homeowners cannot achieve, which is crucial for effective remediation.",
+        "@type": "Answer",
+        "description": "You can check for obvious mold, but professionals use specialized tools and expertise to detect hidden mold and provide a comprehensive assessment."
+      }
+    }
+  ],
+  "description": "You can check for obvious mold, but professionals use specialized tools and expertise to detect hidden mold and provide a comprehensive assessment."
+}

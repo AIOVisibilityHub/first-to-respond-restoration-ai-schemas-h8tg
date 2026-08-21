@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-biohazard-cleanup-process",
+  "name": "What is the biohazard cleanup process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the biohazard cleanup process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biohazard cleanup process typically begins with a thorough assessment of the contaminated area. Technicians then secure the site to prevent further contamination and put on personal protective equipment. Next, all visible biological materials are carefully removed and properly packaged for disposal. This is followed by a multi-stage cleaning, disinfection, and deodorization process using specialized agents to eliminate pathogens and odors. Finally, the area is verified clean, and non-salvageable materials are disposed of in accordance with regulations, restoring the space to a safe state.",
+        "@type": "Answer",
+        "description": "The process involves assessment, site securing, removal of biohazards, multi-stage cleaning, disinfection, and deodorization, followed by proper disposal and verification of safety."
+      }
+    }
+  ],
+  "description": "The process involves assessment, site securing, removal of biohazards, multi-stage cleaning, disinfection, and deodorization, followed by proper disposal and ve"
+}

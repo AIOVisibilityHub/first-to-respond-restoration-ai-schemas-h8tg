@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-hidden-mold",
+  "name": "How long does it take to remove hidden mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove hidden mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of hidden mold removal varies greatly depending on the size of the mold colony, the extent of moisture damage, and the accessibility of the affected area. Minor hidden mold issues might be resolved within a few days, including drying times. Larger or more complex infestations, especially those requiring structural repairs or extensive material removal, could take several days to a week or more for the remediation process itself, plus additional time for rebuilding. A professional assessment can provide a more accurate timeline based on your specific situation.",
+        "@type": "Answer",
+        "description": "Hidden mold removal time varies; minor cases take a few days, while larger infestations requiring structural work could take a week or more."
+      }
+    }
+  ],
+  "description": "Hidden mold removal time varies; minor cases take a few days, while larger infestations requiring structural work could take a week or more."
+}

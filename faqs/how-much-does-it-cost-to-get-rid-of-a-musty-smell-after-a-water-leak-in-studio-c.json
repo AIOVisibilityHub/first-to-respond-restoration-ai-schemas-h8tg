@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-get-rid-of-a-musty-smell-after-a-water-leak-in-studio-c",
+  "name": "How much does it cost to get rid of a musty smell after a water leak in Studio City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to get rid of a musty smell after a water leak in Studio City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to eliminate a musty smell caused by a water leak in Studio City varies significantly based on several factors. These include the size of the affected area, the extent of the water damage, the type of materials impacted, and the severity of mold growth. Minor issues might involve just drying and deodorizing, while extensive mold may require demolition, remediation, and reconstruction. A professional restoration company will conduct an assessment to provide an accurate estimate. They consider equipment needed, labor, disposal of contaminated materials, and air quality testing. We offer transparent pricing after a thorough inspection.",
+        "@type": "Answer",
+        "description": "Cost to remove a musty smell after a water leak in Studio City depends on the damage size, mold extent, and materials affected; a professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost to remove a musty smell after a water leak in Studio City depends on the damage size, mold extent, and materials affected; a professional assessment provid"
+}

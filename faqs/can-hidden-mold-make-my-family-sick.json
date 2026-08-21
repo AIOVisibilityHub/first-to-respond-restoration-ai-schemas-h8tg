@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-hidden-mold-make-my-family-sick",
+  "name": "Can hidden mold make my family sick?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can hidden mold make my family sick?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, hidden mold can absolutely make your family sick. Exposure to mold spores, even when not visible, can trigger a range of health problems, especially in individuals with allergies, asthma, or compromised immune systems. Symptoms can include respiratory issues like coughing, wheezing, and shortness of breath, as well as nasal congestion, sneezing, skin irritation, eye irritation, headaches, and fatigue. Prolonged exposure can lead to more severe chronic health conditions. Identifying and removing hidden mold promptly is crucial for protecting your family's health.",
+        "@type": "Answer",
+        "description": "Yes, hidden mold can cause various health issues, including respiratory problems, allergies, skin and eye irritation, and headaches, especially for sensitive individuals."
+      }
+    }
+  ],
+  "description": "Yes, hidden mold can cause various health issues, including respiratory problems, allergies, skin and eye irritation, and headaches, especially for sensitive in"
+}

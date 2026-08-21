@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-test-for-mold-behind-walls-myself",
+  "name": "Can I test for mold behind walls myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I test for mold behind walls myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While DIY mold testing kits are available, they often only detect airborne mold spores and may not accurately indicate hidden mold behind walls. These kits can also produce false positives or negatives and don't identify the type of mold or its concentration. For reliable assessment of mold behind walls, it's best to consult a professional mold inspector or remediation company. They use specialized equipment, like moisture meters and thermal cameras, to detect hidden moisture and mold without damaging your property.",
+        "@type": "Answer",
+        "description": "DIY mold testing kits may not be accurate for hidden mold. Professionals use specialized equipment for reliable detection."
+      }
+    }
+  ],
+  "description": "DIY mold testing kits may not be accurate for hidden mold. Professionals use specialized equipment for reliable detection."
+}

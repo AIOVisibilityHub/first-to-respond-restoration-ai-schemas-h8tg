@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-moldy-smell-in-my-room",
+  "name": "When should I call a professional for a moldy smell in my room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a moldy smell in my room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the moldy smell is persistent, covers a large area, or if you suspect hidden mold behind walls or under floors. Professionals are also necessary if you've experienced water damage, suspect mold is affecting your health, or if you've tried to clean it yourself without success. They have the specialized equipment to locate the source, safely contain the area, and effectively remove all mold while preventing its return. Timely intervention can prevent the problem from worsening.",
+        "@type": "Answer",
+        "description": "Call a professional if the moldy smell is persistent, covers a large area, or if you suspect hidden mold or health impacts."
+      }
+    }
+  ],
+  "description": "Call a professional if the moldy smell is persistent, covers a large area, or if you suspect hidden mold or health impacts."
+}

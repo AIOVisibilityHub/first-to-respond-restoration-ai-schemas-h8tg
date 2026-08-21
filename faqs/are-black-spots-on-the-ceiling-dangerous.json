@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/are-black-spots-on-the-ceiling-dangerous",
+  "name": "Are black spots on the ceiling dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are black spots on the ceiling dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, black spots on the ceiling can indicate mold growth, which can pose health risks. Certain types of mold produce spores that, when inhaled, can trigger allergies, asthma attacks, respiratory problems, and other health issues in sensitive individuals. Prolonged exposure can also affect air quality and potentially compromise the structural integrity of your home over time. It's important to address black spots promptly to mitigate these potential dangers and ensure a safe indoor environment.",
+        "@type": "Answer",
+        "description": "Black spots often indicate mold, which can cause allergies, asthma, and other respiratory issues. It can also affect indoor air quality and structural integrity."
+      }
+    }
+  ],
+  "description": "Black spots often indicate mold, which can cause allergies, asthma, and other respiratory issues. It can also affect indoor air quality and structural integrity"
+}

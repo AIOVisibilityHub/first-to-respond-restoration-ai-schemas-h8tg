@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-mold-from-air-ducts",
+  "name": "How much does it cost to remove mold from air ducts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove mold from air ducts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold removal from air ducts varies significantly based on the extent of mold growth, the size of your HVAC system, and the complexity of the job. Factors like accessibility of the mold, the need for duct replacement, and the underlying cause of moisture all influence the total price. It's best to get a detailed inspection and a clear estimate from a professional remediation company after they assess your specific situation.",
+        "@type": "Answer",
+        "description": "The cost varies depending on the mold's extent, system size, and job complexity. A professional inspection is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost varies depending on the mold's extent, system size, and job complexity. A professional inspection is needed for an accurate estimate."
+}

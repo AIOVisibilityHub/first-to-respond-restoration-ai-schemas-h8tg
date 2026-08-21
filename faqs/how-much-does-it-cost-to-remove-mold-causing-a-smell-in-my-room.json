@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-mold-causing-a-smell-in-my-room",
+  "name": "How much does it cost to remove mold causing a smell in my room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove mold causing a smell in my room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold remediation varies significantly based on the size and location of the mold, the extent of water damage, and the materials affected. Minor, localized issues might cost a few hundred dollars, while extensive hidden mold requiring demolition and reconstruction could range from several thousands. Factors include labor, equipment, containment, material replacement, and post-remediation testing. A professional inspection is essential for an accurate estimate, as pricing is highly situation-dependent.",
+        "@type": "Answer",
+        "description": "Mold removal costs vary widely, depending on the mold's size, location, and extent of damage. A professional inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Mold removal costs vary widely, depending on the mold's size, location, and extent of damage. A professional inspection provides an accurate estimate."
+}

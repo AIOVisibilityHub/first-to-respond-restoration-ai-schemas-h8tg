@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-damage-can-black-mold-cause-in-my-bathroom",
+  "name": "What kind of damage can black mold cause in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can black mold cause in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black mold can cause significant damage to bathroom structures and materials. It feeds on organic matter, gradually deteriorating porous surfaces like drywall, wood framing, insulation, and grout, leading to structural weakening and potential collapse over time. Beyond visible damage, mold can compromise air quality, leading to a persistent musty odor. Untreated mold issues can also devalue your property and necessitate costly extensive repairs, often involving demolition and reconstruction of affected areas.",
+        "@type": "Answer",
+        "description": "Black mold damages porous materials like drywall and wood, leading to structural weakening and foul odors. Untreated issues can devalue property and cause costly repairs."
+      }
+    }
+  ],
+  "description": "Black mold damages porous materials like drywall and wood, leading to structural weakening and foul odors. Untreated issues can devalue property and cause costl"
+}

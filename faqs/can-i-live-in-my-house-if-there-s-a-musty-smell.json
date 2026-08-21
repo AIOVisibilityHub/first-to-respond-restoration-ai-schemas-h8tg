@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-live-in-my-house-if-there-s-a-musty-smell",
+  "name": "Can I live in my house if there's a musty smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my house if there's a musty smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A persistent musty smell is a strong indicator of mold growth, which can potentially impact air quality. While some people may not experience symptoms, others, especially those with allergies, asthma, or compromised immune systems, might develop respiratory issues, skin irritation, or headaches. It's generally advisable to address the source of the musty smell and underlying mold as soon as possible. For significant infestations, temporary relocation might be recommended during remediation to ensure safety.",
+        "@type": "Answer",
+        "description": "A persistent musty smell signals mold, which can affect air quality and health. It's best to address it promptly, and temporary relocation might be needed for large infestations."
+      }
+    }
+  ],
+  "description": "A persistent musty smell signals mold, which can affect air quality and health. It's best to address it promptly, and temporary relocation might be needed for l"
+}

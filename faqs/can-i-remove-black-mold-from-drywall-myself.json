@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-black-mold-from-drywall-myself",
+  "name": "Can I remove black mold from drywall myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove black mold from drywall myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small areas of surface mold (less than 10 square feet) on non-porous surfaces might be handled by a homeowner. However, mold on drywall is often deeply embedded within the porous material, making DIY removal challenging and potentially ineffective. Cutting out and replacing affected drywall is often necessary. Improper removal can spread mold spores, worsening the problem. For effective and safe remediation, especially for larger infestations or if you suspect hidden mold, professional help is recommended.",
+        "@type": "Answer",
+        "description": "DIY removal of black mold from drywall is generally not recommended, especially for larger areas or embedded growth, as it can spread spores and be ineffective. Professional remediation is often needed."
+      }
+    }
+  ],
+  "description": "DIY removal of black mold from drywall is generally not recommended, especially for larger areas or embedded growth, as it can spread spores and be ineffective."
+}

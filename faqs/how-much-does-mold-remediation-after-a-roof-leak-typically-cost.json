@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-mold-remediation-after-a-roof-leak-typically-cost",
+  "name": "How much does mold remediation after a roof leak typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does mold remediation after a roof leak typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold remediation varies significantly based on the extent of the growth, the size of the affected area, the type of materials contaminated, and the accessibility of the mold. It also depends on whether structural repairs are needed after the leak is fixed. A professional assessment is necessary to provide an accurate estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Mold remediation costs vary widely depending on the extent of growth, affected area size, and materials contaminated. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Mold remediation costs vary widely depending on the extent of growth, affected area size, and materials contaminated. A professional assessment provides an accu"
+}

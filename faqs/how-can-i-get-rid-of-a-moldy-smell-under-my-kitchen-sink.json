@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-get-rid-of-a-moldy-smell-under-my-kitchen-sink",
+  "name": "How can I get rid of a moldy smell under my kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I get rid of a moldy smell under my kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get rid of a moldy smell, first locate and fix any moisture source, such as a leaky pipe or dripping faucet. Thoroughly clean the affected area with a mold-killing solution like a bleach and water mixture (1 cup bleach to 1 gallon water) or a commercial mold remover. Ensure the area is completely dried after cleaning. Improve ventilation, and consider using a dehumidifier if humidity is high. For extensive growth or if the smell persists, professional mold remediation may be necessary.",
+        "@type": "Answer",
+        "description": "Fix moisture sources, clean the area with a mold-killing solution, dry thoroughly, improve ventilation, and consider professional help if the smell persists."
+      }
+    }
+  ],
+  "description": "Fix moisture sources, clean the area with a mold-killing solution, dry thoroughly, improve ventilation, and consider professional help if the smell persists."
+}

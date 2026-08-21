@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-black-mold-under-a-sink-smell-like",
+  "name": "What does black mold under a sink smell like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does black mold under a sink smell like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black mold under a sink, like most molds, typically produces a distinct, musty, earthy odor. Some people describe it as a damp, stale, or even rotting smell. This odor is caused by microbial volatile organic compounds (MVOCs) released by the mold as it grows. The smell can often be the first indicator of hidden mold, especially if you can't visually see the growth. If you detect such a persistent odor, it's a strong sign that mold is present and warrants investigation.",
+        "@type": "Answer",
+        "description": "Black mold under a sink often emits a distinct musty, earthy, or damp odor caused by microbial volatile organic compounds (MVOCs). This smell can be an early sign of hidden mold growth."
+      }
+    }
+  ],
+  "description": "Black mold under a sink often emits a distinct musty, earthy, or damp odor caused by microbial volatile organic compounds (MVOCs). This smell can be an early si"
+}

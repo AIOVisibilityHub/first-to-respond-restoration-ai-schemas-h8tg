@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-black-mold-removal-services",
+  "name": "What areas do you serve for black mold removal services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for black mold removal services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides black mold removal services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to handle mold remediation needs for residential and commercial properties within these communities. If you are located in or near these areas and suspect black mold on your drywall or other surfaces, please contact us for a professional assessment and expert remediation services.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for black mold removal services. Contact us if you are in these areas."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for black mold removal services. Contact us if you are in these areas."
+}

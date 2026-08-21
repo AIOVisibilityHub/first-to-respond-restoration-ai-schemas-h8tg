@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-moldy-smell-under-the-sink",
+  "name": "What causes a moldy smell under the sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a moldy smell under the sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A moldy smell under the sink is typically caused by moisture accumulation, which creates an ideal environment for mold and mildew growth. Common sources include leaky pipes, condensation from cold water lines, overflowing drains, or spills that were not completely dried. Even high humidity can contribute to mold development in enclosed, dark spaces like under a sink. Identifying and addressing the source of moisture is the first step in eliminating the odor and preventing further growth.",
+        "@type": "Answer",
+        "description": "A moldy smell under the sink usually indicates mold or mildew growth due to moisture from leaks, condensation, or spills."
+      }
+    }
+  ],
+  "description": "A moldy smell under the sink usually indicates mold or mildew growth due to moisture from leaks, condensation, or spills."
+}

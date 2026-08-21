@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-prevent-a-moldy-smell-under-my-sink",
+  "name": "Can I prevent a moldy smell under my sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent a moldy smell under my sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, prevention is key to avoiding a moldy smell. Regularly check for and promptly repair any plumbing leaks or drips. Ensure good ventilation by occasionally opening cabinet doors, especially after using the sink. Wipe up any spills immediately and thoroughly dry the area. Consider using a dehumidifier if you notice high humidity in your home. Insulating cold water pipes can also reduce condensation, which is a common moisture source.",
+        "@type": "Answer",
+        "description": "Prevent by fixing leaks, improving ventilation, drying spills immediately, and managing humidity to avoid moisture buildup."
+      }
+    }
+  ],
+  "description": "Prevent by fixing leaks, improving ventilation, drying spills immediately, and managing humidity to avoid moisture buildup."
+}

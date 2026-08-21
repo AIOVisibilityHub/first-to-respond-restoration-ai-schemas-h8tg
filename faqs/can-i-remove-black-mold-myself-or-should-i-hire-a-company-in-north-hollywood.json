@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-black-mold-myself-or-should-i-hire-a-company-in-north-hollywood",
+  "name": "Can I remove black mold myself or should I hire a company in North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove black mold myself or should I hire a company in North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small patches of surface mold (less than 10 square feet) on non-porous surfaces, you might be able to clean it yourself with appropriate safety gear and cleaning solutions. However, for black mold, or any mold covering a larger area, deeply embedded in porous materials, or if you suspect hidden growth, hiring a professional mold remediation company in North Hollywood is highly recommended. Professionals have the expertise, equipment, and safety protocols to ensure complete removal and prevent recurrence without risking further contamination or health issues.",
+        "@type": "Answer",
+        "description": "Small surface mold on non-porous materials might be DIY, but for black mold, large areas, or hidden growth, hiring a professional in North Hollywood is safer and more effective."
+      }
+    }
+  ],
+  "description": "Small surface mold on non-porous materials might be DIY, but for black mold, large areas, or hidden growth, hiring a professional in North Hollywood is safer an"
+}

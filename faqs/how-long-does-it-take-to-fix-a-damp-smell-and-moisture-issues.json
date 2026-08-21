@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-fix-a-damp-smell-and-moisture-issues",
+  "name": "How long does it take to fix a damp smell and moisture issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a damp smell and moisture issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration to resolve damp smells and moisture issues depends on the problem's complexity. Simple issues like improving ventilation might be quick. However, if water damage is significant or mold remediation is required, the process can take several days to a few weeks. This includes detection, water extraction, drying, cleaning, and restoration of affected materials. A professional can provide a more accurate timeline after an inspection.",
+        "@type": "Answer",
+        "description": "Time varies from days to weeks depending on the issue's complexity, including detection, drying, and remediation of damage."
+      }
+    }
+  ],
+  "description": "Time varies from days to weeks depending on the issue's complexity, including detection, drying, and remediation of damage."
+}

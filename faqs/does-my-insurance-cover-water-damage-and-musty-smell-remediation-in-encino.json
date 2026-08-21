@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-my-insurance-cover-water-damage-and-musty-smell-remediation-in-encino",
+  "name": "Does my insurance cover water damage and musty smell remediation in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my insurance cover water damage and musty smell remediation in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowners' insurance policies cover sudden and accidental water damage, which would include the remediation of a musty smell caused by subsequent mold growth. However, coverage can vary depending on the specific cause of the leak, your policy's terms, and whether the damage was reported promptly. For instance, damage from ongoing neglect or gradual leaks might not be covered. It's best to review your policy details or contact your insurance provider directly to understand your coverage for water damage and mold remediation in the Encino area. We can also assist with the claims process.",
+        "@type": "Answer",
+        "description": "Insurance often covers sudden water damage and resulting mold remediation, but policy terms vary. Review your policy or contact your provider for specifics in Encino."
+      }
+    }
+  ],
+  "description": "Insurance often covers sudden water damage and resulting mold remediation, but policy terms vary. Review your policy or contact your provider for specifics in E"
+}

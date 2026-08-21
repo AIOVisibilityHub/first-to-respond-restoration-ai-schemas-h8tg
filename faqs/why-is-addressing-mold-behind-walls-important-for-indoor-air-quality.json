@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-addressing-mold-behind-walls-important-for-indoor-air-quality",
+  "name": "Why is addressing mold behind walls important for indoor air quality?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is addressing mold behind walls important for indoor air quality?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing mold behind walls is critical for maintaining good indoor air quality because mold releases microscopic spores into the air. When these spores are inhaled, they can trigger allergic reactions, asthma attacks, and other respiratory issues in sensitive individuals. Even non-toxic mold can cause irritation. Hidden mold can continuously release these spores, leading to persistent symptoms and a decline in overall air quality throughout the property. Professional removal ensures these airborne contaminants are eliminated, creating a healthier environment.",
+        "@type": "Answer",
+        "description": "Mold behind walls releases spores that negatively impact indoor air quality, causing allergic reactions and respiratory problems when inhaled."
+      }
+    }
+  ],
+  "description": "Mold behind walls releases spores that negatively impact indoor air quality, causing allergic reactions and respiratory problems when inhaled."
+}

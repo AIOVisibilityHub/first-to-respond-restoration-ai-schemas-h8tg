@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-to-remove-mold-under-a-sink",
+  "name": "What is the cost to remove mold under a sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost to remove mold under a sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold removal under a sink can vary depending on the extent of the mold growth, the size of the affected area, and the source of the moisture. Minor issues might involve a small service fee, while more significant infestations requiring demolition of cabinets or drywall, or detection of hidden leaks, will be more expensive. Most restoration companies provide an inspection and detailed estimate after assessing the situation. It's advisable to get a quote tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Costs vary based on mold extent, affected area size, and moisture source; expect a detailed estimate after inspection."
+      }
+    }
+  ],
+  "description": "Costs vary based on mold extent, affected area size, and moisture source; expect a detailed estimate after inspection."
+}

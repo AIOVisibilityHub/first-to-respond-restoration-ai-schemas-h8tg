@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-mold-from-a-property",
+  "name": "How long does it take to remove mold from a property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove mold from a property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold removal depends on the scope of the contamination. Small, contained mold issues might be remediated within 1-3 days. More extensive mold growth, especially if it involves demolition, structural drying, or affects multiple rooms or HVAC systems, can take several days to a week or more. The timeline includes identification of the moisture source, containment, removal, cleaning, and final drying.",
+        "@type": "Answer",
+        "description": "Mold removal typically takes 1-3 days for small areas and several days to over a week for larger or more complex contaminations."
+      }
+    }
+  ],
+  "description": "Mold removal typically takes 1-3 days for small areas and several days to over a week for larger or more complex contaminations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-mold-testing-and-mold-inspection",
+  "name": "What's the difference between mold testing and mold inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between mold testing and mold inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold inspection is a comprehensive process where a trained professional visually assesses your property for signs of mold and moisture issues, uses specialized equipment like moisture meters and thermal cameras to identify hidden problems, and develops a remediation plan. Mold testing, on the other hand, is a specific part of an inspection that involves collecting samples (air, surface, or bulk) to identify the type and concentration of mold spores. While testing can confirm mold presence, a full inspection is essential to locate the source, determine the extent of the growth, and recommend effective solutions.",
+        "@type": "Answer",
+        "description": "Mold inspection is a comprehensive assessment to find mold and its source, while mold testing is a specific part of an inspection involving sample collection to identify mold types."
+      }
+    }
+  ],
+  "description": "Mold inspection is a comprehensive assessment to find mold and its source, while mold testing is a specific part of an inspection involving sample collection to"
+}

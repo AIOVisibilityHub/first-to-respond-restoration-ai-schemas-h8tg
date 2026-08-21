@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-moldy-smell-under-the-sink",
+  "name": "When should I call a professional for a moldy smell under the sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a moldy smell under the sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the moldy smell persists after your attempts to clean, if you discover extensive mold growth (larger than a small patch), if you suspect hidden mold behind walls or under flooring, or if anyone in your household experiences persistent health issues related to mold. Professionals have specialized equipment to detect hidden moisture and mold, and they can safely and effectively remove it, preventing recurrence.",
+        "@type": "Answer",
+        "description": "Call a professional if the smell persists, mold growth is extensive or hidden, or if health issues arise from the mold."
+      }
+    }
+  ],
+  "description": "Call a professional if the smell persists, mold growth is extensive or hidden, or if health issues arise from the mold."
+}

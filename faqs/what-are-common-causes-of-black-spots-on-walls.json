@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-causes-of-black-spots-on-walls",
+  "name": "What are common causes of black spots on walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of black spots on walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black spots on walls are most commonly caused by mold or mildew growth, which thrives in damp, humid environments. Other potential causes include dirt accumulation, residue from candles or fireplaces, or even insect activity. Identifying the specific cause is crucial for effective remediation, especially if it's mold, which can spread quickly and affect indoor air quality. A professional assessment can determine the source of the moisture enabling the growth.",
+        "@type": "Answer",
+        "description": "Black spots on walls are often mold or mildew, caused by dampness. They can also be dirt or soot. Identifying the cause helps with proper removal."
+      }
+    }
+  ],
+  "description": "Black spots on walls are often mold or mildew, caused by dampness. They can also be dirt or soot. Identifying the cause helps with proper removal."
+}

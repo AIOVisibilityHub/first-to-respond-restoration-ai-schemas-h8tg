@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-mold-removal-when-my-house-smells-bad",
+  "name": "What is the process for professional mold removal when my house smells bad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional mold removal when my house smells bad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold removal, or remediation, typically begins with an inspection to identify the mold source and extent. Containment measures are then put in place to prevent mold spores from spreading. Technicians use specialized equipment to remove mold-affected materials, followed by thorough cleaning and disinfection of the area. Air scrubbers and HEPA vacuums are used to capture airborne spores. Finally, the area is dried completely, and moisture sources are addressed to prevent recurrence. Post-remediation testing may be conducted to confirm effectiveness.",
+        "@type": "Answer",
+        "description": "The process involves inspection, containment, removal of moldy materials, cleaning, air filtration, drying, and addressing moisture sources."
+      }
+    }
+  ],
+  "description": "The process involves inspection, containment, removal of moldy materials, cleaning, air filtration, drying, and addressing moisture sources."
+}

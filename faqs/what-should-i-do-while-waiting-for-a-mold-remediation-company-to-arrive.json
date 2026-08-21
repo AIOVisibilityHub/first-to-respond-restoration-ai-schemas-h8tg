@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-while-waiting-for-a-mold-remediation-company-to-arrive",
+  "name": "What should I do while waiting for a mold remediation company to arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do while waiting for a mold remediation company to arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While waiting for a mold remediation company, avoid disturbing the mold, as this can release spores. Do not try to dry the area with fans if the mold is already extensive, as this can spread spores. If safe, try to stop the source of moisture, such as turning off a leaking pipe. Isolate the affected area by closing doors and covering vents if possible, and ensure any HVAC systems are turned off to prevent spore circulation.",
+        "@type": "Answer",
+        "description": "Avoid disturbing mold, stop the moisture source if safe, and isolate the affected area while waiting for professionals."
+      }
+    }
+  ],
+  "description": "Avoid disturbing mold, stop the moisture source if safe, and isolate the affected area while waiting for professionals."
+}

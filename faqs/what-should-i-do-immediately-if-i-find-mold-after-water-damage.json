@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-find-mold-after-water-damage",
+  "name": "What should I do immediately if I find mold after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I find mold after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you find mold after water damage, your first step is to isolate the affected area to prevent further spread by closing doors and windows to other rooms. Turn off your HVAC system to avoid circulating spores. Do not attempt to dry the area with fans, as this can also spread spores. Avoid disturbing the mold or attempting to clean large areas yourself. Contact a professional water damage restoration and mold remediation company promptly for an assessment and to develop a safe and effective plan for removal and repair.",
+        "@type": "Answer",
+        "description": "If you find mold after water damage, isolate the area, turn off your HVAC, and avoid disturbing the mold. Contact a professional restoration company immediately for safe assessment and removal."
+      }
+    }
+  ],
+  "description": "If you find mold after water damage, isolate the area, turn off your HVAC, and avoid disturbing the mold. Contact a professional restoration company immediately"
+}

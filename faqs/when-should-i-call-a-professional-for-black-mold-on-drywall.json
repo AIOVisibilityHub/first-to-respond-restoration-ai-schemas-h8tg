@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-black-mold-on-drywall",
+  "name": "When should I call a professional for black mold on drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for black mold on drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for black mold on drywall if the affected area is larger than 10 square feet, if you suspect hidden mold behind walls or under flooring, if you or family members are experiencing mold-related health issues, or if the mold growth is due to sewage or contaminated water. Professionals have the training, equipment, and expertise to safely contain, remove, and prevent mold recurrence without spreading spores, ensuring a thorough and lasting solution.",
+        "@type": "Answer",
+        "description": "Call a professional for black mold on drywall if the area is large (over 10 sq ft), if you suspect hidden mold, have health issues, or the source is contaminated water."
+      }
+    }
+  ],
+  "description": "Call a professional for black mold on drywall if the area is large (over 10 sq ft), if you suspect hidden mold, have health issues, or the source is contaminate"
+}

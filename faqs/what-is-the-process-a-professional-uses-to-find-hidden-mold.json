@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-a-professional-uses-to-find-hidden-mold",
+  "name": "What is the process a professional uses to find hidden mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process a professional uses to find hidden mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional mold detection process typically begins with a visual inspection of areas susceptible to moisture and mold. Technicians use specialized tools such as moisture meters to identify elevated moisture levels behind walls or under floors, and thermal imaging cameras to detect temperature differences that can indicate hidden moisture or mold growth. Air samples may be collected to identify mold spore types and concentrations, even if no visible mold is present. In some cases, small, non-invasive exploratory openings might be made to confirm mold behind surfaces. This comprehensive approach ensures accurate identification and assessment.",
+        "@type": "Answer",
+        "description": "Professionals use visual inspection, moisture meters, thermal imaging cameras, and air sampling to detect hidden mold, sometimes making small exploratory openings."
+      }
+    }
+  ],
+  "description": "Professionals use visual inspection, moisture meters, thermal imaging cameras, and air sampling to detect hidden mold, sometimes making small exploratory openin"
+}

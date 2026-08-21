@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-get-rid-of-a-musty-smell-in-my-house",
+  "name": "How can I get rid of a musty smell in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I get rid of a musty smell in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To eliminate a musty smell, you must first identify and resolve the source of moisture. This might involve repairing leaks, improving ventilation with fans or dehumidifiers, and thoroughly drying any damp areas. Once the moisture issue is addressed, clean all affected surfaces with appropriate mold-killing solutions. Porous materials like drywall or insulation often need to be removed and replaced if heavily contaminated. Professional remediation may be necessary for widespread or hidden mold growth.",
+        "@type": "Answer",
+        "description": "Address the moisture source first, then clean affected areas. Repair leaks, improve ventilation, and professionally remediate if mold is extensive."
+      }
+    }
+  ],
+  "description": "Address the moisture source first, then clean affected areas. Repair leaks, improve ventilation, and professionally remediate if mold is extensive."
+}

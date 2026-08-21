@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-black-spots-on-walls-affect-my-health",
+  "name": "Can black spots on walls affect my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can black spots on walls affect my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, black spots on walls, particularly if they are mold, can potentially affect your health. Mold spores can become airborne and trigger allergic reactions such as sneezing, runny nose, red eyes, and skin rash. For individuals with asthma or respiratory issues, mold exposure can exacerbate symptoms. In some cases, prolonged exposure to certain types of mold may lead to more severe health effects. Professional mold remediation helps ensure the spores are properly contained and removed.",
+        "@type": "Answer",
+        "description": "Yes, if the spots are mold, they can cause allergic reactions, respiratory issues, and other health problems. Professional removal is recommended."
+      }
+    }
+  ],
+  "description": "Yes, if the spots are mold, they can cause allergic reactions, respiratory issues, and other health problems. Professional removal is recommended."
+}

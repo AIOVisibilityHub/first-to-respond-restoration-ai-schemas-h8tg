@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-mold-and-mildew-smell",
+  "name": "What's the difference between mold and mildew smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between mold and mildew smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, mold and mildew are both types of fungi, but they can produce slightly different odors. Mildew typically presents as a powdery or downy growth and often has a musky, damp, or 'earthy' smell. Mold, on the other hand, can appear in various colors and textures and may produce a stronger, more pungent, or even 'rotting wood' like odor. Both smells indicate fungal growth due to excess moisture and require similar remediation steps. Regardless of the specific term, any musty odor should be investigated as a sign of fungal presence.",
+        "@type": "Answer",
+        "description": "Mildew smells musky or earthy, while mold can be stronger, more pungent, or like 'rotting wood.' Both indicate fungal growth caused by excess moisture and require similar remediation."
+      }
+    }
+  ],
+  "description": "Mildew smells musky or earthy, while mold can be stronger, more pungent, or like 'rotting wood.' Both indicate fungal growth caused by excess moisture and requi"
+}

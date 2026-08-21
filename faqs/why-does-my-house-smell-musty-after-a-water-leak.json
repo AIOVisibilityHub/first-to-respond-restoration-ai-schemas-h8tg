@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-my-house-smell-musty-after-a-water-leak",
+  "name": "Why does my house smell musty after a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my house smell musty after a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A musty smell after a water leak typically indicates mold or mildew growth. When water invades porous materials like drywall, wood, insulation, or carpets, it creates a damp environment ideal for fungal spores to germinate and multiply. This growth often occurs in hidden areas, such as behind walls or under flooring, making it difficult to spot visually. As mold grows, it releases microbial volatile organic compounds (MVOCs) into the air, which are responsible for the characteristic earthy or musty odor. Addressing the leak and thoroughly drying and remediating affected areas quickly is crucial to prevent extensive mold development.",
+        "@type": "Answer",
+        "description": "A musty smell after a water leak usually signals mold or mildew growth, which thrives in damp conditions and releases odorous compounds."
+      }
+    }
+  ],
+  "description": "A musty smell after a water leak usually signals mold or mildew growth, which thrives in damp conditions and releases odorous compounds."
+}

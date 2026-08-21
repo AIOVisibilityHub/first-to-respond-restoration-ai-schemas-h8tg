@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-a-mold-inspection-take",
+  "name": "How long does a mold inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a mold inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a mold inspection depends on the size of your property and the complexity of the suspected mold issue. A typical residential inspection for a standard-sized home might take 1 to 3 hours. Larger properties or situations requiring extensive moisture mapping and multiple sample collections will naturally take longer. The inspector will provide an estimated timeframe before beginning the assessment.",
+        "@type": "Answer",
+        "description": "A mold inspection usually takes 1 to 3 hours, depending on property size and issue complexity."
+      }
+    }
+  ],
+  "description": "A mold inspection usually takes 1 to 3 hours, depending on property size and issue complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-black-mold-removal-under-a-sink",
+  "name": "When should I call a professional for black mold removal under a sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for black mold removal under a sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for black mold removal if the mold covers an area larger than 10 square feet, if you suspect hidden mold behind walls, or if anyone in the household is experiencing health issues related to mold exposure. Professionals have the necessary equipment to safely contain, remove, and prevent mold regrowth without cross-contaminating other areas of your home. They can also identify and fix the underlying moisture problem effectively, which is crucial for long-term prevention.",
+        "@type": "Answer",
+        "description": "Call a professional for black mold removal if the area is larger than 10 square feet, if you suspect hidden mold, or if health issues are present. Professionals ensure safe and complete removal."
+      }
+    }
+  ],
+  "description": "Call a professional for black mold removal if the area is larger than 10 square feet, if you suspect hidden mold, or if health issues are present. Professionals"
+}

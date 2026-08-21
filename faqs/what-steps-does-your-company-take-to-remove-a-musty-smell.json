@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-does-your-company-take-to-remove-a-musty-smell",
+  "name": "What steps does your company take to remove a musty smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps does your company take to remove a musty smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with a thorough inspection to identify the source of the musty smell and assess the extent of mold growth and moisture. We then implement containment measures to prevent cross-contamination. This is followed by source elimination (fixing leaks, drying), mold removal using specialized equipment and cleaning agents, and often include replacing heavily damaged materials. Finally, we conduct post-remediation verification and apply preventative treatments to inhibit future growth, ensuring your home is clean and odor-free.",
+        "@type": "Answer",
+        "description": "We inspect, contain, eliminate moisture, remove mold, replace damaged materials, and verify cleanup to remove musty smells."
+      }
+    }
+  ],
+  "description": "We inspect, contain, eliminate moisture, remove mold, replace damaged materials, and verify cleanup to remove musty smells."
+}

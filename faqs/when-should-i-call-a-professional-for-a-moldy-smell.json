@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-moldy-smell",
+  "name": "When should I call a professional for a moldy smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a moldy smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you detect a persistent moldy smell, especially if you can't identify the source, if the smell covers a large area, or if you or others are experiencing health symptoms. Professionals have specialized equipment to detect hidden moisture and mold, safely contain affected areas, and perform remediation according to industry standards. Early intervention can prevent mold from spreading and reduce potential health impacts and repair costs.",
+        "@type": "Answer",
+        "description": "Call a professional if the moldy smell is persistent, widespread, causes health symptoms, or if you can't find the source. Professionals can detect and safely remediate hidden mold."
+      }
+    }
+  ],
+  "description": "Call a professional if the moldy smell is persistent, widespread, causes health symptoms, or if you can't find the source. Professionals can detect and safely r"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-black-spots-mold-from-walls",
+  "name": "How much does it cost to remove black spots (mold) from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove black spots (mold) from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of removing black spots, typically mold, from walls varies widely based on several factors. These include the size of the affected area, the type of mold, the extent of contamination, the accessibility of the mold, and any necessary repairs to the underlying moisture source. Minor, superficial growth might be less expensive, while extensive hidden mold or structural damage will incur higher costs. An inspection provides an accurate estimate.",
+        "@type": "Answer",
+        "description": "The cost of professional mold removal depends on the size of the affected area, mold type, extent of damage, and accessibility, requiring an inspection for an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost of professional mold removal depends on the size of the affected area, mold type, extent of damage, and accessibility, requiring an inspection for an a"
+}

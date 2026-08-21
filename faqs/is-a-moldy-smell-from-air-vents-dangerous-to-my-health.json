@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-moldy-smell-from-air-vents-dangerous-to-my-health",
+  "name": "Is a moldy smell from air vents dangerous to my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a moldy smell from air vents dangerous to my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all mold is toxic, exposure to mold spores can cause various health issues, especially for individuals with allergies, asthma, or compromised immune systems. Symptoms can include respiratory problems, sneezing, coughing, eye irritation, and skin rashes. A persistent moldy smell suggests active growth, which should be addressed promptly to protect your health and the air quality in your home. Professional inspection can determine the extent and type of mold.",
+        "@type": "Answer",
+        "description": "Yes, mold exposure can cause health issues, especially for those with allergies or respiratory conditions. A persistent smell indicates active growth that should be addressed."
+      }
+    }
+  ],
+  "description": "Yes, mold exposure can cause health issues, especially for those with allergies or respiratory conditions. A persistent smell indicates active growth that shoul"
+}

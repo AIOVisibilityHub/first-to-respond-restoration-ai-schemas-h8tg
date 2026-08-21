@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-hidden-mold-inspection",
+  "name": "When should I call a professional for hidden mold inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for hidden mold inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for hidden mold inspection if you detect a persistent musty odor but cannot locate the source, or if you or your family members experience unexplained or worsening allergy-like symptoms when at home. It's also advisable after any water damage event, such as a leak or flood, even if you think it was fully dried. Professionals have the tools and expertise to safely identify hidden mold, assess the extent of the problem, and provide a remediation plan, preventing further spread and potential health risks.",
+        "@type": "Answer",
+        "description": "Call a professional for hidden mold inspection if you smell mold but can't see it, experience unexplained health issues, or after any water damage event."
+      }
+    }
+  ],
+  "description": "Call a professional for hidden mold inspection if you smell mold but can't see it, experience unexplained health issues, or after any water damage event."
+}

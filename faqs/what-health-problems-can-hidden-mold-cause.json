@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-health-problems-can-hidden-mold-cause",
+  "name": "What health problems can hidden mold cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What health problems can hidden mold cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden mold can trigger a range of health issues, particularly in individuals with allergies, asthma, or compromised immune systems. Common symptoms include persistent sneezing, runny nose, itchy eyes, skin rashes, coughing, and shortness of breath. For those with asthma, mold exposure can lead to severe attacks. Prolonged exposure may also cause headaches, fatigue, and general malaise. While less common, certain types of mold produce mycotoxins that can lead to more serious neurological or respiratory problems. It's crucial to address mold quickly if you experience these symptoms.",
+        "@type": "Answer",
+        "description": "Hidden mold can cause allergy symptoms, asthma attacks, skin rashes, coughing, headaches, and fatigue, especially in sensitive individuals."
+      }
+    }
+  ],
+  "description": "Hidden mold can cause allergy symptoms, asthma attacks, skin rashes, coughing, headaches, and fatigue, especially in sensitive individuals."
+}

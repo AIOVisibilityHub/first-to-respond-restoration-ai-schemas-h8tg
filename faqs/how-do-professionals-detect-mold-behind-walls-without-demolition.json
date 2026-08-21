@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-detect-mold-behind-walls-without-demolition",
+  "name": "How do professionals detect mold behind walls without demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals detect mold behind walls without demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use several non-invasive techniques to detect mold behind walls. They typically start with a thorough visual inspection and client interview to identify potential sources of moisture. Advanced tools include moisture meters, which measure the moisture content of walls, and thermal imaging cameras, which detect temperature differences that can indicate hidden moisture or mold growth. Air sampling may also be conducted to identify elevated mold spore counts indoors. These methods help pinpoint affected areas before any demolition is considered.",
+        "@type": "Answer",
+        "description": "Professionals use moisture meters and thermal imaging cameras to detect mold behind walls without demolition, often preceded by air sampling."
+      }
+    }
+  ],
+  "description": "Professionals use moisture meters and thermal imaging cameras to detect mold behind walls without demolition, often preceded by air sampling."
+}

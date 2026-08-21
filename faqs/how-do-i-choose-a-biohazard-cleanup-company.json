@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-biohazard-cleanup-company",
+  "name": "How do I choose a biohazard cleanup company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a biohazard cleanup company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a biohazard cleanup company, look for several key factors. Ensure they are certified and licensed, indicating they meet industry standards for safety and effectiveness. Check their experience in handling similar situations and their responsiveness, as timely intervention is crucial. A reputable company should also provide clear communication, transparent pricing, and comprehensive services including proper disposal. Verify their insurance and ask for references if possible to ensure peace of mind.",
+        "@type": "Answer",
+        "description": "Choose a biohazard cleanup company that is certified, licensed, experienced, responsive, offers transparent pricing, and provides comprehensive services including proper disposal."
+      }
+    }
+  ],
+  "description": "Choose a biohazard cleanup company that is certified, licensed, experienced, responsive, offers transparent pricing, and provides comprehensive services includi"
+}

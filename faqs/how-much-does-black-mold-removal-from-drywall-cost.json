@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-black-mold-removal-from-drywall-cost",
+  "name": "How much does black mold removal from drywall cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does black mold removal from drywall cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of black mold removal from drywall varies widely depending on the extent of the infestation, the affected area's size, and the demolition and reconstruction required. Factors include containment, air filtration, material replacement (drywall, insulation), and labor. Minor cases might be less, but extensive mold requiring specialized equipment and multiple affected rooms will be significantly more. A professional inspection is necessary to provide an accurate estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "The cost of black mold removal from drywall depends on the infestation's size and complexity, including demolition, material replacement, and labor. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost of black mold removal from drywall depends on the infestation's size and complexity, including demolition, material replacement, and labor. A professio"
+}

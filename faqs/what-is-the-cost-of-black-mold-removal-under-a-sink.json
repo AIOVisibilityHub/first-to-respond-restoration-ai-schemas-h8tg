@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-of-black-mold-removal-under-a-sink",
+  "name": "What is the cost of black mold removal under a sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of black mold removal under a sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of black mold removal under a sink varies depending on several factors, including the extent of the mold growth, the type of materials affected, and the source of the moisture. Minor issues involving surface mold on non-porous materials will be less costly. However, if the mold has penetrated porous materials like drywall or cabinetry, or if hidden leaks need repair, the cost will increase due to more extensive remediation and structural repairs. A professional assessment is typically needed for an accurate estimate.",
+        "@type": "Answer",
+        "description": "The cost of black mold removal under a sink varies based on the mold's extent, affected materials, and the moisture source. Extensive damage or hidden leaks will increase the overall cost."
+      }
+    }
+  ],
+  "description": "The cost of black mold removal under a sink varies based on the mold's extent, affected materials, and the moisture source. Extensive damage or hidden leaks wil"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-crime-scene-cleanup-covered-by-insurance",
+  "name": "Is crime scene cleanup covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is crime scene cleanup covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, crime scene cleanup services are covered by homeowner's, renter's, or commercial property insurance policies. Coverage typically falls under categories like",
+        "@type": "Answer",
+        "description": "Many homeowner's, renter's, or commercial property insurance policies cover crime scene cleanup. It usually falls under 'peril' or 'biohazard remediation' clauses. We assist with the claims process."
+      }
+    }
+  ],
+  "description": "Many homeowner's, renter's, or commercial property insurance policies cover crime scene cleanup. It usually falls under 'peril' or 'biohazard remediation' claus"
+}

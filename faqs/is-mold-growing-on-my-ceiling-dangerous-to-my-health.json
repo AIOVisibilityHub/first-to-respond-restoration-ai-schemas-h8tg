@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-growing-on-my-ceiling-dangerous-to-my-health",
+  "name": "Is mold growing on my ceiling dangerous to my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold growing on my ceiling dangerous to my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all molds are toxic, some types can produce allergens and irritants. Exposure to mold can lead to symptoms such as nasal stuffiness, eye irritation, wheezing, or skin irritation. Individuals with allergies, asthma, or weakened immune systems may experience more severe reactions. Prompt removal by professionals is recommended to minimize potential health risks and ensure the affected area is properly treated and dried.",
+        "@type": "Answer",
+        "description": "Mold on your ceiling can cause health issues like allergies and respiratory problems, especially for sensitive individuals."
+      }
+    }
+  ],
+  "description": "Mold on your ceiling can cause health issues like allergies and respiratory problems, especially for sensitive individuals."
+}

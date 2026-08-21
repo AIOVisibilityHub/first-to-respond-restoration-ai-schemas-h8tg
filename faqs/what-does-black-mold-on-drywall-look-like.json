@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-black-mold-on-drywall-look-like",
+  "name": "What does black mold on drywall look like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does black mold on drywall look like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black mold on drywall often appears as dark green or black spots, usually with a fuzzy or slimy texture. It can sometimes have a patchy or speckled appearance. Mold growth on drywall may also cause discoloration, staining, or bubbling of the paint or wallpaper. Beyond visual cues, a persistent musty or earthy odor is a common indicator of mold presence, even if the mold itself is not immediately visible.",
+        "@type": "Answer",
+        "description": "Black mold on drywall typically looks like dark green or black spots with a fuzzy or slimy texture, often accompanied by a musty odor."
+      }
+    }
+  ],
+  "description": "Black mold on drywall typically looks like dark green or black spots with a fuzzy or slimy texture, often accompanied by a musty odor."
+}

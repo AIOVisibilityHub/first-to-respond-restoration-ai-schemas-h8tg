@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-biohazard-cleanup-cost",
+  "name": "How much does biohazard cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does biohazard cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of biohazard cleanup varies significantly based on several factors. These include the type and extent of contamination, the size of the affected area, the materials needing removal, and the time required for cleaning and disinfection. For instance, a small blood spill will cost less than a large-scale sewage overflow or an unattended death scene requiring extensive remediation. Most professional companies provide an estimate after assessing the specific situation. Insurance coverage may also apply depending on the cause of the contamination.",
+        "@type": "Answer",
+        "description": "Biohazard cleanup costs vary based on contamination type, extent, affected area size, and time required. Estimates are provided after assessment, and insurance may cover some cases."
+      }
+    }
+  ],
+  "description": "Biohazard cleanup costs vary based on contamination type, extent, affected area size, and time required. Estimates are provided after assessment, and insurance"
+}

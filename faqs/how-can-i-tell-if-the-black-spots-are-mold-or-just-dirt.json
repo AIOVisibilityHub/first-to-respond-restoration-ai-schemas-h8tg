@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-tell-if-the-black-spots-are-mold-or-just-dirt",
+  "name": "How can I tell if the black spots are mold or just dirt?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if the black spots are mold or just dirt?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Distinguishing between mold and dirt on a ceiling can be challenging. Mold often appears fuzzy, slimy, or powdery, and may spread in irregular patterns. It can also have a musty or earthy odor. Dirt, conversely, usually appears as dust or grime and does not typically grow or have an associated smell. If you are unsure, gently dab a small area with a cotton swab dipped in bleach. If the spot lightens or disappears, it is likely mold. However, for large or persistent areas, professional assessment is recommended.",
+        "@type": "Answer",
+        "description": "Mold is often fuzzy, slimy, or powdery with a musty smell, spreading in irregular patterns. Dirt is typically just dust. A bleach test can help identify mold, but professional assessment is best for significant issues."
+      }
+    }
+  ],
+  "description": "Mold is often fuzzy, slimy, or powdery with a musty smell, spreading in irregular patterns. Dirt is typically just dust. A bleach test can help identify mold, b"
+}

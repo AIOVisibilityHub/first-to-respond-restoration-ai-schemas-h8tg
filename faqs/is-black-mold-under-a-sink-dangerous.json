@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-black-mold-under-a-sink-dangerous",
+  "name": "Is black mold under a sink dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is black mold under a sink dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often referred to as 'toxic mold,' black mold (Stachybotrys chartarum) doesn't produce airborne toxins directly. However, it releases spores and mycotoxins that can become airborne, leading to potential health effects for some individuals. Symptoms can include respiratory issues, skin irritation, headaches, and fatigue, especially in sensitive individuals or those with allergies or asthma. Prolonged exposure can worsen these symptoms. It's best to address any mold growth promptly to minimize potential risks.",
+        "@type": "Answer",
+        "description": "Black mold can release spores and mycotoxins that may cause respiratory issues, skin irritation, and other symptoms in sensitive individuals. Prompt removal is advisable to minimize potential health risks."
+      }
+    }
+  ],
+  "description": "Black mold can release spores and mycotoxins that may cause respiratory issues, skin irritation, and other symptoms in sensitive individuals. Prompt removal is"
+}

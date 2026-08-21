@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-of-professional-mold-remediation-after-water-damage",
+  "name": "What is the process of professional mold remediation after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of professional mold remediation after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold remediation typically begins with containment to prevent spores from spreading. Technicians then identify and address the moisture source. Affected porous materials, like drywall or insulation, are usually removed and disposed of. Non-porous surfaces are thoroughly cleaned and disinfected. High-efficiency particulate air (HEPA) vacuums and air scrubbers are used to remove airborne spores. The area is then dried completely, and often, an antimicrobial agent is applied. Post-remediation testing may be conducted to ensure mold levels have returned to normal.",
+        "@type": "Answer",
+        "description": "Professional mold remediation involves containment, moisture source identification, removal of contaminated materials, cleaning, HEPA vacuuming, and drying. Post-remediation testing may also be performed."
+      }
+    }
+  ],
+  "description": "Professional mold remediation involves containment, moisture source identification, removal of contaminated materials, cleaning, HEPA vacuuming, and drying. Pos"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-black-mold-on-drywall-dangerous",
+  "name": "Is black mold on drywall dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is black mold on drywall dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often called 'toxic black mold,' the term 'toxic' is misleading. Certain types of mold, including some black varieties, can produce mycotoxins, which may cause health issues in some individuals, particularly those with allergies, asthma, or compromised immune systems. Symptoms can include respiratory problems, skin irritation, and headaches. It's crucial to address any mold growth promptly to prevent potential health effects and further damage to your property.",
+        "@type": "Answer",
+        "description": "Black mold on drywall can produce mycotoxins, potentially causing health issues for sensitive individuals, such as respiratory problems or skin irritation. Prompt removal is important."
+      }
+    }
+  ],
+  "description": "Black mold on drywall can produce mycotoxins, potentially causing health issues for sensitive individuals, such as respiratory problems or skin irritation. Prom"
+}

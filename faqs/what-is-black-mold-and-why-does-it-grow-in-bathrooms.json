@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-black-mold-and-why-does-it-grow-in-bathrooms",
+  "name": "What is black mold and why does it grow in bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is black mold and why does it grow in bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black mold, often identified as Stachybotrys chartarum, is a type of fungus that appears dark green or black and has a musty odor. Bathrooms provide ideal conditions for its growth due to high humidity, warmth, and a readily available food source like cellulose found in drywall, wood, or grout. Leaks, condensation, and poor ventilation contribute significantly to creating the damp environment mold needs to thrive. It can grow on various surfaces, often hidden behind walls or under flooring, making early detection challenging.",
+        "@type": "Answer",
+        "description": "Black mold is a dark fungus that thrives in damp, humid bathroom environments with available organic materials. Leaks and poor ventilation are common causes."
+      }
+    }
+  ],
+  "description": "Black mold is a dark fungus that thrives in damp, humid bathroom environments with available organic materials. Leaks and poor ventilation are common causes."
+}

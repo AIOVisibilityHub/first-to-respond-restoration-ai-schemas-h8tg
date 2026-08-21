@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-roof-leak-to-prevent-mold",
+  "name": "What should I do immediately after discovering a roof leak to prevent mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a roof leak to prevent mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after discovering a roof leak, stop the water source if possible, contain the water to minimize spread (e.g., with buckets), and begin drying the affected area using fans or dehumidifiers. Remove any wet porous materials like rugs or upholstered furniture. Contact a roofing professional to repair the leak and a water damage restoration company to address moisture and begin mold prevention efforts promptly.",
+        "@type": "Answer",
+        "description": "Immediately stop the leak, contain water, start drying with fans/dehumidifiers, and remove wet materials. Contact professionals for repair and restoration."
+      }
+    }
+  ],
+  "description": "Immediately stop the leak, contain water, start drying with fans/dehumidifiers, and remove wet materials. Contact professionals for repair and restoration."
+}
