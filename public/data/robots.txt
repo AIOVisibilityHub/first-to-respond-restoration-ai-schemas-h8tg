@@ -16,5 +16,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/sitemap.xml
-Sitemap: https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-sitemap.xml
+Sitemap: https://first2respond.aiovisibility.net/sitemap.xml
+Sitemap: https://first2respond.aiovisibility.net/ai-sitemap.xml

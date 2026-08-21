@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-21T21:54:59.807Z",
+  "generatedAt": "2026-08-21T23:11:30.234Z",
   "client": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "https://first2respond.aiovisibility.net",
-    "pagesUrl": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg",
+    "pagesUrl": "https://first2respond.aiovisibility.net",
     "phone": "(844) 721-0319",
     "email": "info@first2respond.com",
     "locations": [
@@ -306,7 +306,7 @@
   },
   "package": {
     "totalFiles": 2841,
-    "totalBytes": 10287558,
+    "totalBytes": 9800825,
     "stats": {
       "qna": 22,
       "faqs": 2437,
@@ -14445,59 +14445,59 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 7807,
+        "bytes": 13446,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 10485,
+        "bytes": 16127,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 212191,
+        "bytes": 218109,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 30026,
+        "bytes": 35602,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9104,
+        "bytes": 14755,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1687310,
+        "bytes": 1693018,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 480798,
+        "bytes": 486401,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 247975,
+        "bytes": 253578,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 118458,
+        "bytes": 124144,
         "purpose": "LLM-optimized public page"
       }
     ],
     "root": [
       {
         "path": "robots.txt",
-        "bytes": 399,
+        "bytes": 319,
         "purpose": "Robots policy"
       },
       {
         "path": "llms.txt",
-        "bytes": 8695,
+        "bytes": 8415,
         "purpose": "LLM hint"
       },
       {
@@ -14507,7 +14507,7 @@
       },
       {
         "path": "index.html",
-        "bytes": 408,
+        "bytes": 368,
         "purpose": "Landing page (redirects to ai-data.html)"
       },
       {
@@ -14517,42 +14517,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1788,
+        "bytes": 1628,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1382893,
+        "bytes": 1269373,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 463850,
+        "bytes": 350450,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 463850,
+        "bytes": 350450,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 8504,
+        "bytes": 8424,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 441225,
+        "bytes": 441145,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 569123,
+        "bytes": 373232,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1865,
+        "bytes": 1037,
         "purpose": "Standard sitemap"
       }
     ]
@@ -14560,7 +14560,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/",
+      "pagesUrl": "https://first2respond.aiovisibility.net/",
       "repo": "AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg"
     }
   }

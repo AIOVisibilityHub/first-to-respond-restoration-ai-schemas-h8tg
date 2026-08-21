@@ -6,17 +6,17 @@ First To Respond Restoration publishes structured AI-readable data for discovery
 - https://first2respond.aiovisibility.net
 
 ## Core AI Resources
-- https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html
-- https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/data/publishing-manifest.json
-- https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/llms-full.txt
-- https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/full-context.md
-- https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-sitemap.xml
+- https://first2respond.aiovisibility.net/ai-data.html
+- https://first2respond.aiovisibility.net/data/publishing-manifest.json
+- https://first2respond.aiovisibility.net/llms-full.txt
+- https://first2respond.aiovisibility.net/full-context.md
+- https://first2respond.aiovisibility.net/ai-sitemap.xml
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] First To Respond Restoration — canonical website — https://first2respond.aiovisibility.net
-- [ai-data-hub] First To Respond Restoration — AI Data Hub — https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html
+- [ai-data-hub] First To Respond Restoration — AI Data Hub — https://first2respond.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — https://first2respond.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
