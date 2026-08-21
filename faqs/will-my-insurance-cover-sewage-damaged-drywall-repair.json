@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-sewage-damaged-drywall-repair",
+  "name": "Will my insurance cover sewage damaged drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover sewage damaged drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover water damage that is sudden and accidental, which can include certain types of sewage backups. However, coverage often depends on the cause of the backup and the specifics of your policy. For instance, damage from external sewer line issues might be covered differently than a clogged toilet. It's essential to review your policy details and contact your insurance provider immediately to understand your coverage and initiate a claim.",
+        "@type": "Answer",
+        "description": "Insurance coverage for sewage-damaged drywall often depends on your policy and the cause of the backup. Review your policy and contact your provider to confirm coverage."
+      }
+    }
+  ],
+  "description": "Insurance coverage for sewage-damaged drywall often depends on your policy and the cause of the backup. Review your policy and contact your provider to confirm"
+}

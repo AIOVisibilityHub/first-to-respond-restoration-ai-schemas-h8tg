@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-repair-a-wind-damaged-roof",
+  "name": "How long does it take to repair a wind-damaged roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a wind-damaged roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wind damage roof repair depends heavily on the severity and type of damage. Minor repairs, such as replacing a few shingles, might take only a few hours to a single day. More extensive damage, like repairing a large section of the roof or complete replacement, could take several days, especially if specialized materials are needed. Weather conditions also play a role in scheduling. We strive to complete repairs efficiently while maintaining high quality standards.",
+        "@type": "Answer",
+        "description": "Repair time varies; minor repairs can take hours to a day, while extensive damage may take several days. Severity of damage, material availability, and weather are factors."
+      }
+    }
+  ],
+  "description": "Repair time varies; minor repairs can take hours to a day, while extensive damage may take several days. Severity of damage, material availability, and weather"
+}

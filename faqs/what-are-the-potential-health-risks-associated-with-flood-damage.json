@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-potential-health-risks-associated-with-flood-damage",
+  "name": "What are the potential health risks associated with flood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential health risks associated with flood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flood damage poses several health risks, primarily from exposure to contaminated water and mold growth. Floodwaters can contain bacteria, viruses, chemicals, and sewage, leading to infections or illness. Inhaling mold spores can trigger allergic reactions, respiratory issues, or exacerbate existing conditions like asthma. Professional cleanup helps mitigate these risks by thoroughly sanitizing affected areas and ensuring proper drying to prevent mold. It's crucial to avoid direct contact with floodwaters and use appropriate personal protective equipment.",
+        "@type": "Answer",
+        "description": "Health risks include exposure to contaminated water (bacteria, viruses, chemicals) and mold growth, which can cause respiratory issues or allergic reactions."
+      }
+    }
+  ],
+  "description": "Health risks include exposure to contaminated water (bacteria, viruses, chemicals) and mold growth, which can cause respiratory issues or allergic reactions."
+}

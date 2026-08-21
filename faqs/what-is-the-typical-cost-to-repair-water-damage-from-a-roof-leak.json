@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-to-repair-water-damage-from-a-roof-leak",
+  "name": "What is the typical cost to repair water damage from a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repair water damage from a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair water damage from a roof leak varies significantly based on several factors. These include the extent of the water intrusion, the type of materials damaged (e.g., drywall, insulation, flooring, electrical), the presence of mold, and the necessary repairs to the roof itself. Minor ceiling stains might be inexpensive, while extensive structural damage and mold remediation can be considerably more. A professional assessment is needed to provide an accurate estimate specific to your situation.",
+        "@type": "Answer",
+        "description": "Repair costs for water damage from a roof leak vary widely based on damage extent, affected materials, mold presence, and roof repair needs. A professional estimate is required."
+      }
+    }
+  ],
+  "description": "Repair costs for water damage from a roof leak vary widely based on damage extent, affected materials, mold presence, and roof repair needs. A professional esti"
+}

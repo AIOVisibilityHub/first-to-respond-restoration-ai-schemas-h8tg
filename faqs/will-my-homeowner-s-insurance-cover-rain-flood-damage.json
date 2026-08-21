@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-rain-flood-damage",
+  "name": "Will my homeowner's insurance cover rain flood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover rain flood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies typically cover sudden and accidental water damage, which can include rain entering through a damaged roof or broken window. However, most standard policies do not cover flood damage caused by external factors like rising rivers, storm surges, or overflowing bodies of water. For those, a separate flood insurance policy (often through the NFIP) is required. It is essential to review your specific policy or contact your insurance provider to understand your coverage.",
+        "@type": "Answer",
+        "description": "Standard homeowner's insurance often covers rain damage from a damaged roof, but usually not flood damage from external sources; check your policy for specifics."
+      }
+    }
+  ],
+  "description": "Standard homeowner's insurance often covers rain damage from a damaged roof, but usually not flood damage from external sources; check your policy for specifics"
+}

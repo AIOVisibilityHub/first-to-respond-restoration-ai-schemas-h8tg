@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-wind-damaged-roof-inspection",
+  "name": "When should I call a professional for a wind-damaged roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a wind-damaged roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for a wind-damaged roof inspection as soon as you suspect damage, especially after a significant storm with high winds. Early inspection helps identify issues before they lead to more extensive problems like water leaks. Even if damage isn't immediately visible from the ground, a professional can safely assess the entire roof and provide a detailed report on its condition and necessary repairs. Prompt action can prevent minor damage from becoming a major issue.",
+        "@type": "Answer",
+        "description": "Call a professional immediately after a strong wind event or if you notice any potential damage. Early inspection prevents minor issues from escalating."
+      }
+    }
+  ],
+  "description": "Call a professional immediately after a strong wind event or if you notice any potential damage. Early inspection prevents minor issues from escalating."
+}

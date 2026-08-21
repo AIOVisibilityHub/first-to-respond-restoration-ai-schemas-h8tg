@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-to-repair-a-ceiling-leak-caused-by-rain",
+  "name": "What is the typical cost to repair a ceiling leak caused by rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repair a ceiling leak caused by rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a ceiling leak caused by rain varies widely depending on the source of the leak, the extent of water damage, and the materials involved. Minor repairs like patching a small roof leak and replacing a section of drywall might be a few hundred dollars. However, if there's extensive water damage, mold remediation, or structural repairs needed, costs can range into thousands. A professional assessment is necessary for an accurate estimate.",
+        "@type": "Answer",
+        "description": "The cost to repair a rain-induced ceiling leak varies based on the leak's source and the extent of water damage, ranging from hundreds for minor fixes to thousands for extensive repairs."
+      }
+    }
+  ],
+  "description": "The cost to repair a rain-induced ceiling leak varies based on the leak's source and the extent of water damage, ranging from hundreds for minor fixes to thousa"
+}

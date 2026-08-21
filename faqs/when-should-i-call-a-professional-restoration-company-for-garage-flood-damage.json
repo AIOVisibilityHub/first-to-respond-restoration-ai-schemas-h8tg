@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-for-garage-flood-damage",
+  "name": "When should I call a professional restoration company for garage flood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company for garage flood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company immediately after discovering garage flood damage, especially if the water is more than a few inches deep, has been present for over 24 hours, or if you suspect contamination. Professionals have the expertise and equipment to safely extract water, thoroughly dry the area, and prevent secondary damage like mold or structural issues. Early intervention by experts minimizes overall damage and restoration costs.",
+        "@type": "Answer",
+        "description": "Call a professional restoration company immediately if water is deep, present over 24 hours, or if you suspect contamination, to prevent further damage."
+      }
+    }
+  ],
+  "description": "Call a professional restoration company immediately if water is deep, present over 24 hours, or if you suspect contamination, to prevent further damage."
+}

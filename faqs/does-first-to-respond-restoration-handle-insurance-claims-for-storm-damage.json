@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-first-to-respond-restoration-handle-insurance-claims-for-storm-damage",
+  "name": "Does First To Respond Restoration handle insurance claims for storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does First To Respond Restoration handle insurance claims for storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration works closely with homeowners and their insurance providers throughout the storm damage restoration process. We can assist you by documenting the damage thoroughly, providing detailed estimates, and communicating directly with your insurance adjuster. Our goal is to streamline the claims process for you, ensuring that all necessary information is submitted accurately and efficiently. While we cannot act as your adjuster, we can guide you through the required steps to help facilitate a smoother claim resolution.",
+        "@type": "Answer",
+        "description": "First To Respond Restoration assists with insurance claims by documenting damage, providing estimates, and communicating with adjusters. We aim to streamline the process for you."
+      }
+    }
+  ],
+  "description": "First To Respond Restoration assists with insurance claims by documenting damage, providing estimates, and communicating with adjusters. We aim to streamline th"
+}

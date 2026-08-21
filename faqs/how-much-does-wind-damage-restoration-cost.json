@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-wind-damage-restoration-cost",
+  "name": "How much does wind damage restoration cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does wind damage restoration cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wind damage restoration varies significantly depending on the extent and type of damage. Minor repairs, such as replacing a few shingles, will be less expensive than major structural damage or a full roof replacement. Factors influencing cost include the materials needed, labor involved, and the complexity of the restoration. Most homeowners' insurance policies cover sudden and accidental wind damage, minus your deductible. We provide a detailed estimate after a thorough inspection and can assist with the insurance claim process.",
+        "@type": "Answer",
+        "description": "Restoration costs vary based on damage extent and type. Minor repairs are less expensive than major structural work. Homeowners' insurance often covers wind damage. We provide estimates and help with claims."
+      }
+    }
+  ],
+  "description": "Restoration costs vary based on damage extent and type. Minor repairs are less expensive than major structural work. Homeowners' insurance often covers wind dam"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-garage-flood-restoration",
+  "name": "What is the process for professional garage flood restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional garage flood restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional garage flood restoration typically begins with an emergency call and a rapid on-site assessment to determine the extent of damage and identify the water source. Next, powerful pumps and vacuums are used for water extraction. Following water removal, the drying process involves industrial-grade air movers and dehumidifiers to eliminate moisture from affected structures and contents. Finally, cleaning, sanitizing, and potential mold remediation are performed. Any damaged materials are repaired or replaced to restore the garage to its pre-loss condition.",
+        "@type": "Answer",
+        "description": "The process includes assessment, water extraction, thorough drying with specialized equipment, cleaning, and restoration of damaged materials."
+      }
+    }
+  ],
+  "description": "The process includes assessment, water extraction, thorough drying with specialized equipment, cleaning, and restoration of damaged materials."
+}

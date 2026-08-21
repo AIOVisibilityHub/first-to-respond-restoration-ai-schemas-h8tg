@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-help-for-roof-leak-water-damage",
+  "name": "When do I need professional help for roof leak water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional help for roof leak water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should seek professional help for roof leak water damage when the leak is significant, has affected multiple areas, or has been ongoing for an unknown period. Professionals are equipped to safely handle saturated building materials, perform thorough drying to prevent mold, and identify hidden moisture. Even a small leak can lead to extensive damage over time if not properly addressed. If you suspect structural damage, mold growth, or have standing water, professional intervention is necessary to ensure proper cleanup and restoration.",
+        "@type": "Answer",
+        "description": "Call a professional for significant leaks, widespread damage, hidden moisture, or suspected mold, even for small leaks that have persisted."
+      }
+    }
+  ],
+  "description": "Call a professional for significant leaks, widespread damage, hidden moisture, or suspected mold, even for small leaks that have persisted."
+}

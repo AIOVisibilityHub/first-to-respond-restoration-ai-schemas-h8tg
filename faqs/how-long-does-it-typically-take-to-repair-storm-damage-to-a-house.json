@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-typically-take-to-repair-storm-damage-to-a-house",
+  "name": "How long does it typically take to repair storm damage to a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to repair storm damage to a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for repairing storm damage varies greatly depending on the extent and type of damage. Minor repairs, like replacing a few shingles, might take a day or two. More extensive issues, such as significant roof replacement, water remediation, or structural repairs, could take several weeks to a few months. Factors like permit requirements, material availability, and insurance approval also influence the duration. A professional restoration company can provide a more accurate timeline after a full assessment.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity; minor issues may take days, while major repairs involving water or structural work can take weeks to months."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity; minor issues may take days, while major repairs involving water or structural work can take weeks to months."
+}

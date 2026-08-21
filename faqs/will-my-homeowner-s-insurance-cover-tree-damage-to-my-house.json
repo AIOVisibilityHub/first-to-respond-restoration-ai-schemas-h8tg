@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-tree-damage-to-my-house",
+  "name": "Will my homeowner's insurance cover tree damage to my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover tree damage to my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies typically cover damage to your house and other structures caused by a fallen tree, especially if the tree fell due to a covered peril like wind, lightning, or hail. Coverage usually includes the cost of tree removal from the structure, repair of the damage, and temporary living expenses if your home is uninhabitable. However, coverage can vary depending on your specific policy and the cause of the tree fall. It's crucial to review your policy or speak directly with your insurance provider to understand your specific coverage limits and deductible.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover tree damage to your house if caused by a covered peril. Review your policy or contact your insurer for details."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover tree damage to your house if caused by a covered peril. Review your policy or contact your insurer for details."
+}

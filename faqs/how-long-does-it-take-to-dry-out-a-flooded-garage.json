@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-dry-out-a-flooded-garage",
+  "name": "How long does it take to dry out a flooded garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to dry out a flooded garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to dry out a flooded garage varies depending on the extent of the water damage, the materials affected, and the humidity levels. Typically, professional drying can take anywhere from three to five days, but severe cases might require longer. Restoration companies use specialized equipment like industrial-strength dehumidifiers and air movers to accelerate the drying process. Thorough drying is essential to prevent mold growth and further structural damage.",
+        "@type": "Answer",
+        "description": "Professional drying can take three to five days or longer, depending on damage severity and materials, using specialized equipment to prevent mold."
+      }
+    }
+  ],
+  "description": "Professional drying can take three to five days or longer, depending on damage severity and materials, using specialized equipment to prevent mold."
+}

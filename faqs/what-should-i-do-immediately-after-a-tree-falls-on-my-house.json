@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-tree-falls-on-my-house",
+  "name": "What should I do immediately after a tree falls on my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a tree falls on my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is the primary concern. First, ensure everyone is safe and move to a secure location. Check for downed power lines and gas leaks; if present, do not approach and call 911 immediately. Contact your insurance company to report the damage. Then, call a professional emergency restoration company like First To Respond Restoration to assess the damage, provide temporary repairs to prevent further issues, and begin the cleanup process safely and efficiently. Avoid trying to remove large debris yourself, as this can be dangerous and cause additional damage.",
+        "@type": "Answer",
+        "description": "Prioritize safety, check for hazards like power lines, and then contact your insurance and an emergency restoration company for immediate assistance."
+      }
+    }
+  ],
+  "description": "Prioritize safety, check for hazards like power lines, and then contact your insurance and an emergency restoration company for immediate assistance."
+}

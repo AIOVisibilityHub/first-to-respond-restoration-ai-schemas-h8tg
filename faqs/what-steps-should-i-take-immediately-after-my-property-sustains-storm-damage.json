@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-i-take-immediately-after-my-property-sustains-storm-damage",
+  "name": "What steps should I take immediately after my property sustains storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take immediately after my property sustains storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your property sustains storm damage, ensure everyone's safety first. If it's safe to do so, prevent further damage by covering broken windows or roof leaks with tarps. Document all damage with photos and videos for insurance purposes. Contact your insurance company immediately to report the damage. Then, call First To Respond Restoration for emergency assessment and stabilization services. Do not attempt to make extensive repairs yourself, especially if there are electrical hazards or structural issues. We can help guide you through the necessary next steps.",
+        "@type": "Answer",
+        "description": "After storm damage, ensure safety, document damage, contact your insurer, and then call First To Respond Restoration for emergency assessment. Do not attempt extensive DIY repairs."
+      }
+    }
+  ],
+  "description": "After storm damage, ensure safety, document damage, contact your insurer, and then call First To Respond Restoration for emergency assessment. Do not attempt ex"
+}

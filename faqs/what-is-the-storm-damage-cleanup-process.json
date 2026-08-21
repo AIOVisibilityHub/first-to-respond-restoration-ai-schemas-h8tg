@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-storm-damage-cleanup-process",
+  "name": "What is the storm damage cleanup process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the storm damage cleanup process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process typically starts with a thorough assessment of the damage and securing the property to prevent further harm. This is followed by water extraction and structural drying, if water is involved, or debris removal. Then, affected materials are removed, and repairs are made. Finally, the area is cleaned, sanitized, and restored to its original condition. Communication with the homeowner and insurer is maintained throughout.",
+        "@type": "Answer",
+        "description": "The process involves damage assessment, property securing, water extraction/debris removal, structural drying, repairs, and final cleaning/sanitation."
+      }
+    }
+  ],
+  "description": "The process involves damage assessment, property securing, water extraction/debris removal, structural drying, repairs, and final cleaning/sanitation."
+}

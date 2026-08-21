@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-measures-can-i-take-to-prevent-my-house-from-flooding-from-rain-in-the-futu",
+  "name": "What measures can I take to prevent my house from flooding from rain in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measures can I take to prevent my house from flooding from rain in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future rain flooding, ensure your gutters and downspouts are clear and properly direct water away from your foundation. Regularly inspect your roof for damaged or missing shingles. Consider grading your landscaping to slope away from your home. Install a sump pump in your basement or crawl space, if applicable, and ensure it's functioning correctly. Check window and door seals for leaks. These preventative steps can significantly reduce your risk of water intrusion.",
+        "@type": "Answer",
+        "description": "Prevent future rain floods by clearing gutters, inspecting your roof, grading landscaping away from your foundation, and maintaining sump pumps and door/window seals."
+      }
+    }
+  ],
+  "description": "Prevent future rain floods by clearing gutters, inspecting your roof, grading landscaping away from your foundation, and maintaining sump pumps and door/window"
+}

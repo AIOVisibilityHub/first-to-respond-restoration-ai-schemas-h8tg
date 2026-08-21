@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-repair-water-damage-from-a-window-leak",
+  "name": "How long does it take to repair water damage from a window leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair water damage from a window leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for repairing water damage depends on the severity and scope of the issue. Simple leak repairs, like recaulking, might take a few hours. However, if there's extensive water damage involving drying out affected materials, mold remediation, and replacing drywall or flooring, the process could span several days to a week or more. A professional assessment will provide a more precise timeline after evaluating the full extent of the damage.",
+        "@type": "Answer",
+        "description": "Repair time depends on leak severity; simple fixes take hours, while extensive water damage and remediation can take days to over a week. A professional assessment gives a precise timeline."
+      }
+    }
+  ],
+  "description": "Repair time depends on leak severity; simple fixes take hours, while extensive water damage and remediation can take days to over a week. A professional assessm"
+}

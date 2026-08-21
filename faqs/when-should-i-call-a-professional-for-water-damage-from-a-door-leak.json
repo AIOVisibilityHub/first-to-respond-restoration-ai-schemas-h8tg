@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-water-damage-from-a-door-leak",
+  "name": "When should I call a professional for water damage from a door leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for water damage from a door leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for water damage from a door leak if the leakage is significant, persistent, or if you notice any signs of structural damage, subfloor saturation, or mold growth. Even seemingly minor leaks can lead to hidden damage within walls or under flooring over time. Professionals have the specialized equipment to accurately detect moisture, extract water, and thoroughly dry affected areas, preventing long-term problems like mold infestation and structural compromise. Prompt intervention minimizes repair costs and health risks.",
+        "@type": "Answer",
+        "description": "Call a professional for door leaks if damage is significant, persistent, or if you suspect hidden moisture, structural issues, or mold growth."
+      }
+    }
+  ],
+  "description": "Call a professional for door leaks if damage is significant, persistent, or if you suspect hidden moisture, structural issues, or mold growth."
+}

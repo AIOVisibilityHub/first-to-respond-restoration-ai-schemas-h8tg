@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-common-types-of-storm-damage-affect-houses",
+  "name": "What common types of storm damage affect houses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common types of storm damage affect houses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storms can cause various types of damage to homes, including roof damage from strong winds or hail, leading to missing shingles or punctures. Water damage from heavy rain can result in leaks, flooding in basements, or saturated walls and ceilings. Falling trees or branches can cause structural damage to roofs, walls, or foundations. Additionally, lightning strikes can cause electrical damage or even fires. It's crucial to assess your home safely after a storm to identify any visible or hidden issues.",
+        "@type": "Answer",
+        "description": "Common storm damage includes roof damage from wind/hail, water leaks, structural issues from falling trees, and electrical damage from lightning."
+      }
+    }
+  ],
+  "description": "Common storm damage includes roof damage from wind/hail, water leaks, structural issues from falling trees, and electrical damage from lightning."
+}

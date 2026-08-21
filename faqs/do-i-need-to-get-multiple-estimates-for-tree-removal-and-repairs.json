@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-get-multiple-estimates-for-tree-removal-and-repairs",
+  "name": "Do I need to get multiple estimates for tree removal and repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get multiple estimates for tree removal and repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's generally good practice to obtain multiple estimates for significant home repairs, in an emergency situation like a tree falling on your house, immediate action is often necessary to prevent further damage. Your insurance company may have specific requirements or recommendations regarding estimates. Some insurers might accept a single emergency estimate, especially for initial mitigation work, while others may request two or three for the full restoration project. Always communicate with your insurance adjuster about their preferred process before engaging in extensive work.",
+        "@type": "Answer",
+        "description": "For emergency tree damage, immediate action is crucial. Check with your insurance company regarding their specific requirements for estimates for removal and repairs."
+      }
+    }
+  ],
+  "description": "For emergency tree damage, immediate action is crucial. Check with your insurance company regarding their specific requirements for estimates for removal and re"
+}

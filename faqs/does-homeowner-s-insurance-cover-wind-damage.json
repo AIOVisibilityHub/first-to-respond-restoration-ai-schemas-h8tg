@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-wind-damage",
+  "name": "Does homeowner's insurance cover wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover damage caused by windstorms, hurricanes, and other perils. However, the extent of coverage can vary based on your specific policy and deductible. It's important to review your policy documents or contact your insurance provider to understand what is covered, any exclusions, and your deductible amount. Your insurer may require a professional inspection report to process a claim for wind damage.",
+        "@type": "Answer",
+        "description": "Most standard homeowner's insurance covers wind damage, but coverage details and deductibles vary. Review your policy or contact your insurer for specifics."
+      }
+    }
+  ],
+  "description": "Most standard homeowner's insurance covers wind damage, but coverage details and deductibles vary. Review your policy or contact your insurer for specifics."
+}

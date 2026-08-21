@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-an-exterior-wall-water-leak",
+  "name": "When should I call a professional for an exterior wall water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for an exterior wall water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional restoration company as soon as you notice any signs of water leaking through an exterior wall. Early intervention can prevent minor issues from escalating into significant structural damage, mold growth, or extensive repairs. If the leak is persistent, originates from an unknown source, or if you suspect mold or structural compromise, professional assessment and intervention are necessary. Restoration experts have specialized equipment to detect hidden moisture and safely dry affected areas.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if you notice signs of a leak, especially if it's persistent, the source is unknown, or you suspect mold or structural damage."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if you notice signs of a leak, especially if it's persistent, the source is unknown, or you suspect mold or structural damage."
+}

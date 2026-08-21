@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-restoring-sewage-damaged-drywall",
+  "name": "What is the typical process for restoring sewage damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for restoring sewage damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process begins with a thorough assessment to determine the extent of contamination. Next, affected materials, including drywall, are safely removed and disposed of according to regulations. The area is then cleaned, sanitized, and disinfected using specialized antimicrobial agents to eliminate pathogens. High-powered drying equipment is used to remove all moisture, preventing mold growth. Finally, air scrubbers are employed to purify the air, and reconstruction of the drywall is performed to restore the area.",
+        "@type": "Answer",
+        "description": "The process involves assessment, safe removal and disposal of contaminated drywall, thorough cleaning and disinfection, professional drying, air purification, and reconstruction."
+      }
+    }
+  ],
+  "description": "The process involves assessment, safe removal and disposal of contaminated drywall, thorough cleaning and disinfection, professional drying, air purification, a"
+}

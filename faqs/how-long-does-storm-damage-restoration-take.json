@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-storm-damage-restoration-take",
+  "name": "How long does storm damage restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does storm damage restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of storm damage restoration varies significantly depending on the extent and type of damage. Minor repairs might take a few days, while extensive structural damage or severe water intrusion could require weeks or even months. Factors like the size of the affected area, material availability, and insurance approval processes also influence the timeline. Our team will provide a detailed assessment and estimated timeline after inspecting your property.",
+        "@type": "Answer",
+        "description": "The duration of storm damage restoration depends on the damage's extent, ranging from a few days for minor issues to weeks or months for severe damage."
+      }
+    }
+  ],
+  "description": "The duration of storm damage restoration depends on the damage's extent, ranging from a few days for minor issues to weeks or months for severe damage."
+}

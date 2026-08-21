@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-storm-damage-cleanup",
+  "name": "When should I call a professional for storm damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for storm damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional restoration company immediately after ensuring your safety and assessing initial damage. Prompt action is crucial to prevent secondary damage such as mold growth from water intrusion, or further structural issues from exposed areas. Professionals can quickly secure your property, assess the full extent of the damage, and begin specialized cleanup and restoration processes that may be too complex or hazardous for homeowners to handle alone.",
+        "@type": "Answer",
+        "description": "Call a professional immediately after a storm to prevent secondary damage like mold and ensure proper, safe restoration."
+      }
+    }
+  ],
+  "description": "Call a professional immediately after a storm to prevent secondary damage like mold and ensure proper, safe restoration."
+}

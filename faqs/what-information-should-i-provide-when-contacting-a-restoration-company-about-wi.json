@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-information-should-i-provide-when-contacting-a-restoration-company-about-wi",
+  "name": "What information should I provide when contacting a restoration company about wind-damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide when contacting a restoration company about wind-damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When contacting us, please provide your address and a brief description of the damage, including when the wind event occurred. Photos of the damage, if safely taken, can also be very helpful. Mentioning the type of siding you have (if known) and any concerns about interior water intrusion will help us understand the scope and prepare for your initial assessment more effectively.",
+        "@type": "Answer",
+        "description": "Provide your address, damage description, when the wind event occurred, and any photos or siding type information you have."
+      }
+    }
+  ],
+  "description": "Provide your address, damage description, when the wind event occurred, and any photos or siding type information you have."
+}

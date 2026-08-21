@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-sewage-cleanup-and-restoration-take",
+  "name": "How long does sewage cleanup and restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sewage cleanup and restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of sewage cleanup and restoration depends on the severity and scope of the damage. A smaller, contained incident might take a few days for cleanup and drying. More extensive damage involving structural elements, multiple rooms, or extensive demolition and reconstruction can take several weeks or even longer. The process involves initial cleanup, drying (which can take 3-5 days alone), followed by any necessary repairs and reconstruction. Professionals can provide a more accurate timeline after assessing your specific situation.",
+        "@type": "Answer",
+        "description": "Cleanup time varies based on damage severity. Smaller incidents may take days, while extensive damage with reconstruction can take weeks. Drying alone often takes 3-5 days."
+      }
+    }
+  ],
+  "description": "Cleanup time varies based on damage severity. Smaller incidents may take days, while extensive damage with reconstruction can take weeks. Drying alone often tak"
+}

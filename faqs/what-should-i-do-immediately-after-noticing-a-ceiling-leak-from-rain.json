@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-noticing-a-ceiling-leak-from-rain",
+  "name": "What should I do immediately after noticing a ceiling leak from rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after noticing a ceiling leak from rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately, try to contain the water by placing buckets or towels under the leak to prevent further damage to floors and furniture. If possible, move items away from the affected area. Then, attempt to locate the source of the leak, if safe to do so. It's often best to contact a professional restoration company or roofer promptly to assess the damage and begin repairs, as delaying can lead to more extensive structural issues and mold growth.",
+        "@type": "Answer",
+        "description": "Contain the water with buckets, move valuables, and then contact a professional restoration company or roofer immediately to assess and repair the leak to prevent further damage."
+      }
+    }
+  ],
+  "description": "Contain the water with buckets, move valuables, and then contact a professional restoration company or roofer immediately to assess and repair the leak to preve"
+}

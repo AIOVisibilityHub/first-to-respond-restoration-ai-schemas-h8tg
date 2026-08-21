@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-tree-falls-on-my-roof",
+  "name": "What should I do immediately after a tree falls on my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a tree falls on my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, ensure everyone's safety. If there's an immediate danger, evacuate your home. Do not attempt to remove large tree debris yourself. Call emergency services if there are gas leaks, downed power lines, or severe structural damage. Contact your insurance company to report the damage and then call a professional emergency restoration service. They can help with temporary repairs, damage assessment, and start the restoration process safely and efficiently.",
+        "@type": "Answer",
+        "description": "Prioritize safety, evacuate if necessary, and contact emergency services, your insurance company, and a professional restoration service immediately."
+      }
+    }
+  ],
+  "description": "Prioritize safety, evacuate if necessary, and contact emergency services, your insurance company, and a professional restoration service immediately."
+}

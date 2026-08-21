@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-first-to-respond-restoration-assess-storm-damage",
+  "name": "How quickly can First To Respond Restoration assess storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can First To Respond Restoration assess storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration understands the urgency of storm damage. Our teams are prepared to respond quickly, often arriving on-site within hours of your call, depending on location and disaster scale. Our rapid response is critical for mitigating further damage and securing your property efficiently. We provide emergency services 24/7 to address immediate hazards, assess the full scope of damage, and begin the necessary steps for stabilization and restoration. Our goal is to minimize disruption and protect your property as swiftly as possible.",
+        "@type": "Answer",
+        "description": "First To Respond Restoration aims to respond quickly, often within hours, for emergency storm damage assessments. Rapid response helps mitigate further damage."
+      }
+    }
+  ],
+  "description": "First To Respond Restoration aims to respond quickly, often within hours, for emergency storm damage assessments. Rapid response helps mitigate further damage."
+}

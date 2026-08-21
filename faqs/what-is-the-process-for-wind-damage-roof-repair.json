@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-wind-damage-roof-repair",
+  "name": "What is the process for wind damage roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for wind damage roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process begins with a professional inspection to assess the damage and document findings, often with photos for insurance. Next, a detailed estimate for repairs is provided. Once approved, our team will secure necessary materials and schedule the repair work. This involves safely removing damaged sections, preparing the area, and installing new roofing materials to match existing ones where possible. The site is thoroughly cleaned upon completion, and a final inspection ensures quality and integrity.",
+        "@type": "Answer",
+        "description": "The process involves inspection, detailed estimate, material acquisition, repair (removing damaged sections, installing new materials), and a final site cleanup and inspection."
+      }
+    }
+  ],
+  "description": "The process involves inspection, detailed estimate, material acquisition, repair (removing damaged sections, installing new materials), and a final site cleanup"
+}

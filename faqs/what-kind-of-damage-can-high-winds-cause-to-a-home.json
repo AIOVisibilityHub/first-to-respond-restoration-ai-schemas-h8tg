@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-damage-can-high-winds-cause-to-a-home",
+  "name": "What kind of damage can high winds cause to a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can high winds cause to a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High winds can cause a wide range of damage to a home beyond just the roof. This includes damage to siding, fences, and detached structures like sheds. Windows can be shattered by flying debris, and entire sections of a roof can be torn off. Trees may fall onto the property, causing significant structural damage. Even seemingly minor wind forces can lift shingles, allowing water to penetrate and cause unseen issues like rot or mold in the attic. A comprehensive inspection is necessary to identify all potential damage.",
+        "@type": "Answer",
+        "description": "High winds can damage roofs, siding, fences, windows, and cause structural issues from falling trees or lifted shingles, potentially leading to unseen water damage like rot or mold."
+      }
+    }
+  ],
+  "description": "High winds can damage roofs, siding, fences, windows, and cause structural issues from falling trees or lifted shingles, potentially leading to unseen water dam"
+}

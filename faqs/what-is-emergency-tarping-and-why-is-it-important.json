@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-emergency-tarping-and-why-is-it-important",
+  "name": "What is 'emergency tarping' and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'emergency tarping' and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency tarping is the process of temporarily covering damaged areas of a roof or exterior with heavy-duty tarpaulins to protect the property from further exposure to weather elements like rain, wind, and debris. This immediate action is crucial after a tree impact to prevent water intrusion, which can lead to significant interior damage, mold growth, and compromise the structural integrity of your home. It's a critical first step in mitigating loss and is often performed by emergency restoration companies before permanent repairs can begin.",
+        "@type": "Answer",
+        "description": "Emergency tarping temporarily covers damaged areas of a roof to prevent further water damage and exposure to weather, crucial for mitigating loss after a tree impact."
+      }
+    }
+  ],
+  "description": "Emergency tarping temporarily covers damaged areas of a roof to prevent further water damage and exposure to weather, crucial for mitigating loss after a tree i"
+}

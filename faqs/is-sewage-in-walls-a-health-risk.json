@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-sewage-in-walls-a-health-risk",
+  "name": "Is sewage in walls a health risk?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewage in walls a health risk?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sewage in walls poses significant health risks due to the presence of harmful bacteria, viruses, and parasites found in wastewater. Exposure to these pathogens can lead to gastrointestinal illnesses, skin infections, respiratory problems, and other serious health issues. Additionally, the moisture from sewage promotes rapid mold growth, which can trigger allergies, asthma, and other respiratory conditions. It is crucial to address sewage contamination promptly to protect the health of occupants.",
+        "@type": "Answer",
+        "description": "Yes, sewage in walls is a serious health risk due to bacteria, viruses, and parasites, which can cause illnesses and promote mold growth. Prompt cleanup is essential."
+      }
+    }
+  ],
+  "description": "Yes, sewage in walls is a serious health risk due to bacteria, viruses, and parasites, which can cause illnesses and promote mold growth. Prompt cleanup is esse"
+}

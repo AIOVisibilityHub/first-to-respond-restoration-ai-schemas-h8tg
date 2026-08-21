@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-water-damage-cleanup-take-after-a-roof-leak",
+  "name": "How long does water damage cleanup take after a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damage cleanup take after a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage cleanup depends on the severity of the leak, the amount of water involved, and how long the water has been present. Minor leaks might require 2-3 days for drying and initial cleanup, while extensive damage involving structural components could take several weeks. Factors like humidity levels and the types of materials affected also play a role. A professional restoration company will conduct a thorough assessment and provide an estimated timeline based on their findings.",
+        "@type": "Answer",
+        "description": "Cleanup time varies based on leak severity, water volume, and affected materials, ranging from a few days for minor issues to several weeks for extensive damage."
+      }
+    }
+  ],
+  "description": "Cleanup time varies based on leak severity, water volume, and affected materials, ranging from a few days for minor issues to several weeks for extensive damage"
+}

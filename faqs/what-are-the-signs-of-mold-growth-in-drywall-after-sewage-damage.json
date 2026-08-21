@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-mold-growth-in-drywall-after-sewage-damage",
+  "name": "What are the signs of mold growth in drywall after sewage damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of mold growth in drywall after sewage damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After sewage damage, mold can quickly develop in drywall. Visible signs include discoloration, such as black, green, or white spots, often appearing in clusters or spreading patterns. A persistent musty or earthy odor is another strong indicator, even if mold isn't immediately visible. Drywall might also show signs of warping, bubbling, or peeling paint. If you notice any of these signs, it's crucial to have a professional inspection to determine the presence and extent of mold contamination.",
+        "@type": "Answer",
+        "description": "Signs of mold in drywall after sewage damage include visible discoloration, a musty odor, or warping and bubbling of the drywall itself. Professional inspection is recommended."
+      }
+    }
+  ],
+  "description": "Signs of mold in drywall after sewage damage include visible discoloration, a musty odor, or warping and bubbling of the drywall itself. Professional inspection"
+}

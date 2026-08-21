@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-sewage-in-walls-myself",
+  "name": "Can I clean up sewage in walls myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up sewage in walls myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is not recommended to clean up sewage in walls yourself. Sewage, classified as Category 3 water, contains hazardous contaminants that require specialized training, equipment, and personal protective gear for safe handling. Attempting DIY cleanup without proper protocols can expose you to dangerous pathogens, worsen contamination, and lead to incomplete remediation, leaving behind unseen health risks and potential structural issues like mold. Professional restoration ensures thorough and safe cleanup accordings to industry standards.",
+        "@type": "Answer",
+        "description": "No, it's not recommended to clean up sewage yourself due to hazardous contaminants and the need for specialized equipment and training. Professionals ensure safe and complete remediation."
+      }
+    }
+  ],
+  "description": "No, it's not recommended to clean up sewage yourself due to hazardous contaminants and the need for specialized equipment and training. Professionals ensure saf"
+}

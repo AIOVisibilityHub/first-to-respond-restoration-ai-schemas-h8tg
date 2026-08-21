@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-prevent-water-from-coming-in-under-my-exterior-doors",
+  "name": "How do I prevent water from coming in under my exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prevent water from coming in under my exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent water from entering under exterior doors, regularly inspect and replace worn weatherstripping and door sweeps. Ensure your door threshold is properly sealed and adjusted. Improve exterior drainage by cleaning gutters, ensuring downspouts divert water away from the foundation, and maintaining proper ground grading that slopes away from the house. Consider installing a small awning or overhang above the door for added protection. For persistent issues, a professional assessment can pinpoint specific weaknesses and suggest long-term solutions.",
+        "@type": "Answer",
+        "description": "Prevent water by checking weatherstripping, sealing thresholds, improving exterior drainage, and ensuring proper ground grading around your home."
+      }
+    }
+  ],
+  "description": "Prevent water by checking weatherstripping, sealing thresholds, improving exterior drainage, and ensuring proper ground grading around your home."
+}

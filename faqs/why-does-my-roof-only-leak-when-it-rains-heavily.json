@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-my-roof-only-leak-when-it-rains-heavily",
+  "name": "Why does my roof only leak when it rains heavily?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my roof only leak when it rains heavily?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Heavy rain can expose vulnerabilities in your roofing system that light rain might not. This often indicates issues such as clogged gutters causing water to back up, damaged or missing shingles that allow water to penetrate under intense flow, or compromised flashing around chimneys, vents, and skylights. Over time, continuous exposure to the elements can degrade roofing materials, leading to hairline cracks or loosened seals that become apparent only when significant volumes of water are present.",
+        "@type": "Answer",
+        "description": "Heavy rain exacerbates existing roof vulnerabilities like clogged gutters, damaged shingles, or compromised flashing, which might not be apparent during light rainfall."
+      }
+    }
+  ],
+  "description": "Heavy rain exacerbates existing roof vulnerabilities like clogged gutters, damaged shingles, or compromised flashing, which might not be apparent during light r"
+}

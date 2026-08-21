@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-storm-damage-repair-and-storm-damage-restoration",
+  "name": "What is the difference between storm damage repair and storm damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between storm damage repair and storm damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm damage repair typically focuses on fixing the immediate visible issues caused by a storm, such as replacing broken windows or patching a roof. Storm damage restoration, however, is a more comprehensive process. It involves not just repairs but also mitigation, cleaning, drying, and rebuilding to return the property to its pre-loss condition, or even better. Restoration addresses hidden issues like water infiltration, mold prevention, and structural integrity, ensuring a complete recovery and long-term safety of the home.",
+        "@type": "Answer",
+        "description": "Repair fixes visible damage; restoration is a comprehensive process that mitigates, cleans, dries, and rebuilds to pre-loss condition, addressing hidden issues."
+      }
+    }
+  ],
+  "description": "Repair fixes visible damage; restoration is a comprehensive process that mitigates, cleans, dries, and rebuilds to pre-loss condition, addressing hidden issues."
+}

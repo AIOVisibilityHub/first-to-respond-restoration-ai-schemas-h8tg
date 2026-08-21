@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-property-sustains-wind-damage",
+  "name": "What should I do immediately after my property sustains wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my property sustains wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after your property sustains wind damage, ensure everyone's safety. If it's safe to do so, take photos and videos of all visible damage for insurance purposes. Avoid attempting to make extensive repairs yourself, especially on a damaged roof, as this can be dangerous. Prevent further interior damage by covering leaks with tarps or buckets. Then, contact a professional wind damage restoration company like First To Respond Restoration for a thorough assessment and emergency services to secure your property.",
+        "@type": "Answer",
+        "description": "After wind damage, prioritize safety, document damage with photos, and avoid DIY repairs. Prevent further interior damage, then call a professional restoration company for assessment and emergency services."
+      }
+    }
+  ],
+  "description": "After wind damage, prioritize safety, document damage with photos, and avoid DIY repairs. Prevent further interior damage, then call a professional restoration"
+}

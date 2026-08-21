@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-structural-damage-to-my-home-after-a-tree-through-roof-inc",
+  "name": "What are the signs of structural damage to my home after a tree through roof incident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of structural damage to my home after a tree through roof incident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond the obvious hole in the roof, look for interior signs like sagging ceilings, cracks in walls or ceilings, sticking doors or windows, and visible bowing or shifting of structural elements in the attic. Water stains or leaks are also common indicators of damage. Even if the tree didn't fully penetrate, the impact alone can compromise the integrity of your roof trusses and framing, necessitating a professional inspection.",
+        "@type": "Answer",
+        "description": "Signs include sagging ceilings, wall/ceiling cracks, sticking doors/windows, and water stains. Professional inspection is crucial for hidden damage."
+      }
+    }
+  ],
+  "description": "Signs include sagging ceilings, wall/ceiling cracks, sticking doors/windows, and water stains. Professional inspection is crucial for hidden damage."
+}

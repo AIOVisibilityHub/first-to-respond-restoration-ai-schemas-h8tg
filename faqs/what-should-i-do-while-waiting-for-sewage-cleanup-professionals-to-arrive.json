@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-while-waiting-for-sewage-cleanup-professionals-to-arrive",
+  "name": "What should I do while waiting for sewage cleanup professionals to arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do while waiting for sewage cleanup professionals to arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While waiting for professionals, prioritize safety. Avoid contact with the sewage and keep children and pets away from the affected area. If safe to do so, turn off your main water supply to prevent further leakage. Do not use electrical appliances in standing water. Open windows and doors to increase ventilation, but do not use fans or your HVAC system as this could spread contaminants. Do not attempt to clean or salvage items yourself without professional guidance, as it can be unsafe and spread contamination.",
+        "@type": "Answer",
+        "description": "Prioritize safety: avoid contact with sewage, turn off water if safe, ensure ventilation, and keep children/pets away. Do not attempt cleanup yourself."
+      }
+    }
+  ],
+  "description": "Prioritize safety: avoid contact with sewage, turn off water if safe, ensure ventilation, and keep children/pets away. Do not attempt cleanup yourself."
+}

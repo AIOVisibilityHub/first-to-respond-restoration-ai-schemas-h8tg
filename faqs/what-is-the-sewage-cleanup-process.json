@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-sewage-cleanup-process",
+  "name": "What is the sewage cleanup process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the sewage cleanup process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sewage cleanup process typically involves several stages. First, professionals assess the damage and identify the source of the backup. Next, the affected area is contained to prevent further spread of contamination. Standing water and solid waste are then extracted. Contaminated porous materials like carpet, drywall, and insulation are removed. After removal, the remaining surfaces are thoroughly cleaned, disinfected, and sanitized using specialized antimicrobial treatments. Finally, industrial-strength dehumidifiers and air movers are used to dry the area completely, followed by odor removal and restoration of damaged structures.",
+        "@type": "Answer",
+        "description": "The sewage cleanup process involves assessment, containment, extraction of waste, removal of contaminated materials, cleaning and disinfection, drying, and restoration."
+      }
+    }
+  ],
+  "description": "The sewage cleanup process involves assessment, containment, extraction of waste, removal of contaminated materials, cleaning and disinfection, drying, and rest"
+}

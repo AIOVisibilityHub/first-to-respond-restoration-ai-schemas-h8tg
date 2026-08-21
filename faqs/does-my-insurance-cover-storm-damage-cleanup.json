@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-my-insurance-cover-storm-damage-cleanup",
+  "name": "Does my insurance cover storm damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my insurance cover storm damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners' insurance policies cover storm damage, but the specifics depend on your individual policy and the cause of the damage. For instance, flood damage typically requires a separate flood insurance policy. It's essential to review your policy details or contact your insurance provider to understand your coverage. Our team can work directly with your insurance company to streamline the claims process and provide necessary documentation.",
+        "@type": "Answer",
+        "description": "Most homeowners' insurance covers storm damage, but specific coverage depends on your policy, especially for flood damage. We can help with insurance claims."
+      }
+    }
+  ],
+  "description": "Most homeowners' insurance covers storm damage, but specific coverage depends on your policy, especially for flood damage. We can help with insurance claims."
+}

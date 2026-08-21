@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-sewage-in-my-walls",
+  "name": "How quickly do I need to address sewage in my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address sewage in my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage in walls should be addressed immediately upon detection. The longer sewage remains, the greater the risk of structural damage, mold growth, and health hazards. Within 24-48 hours, mold can begin to colonize damp areas, and wood structures can start to warp or rot. Untreated sewage also continues to emit noxious gases and spread contaminants. Prompt action by professionals minimizes the extent of damage, reduces remediation costs, and ensures a safer environment.",
+        "@type": "Answer",
+        "description": "Address sewage in walls immediately, preferably within 24 hours, to prevent extensive structural damage, mold growth, and increased health risks. Delays lead to higher remediation costs."
+      }
+    }
+  ],
+  "description": "Address sewage in walls immediately, preferably within 24 hours, to prevent extensive structural damage, mold growth, and increased health risks. Delays lead to"
+}

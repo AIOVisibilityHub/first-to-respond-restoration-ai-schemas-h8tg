@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-repair-a-roof-after-a-tree-falls-on-it",
+  "name": "How long does it take to repair a roof after a tree falls on it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a roof after a tree falls on it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for roof repair after a tree fall varies significantly based on the extent of the damage, the size of the tree, and the complexity of the roof structure. Minor damage might take a few days, while extensive structural damage could extend to several weeks. This timeframe includes emergency tarping, debris removal, detailed assessment, material acquisition, and actual construction work. Your restoration company can provide a more accurate estimate after a thorough inspection.",
+        "@type": "Answer",
+        "description": "Repair time varies from days to weeks, depending on damage extent. A thorough inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Repair time varies from days to weeks, depending on damage extent. A thorough inspection provides an accurate estimate."
+}

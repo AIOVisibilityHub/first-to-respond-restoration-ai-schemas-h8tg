@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-damage-can-raw-sewage-cause-to-my-property",
+  "name": "What kind of damage can raw sewage cause to my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can raw sewage cause to my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Raw sewage can cause extensive damage to your property beyond just unpleasant odors. It saturates porous materials like carpets, flooring, drywall, and insulation, making them unsalvageable due to contamination and potential for mold growth. Prolonged exposure can weaken structural components like wood framing. Metals may corrode, and electrical systems can be compromised, creating safety hazards. The high moisture content also promotes rapid mold and mildew development, leading to further structural issues and indoor air quality problems.",
+        "@type": "Answer",
+        "description": "Raw sewage can damage porous materials, weaken structures, corrode metals, compromise electrical systems, and lead to extensive mold growth and health hazards."
+      }
+    }
+  ],
+  "description": "Raw sewage can damage porous materials, weaken structures, corrode metals, compromise electrical systems, and lead to extensive mold growth and health hazards."
+}

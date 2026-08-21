@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-to-repair-a-garage-flooded-by-rain",
+  "name": "What is the typical cost to repair a garage flooded by rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repair a garage flooded by rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a garage flooded by rain varies widely based on the extent of water damage, the size of the garage, the materials affected, and whether mold remediation is needed. Minor flooding might involve costs for water extraction and drying, while significant structural damage or mold growth will increase expenses. Restoration companies typically provide an assessment and estimate after inspecting the damage. Many services are covered by homeowner's insurance, depending on your policy.",
+        "@type": "Answer",
+        "description": "Repair costs vary based on damage extent, garage size, affected materials, and mold presence. Professionals provide estimates; insurance may cover costs."
+      }
+    }
+  ],
+  "description": "Repair costs vary based on damage extent, garage size, affected materials, and mold presence. Professionals provide estimates; insurance may cover costs."
+}

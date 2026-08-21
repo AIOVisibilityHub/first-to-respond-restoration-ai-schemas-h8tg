@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-first-to-respond-restoration-offer-emergency-services-for-roof-leaks-in-stu",
+  "name": "Does First To Respond Restoration offer emergency services for roof leaks in Studio City or Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does First To Respond Restoration offer emergency services for roof leaks in Studio City or Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides emergency services for roof leaks and other storm-related damages across our service areas, including Studio City and Tarzana. We understand that storm damage can occur at any time, requiring immediate attention to prevent escalating problems. Our team is equipped to respond quickly, secure your property, and begin the necessary mitigation and repair work to protect your home.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers emergency services for roof leaks in Studio City and Tarzana to quickly mitigate storm damage."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers emergency services for roof leaks in Studio City and Tarzana to quickly mitigate storm damage."
+}

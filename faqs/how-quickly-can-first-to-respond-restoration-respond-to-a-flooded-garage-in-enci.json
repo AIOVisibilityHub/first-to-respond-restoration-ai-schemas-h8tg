@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-first-to-respond-restoration-respond-to-a-flooded-garage-in-enci",
+  "name": "How quickly can First To Respond Restoration respond to a flooded garage in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can First To Respond Restoration respond to a flooded garage in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration is an emergency restoration company designed for rapid response. For clients in Encino and our other service areas like North Hollywood, San Fernando, Studio City, and Tarzana, we aim to respond quickly to flooded garage emergencies. Our team is available to dispatch promptly to assess the situation and begin the water extraction and drying process, minimizing the time water sits in your garage and reducing potential secondary damage.",
+        "@type": "Answer",
+        "description": "First To Respond Restoration aims for a rapid response to flooded garages in Encino and surrounding areas to quickly begin extraction and drying."
+      }
+    }
+  ],
+  "description": "First To Respond Restoration aims for a rapid response to flooded garages in Encino and surrounding areas to quickly begin extraction and drying."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-water-damage-restoration-after-a-rain-flood",
+  "name": "What is the typical cost for water damage restoration after a rain flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for water damage restoration after a rain flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damage restoration varies significantly depending on the extent of the damage, the category of water (e.g., clean, gray, black water), and the affected materials. Factors include water extraction, drying equipment, demolition, and repairs. A professional restoration company will conduct an on-site assessment to provide an accurate estimate. It's advisable to get a detailed breakdown of services and costs. Many services may be covered by your insurance policy, depending on its terms.",
+        "@type": "Answer",
+        "description": "Restoration costs vary based on damage extent, water category, and affected materials; a professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Restoration costs vary based on damage extent, water category, and affected materials; a professional assessment provides an accurate estimate."
+}

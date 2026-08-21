@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-water-to-come-in-through-the-roof",
+  "name": "What causes water to come in through the roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water to come in through the roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water intrusion through a roof can be caused by various issues, including damaged or missing shingles, cracked flashing around chimneys or vents, clogged gutters leading to water pooling, and punctures from falling debris. Older roofs with deteriorated materials are also more susceptible to leaks. Understanding the cause is the first step in effective repair and preventing further damage to your home's structure and interior.",
+        "@type": "Answer",
+        "description": "Common causes include damaged shingles, cracked flashing, clogged gutters, and general roof deterioration. Identifying the source is crucial for effective repair."
+      }
+    }
+  ],
+  "description": "Common causes include damaged shingles, cracked flashing, clogged gutters, and general roof deterioration. Identifying the source is crucial for effective repai"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-wind-damage-to-siding",
+  "name": "What are the common signs of wind damage to siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of wind damage to siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of wind damage to siding include loose or missing panels, cracks, dents from airborne debris, and impact marks. You might also notice a rattling sound during windy conditions, or water stains on interior walls if the wind damage has allowed moisture to penetrate. Inspect all sides of your home, especially after a major storm, to identify any areas where siding may be compromised.",
+        "@type": "Answer",
+        "description": "Common signs of wind damage include loose, missing, cracked, or dented siding panels, and impact marks from debris."
+      }
+    }
+  ],
+  "description": "Common signs of wind damage include loose, missing, cracked, or dented siding panels, and impact marks from debris."
+}

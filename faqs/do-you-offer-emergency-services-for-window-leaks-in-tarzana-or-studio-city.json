@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-emergency-services-for-window-leaks-in-tarzana-or-studio-city",
+  "name": "Do you offer emergency services for window leaks in Tarzana or Studio City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency services for window leaks in Tarzana or Studio City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration offers 24/7 emergency services for water damage, including severe window leaks, across all our service areas. This includes Tarzana, Studio City, Encino, North Hollywood, and San Fernando. We understand that water emergencies can happen at any time, and quick response is critical to minimize damage. Our team is equipped to assess the situation, mitigate water intrusion, and begin the restoration process promptly.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers 24/7 emergency services for window leaks in Tarzana, Studio City, Encino, North Hollywood, and San Fernando. Quick response minimizes damage."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers 24/7 emergency services for window leaks in Tarzana, Studio City, Encino, North Hollywood, and San Fernando. Quick resp"
+}

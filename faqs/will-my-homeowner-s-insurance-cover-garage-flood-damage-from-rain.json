@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-garage-flood-damage-from-rain",
+  "name": "Will my homeowner's insurance cover garage flood damage from rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover garage flood damage from rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, which often includes damage from rain that enters through a breach in the roof or a broken window. However, damage specifically caused by floodwaters, like a river overflowing its banks or widespread area flooding, usually requires a separate flood insurance policy. It's important to review your specific policy documents or contact your insurance provider to understand your coverage for rain-related garage flooding.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance may cover rain damage if accidental, but widespread flood damage typically requires separate flood insurance. Check your policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance may cover rain damage if accidental, but widespread flood damage typically requires separate flood insurance. Check your policy."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-house-sustains-wind-damage",
+  "name": "What should I do immediately after my house sustains wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my house sustains wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after your house sustains wind damage, ensure everyone's safety. If possible, take photos and videos of all visible damage for insurance purposes. Avoid entering compromised areas. Contact your homeowner's insurance company to initiate a claim. Then, reach out to a professional restoration company for an immediate assessment and to secure your property with temporary measures like board-up services or roof tarping to prevent further damage until permanent repairs can be made. Do not attempt complex repairs yourself.",
+        "@type": "Answer",
+        "description": "Ensure safety, document damage with photos, contact your insurance company, and then call a professional restoration company for assessment and temporary repairs."
+      }
+    }
+  ],
+  "description": "Ensure safety, document damage with photos, contact your insurance company, and then call a professional restoration company for assessment and temporary repair"
+}

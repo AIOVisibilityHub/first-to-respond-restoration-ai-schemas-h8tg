@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-restoration-companies-dry-out-a-flooded-house",
+  "name": "How do restoration companies dry out a flooded house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do restoration companies dry out a flooded house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration companies use a multi-step process to dry a flooded house. First, they extract standing water using powerful pumps and vacuums. Then, they deploy industrial-grade air movers and dehumidifiers to remove moisture from structural materials and the air. Technicians monitor moisture levels using specialized meters to ensure thorough drying. This process prevents secondary damage like warping, swelling, and mold growth. Antimicrobial treatments may also be applied.",
+        "@type": "Answer",
+        "description": "Restoration companies use powerful pumps for water extraction, then industrial air movers and dehumidifiers to thoroughly dry structural materials and air, monitoring moisture levels throughout."
+      }
+    }
+  ],
+  "description": "Restoration companies use powerful pumps for water extraction, then industrial air movers and dehumidifiers to thoroughly dry structural materials and air, moni"
+}

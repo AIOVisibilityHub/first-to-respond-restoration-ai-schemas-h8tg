@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-storm-damage-cleanup-take",
+  "name": "How long does storm damage cleanup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does storm damage cleanup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of storm damage cleanup depends entirely on the severity and type of damage. Minor issues might be resolved in a few days, while extensive water damage or structural repairs could take several weeks. Factors like the drying time for affected materials, the extent of debris, and the scope of reconstruction all play a role. We prioritize efficient service to restore your property as quickly as possible.",
+        "@type": "Answer",
+        "description": "Cleanup duration varies widely based on damage severity; minor issues may take days, while extensive repairs could take weeks."
+      }
+    }
+  ],
+  "description": "Cleanup duration varies widely based on damage severity; minor issues may take days, while extensive repairs could take weeks."
+}

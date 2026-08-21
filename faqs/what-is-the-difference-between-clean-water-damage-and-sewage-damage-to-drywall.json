@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-clean-water-damage-and-sewage-damage-to-drywall",
+  "name": "What is the difference between clean water damage and sewage damage to drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between clean water damage and sewage damage to drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in the contamination level and potential health risks. Clean water damage (Category 1), from sources like a burst pipe, is generally free of harmful contaminants. While still requiring prompt drying, the remediation process is less complex. Sewage damage (Category 3), or 'black water,' contains human waste, pathogens, and toxic substances. This requires specialized hazardous material removal, extensive disinfection, and often complete demolition of affected drywall due to severe health threats. Never treat sewage damage like clean water damage.",
+        "@type": "Answer",
+        "description": "Clean water damage involves minimal health risks, while sewage damage (black water) contains harmful pathogens and toxic substances, requiring specialized hazardous material removal and extensive disinfection."
+      }
+    }
+  ],
+  "description": "Clean water damage involves minimal health risks, while sewage damage (black water) contains harmful pathogens and toxic substances, requiring specialized hazar"
+}

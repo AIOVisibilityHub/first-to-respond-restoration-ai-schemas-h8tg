@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-first-step-to-take-after-flood-damage-occurs-in-my-home",
+  "name": "What is the first step to take after flood damage occurs in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step to take after flood damage occurs in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after a flood, your priority should be safety. Ensure the power is off before entering flooded areas. Document the damage with photos and videos for insurance purposes. Contact a professional flood damage cleanup service like First To Respond Restoration as soon as possible. Swift action minimizes further damage, prevents mold growth, and helps in a quicker restoration process. Our team can assess the extent of the damage and begin water extraction and drying procedures.",
+        "@type": "Answer",
+        "description": "Prioritize safety, turn off power, document damage for insurance, and contact a professional restoration service like First To Respond Restoration immediately."
+      }
+    }
+  ],
+  "description": "Prioritize safety, turn off power, document damage for insurance, and contact a professional restoration service like First To Respond Restoration immediately."
+}

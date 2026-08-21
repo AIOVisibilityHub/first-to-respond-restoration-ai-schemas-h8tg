@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-raw-sewage-cleanup-cost",
+  "name": "How much does raw sewage cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does raw sewage cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of raw sewage cleanup varies depending on several factors, including the size of the contaminated area, the extent of the damage, the type of materials affected, and the amount of contaminated waste to be removed. It can also depend on the time required for drying and deodorization. Most reputable restoration companies provide a detailed assessment and estimate after inspecting the site. We recommend getting a professional evaluation to understand the specific costs for your situation.",
+        "@type": "Answer",
+        "description": "Raw sewage cleanup costs vary based on the size of the area, extent of damage, affected materials, and amount of waste. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Raw sewage cleanup costs vary based on the size of the area, extent of damage, affected materials, and amount of waste. A professional assessment provides an ac"
+}

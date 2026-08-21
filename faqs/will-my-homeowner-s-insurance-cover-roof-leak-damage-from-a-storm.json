@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-roof-leak-damage-from-a-storm",
+  "name": "Will my homeowner's insurance cover roof leak damage from a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover roof leak damage from a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental damage caused by storms, including roof leaks. However, coverage details can vary, and factors like the age of your roof or deferred maintenance might affect your claim. It's crucial to document the damage thoroughly with photos and videos before making any temporary repairs. Contact your insurance provider as soon as possible to understand your specific coverage and start the claims process.",
+        "@type": "Answer",
+        "description": "Most policies cover storm-related roof leaks, but review your specific coverage. Document damage and contact your insurer promptly."
+      }
+    }
+  ],
+  "description": "Most policies cover storm-related roof leaks, but review your specific coverage. Document damage and contact your insurer promptly."
+}

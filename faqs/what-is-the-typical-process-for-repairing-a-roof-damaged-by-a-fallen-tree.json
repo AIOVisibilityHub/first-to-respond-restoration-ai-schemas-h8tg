@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-repairing-a-roof-damaged-by-a-fallen-tree",
+  "name": "What is the typical process for repairing a roof damaged by a fallen tree?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing a roof damaged by a fallen tree?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process usually begins with securing the site and performing emergency tarping to prevent water intrusion. Next, debris is safely removed, and a detailed assessment of the structural damage to the roof, attic, and interior is conducted. Based on this assessment, a repair plan is developed, which may involve rebuilding compromised sections of the roof, replacing damaged shingles or decking, and addressing any interior water damage. Finally, the affected areas are cleaned and restored.",
+        "@type": "Answer",
+        "description": "The process involves site securing, debris removal, damage assessment, developing a repair plan, structural repairs, and interior restoration."
+      }
+    }
+  ],
+  "description": "The process involves site securing, debris removal, damage assessment, developing a repair plan, structural repairs, and interior restoration."
+}

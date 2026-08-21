@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-fix-water-damage-from-a-door-leak-in-encino",
+  "name": "How much does it cost to fix water damage from a door leak in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix water damage from a door leak in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix water damage from a door leak in Encino varies widely depending on the extent of the damage, the type of materials affected (e.g., hardwood, carpet, drywall), and how quickly the issue is addressed. Minor leaks caught early might only require drying and minor repairs. However, if water has penetrated subflooring or walls, leading to mold or structural issues, the cost will be significantly higher due to demolition, remediation, and reconstruction. We provide transparent estimates after a thorough inspection.",
+        "@type": "Answer",
+        "description": "Cost varies based on damage extent, affected materials, and speed of intervention; significant damage or mold will be more expensive."
+      }
+    }
+  ],
+  "description": "Cost varies based on damage extent, affected materials, and speed of intervention; significant damage or mold will be more expensive."
+}

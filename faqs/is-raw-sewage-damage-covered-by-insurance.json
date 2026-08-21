@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-raw-sewage-damage-covered-by-insurance",
+  "name": "Is raw sewage damage covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is raw sewage damage covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coverage for raw sewage damage typically depends on the cause of the backup and your specific insurance policy. Generally, sewer backup coverage is an add-on or endorsement that needs to be purchased separately from a standard homeowner's policy. If the backup is due to a sudden, accidental event covered by your policy, there may be coverage. It is crucial to review your policy documents or contact your insurance provider directly to understand your coverage limits and deductibles for sewage-related incidents.",
+        "@type": "Answer",
+        "description": "Coverage for raw sewage damage usually depends on your specific insurance policy and the cause of the backup; often, sewer backup coverage is an add-on."
+      }
+    }
+  ],
+  "description": "Coverage for raw sewage damage usually depends on your specific insurance policy and the cause of the backup; often, sewer backup coverage is an add-on."
+}

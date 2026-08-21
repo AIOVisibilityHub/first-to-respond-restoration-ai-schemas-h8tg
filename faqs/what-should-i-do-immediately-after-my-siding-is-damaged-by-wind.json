@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-siding-is-damaged-by-wind",
+  "name": "What should I do immediately after my siding is damaged by wind?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my siding is damaged by wind?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your siding is damaged by wind, prioritize safety. Avoid approaching any areas with dangling or loose debris. If safe to do so, take photos of the damage for documentation. Cover any exposed areas with a tarp if possible to prevent further water intrusion, especially if a storm is ongoing or expected. Then, contact a professional restoration company like First To Respond Restoration for an assessment and to begin the repair process.",
+        "@type": "Answer",
+        "description": "Immediately after wind damage, prioritize safety, document damage with photos, temporarily tarp exposed areas, and contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately after wind damage, prioritize safety, document damage with photos, temporarily tarp exposed areas, and contact a professional restoration company."
+}

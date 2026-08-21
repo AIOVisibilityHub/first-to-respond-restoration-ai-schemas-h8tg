@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-determine-if-my-siding-is-wind-damaged-or-just-old",
+  "name": "How do I determine if my siding is wind damaged or just old?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine if my siding is wind damaged or just old?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Distinguishing between wind damage and normal wear involves looking for specific patterns. Wind damage often appears in localized areas, especially on sides of the house most exposed to prevailing winds or direct storm paths. You might see specific panels ripped off, or impact marks. Old siding, however, typically shows uniform fading, chalking, or general brittleness across all exposed surfaces, without clear signs of sudden force.",
+        "@type": "Answer",
+        "description": "Wind damage is usually localized with specific impacts or missing panels, while old siding shows uniform wear and fading."
+      }
+    }
+  ],
+  "description": "Wind damage is usually localized with specific impacts or missing panels, while old siding shows uniform wear and fading."
+}

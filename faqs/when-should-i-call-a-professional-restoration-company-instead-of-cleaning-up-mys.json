@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-instead-of-cleaning-up-mys",
+  "name": "When should I call a professional restoration company instead of cleaning up myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company instead of cleaning up myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company if the water damage is extensive, covers a large area, involves contaminated water, or if you suspect structural damage. Professionals have specialized equipment for thorough water extraction, drying, and moisture detection that household tools cannot match. They also have expertise in identifying and mitigating potential health hazards like mold. Attempting a DIY cleanup for significant damage can lead to hidden moisture, mold issues, and further structural problems.",
+        "@type": "Answer",
+        "description": "Call a professional for extensive water damage, contaminated water, or suspected structural issues, as they have specialized equipment and expertise for thorough drying and mold prevention."
+      }
+    }
+  ],
+  "description": "Call a professional for extensive water damage, contaminated water, or suspected structural issues, as they have specialized equipment and expertise for thoroug"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-find-water-leaking-through-my-window",
+  "name": "What should I do immediately if I find water leaking through my window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I find water leaking through my window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover water leaking through your window, first contain the water to prevent further damage to floors or furnishings by placing towels or buckets. Next, try to identify the source of the leak from the inside if possible, but do not attempt a repair that compromises your safety. Contact a professional restoration company like First To Respond Restoration promptly. We can assess the situation, mitigate immediate damage, and plan for necessary repairs in areas like Encino, North Hollywood, or Tarzana.",
+        "@type": "Answer",
+        "description": "Immediately contain the water with towels or buckets. Contact a professional restoration company to assess the leak and prevent further damage."
+      }
+    }
+  ],
+  "description": "Immediately contain the water with towels or buckets. Contact a professional restoration company to assess the leak and prevent further damage."
+}

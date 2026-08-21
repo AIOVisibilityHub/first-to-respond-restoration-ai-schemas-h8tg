@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-future-roof-leaks",
+  "name": "How can I prevent future roof leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future roof leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future roof leaks involves regular maintenance and proactive measures. Periodically inspect your roof for damaged or missing shingles, cracks in flashing, and signs of wear. Keep gutters and downspouts clear of debris to ensure proper water drainage. Trim overhanging tree branches that could fall and damage the roof. Consider professional roof inspections every few years to catch potential issues early. Addressing minor problems promptly can prevent them from escalating into major leaks.",
+        "@type": "Answer",
+        "description": "Prevent leaks by regularly inspecting your roof for damage, keeping gutters clear, trimming tree branches, and scheduling professional roof inspections."
+      }
+    }
+  ],
+  "description": "Prevent leaks by regularly inspecting your roof for damage, keeping gutters clear, trimming tree branches, and scheduling professional roof inspections."
+}

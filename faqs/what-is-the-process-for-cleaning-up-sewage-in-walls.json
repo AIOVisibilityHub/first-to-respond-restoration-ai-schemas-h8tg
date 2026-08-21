@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-cleaning-up-sewage-in-walls",
+  "name": "What is the process for cleaning up sewage in walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for cleaning up sewage in walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The professional cleanup process for sewage in walls typically involves several steps. First, the contaminated area is contained to prevent spreading. Next, affected materials like drywall, insulation, and flooring are carefully removed and safely disposed of. The area is then thoroughly cleaned and disinfected using specialized antimicrobial agents. After cleaning, industrial-grade drying equipment is used to remove all moisture. Finally, post-remediation testing ensures the area is safe and free of contaminants before reconstruction begins.",
+        "@type": "Answer",
+        "description": "Sewage cleanup involves containment, removal of contaminated materials, thorough disinfection, industrial drying, and post-remediation testing. This ensures safety and prepares for reconstruction."
+      }
+    }
+  ],
+  "description": "Sewage cleanup involves containment, removal of contaminated materials, thorough disinfection, industrial drying, and post-remediation testing. This ensures saf"
+}

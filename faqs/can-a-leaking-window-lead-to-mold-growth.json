@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-a-leaking-window-lead-to-mold-growth",
+  "name": "Can a leaking window lead to mold growth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a leaking window lead to mold growth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. Any prolonged moisture intrusion, including from a leaking window, creates ideal conditions for mold to grow within 24-48 hours. Mold can develop on damp surfaces like drywall, wood, insulation, and fabrics. If left unaddressed, mold can spread and potentially impact indoor air quality. It’s crucial to address window leaks promptly and ensure proper drying to prevent mold growth, or to remediate it if already present.",
+        "@type": "Answer",
+        "description": "Yes, a leaking window can cause mold growth within 24-48 hours on damp surfaces. Promptly addressing leaks and drying affected areas is crucial to prevent mold."
+      }
+    }
+  ],
+  "description": "Yes, a leaking window can cause mold growth within 24-48 hours on damp surfaces. Promptly addressing leaks and drying affected areas is crucial to prevent mold."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-repairing-a-water-leak-in-an-exterior-wall",
+  "name": "What is the typical process for repairing a water leak in an exterior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing a water leak in an exterior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to locate the leak's source and assess the extent of water damage. Once identified, the source of the leak is repaired, which might involve sealing cracks, replacing damaged siding, repairing roofing, or fixing plumbing. Affected materials, such as wet drywall, insulation, or flooring, are then removed to prevent mold growth. Specialized drying equipment, including industrial dehumidifiers and air movers, is used to thoroughly dry the affected areas. Finally, reconstruction efforts restore the wall and surrounding structures to their pre-damage condition.",
+        "@type": "Answer",
+        "description": "The process involves inspection, leak source repair, removal of damaged materials, thorough drying using specialized equipment, and then reconstruction."
+      }
+    }
+  ],
+  "description": "The process involves inspection, leak source repair, removal of damaged materials, thorough drying using specialized equipment, and then reconstruction."
+}

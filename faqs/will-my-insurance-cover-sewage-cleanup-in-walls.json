@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-sewage-cleanup-in-walls",
+  "name": "Will my insurance cover sewage cleanup in walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover sewage cleanup in walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies typically cover sudden and accidental damage from internal plumbing failures, which can include sewage backups. However, coverage can vary depending on your specific policy and the cause of the sewage issue. Damage resulting from neglect or deferred maintenance may not be covered. It's essential to review your policy documents or contact your insurance provider directly to understand your coverage limitations and claim process. We can help document the damage for your claim.",
+        "@type": "Answer",
+        "description": "Many homeowner's insurance policies cover sewage cleanup from sudden plumbing failures, but coverage depends on your policy and the cause. Review your policy or contact your insurer for details."
+      }
+    }
+  ],
+  "description": "Many homeowner's insurance policies cover sewage cleanup from sudden plumbing failures, but coverage depends on your policy and the cause. Review your policy or"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-damage-can-a-leaking-window-cause-to-my-home",
+  "name": "What kind of damage can a leaking window cause to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can a leaking window cause to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A leaking window can cause various types of damage, including stained or warped window sills and frames, damaged drywall or paint, and rotting wood structures. Beyond visible issues, it can lead to hidden problems like saturated insulation, compromised electrical wiring, and the growth of mold and mildew within wall cavities. Prolonged leaks can weaken structural integrity and significantly decrease indoor air quality, making prompt intervention essential.",
+        "@type": "Answer",
+        "description": "Leaking windows can damage sills, frames, drywall, and paint. It can also lead to rotting wood, saturated insulation, electrical issues, and mold growth."
+      }
+    }
+  ],
+  "description": "Leaking windows can damage sills, frames, drywall, and paint. It can also lead to rotting wood, saturated insulation, electrical issues, and mold growth."
+}

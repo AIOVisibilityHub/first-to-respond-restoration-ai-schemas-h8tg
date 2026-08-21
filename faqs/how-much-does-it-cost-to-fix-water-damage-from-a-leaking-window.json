@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-fix-water-damage-from-a-leaking-window",
+  "name": "How much does it cost to fix water damage from a leaking window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix water damage from a leaking window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix water damage from a leaking window varies significantly based on the extent of the damage, the source of the leak, and the materials affected. Minor repairs might involve recaulking or weather stripping, while extensive damage could include replacing drywall, flooring, or even structural components. Factors like mold remediation can also increase costs. It's best to get an on-site assessment from a professional restoration company to receive an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, leak source, and affected materials. Minor repairs are less expensive, but extensive damage or mold can increase costs. An on-site assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, leak source, and affected materials. Minor repairs are less expensive, but extensive damage or mold can increase costs. An on"
+}

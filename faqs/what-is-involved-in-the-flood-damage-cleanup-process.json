@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-the-flood-damage-cleanup-process",
+  "name": "What is involved in the flood damage cleanup process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the flood damage cleanup process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The flood damage cleanup process typically involves several key stages. First, our team performs water extraction to remove standing water. This is followed by thorough drying and dehumidification to eliminate moisture from affected structures and contents. We then clean and sanitize all salvageable items and surfaces to prevent microbial growth. Finally, necessary repairs and restoration are completed to return your property to its pre-damage condition. Throughout the process, we monitor moisture levels to ensure complete drying.",
+        "@type": "Answer",
+        "description": "The process includes water extraction, drying, dehumidification, cleaning, sanitization, and restoration of damaged areas and items."
+      }
+    }
+  ],
+  "description": "The process includes water extraction, drying, dehumidification, cleaning, sanitization, and restoration of damaged areas and items."
+}

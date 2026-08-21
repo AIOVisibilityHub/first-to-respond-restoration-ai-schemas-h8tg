@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-property-in-encino-be-cleared-of-tree-debris-or-is-that-a-separate-servi",
+  "name": "Will my property in Encino be cleared of tree debris, or is that a separate service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my property in Encino be cleared of tree debris, or is that a separate service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For properties in Encino and our other service areas, emergency restoration services typically include the safe removal of tree debris from the structure and immediate surrounding areas to facilitate repairs. This ensures our team can access and address the roof damage effectively. While large-scale yard clearing of the entire fallen tree might be a separate service or handled by an arborist, we manage the critical debris removal for structural repair.",
+        "@type": "Answer",
+        "description": "Emergency restoration includes safe tree debris removal from the structure to facilitate repairs. Large-scale yard clearing may be separate."
+      }
+    }
+  ],
+  "description": "Emergency restoration includes safe tree debris removal from the structure to facilitate repairs. Large-scale yard clearing may be separate."
+}

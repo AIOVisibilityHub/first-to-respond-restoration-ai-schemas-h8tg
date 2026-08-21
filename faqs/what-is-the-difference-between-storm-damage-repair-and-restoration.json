@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-storm-damage-repair-and-restoration",
+  "name": "What is the difference between storm damage repair and restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between storm damage repair and restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, 'repair' typically refers to fixing specific components that are broken, like a roof tile or a window. 'Restoration' is a more comprehensive process that aims to bring the entire property back to its pre-damage condition, often involving multiple stages beyond simple fixes. This can include water extraction, drying, mold remediation, structural reinforcement, and reconstruction of entire sections of a building. Restoration ensures all aspects of the damage, visible and hidden, are addressed for a complete recovery.",
+        "@type": "Answer",
+        "description": "Repair fixes specific broken parts, while restoration is a comprehensive process to return the entire property to its pre-damage condition, including drying, mold remediation, and reconstruction."
+      }
+    }
+  ],
+  "description": "Repair fixes specific broken parts, while restoration is a comprehensive process to return the entire property to its pre-damage condition, including drying, mo"
+}

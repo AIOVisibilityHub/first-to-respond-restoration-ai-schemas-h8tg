@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-of-sewage-leaking-inside-walls",
+  "name": "What are common signs of sewage leaking inside walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of sewage leaking inside walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of sewage leaking inside walls include strong, foul odors that worsen over time, discoloration or staining on walls and ceilings, and visible mold growth. You might also notice peeling paint, bubbling wallpaper, or warped drywall. In some cases, you may hear dripping or flowing water within the walls. Any unexplained increase in your water bill could also indicate a hidden leak. Early detection is crucial to prevent extensive damage and health hazards.",
+        "@type": "Answer",
+        "description": "Foul odors, wall discoloration, mold growth, peeling paint, or warping drywall are common signs of sewage leaks in walls. Increased water bills or dripping sounds can also indicate a problem."
+      }
+    }
+  ],
+  "description": "Foul odors, wall discoloration, mold growth, peeling paint, or warping drywall are common signs of sewage leaks in walls. Increased water bills or dripping soun"
+}

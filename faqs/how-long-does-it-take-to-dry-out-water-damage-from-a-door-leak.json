@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-dry-out-water-damage-from-a-door-leak",
+  "name": "How long does it take to dry out water damage from a door leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to dry out water damage from a door leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to dry out water damage from a door leak depends on several factors: the amount of water, how long it was present, the type of materials affected, and the humidity levels. Typically, a professional drying process using specialized equipment can take anywhere from 2 to 5 days. Our technicians use moisture meters to ensure all affected areas are completely dry, preventing hidden moisture and subsequent mold growth. We provide a clear timeline after initial assessment.",
+        "@type": "Answer",
+        "description": "Drying time for water damage from a door leak typically takes 2 to 5 days, depending on severity and materials."
+      }
+    }
+  ],
+  "description": "Drying time for water damage from a door leak typically takes 2 to 5 days, depending on severity and materials."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-an-emergency-restoration-company-for-flood-damage",
+  "name": "When should I call an emergency restoration company for flood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call an emergency restoration company for flood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call an emergency restoration company like First To Respond Restoration immediately after discovering significant flood damage. Prompt action is crucial to minimize structural damage, prevent mold growth, and salvage as many belongings as possible. Even if the water source has been stopped, standing water and trapped moisture require immediate professional extraction and drying. Our 24/7 emergency service ensures a quick response to assess the situation and begin the cleanup process without delay.",
+        "@type": "Answer",
+        "description": "Call an emergency restoration company like First To Respond Restoration immediately after discovering significant flood damage to minimize damage and prevent mold."
+      }
+    }
+  ],
+  "description": "Call an emergency restoration company like First To Respond Restoration immediately after discovering significant flood damage to minimize damage and prevent mo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-first-to-respond-restoration-respond-to-a-rain-flood-emergency-i",
+  "name": "How quickly can First To Respond Restoration respond to a rain flood emergency in Encino or Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can First To Respond Restoration respond to a rain flood emergency in Encino or Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration offers emergency services and aims to respond quickly to rain flood emergencies in areas like Encino, Tarzana, and surrounding communities. Immediate action is critical to minimize damage and prevent mold growth. Our team is equipped to dispatch technicians to assess the situation and begin water extraction and drying as soon as possible after your call. Our rapid response helps protect your property from further deterioration.",
+        "@type": "Answer",
+        "description": "First To Respond Restoration offers emergency services and aims for a rapid response in Encino, Tarzana, and surrounding areas to minimize damage and prevent mold."
+      }
+    }
+  ],
+  "description": "First To Respond Restoration offers emergency services and aims for a rapid response in Encino, Tarzana, and surrounding areas to minimize damage and prevent mo"
+}

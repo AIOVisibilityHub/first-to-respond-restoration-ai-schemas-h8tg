@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-prevent-mold-after-a-roof-leak",
+  "name": "How do you prevent mold after a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prevent mold after a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing mold after a roof leak relies on rapid and thorough drying. All affected areas and materials must be completely dried within 24-48 hours of water intrusion. This includes visible surfaces and hidden areas like behind walls and under floors. Professionals use moisture meters, air movers, and industrial-strength dehumidifiers to ensure all moisture is removed. Proper ventilation and, if necessary, antimicrobial treatments also help inhibit mold growth. Failure to dry adequately is the primary cause of mold development after water damage.",
+        "@type": "Answer",
+        "description": "Prevent mold by completely drying all affected areas within 24-48 hours using professional equipment and ensuring proper ventilation."
+      }
+    }
+  ],
+  "description": "Prevent mold by completely drying all affected areas within 24-48 hours using professional equipment and ensuring proper ventilation."
+}

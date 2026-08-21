@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-roof-leak-water-damage-cleanup",
+  "name": "Will my homeowner's insurance cover roof leak water damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover roof leak water damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies typically cover sudden and accidental water damage from a roof leak, but coverage specifics vary. Generally, damage caused by a sudden storm or unforeseen event is covered. However, damage resulting from long-term neglect, such as failure to maintain your roof or pre-existing conditions, may not be covered. It's important to review your policy details and contact your insurance provider immediately after discovering a leak to understand your coverage and begin the claims process. A professional restoration company can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers sudden roof leak damage, but not issues from neglect. Check your policy and contact your insurer promptly after a leak."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers sudden roof leak damage, but not issues from neglect. Check your policy and contact your insurer promptly after a leak."
+}

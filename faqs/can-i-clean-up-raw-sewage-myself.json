@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-raw-sewage-myself",
+  "name": "Can I clean up raw sewage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up raw sewage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning up raw sewage yourself is not recommended due to the significant health risks involved. Raw sewage contains dangerous pathogens that can cause severe illnesses if not handled properly. Professional restoration companies have specialized equipment, training, and protective gear to safely remove contaminants, disinfect the area thoroughly, and dispose of waste according to health regulations. Attempting DIY cleanup without proper tools and knowledge can expose you to harmful bacteria and may not fully eliminate all contaminants.",
+        "@type": "Answer",
+        "description": "No, it is not recommended to clean up raw sewage yourself due to severe health risks; professional help ensures safe and complete decontamination."
+      }
+    }
+  ],
+  "description": "No, it is not recommended to clean up raw sewage yourself due to severe health risks; professional help ensures safe and complete decontamination."
+}

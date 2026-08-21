@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-wind-damage-restoration",
+  "name": "When should I call a professional for wind damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for wind damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for wind damage restoration as soon as you notice any signs of damage after a storm. This includes missing shingles, visible structural damage, leaks, or debris impacting your property. Early intervention helps prevent further damage, such as water infiltration leading to mold or extensive structural problems. A professional can quickly assess the situation, secure your property to prevent additional issues, and begin the restoration process, guiding you through necessary repairs and insurance claims.",
+        "@type": "Answer",
+        "description": "Call a professional immediately after a storm if you notice any wind damage, like missing shingles, leaks, or structural issues, to prevent further problems and begin restoration."
+      }
+    }
+  ],
+  "description": "Call a professional immediately after a storm if you notice any wind damage, like missing shingles, leaks, or structural issues, to prevent further problems and"
+}

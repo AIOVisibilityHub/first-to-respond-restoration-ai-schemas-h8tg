@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-my-ceiling-leaking-when-it-rains",
+  "name": "Why is my ceiling leaking when it rains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my ceiling leaking when it rains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceiling leaks during rain often stem from issues with your roof, such as damaged or missing shingles, deteriorated flashing around vents or chimneys, or clogged gutters causing water to back up and seep under the roofline. Other potential causes include problems with skylight seals, ice dams in colder climates, or even issues with plumbing pipes in the attic that become apparent when rain exacerbates structural weaknesses. Identifying the exact source is crucial for effective repair.",
+        "@type": "Answer",
+        "description": "Ceiling leaks during rain are typically caused by roof damage, such as missing shingles, faulty flashing, or clogged gutters, allowing water to penetrate the structure."
+      }
+    }
+  ],
+  "description": "Ceiling leaks during rain are typically caused by roof damage, such as missing shingles, faulty flashing, or clogged gutters, allowing water to penetrate the st"
+}

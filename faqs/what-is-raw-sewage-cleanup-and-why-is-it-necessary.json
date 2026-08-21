@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-raw-sewage-cleanup-and-why-is-it-necessary",
+  "name": "What is raw sewage cleanup and why is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is raw sewage cleanup and why is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Raw sewage cleanup involves the safe removal, disinfection, and restoration of areas contaminated by sewage containing human waste. This is crucial because raw sewage contains harmful bacteria, viruses, and parasites that pose severe health risks, such as E. coli, Salmonella, and Hepatitis. Exposure can lead to serious illnesses, and proper cleanup prevents the spread of contaminants, eliminates unpleasant odors, and stops potential structural damage to your property by addressing moisture and microbial growth.",
+        "@type": "Answer",
+        "description": "Raw sewage cleanup is the professional removal and disinfection of areas contaminated by human waste, necessary to prevent serious health risks and property damage."
+      }
+    }
+  ],
+  "description": "Raw sewage cleanup is the professional removal and disinfection of areas contaminated by human waste, necessary to prevent serious health risks and property dam"
+}

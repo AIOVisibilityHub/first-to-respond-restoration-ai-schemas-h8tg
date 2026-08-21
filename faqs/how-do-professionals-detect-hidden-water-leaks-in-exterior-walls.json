@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-detect-hidden-water-leaks-in-exterior-walls",
+  "name": "How do professionals detect hidden water leaks in exterior walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals detect hidden water leaks in exterior walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use a combination of techniques and specialized equipment to detect hidden water leaks. This often includes thermal imaging cameras, which can identify temperature differences caused by moisture behind walls. Moisture meters are used to precisely measure the moisture content in various materials, indicating the extent of saturation. Borescopes or inspection cameras can be inserted into small openings to visually inspect concealed areas. In some cases, pressure testing or dye tests may be employed to pinpoint the exact entry point of water.",
+        "@type": "Answer",
+        "description": "Professionals use thermal imaging cameras, moisture meters, and borescopes to detect hidden leaks and assess the extent of water damage."
+      }
+    }
+  ],
+  "description": "Professionals use thermal imaging cameras, moisture meters, and borescopes to detect hidden leaks and assess the extent of water damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-wind-damage-restoration",
+  "name": "Will my homeowner's insurance cover wind damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover wind damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies do cover wind damage, as it is typically considered a sudden and accidental peril. This coverage usually includes damage to your roof, siding, windows, and other exterior structures caused by strong winds. However, coverage specifics can vary based on your individual policy, deductible, and any exclusions. It's important to review your policy documents or contact your insurance provider directly. We can help you document the damage and navigate the claims process, providing necessary information to your insurer.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover wind damage to roofs, siding, and other exterior structures. Review your policy or contact your insurer for specifics, and we can assist with documenting damage for claims."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover wind damage to roofs, siding, and other exterior structures. Review your policy or contact your insurer for specifics,"
+}

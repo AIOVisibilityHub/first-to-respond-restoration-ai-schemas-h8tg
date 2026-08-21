@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-the-raw-sewage-cleanup-process-involve",
+  "name": "What does the raw sewage cleanup process involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does the raw sewage cleanup process involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The raw sewage cleanup process typically involves several stages. First, safety protocols are established, including securing the area and using personal protective equipment. Next, water extraction and removal of all contaminated porous materials like carpet, drywall, and insulation occur. This is followed by thorough cleaning and disinfection of all affected surfaces using professional-grade antimicrobial agents. Finally, drying and deodorization are performed to prevent mold and eliminate odors, restoring the area to a safe and habitable condition.",
+        "@type": "Answer",
+        "description": "The cleanup process involves safety setup, removal of contaminated materials, thorough cleaning and disinfection, and final drying and deodorization."
+      }
+    }
+  ],
+  "description": "The cleanup process involves safety setup, removal of contaminated materials, thorough cleaning and disinfection, and final drying and deodorization."
+}

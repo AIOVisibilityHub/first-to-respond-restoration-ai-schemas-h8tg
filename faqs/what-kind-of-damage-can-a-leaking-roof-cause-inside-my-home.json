@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-damage-can-a-leaking-roof-cause-inside-my-home",
+  "name": "What kind of damage can a leaking roof cause inside my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can a leaking roof cause inside my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A leaking roof can inflict a range of damage inside your home, extending beyond just wet spots. You might see stained ceilings and walls, peeling paint or wallpaper, and warped flooring. Persistent moisture can lead to compromised electrical wiring and the growth of hazardous mold and mildew, especially in attics and wall cavities. Over time, water can weaken the structural integrity of your home's framing, potentially leading to costly and extensive repairs.",
+        "@type": "Answer",
+        "description": "Internal damage from a roof leak includes stained ceilings, peeling paint, warped floors, electrical hazards, and mold growth. Structural weakening can also occur."
+      }
+    }
+  ],
+  "description": "Internal damage from a roof leak includes stained ceilings, peeling paint, warped floors, electrical hazards, and mold growth. Structural weakening can also occ"
+}

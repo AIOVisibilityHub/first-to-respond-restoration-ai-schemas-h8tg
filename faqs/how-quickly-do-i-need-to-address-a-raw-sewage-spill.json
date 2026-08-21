@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-a-raw-sewage-spill",
+  "name": "How quickly do I need to address a raw sewage spill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address a raw sewage spill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A raw sewage spill should be addressed immediately, ideally within 24-48 hours. The longer sewage sits, the more it penetrates porous materials like drywall, flooring, and wood, increasing the risk of mold growth and structural damage. The health risks from bacteria and viruses also escalate over time, making comprehensive decontamination more challenging and costly. Prompt action helps mitigate health hazards and minimizes the extent of property damage.",
+        "@type": "Answer",
+        "description": "You need to address a raw sewage spill immediately, ideally within 24-48 hours, to prevent health risks, mold growth, and extensive property damage."
+      }
+    }
+  ],
+  "description": "You need to address a raw sewage spill immediately, ideally within 24-48 hours, to prevent health risks, mold growth, and extensive property damage."
+}

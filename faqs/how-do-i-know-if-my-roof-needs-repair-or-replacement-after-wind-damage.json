@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-know-if-my-roof-needs-repair-or-replacement-after-wind-damage",
+  "name": "How do I know if my roof needs repair or replacement after wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof needs repair or replacement after wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether your roof needs repair or full replacement after wind damage depends on the extent and severity of the damage, as well as the age and overall condition of your roof. Minor issues like a few missing shingles can often be repaired. However, if there is widespread damage, structural issues, or if your roof is already old and nearing the end of its lifespan, a full replacement might be the more cost-effective and safer long-term solution. A professional inspection will provide a clear recommendation.",
+        "@type": "Answer",
+        "description": "Repair is suitable for minor damage; replacement is needed for widespread issues, structural damage, or an old roof. A professional inspection determines the best solution."
+      }
+    }
+  ],
+  "description": "Repair is suitable for minor damage; replacement is needed for widespread issues, structural damage, or an old roof. A professional inspection determines the be"
+}

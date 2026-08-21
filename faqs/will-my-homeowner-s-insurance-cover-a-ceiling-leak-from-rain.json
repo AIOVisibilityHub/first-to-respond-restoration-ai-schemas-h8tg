@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-a-ceiling-leak-from-rain",
+  "name": "Will my homeowner's insurance cover a ceiling leak from rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover a ceiling leak from rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies typically cover sudden and accidental water damage, including ceiling leaks caused by rain, provided the damage isn't due to neglect or a lack of maintenance. For instance, damage from a sudden storm would likely be covered, but a leak caused by an old, unmaintained roof might not. It's crucial to review your specific policy and contact your insurance provider promptly after discovering a leak to understand your coverage.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden ceiling leaks from rain, but not those caused by neglect. Check your policy and contact your provider quickly."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden ceiling leaks from rain, but not those caused by neglect. Check your policy and contact your provider quickly."
+}

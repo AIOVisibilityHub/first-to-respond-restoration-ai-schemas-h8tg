@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-a-professional-for-wind-damage-versus-a-general-contractor",
+  "name": "When do I need a professional for wind damage, versus a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a professional for wind damage, versus a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need a professional restoration company specifically for wind damage when the damage is extensive, involves multiple affected areas (like roof, siding, windows), or requires specialized equipment for water extraction or structural drying. Restoration companies are equipped to handle emergency services, insurance claims, and comprehensive mitigation and repair. A general contractor might be suitable for minor, isolated repairs, but a restoration company offers a holistic approach to damage assessment, prevention of secondary damage, and complete recovery.",
+        "@type": "Answer",
+        "description": "Choose a professional restoration company for extensive wind damage, emergency services, and complex repairs. A general contractor may be suitable for minor, isolated issues."
+      }
+    }
+  ],
+  "description": "Choose a professional restoration company for extensive wind damage, emergency services, and complex repairs. A general contractor may be suitable for minor, is"
+}

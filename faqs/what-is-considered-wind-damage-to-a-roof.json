@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-considered-wind-damage-to-a-roof",
+  "name": "What is considered wind damage to a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered wind damage to a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wind damage to a roof can manifest in several ways, from obvious issues like missing shingles or tiles to less visible problems such as lifted or creased shingles, which compromise the roof's ability to protect against water intrusion. Strong winds can also detach flashing around chimneys or vents, leading to leaks. Even if your roof appears intact from the ground, hidden damage might exist underneath, including weakened seals or structural issues to the decking. A professional inspection is crucial to identify all affected areas and assess the full extent of the damage.",
+        "@type": "Answer",
+        "description": "Wind damage to a roof includes missing, lifted, or creased shingles, detached flashing, and potential hidden structural issues. A professional inspection is key to identifying the full extent of damage."
+      }
+    }
+  ],
+  "description": "Wind damage to a roof includes missing, lifted, or creased shingles, detached flashing, and potential hidden structural issues. A professional inspection is key"
+}

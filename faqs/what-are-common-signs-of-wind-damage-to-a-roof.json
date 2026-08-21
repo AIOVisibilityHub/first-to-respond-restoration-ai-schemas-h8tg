@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-of-wind-damage-to-a-roof",
+  "name": "What are common signs of wind damage to a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of wind damage to a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of wind damage to a roof include missing, curled, or cracked shingles. You might also notice granules from shingles accumulating in gutters or on the ground around your home. Beyond the roof itself, check for loose or bent flashing around chimneys and vents, and inspect gutters and downspouts for detachment or damage. Interior signs can include water stains on ceilings or walls, indicating a breach in the roof's integrity. A professional inspection can identify less obvious damage.",
+        "@type": "Answer",
+        "description": "Missing, curled, or cracked shingles, granule accumulation, and damaged flashing are common signs of wind damage. Interior water stains also indicate potential roof damage."
+      }
+    }
+  ],
+  "description": "Missing, curled, or cracked shingles, granule accumulation, and damaged flashing are common signs of wind damage. Interior water stains also indicate potential"
+}

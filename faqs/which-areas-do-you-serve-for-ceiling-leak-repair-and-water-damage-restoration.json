@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/which-areas-do-you-serve-for-ceiling-leak-repair-and-water-damage-restoration",
+  "name": "Which areas do you serve for ceiling leak repair and water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas do you serve for ceiling leak repair and water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides comprehensive services for ceiling leak repair and water damage restoration in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to respond quickly to emergencies in these areas, minimizing damage and restoring your property efficiently. If you are located in one of these communities, contact us for prompt and professional assistance with your water damage needs.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for ceiling leak repair and water damage restoration, offering prompt and professional assistance."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for ceiling leak repair and water damage restoration, offering prompt and professional"
+}

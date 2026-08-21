@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reliable-flood-damage-restoration-company",
+  "name": "How do I choose a reliable flood damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable flood damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a flood damage restoration company, look for one that is certified, experienced, and available 24/7 for emergency response. Check for positive customer reviews and ensure they offer comprehensive services, including water extraction, drying, mold prevention, and structural repairs. A reputable company like First To Respond Restoration will also assist with insurance claims documentation and provide clear communication throughout the process. Ask for references and verify their credentials.",
+        "@type": "Answer",
+        "description": "Choose a certified, experienced company available 24/7 with comprehensive services and good reviews. Verify their credentials and ask about insurance claim assistance."
+      }
+    }
+  ],
+  "description": "Choose a certified, experienced company available 24/7 with comprehensive services and good reviews. Verify their credentials and ask about insurance claim assi"
+}

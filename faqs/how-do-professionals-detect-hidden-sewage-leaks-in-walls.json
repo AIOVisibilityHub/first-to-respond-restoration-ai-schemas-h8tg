@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-detect-hidden-sewage-leaks-in-walls",
+  "name": "How do professionals detect hidden sewage leaks in walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals detect hidden sewage leaks in walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use a combination of advanced techniques to detect hidden sewage leaks in walls. This often includes moisture meters to identify elevated moisture levels within wall cavities, thermal imaging cameras to pinpoint temperature differences caused by leaks, and borescopes or small cameras inserted through minimal openings for visual inspection. Sometimes, non-toxic smoke tests or dye tests are used in plumbing lines to trace the source of the leak. These methods allow for accurate diagnosis with minimal invasiveness.",
+        "@type": "Answer",
+        "description": "Professionals detect hidden sewage leaks using moisture meters, thermal imaging cameras, borescopes for visual inspection, and sometimes smoke or dye tests to trace the source."
+      }
+    }
+  ],
+  "description": "Professionals detect hidden sewage leaks using moisture meters, thermal imaging cameras, borescopes for visual inspection, and sometimes smoke or dye tests to t"
+}

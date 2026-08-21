@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-flood-damage-cleanup-costs",
+  "name": "Will my homeowner's insurance cover flood damage cleanup costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover flood damage cleanup costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies typically do not cover damage caused by natural floods. Separate flood insurance, often purchased through the National Flood Insurance Program (NFIP), is usually required for flood-related losses. However, water damage from other sources, such as burst pipes or appliance malfunctions, might be covered. It's essential to review your specific policy or contact your insurance provider directly to understand your coverage. First To Respond Restoration can assist with documenting damage for insurance claims.",
+        "@type": "Answer",
+        "description": "Standard homeowner's insurance usually excludes natural flood damage; separate flood insurance is typically needed. Confirm coverage with your insurance provider."
+      }
+    }
+  ],
+  "description": "Standard homeowner's insurance usually excludes natural flood damage; separate flood insurance is typically needed. Confirm coverage with your insurance provide"
+}

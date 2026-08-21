@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-my-garage-floods-from-rain",
+  "name": "What should I do immediately if my garage floods from rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if my garage floods from rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your garage floods from rain, prioritize safety. Disconnect power to the garage if it's safe to do so to prevent electrocution. Avoid walking through standing water. Begin removing valuable or sensitive items from the water's path. Contact a professional water damage restoration company as soon as possible. They can assess the damage, extract water, and start the drying process to prevent further issues like mold growth and structural damage. Acting quickly is crucial for effective recovery.",
+        "@type": "Answer",
+        "description": "Immediately disconnect power if safe, move valuables, and contact a professional water damage restoration company to prevent further damage."
+      }
+    }
+  ],
+  "description": "Immediately disconnect power if safe, move valuables, and contact a professional water damage restoration company to prevent further damage."
+}

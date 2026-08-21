@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-repairing-wind-damage-to-my-home",
+  "name": "What is the process for repairing wind damage to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing wind damage to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to assess the full extent of the damage. After the assessment, a detailed repair plan and estimate are created. If insurance is involved, this information is submitted to your provider. Emergency services like temporary tarping may be performed first to prevent further damage. Once approved, permanent repairs commence, which could include roof replacement, siding repair, window replacement, or structural reinforcement. The final step is a comprehensive cleanup and final inspection.",
+        "@type": "Answer",
+        "description": "The process involves inspection, detailed repair planning, emergency tarping (if needed), permanent repairs, and final cleanup. Insurance claims are handled concurrently."
+      }
+    }
+  ],
+  "description": "The process involves inspection, detailed repair planning, emergency tarping (if needed), permanent repairs, and final cleanup. Insurance claims are handled con"
+}

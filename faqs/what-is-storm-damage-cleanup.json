@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-storm-damage-cleanup",
+  "name": "What is storm damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is storm damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm damage cleanup involves restoring your property after events like heavy winds, rain, or floods. This includes removing debris, water extraction, drying affected areas, and mitigating further damage like mold growth. Our team assesses the damage, secures your property, and performs necessary repairs and sanitation to return it to its pre-storm condition.",
+        "@type": "Answer",
+        "description": "Storm damage cleanup is the process of restoring a property after damage from events like heavy winds, rain, or floods, involving debris removal, water extraction, and drying."
+      }
+    }
+  ],
+  "description": "Storm damage cleanup is the process of restoring a property after damage from events like heavy winds, rain, or floods, involving debris removal, water extracti"
+}

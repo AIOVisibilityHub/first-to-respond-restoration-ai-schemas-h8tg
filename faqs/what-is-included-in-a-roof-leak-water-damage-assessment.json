@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-included-in-a-roof-leak-water-damage-assessment",
+  "name": "What is included in a roof leak water damage assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a roof leak water damage assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional roof leak water damage assessment involves a comprehensive inspection of the affected areas to determine the source of the leak, the extent of water penetration, and the types of materials damaged. Technicians use specialized tools like moisture meters and thermal imaging cameras to detect hidden moisture within walls, ceilings, and floors. The assessment also identifies potential mold growth areas and evaluates structural integrity. This information is used to create a detailed cleanup and restoration plan, including an estimate of time and cost.",
+        "@type": "Answer",
+        "description": "An assessment identifies the leak source, water extent, damaged materials, and hidden moisture using specialized tools to create a restoration plan."
+      }
+    }
+  ],
+  "description": "An assessment identifies the leak source, water extent, damaged materials, and hidden moisture using specialized tools to create a restoration plan."
+}

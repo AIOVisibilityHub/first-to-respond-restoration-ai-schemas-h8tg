@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-wind-damaged-siding",
+  "name": "When should I call a professional for wind-damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for wind-damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional immediately if you notice missing siding panels, large cracks, or any signs of water intrusion after a wind event. These issues can quickly lead to more severe damage, such as water infiltration into your home's structure, mold growth, or compromised insulation. Early intervention by a restoration company can prevent minor damage from escalating into costly repairs.",
+        "@type": "Answer",
+        "description": "Call a professional immediately for missing panels, large cracks, or water intrusion after wind damage to prevent further structural issues."
+      }
+    }
+  ],
+  "description": "Call a professional immediately for missing panels, large cracks, or water intrusion after wind damage to prevent further structural issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-for-rainwater-damage",
+  "name": "When should I call a professional restoration company for rainwater damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company for rainwater damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company as soon as you discover rainwater damage. Even seemingly small leaks can lead to significant problems like structural damage, mold growth, and compromised indoor air quality if not addressed quickly and thoroughly. Professionals have specialized equipment for water extraction, drying, dehumidification, and sanitization, ensuring all hidden moisture is removed. Delaying professional intervention can escalate repair costs and health risks.",
+        "@type": "Answer",
+        "description": "Call a professional restoration company immediately after discovering rainwater damage to prevent further structural issues, mold growth, and higher repair costs."
+      }
+    }
+  ],
+  "description": "Call a professional restoration company immediately after discovering rainwater damage to prevent further structural issues, mold growth, and higher repair cost"
+}

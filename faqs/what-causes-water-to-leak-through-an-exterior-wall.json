@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-water-to-leak-through-an-exterior-wall",
+  "name": "What causes water to leak through an exterior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water to leak through an exterior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water leaks through exterior walls can originate from various sources. Common culprits include damaged roofing, clogged gutters causing overflow, cracked or deteriorated exterior siding or stucco, and compromised window or door seals. Plumbing issues within the wall, such as burst pipes or leaky connections, can also contribute. Additionally, foundation cracks or poor drainage around the property can allow water to penetrate the structure from below or alongside the wall. Identifying the specific cause is crucial for effective repair and preventing further damage.",
+        "@type": "Answer",
+        "description": "Common causes include damaged roofing, clogged gutters, compromised siding or window seals, and plumbing leaks within the wall."
+      }
+    }
+  ],
+  "description": "Common causes include damaged roofing, clogged gutters, compromised siding or window seals, and plumbing leaks within the wall."
+}

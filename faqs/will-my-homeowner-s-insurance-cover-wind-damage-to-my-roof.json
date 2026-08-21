@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-wind-damage-to-my-roof",
+  "name": "Will my homeowner's insurance cover wind damage to my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover wind damage to my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies typically cover sudden and accidental damage caused by wind, including roof damage. However, coverage can vary depending on your specific policy, deductible, and any exclusions. It's important to review your policy documents or contact your insurance provider to understand your coverage limits and the claims process. We can assist by providing detailed documentation and working with your insurance adjuster during the claims process.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers wind damage, but policy details vary. Check your specific policy for coverage limits and deductibles. We can help with documentation for claims."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers wind damage, but policy details vary. Check your specific policy for coverage limits and deductibles. We can help with documen"
+}

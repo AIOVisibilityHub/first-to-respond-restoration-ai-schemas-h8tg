@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-immediate-dangers-of-sewage-damaged-drywall",
+  "name": "What are the immediate dangers of sewage damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the immediate dangers of sewage damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage contains harmful bacteria, viruses, and fungi that can pose serious health risks. When drywall is contaminated with sewage, these pathogens can become airborne, leading to respiratory issues, infections, and other illnesses. Additionally, the moisture accelerates mold growth, which further degrades air quality and can cause allergic reactions. It's crucial to address sewage damage promptly and professionally to mitigate these health hazards and prevent further structural damage.",
+        "@type": "Answer",
+        "description": "Sewage-damaged drywall poses immediate health risks due to harmful pathogens and mold, leading to respiratory issues and infections. Professional cleanup is essential."
+      }
+    }
+  ],
+  "description": "Sewage-damaged drywall poses immediate health risks due to harmful pathogens and mold, leading to respiratory issues and infections. Professional cleanup is ess"
+}

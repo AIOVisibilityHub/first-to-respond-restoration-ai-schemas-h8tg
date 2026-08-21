@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-stay-in-my-house-if-it-has-storm-damage",
+  "name": "Can I stay in my house if it has storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house if it has storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can safely stay in your house after storm damage depends on the severity and nature of the damage. If there's structural compromise, a gas leak, significant electrical issues, or extensive flooding, it is generally unsafe to remain. Even if the damage seems minor, hidden issues like a compromised roof, water in ceilings, or potential mold growth can pose risks. Always prioritize safety. If you're unsure, consult with emergency services or a professional restoration company who can assess the dwelling's safety.",
+        "@type": "Answer",
+        "description": "Staying in a storm-damaged house depends on severity; structural compromise, gas leaks, electrical issues, or extensive flooding usually require evacuation."
+      }
+    }
+  ],
+  "description": "Staying in a storm-damaged house depends on severity; structural compromise, gas leaks, electrical issues, or extensive flooding usually require evacuation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-roof-sustains-wind-damage",
+  "name": "What should I do immediately after my roof sustains wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my roof sustains wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your roof sustains wind damage, your immediate steps should be to ensure safety for everyone in the building. If possible and safe, take photos of the visible damage for documentation. Contact a professional restoration company for an immediate inspection to prevent further damage, such as water leaks. Avoid going onto the roof yourself. Also, notify your insurance company promptly to start the claims process. We can help with emergency tarping to protect your home.",
+        "@type": "Answer",
+        "description": "Prioritize safety, document damage with photos if safe, and contact a professional restoration company for inspection and emergency tarping. Notify your insurance provider."
+      }
+    }
+  ],
+  "description": "Prioritize safety, document damage with photos if safe, and contact a professional restoration company for inspection and emergency tarping. Notify your insuran"
+}

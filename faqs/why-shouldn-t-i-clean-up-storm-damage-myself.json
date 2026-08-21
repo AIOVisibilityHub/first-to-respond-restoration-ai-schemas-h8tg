@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-shouldn-t-i-clean-up-storm-damage-myself",
+  "name": "Why shouldn't I clean up storm damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why shouldn't I clean up storm damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning up storm damage yourself can be risky and may lead to incomplete restoration. Professionals have specialized equipment for water extraction and drying, preventing hidden moisture and potential mold growth. They also have the expertise to identify structural damage that may not be obvious. Additionally, improper cleanup can sometimes complicate insurance claims. Professional services ensure safety, thoroughness, and proper documentation.",
+        "@type": "Answer",
+        "description": "DIY cleanup risks incomplete drying, hidden damage, mold growth, and potential insurance claim issues. Professionals offer specialized equipment and expertise for safe, thorough restoration."
+      }
+    }
+  ],
+  "description": "DIY cleanup risks incomplete drying, hidden damage, mold growth, and potential insurance claim issues. Professionals offer specialized equipment and expertise f"
+}

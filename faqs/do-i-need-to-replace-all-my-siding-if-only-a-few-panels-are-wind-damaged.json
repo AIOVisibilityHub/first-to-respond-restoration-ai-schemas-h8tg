@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-replace-all-my-siding-if-only-a-few-panels-are-wind-damaged",
+  "name": "Do I need to replace all my siding if only a few panels are wind damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace all my siding if only a few panels are wind damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. If only a few panels are damaged and replacement materials are available that closely match your existing siding, a spot repair or partial replacement can often be performed. However, if your siding is older and a perfect match is impossible, or if there's widespread damage across multiple areas, then replacing a larger section or all of the siding on a particular side might be a more aesthetically and structurally sound option.",
+        "@type": "Answer",
+        "description": "No, often only damaged panels are replaced if a match is available. Widespread damage or poor matching might lead to larger section replacement."
+      }
+    }
+  ],
+  "description": "No, often only damaged panels are replaced if a match is available. Widespread damage or poor matching might lead to larger section replacement."
+}

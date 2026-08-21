@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-water-damage-behind-an-exterior-wall",
+  "name": "What are the signs of water damage behind an exterior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of water damage behind an exterior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Indications of water damage behind an exterior wall often include visible discoloration, such as yellow or brown stains, on interior paint or wallpaper. You might also notice bubbling, peeling, or cracking paint, or a musty odor, which suggests mold growth. Soft or spongy drywall, warped baseboards, or a damp feeling on the wall surface can also point to hidden leaks. In some cases, increased utility bills without a clear reason might indicate a hidden issue. Promptly addressing these signs can prevent more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Signs include discoloration, peeling paint, musty odors, soft drywall, or warped baseboards on interior walls."
+      }
+    }
+  ],
+  "description": "Signs include discoloration, peeling paint, musty odors, soft drywall, or warped baseboards on interior walls."
+}

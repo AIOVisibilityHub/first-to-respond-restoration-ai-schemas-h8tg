@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-while-waiting-for-sewage-remediation-professionals-to-arrive",
+  "name": "What should I do while waiting for sewage remediation professionals to arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do while waiting for sewage remediation professionals to arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While waiting for sewage remediation professionals, prioritize safety by keeping people and pets away from the affected area. If possible and safe, turn off the water supply to prevent further leakage. Do not attempt to clean up the sewage yourself. Open windows to improve ventilation, but avoid using household fans as they can spread contaminants. Document the damage with photos or videos for insurance purposes. Avoid entering the contaminated space without proper personal protective equipment.",
+        "@type": "Answer",
+        "description": "Keep people and pets away, turn off water if safe, ventilate the area, and document damage with photos. Do not attempt self-cleanup; wait for professionals."
+      }
+    }
+  ],
+  "description": "Keep people and pets away, turn off water if safe, ventilate the area, and document damage with photos. Do not attempt self-cleanup; wait for professionals."
+}

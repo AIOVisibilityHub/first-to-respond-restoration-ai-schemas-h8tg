@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-roof-leak-damage",
+  "name": "Does homeowner's insurance cover roof leak damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover roof leak damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental damage from roof leaks, such as those caused by storms, hail, or falling trees. However, policies generally do not cover damage resulting from neglect, poor maintenance, or general wear and tear of an old roof. It's crucial to review your specific policy details and contact your insurance provider as soon as you discover a leak to understand your coverage and begin the claims process. Documenting the damage with photos is also helpful.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden roof leak damage from events like storms, but usually not issues due to neglect or old age. Check your policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden roof leak damage from events like storms, but usually not issues due to neglect or old age. Check your policy."
+}

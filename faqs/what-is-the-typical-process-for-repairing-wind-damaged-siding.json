@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-repairing-wind-damaged-siding",
+  "name": "What is the typical process for repairing wind-damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing wind-damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to assess the extent of the damage. We document all affected areas and work with you on a repair plan. Next, any damaged or missing panels are carefully removed. New siding pieces are then installed, ensuring they match existing materials as closely as possible in color and style. The repair aims to restore the protective barrier of your home, preventing future issues.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged panels, and installation of new, matching siding to restore your home's protection."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged panels, and installation of new, matching siding to restore your home's protection."
+}

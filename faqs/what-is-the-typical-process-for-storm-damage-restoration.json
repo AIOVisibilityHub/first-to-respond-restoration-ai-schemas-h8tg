@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-storm-damage-restoration",
+  "name": "What is the typical process for storm damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for storm damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The storm damage restoration process typically begins with an emergency response to secure the property and prevent further damage. This includes tarping roofs, boarding up windows, and water extraction. Next, our team assesses the full extent of the damage, creating a detailed plan and estimate. Restoration involves removing damaged materials, drying and dehumidifying affected areas, cleaning and sanitizing, and then rebuilding or repairing the structure. Throughout the process, we communicate with you and your insurance company to ensure a smooth recovery.",
+        "@type": "Answer",
+        "description": "The process involves emergency response to secure property, damage assessment, water extraction, drying, cleaning, and then rebuilding or repairing. We keep you informed throughout."
+      }
+    }
+  ],
+  "description": "The process involves emergency response to secure property, damage assessment, water extraction, drying, cleaning, and then rebuilding or repairing. We keep you"
+}

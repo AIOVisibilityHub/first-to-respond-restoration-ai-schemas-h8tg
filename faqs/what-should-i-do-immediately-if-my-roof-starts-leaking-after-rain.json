@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-my-roof-starts-leaking-after-rain",
+  "name": "What should I do immediately if my roof starts leaking after rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if my roof starts leaking after rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step is to minimize interior damage. Place buckets or towels under the leak to catch water. If the leak is near electrical outlets or fixtures, turn off the power to that area. Move furniture and valuables away from the affected spot. Do not attempt to climb onto a wet or slippery roof yourself. Contact a professional restoration company promptly to assess the damage and begin repairs, as delaying action can lead to more extensive structural issues and mold growth.",
+        "@type": "Answer",
+        "description": "Immediately place buckets, turn off power if near electricals, and move valuables. Contact a professional restoration company right away to prevent further damage and mold."
+      }
+    }
+  ],
+  "description": "Immediately place buckets, turn off power if near electricals, and move valuables. Contact a professional restoration company right away to prevent further dama"
+}

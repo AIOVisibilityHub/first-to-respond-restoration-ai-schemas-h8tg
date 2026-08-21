@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-storm-damage-requires-emergency-restoration",
+  "name": "What kind of storm damage requires emergency restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of storm damage requires emergency restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency storm damage restoration is typically needed for severe events like hurricanes, tornados, heavy winds, or prolonged rainfall that cause immediate and significant damage to a property. This can include structural damage, extensive water intrusion leading to flooding, roof collapse, broken windows, or widespread debris. Prompt action is crucial to prevent secondary damage such as mold growth, further structural compromise, or electrical hazards. If your property's safety or integrity is compromised, or if vital systems are affected, professional emergency restoration is recommended.",
+        "@type": "Answer",
+        "description": "Emergency restoration is needed for severe storm events causing significant damage like structural issues, flooding, or roof collapse. Immediate action helps prevent secondary problems."
+      }
+    }
+  ],
+  "description": "Emergency restoration is needed for severe storm events causing significant damage like structural issues, flooding, or roof collapse. Immediate action helps pr"
+}

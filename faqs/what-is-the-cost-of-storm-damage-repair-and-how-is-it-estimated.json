@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-of-storm-damage-repair-and-how-is-it-estimated",
+  "name": "What is the cost of storm damage repair, and how is it estimated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of storm damage repair, and how is it estimated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of storm damage repair is highly variable, ranging from a few hundred dollars for minor fixes to tens of thousands for extensive structural damage or water remediation. It's estimated by assessing the type and extent of damage, the materials needed, and the labor involved. A professional restoration company will conduct a thorough inspection, often using specialized tools, to identify all affected areas, including hidden damage. They then provide a detailed, itemized estimate outlining all necessary repairs, which you can submit to your insurance company.",
+        "@type": "Answer",
+        "description": "Repair costs vary widely based on damage type and extent. Estimates are provided by professionals after a thorough inspection, detailing materials and labor."
+      }
+    }
+  ],
+  "description": "Repair costs vary widely based on damage type and extent. Estimates are provided by professionals after a thorough inspection, detailing materials and labor."
+}

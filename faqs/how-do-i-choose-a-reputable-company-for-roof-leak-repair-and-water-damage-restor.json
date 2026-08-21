@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reputable-company-for-roof-leak-repair-and-water-damage-restor",
+  "name": "How do I choose a reputable company for roof leak repair and water damage restoration in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable company for roof leak repair and water damage restoration in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a company in Encino for roof leak repair and water damage restoration, look for those with relevant certifications, such as from the IICRC. Prioritize companies that offer 24/7 emergency services and have a strong local reputation, evidenced by customer reviews and testimonials. Ensure they are licensed, insured, and provide clear, transparent estimates. A reputable company will also conduct a thorough assessment and explain their repair and restoration process clearly.",
+        "@type": "Answer",
+        "description": "Choose a reputable company in Encino with certifications like IICRC, 24/7 emergency service, local references, and transparent pricing. Verify licenses and insurance."
+      }
+    }
+  ],
+  "description": "Choose a reputable company in Encino with certifications like IICRC, 24/7 emergency service, local references, and transparent pricing. Verify licenses and insu"
+}

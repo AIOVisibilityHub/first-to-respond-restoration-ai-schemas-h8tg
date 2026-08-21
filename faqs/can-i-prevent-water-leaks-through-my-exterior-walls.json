@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-prevent-water-leaks-through-my-exterior-walls",
+  "name": "Can I prevent water leaks through my exterior walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent water leaks through my exterior walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, several preventative measures can reduce the risk of water leaks. Regularly inspect your roof for damaged shingles or flashing, and ensure gutters are clear of debris to allow proper drainage. Check your exterior siding, stucco, and caulk around windows and doors for cracks or deterioration, and repair them promptly. Ensure your landscaping slopes away from the foundation to direct rainwater away from your home. Performing these routine maintenance tasks can significantly extend the life of your exterior and prevent costly water damage.",
+        "@type": "Answer",
+        "description": "Regularly inspect and maintain your roof, gutters, exterior siding, and window/door seals, and ensure proper landscape drainage to prevent leaks."
+      }
+    }
+  ],
+  "description": "Regularly inspect and maintain your roof, gutters, exterior siding, and window/door seals, and ensure proper landscape drainage to prevent leaks."
+}

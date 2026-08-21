@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-water-leak-repair-services-in-encino-or-tarzana",
+  "name": "Do you offer water leak repair services in Encino or Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer water leak repair services in Encino or Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides comprehensive water leak repair and restoration services in Encino, Tarzana, and surrounding areas such as North Hollywood, and Studio City. Our certified technicians are available for emergency response to address water leaks through exterior walls, assess the damage, and perform necessary repairs and drying. We are equipped to handle all stages of the restoration process, from initial water extraction and drying to complete reconstruction, ensuring your property is returned to its pre-damage condition efficiently and effectively.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers water leak repair and restoration services in Encino, Tarzana, North Hollywood, and Studio City, providing emergency response and comprehensive solutions."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers water leak repair and restoration services in Encino, Tarzana, North Hollywood, and Studio City, providing emergency re"
+}

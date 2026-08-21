@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-are-involved-in-the-roof-leak-restoration-process-with-your-company",
+  "name": "What steps are involved in the roof leak restoration process with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the roof leak restoration process with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our restoration process for storm-related roof leaks typically starts with an immediate inspection to identify the leak and assess all damage. We then implement emergency mitigation services, such as tarping or board-up, to prevent further water intrusion. Next, we provide a detailed plan for water extraction, drying, and repairing or replacing damaged roofing materials and interior structures. We also assist with documentation for your insurance claim, ensuring a smooth and comprehensive restoration from start to finish.",
+        "@type": "Answer",
+        "description": "Our process involves immediate inspection, emergency mitigation, water extraction, drying, repair of damaged materials, and insurance claim assistance."
+      }
+    }
+  ],
+  "description": "Our process involves immediate inspection, emergency mitigation, water extraction, drying, repair of damaged materials, and insurance claim assistance."
+}

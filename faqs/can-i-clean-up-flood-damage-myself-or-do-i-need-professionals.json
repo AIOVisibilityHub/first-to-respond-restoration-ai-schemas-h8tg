@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-flood-damage-myself-or-do-i-need-professionals",
+  "name": "Can I clean up flood damage myself, or do I need professionals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up flood damage myself, or do I need professionals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor water spills might be manageable, significant flood damage cleanup typically requires professional expertise. Floodwaters often contain contaminants, and improper cleanup can lead to health hazards and secondary damage like mold growth or structural issues. Professionals have specialized equipment for effective water extraction, drying, and sanitation. They can also detect hidden moisture and ensure complete restoration, which is crucial for the long-term safety and integrity of your property.",
+        "@type": "Answer",
+        "description": "Professional help is recommended for significant flood damage due to contaminants, specialized equipment needs, and the risk of hidden moisture and mold if not properly addressed."
+      }
+    }
+  ],
+  "description": "Professional help is recommended for significant flood damage due to contaminants, specialized equipment needs, and the risk of hidden moisture and mold if not"
+}

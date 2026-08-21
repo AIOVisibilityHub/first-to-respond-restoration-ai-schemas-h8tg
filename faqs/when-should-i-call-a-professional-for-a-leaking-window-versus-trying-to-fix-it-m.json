@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-leaking-window-versus-trying-to-fix-it-m",
+  "name": "When should I call a professional for a leaking window versus trying to fix it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a leaking window versus trying to fix it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the leak is persistent, causes significant water intrusion, or if you suspect hidden damage like mold or structural issues. If you cannot identify the source of the leak, or if basic temporary fixes don't work, it's time for expert help. Professionals have specialized equipment to detect hidden moisture and provide lasting solutions, preventing further problems. In our service areas like Encino or North Hollywood, First To Respond Restoration is ready to assist.",
+        "@type": "Answer",
+        "description": "Call a professional if the leak is persistent, causes significant damage, or if you suspect hidden issues like mold. If temporary fixes fail, expert help is needed."
+      }
+    }
+  ],
+  "description": "Call a professional if the leak is persistent, causes significant damage, or if you suspect hidden issues like mold. If temporary fixes fail, expert help is nee"
+}

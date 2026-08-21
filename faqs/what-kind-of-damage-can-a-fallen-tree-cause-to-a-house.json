@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-damage-can-a-fallen-tree-cause-to-a-house",
+  "name": "What kind of damage can a fallen tree cause to a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can a fallen tree cause to a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A fallen tree can cause a wide range of damage, from minor to severe. Common issues include structural damage to the roof, walls, and foundation, broken windows, and compromised utilities like electrical lines or plumbing. Water intrusion can occur if the roof is punctured, leading to interior damage, mold growth, and damaged belongings. Additionally, landscaping and other outdoor structures like fences or sheds may be impacted. A professional assessment is crucial to identify all affected areas and ensure comprehensive restoration.",
+        "@type": "Answer",
+        "description": "Fallen trees can cause structural damage to roofs, walls, and foundations, break windows, compromise utilities, and lead to water intrusion and mold."
+      }
+    }
+  ],
+  "description": "Fallen trees can cause structural damage to roofs, walls, and foundations, break windows, compromise utilities, and lead to water intrusion and mold."
+}

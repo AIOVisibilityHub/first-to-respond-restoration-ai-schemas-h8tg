@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-repair-wind-damaged-siding",
+  "name": "How much does it cost to repair wind-damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair wind-damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair wind-damaged siding varies significantly based on the extent of the damage, the type of siding material (e.g., vinyl, wood, fiber cement), and the accessibility of the damaged areas. Minor repairs might involve replacing a few panels, while extensive damage could require larger sections or even full side replacement. We provide a detailed estimate after assessing your specific situation.",
+        "@type": "Answer",
+        "description": "Repair costs depend on damage severity, siding material, and accessibility. A detailed estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "Repair costs depend on damage severity, siding material, and accessibility. A detailed estimate is provided after assessment."
+}

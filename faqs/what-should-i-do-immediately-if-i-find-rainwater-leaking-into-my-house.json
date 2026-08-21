@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-find-rainwater-leaking-into-my-house",
+  "name": "What should I do immediately if I find rainwater leaking into my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I find rainwater leaking into my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover rainwater leaking into your house, the first step is to identify and stop the source if safely possible, for instance, by placing buckets under drips or using tarps on a damaged roof. Immediately shut off electricity to affected areas to prevent electrical hazards. Move valuable items, furniture, and electronics away from water to minimize damage. Contact a professional emergency restoration service promptly. Swift action can significantly reduce the extent of water damage and prevent secondary issues like mold growth.",
+        "@type": "Answer",
+        "description": "Immediately stop the water source if safe, shut off electricity to affected areas, and move valuables. Contact an emergency restoration service right away."
+      }
+    }
+  ],
+  "description": "Immediately stop the water source if safe, shut off electricity to affected areas, and move valuables. Contact an emergency restoration service right away."
+}

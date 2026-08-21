@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-rainwater-damage",
+  "name": "Does homeowner's insurance cover rainwater damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover rainwater damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies typically cover sudden and accidental rainwater damage, such as leaks from a storm-damaged roof or burst pipes. However, coverage often excludes damage resulting from long-term neglect, such as deferred maintenance leading to a slow leak, or damage from external flooding (which usually requires separate flood insurance). It's crucial to review your specific policy documents or contact your insurance provider to understand your coverage limitations and claim process for rainwater-related incidents.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers sudden rainwater damage, like from a storm. However, it often excludes damage from neglect or external flooding, which may require separate flood insurance."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers sudden rainwater damage, like from a storm. However, it often excludes damage from neglect or external flooding, which may req"
+}

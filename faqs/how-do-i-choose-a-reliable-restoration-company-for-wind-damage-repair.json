@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reliable-restoration-company-for-wind-damage-repair",
+  "name": "How do I choose a reliable restoration company for wind damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable restoration company for wind damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a restoration company, look for one that is licensed, insured, and has a proven track record of handling wind damage. Check for certifications, such as those from the Institute of Inspection, Cleaning and Restoration Certification (IICRC). Request references and read customer reviews to gauge their reputation and quality of work. A reputable company will provide a detailed estimate, explain the repair process clearly, and assist with insurance claims. Prioritize local companies with emergency response capabilities.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and certified restoration company with good references and reviews. They should provide clear estimates and assist with insurance claims."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and certified restoration company with good references and reviews. They should provide clear estimates and assist with insurance cl"
+}

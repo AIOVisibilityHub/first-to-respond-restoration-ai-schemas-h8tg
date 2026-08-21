@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-sewage-damaged-drywall-myself",
+  "name": "Can I clean sewage damaged drywall myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean sewage damaged drywall myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attempting to clean sewage-damaged drywall yourself is not recommended. Sewage is categorized as 'Category 3' water, meaning it contains highly unsanitary agents. Professional restoration involves specialized equipment, protective gear, and proven techniques for safe removal, disinfection, and drying. Without proper training and tools, you risk exposure to dangerous contaminants and may not fully eliminate the problem, leading to lingering health issues or structural decay. Always contact a qualified restoration company.",
+        "@type": "Answer",
+        "description": "No, cleaning sewage-damaged drywall yourself is highly discouraged due to severe health risks from contaminants. Professional restoration is required for safe and complete remediation."
+      }
+    }
+  ],
+  "description": "No, cleaning sewage-damaged drywall yourself is highly discouraged due to severe health risks from contaminants. Professional restoration is required for safe a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-restoration-companies-fix-water-damage-from-a-roof-leak",
+  "name": "How do restoration companies fix water damage from a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do restoration companies fix water damage from a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration companies follow a structured process to address water damage from a roof leak. First, they perform a thorough inspection to identify the leak source and assess the extent of water intrusion. Next, they focus on water extraction and structural drying using industrial-grade equipment to remove moisture from affected materials. This is followed by cleaning and sanitization to prevent mold. Finally, repairs are made to restore damaged areas, potentially including drywall, insulation, and flooring, ensuring your home is returned to its pre-damage condition.",
+        "@type": "Answer",
+        "description": "Restoration companies inspect, extract water, dry affected areas, clean and sanitize, then repair damaged materials to restore your home."
+      }
+    }
+  ],
+  "description": "Restoration companies inspect, extract water, dry affected areas, clean and sanitize, then repair damaged materials to restore your home."
+}

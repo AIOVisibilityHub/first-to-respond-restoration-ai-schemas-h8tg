@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-stay-in-my-house-during-flood-damage-restoration",
+  "name": "Can I stay in my house during flood damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house during flood damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during flood damage restoration depends on the extent of the damage, the type of water involved, and the restoration work required. If there's extensive structural damage, a risk of mold exposure, or if utilities (like electricity or sanitation) are compromised, it's usually safer and recommended to vacate. Your restoration company can advise you on the safety and practicality of remaining in the home during the different phases of the cleanup and drying process.",
+        "@type": "Answer",
+        "description": "Staying in your home during flood restoration depends on the damage extent, water type, and utility status; your restoration company will advise on safety."
+      }
+    }
+  ],
+  "description": "Staying in your home during flood restoration depends on the damage extent, water type, and utility status; your restoration company will advise on safety."
+}

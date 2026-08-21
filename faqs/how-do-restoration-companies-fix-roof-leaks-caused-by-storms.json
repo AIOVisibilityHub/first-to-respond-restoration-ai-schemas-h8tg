@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-restoration-companies-fix-roof-leaks-caused-by-storms",
+  "name": "How do restoration companies fix roof leaks caused by storms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do restoration companies fix roof leaks caused by storms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration companies like First To Respond Restoration begin by conducting a thorough inspection to locate the leak's source and assess the full extent of damage. They then perform emergency mitigation, which may include tarping the roof to prevent further water intrusion. Following this, damaged materials such as shingles, underlayment, or flashing are repaired or replaced, and any interior water damage, like wet insulation or drywall, is addressed. The process aims to restore your roof and home to its pre-storm condition.",
+        "@type": "Answer",
+        "description": "Restoration companies inspect, perform emergency mitigation (e.g., tarping), then repair or replace damaged roof components and address interior water damage."
+      }
+    }
+  ],
+  "description": "Restoration companies inspect, perform emergency mitigation (e.g., tarping), then repair or replace damaged roof components and address interior water damage."
+}

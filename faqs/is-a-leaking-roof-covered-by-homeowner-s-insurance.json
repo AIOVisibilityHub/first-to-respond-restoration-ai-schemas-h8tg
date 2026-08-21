@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-leaking-roof-covered-by-homeowner-s-insurance",
+  "name": "Is a leaking roof covered by homeowner's insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a leaking roof covered by homeowner's insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a leaking roof is covered by homeowner's insurance depends on the cause of the leak and your specific policy. Generally, sudden and accidental damage, such as a leak caused by a storm or a fallen tree, is covered. However, damage resulting from neglect, poor maintenance, or aging (wear and tear) is typically not covered. It's crucial to review your policy documents or contact your insurance provider directly to understand your coverage limitations and reporting requirements.",
+        "@type": "Answer",
+        "description": "Coverage for a leaking roof depends on the cause; sudden accidental damage is usually covered, but damage from neglect or wear and tear is often not. Check your specific policy."
+      }
+    }
+  ],
+  "description": "Coverage for a leaking roof depends on the cause; sudden accidental damage is usually covered, but damage from neglect or wear and tear is often not. Check your"
+}

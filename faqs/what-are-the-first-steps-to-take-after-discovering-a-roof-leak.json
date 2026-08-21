@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-first-steps-to-take-after-discovering-a-roof-leak",
+  "name": "What are the first steps to take after discovering a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to take after discovering a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after finding a roof leak, move furniture and belongings to prevent further damage. Place buckets or towels to catch dripping water. Avoid using ceiling fans in the affected area, as this can spread moisture. If water is near electrical outlets or fixtures, turn off power to that section of your home from the main breaker. Contact a professional water damage restoration company promptly to assess the extent of the damage, dry the affected areas, and prevent mold growth. Early intervention is crucial for minimizing repair costs and health risks.",
+        "@type": "Answer",
+        "description": "Protect belongings, contain the leak, turn off power if necessary, and call a professional water damage restoration service immediately."
+      }
+    }
+  ],
+  "description": "Protect belongings, contain the leak, turn off power if necessary, and call a professional water damage restoration service immediately."
+}

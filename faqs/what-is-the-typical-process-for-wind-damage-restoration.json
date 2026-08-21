@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-wind-damage-restoration",
+  "name": "What is the typical process for wind damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for wind damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for wind damage restoration begins with a thorough inspection of your property to assess all affected areas, both visible and hidden. Next, emergency services such as tarping or board-up are performed to prevent further damage. Once the property is secured, a detailed repair plan is developed. This plan outlines necessary repairs, including roof replacement, siding repair, window replacement, or structural repairs. Finally, our team executes the repairs, ensuring your property is restored to its pre-damage condition, often coordinating directly with your insurance company.",
+        "@type": "Answer",
+        "description": "The process involves inspection, emergency securing (tarping/board-up), developing a repair plan, and executing repairs to restore your property to its original condition."
+      }
+    }
+  ],
+  "description": "The process involves inspection, emergency securing (tarping/board-up), developing a repair plan, and executing repairs to restore your property to its original"
+}

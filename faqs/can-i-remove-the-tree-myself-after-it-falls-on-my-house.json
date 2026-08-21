@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-the-tree-myself-after-it-falls-on-my-house",
+  "name": "Can I remove the tree myself after it falls on my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove the tree myself after it falls on my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally not recommended to attempt removing a large tree that has fallen on your house yourself. Fallen trees, especially those impacting structures, can be under immense tension or pressure, making them extremely dangerous to handle without specialized equipment and expertise. Attempting DIY removal can lead to serious injury, further damage to your home, or even destabilize the structure. It's safest and most effective to hire professional tree removal and emergency restoration services who are trained and equipped to handle such complex and hazardous situations.",
+        "@type": "Answer",
+        "description": "DIY tree removal after it falls on your house is not recommended due to safety risks and potential for further damage; always hire professionals."
+      }
+    }
+  ],
+  "description": "DIY tree removal after it falls on your house is not recommended due to safety risks and potential for further damage; always hire professionals."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-health-risks-associated-with-a-flooded-garage",
+  "name": "What are the health risks associated with a flooded garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the health risks associated with a flooded garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A flooded garage can pose several health risks. Standing water, especially if it comes from outside, can contain contaminants like bacteria, viruses, and chemicals. This can lead to skin infections or illness if contact occurs. Prolonged moisture promotes mold growth, which can trigger respiratory problems, allergic reactions, or asthma attacks in sensitive individuals. It's important to wear protective gear when in flooded areas and to ensure thorough drying and sanitization to mitigate these risks.",
+        "@type": "Answer",
+        "description": "Health risks include exposure to contaminated water leading to illness and mold growth causing respiratory issues and allergies."
+      }
+    }
+  ],
+  "description": "Health risks include exposure to contaminated water leading to illness and mold growth causing respiratory issues and allergies."
+}

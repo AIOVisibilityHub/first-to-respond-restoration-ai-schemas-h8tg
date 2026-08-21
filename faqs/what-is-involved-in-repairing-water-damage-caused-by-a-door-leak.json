@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-repairing-water-damage-caused-by-a-door-leak",
+  "name": "What is involved in repairing water damage caused by a door leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in repairing water damage caused by a door leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing water damage from a door leak typically involves several steps. First, professionals will extract any standing water and thoroughly dry the affected area using industrial-grade dehumidifiers and air movers. This prevents mold growth and further damage. Next, damaged materials such as flooring, drywall, or baseboards that cannot be restored will be removed and replaced. The source of the leak, such as a faulty door seal or drainage issue, will also need to be addressed to prevent recurrence. Finally, the area is cleaned and sanitized.",
+        "@type": "Answer",
+        "description": "Repair involves water extraction, drying, removal of damaged materials, source repair, and final cleaning and sanitization."
+      }
+    }
+  ],
+  "description": "Repair involves water extraction, drying, removal of damaged materials, source repair, and final cleaning and sanitization."
+}

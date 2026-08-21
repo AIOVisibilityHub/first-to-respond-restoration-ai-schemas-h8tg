@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-dry-out-an-exterior-wall-after-a-water-leak",
+  "name": "How long does it take to dry out an exterior wall after a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to dry out an exterior wall after a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drying time for an exterior wall after a water leak varies considerably, depending on factors such as the amount of water involved, the types of materials affected, humidity levels, and the effectiveness of the drying equipment used. Minor areas might dry within a few days, while significantly saturated walls, especially those with insulation and multiple layers, could take one to three weeks or even longer. Professionals use moisture meters to monitor progress and ensure all hidden moisture is removed, preventing secondary damage like mold. The goal is thorough drying, not just surface dryness.",
+        "@type": "Answer",
+        "description": "Drying time varies from a few days to several weeks, depending on the water volume, affected materials, and environmental conditions. Professionals monitor moisture levels for complete drying."
+      }
+    }
+  ],
+  "description": "Drying time varies from a few days to several weeks, depending on the water volume, affected materials, and environmental conditions. Professionals monitor mois"
+}

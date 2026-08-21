@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-a-minor-leak-and-a-major-water-damage-issue",
+  "name": "What is the difference between a minor leak and a major water damage issue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor leak and a major water damage issue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor leak might be an isolated drip causing minimal, localized dampness that can be easily contained and repaired without extensive demolition or drying. It may not lead to significant structural compromise or mold growth if addressed quickly. A major water damage issue, however, typically involves a continuous or significant flow of water, leading to widespread saturation, potential structural weakening, and likely mold development. Major issues often require professional water extraction, specialized drying equipment, and extensive repairs or reconstruction. The key difference lies in the volume of water, affected area, and potential for secondary damage.",
+        "@type": "Answer",
+        "description": "Minor leaks are localized drips with minimal damage, while major issues involve widespread saturation, potential structural damage, and likely mold growth, requiring extensive repair."
+      }
+    }
+  ],
+  "description": "Minor leaks are localized drips with minimal damage, while major issues involve widespread saturation, potential structural damage, and likely mold growth, requ"
+}

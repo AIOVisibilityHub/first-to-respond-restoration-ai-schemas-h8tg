@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-damage-can-a-roof-leak-cause-besides-visible-water-stains",
+  "name": "What types of damage can a roof leak cause besides visible water stains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can a roof leak cause besides visible water stains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond visible water stains, a persistent roof leak can lead to a range of severe and costly problems. These include compromised attic insulation, which reduces your home's energy efficiency; damaged electrical wiring, posing fire hazards; weakened structural components like joists and rafters, risking structural integrity; and the proliferation of mold and mildew in hidden spaces, which can cause respiratory issues and allergies. Undetected leaks can also attract pests and rot wooden elements.",
+        "@type": "Answer",
+        "description": "Besides visible stains, roof leaks can damage insulation and electrical wiring, weaken structural components, and cause mold growth or pest infestations, leading to health and safety risks."
+      }
+    }
+  ],
+  "description": "Besides visible stains, roof leaks can damage insulation and electrical wiring, weaken structural components, and cause mold growth or pest infestations, leadin"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-a-roof-leak",
+  "name": "How quickly do I need to address a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing a roof leak promptly is critical. Even a small leak can lead to significant issues if neglected. Water can cause structural damage, rot wood, compromise insulation, and create an environment for mold growth within 24-48 hours. The longer a leak persists, the more extensive and costly the repairs become, potentially affecting ceilings, walls, and electrical systems. Immediate action helps prevent escalating damage and ensures the safety of your home.",
+        "@type": "Answer",
+        "description": "You need to address a roof leak immediately. Delays can lead to structural damage, mold growth, and increased repair costs within days."
+      }
+    }
+  ],
+  "description": "You need to address a roof leak immediately. Delays can lead to structural damage, mold growth, and increased repair costs within days."
+}

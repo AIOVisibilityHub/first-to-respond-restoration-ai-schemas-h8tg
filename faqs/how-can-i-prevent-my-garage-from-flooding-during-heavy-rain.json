@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-my-garage-from-flooding-during-heavy-rain",
+  "name": "How can I prevent my garage from flooding during heavy rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my garage from flooding during heavy rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent garage flooding, ensure your property's grading slopes away from the garage door. Clean gutters and downspouts regularly to direct rainwater away from the foundation. Consider installing a garage door flood barrier or a perimeter drain system to divert water. Inspect and seal any cracks in the garage floor or walls. Proper maintenance and proactive measures can significantly reduce the risk of water intrusion during heavy rainfall.",
+        "@type": "Answer",
+        "description": "Improve yard grading, clean gutters, install flood barriers, and seal cracks to prevent garage flooding from rain."
+      }
+    }
+  ],
+  "description": "Improve yard grading, clean gutters, install flood barriers, and seal cracks to prevent garage flooding from rain."
+}

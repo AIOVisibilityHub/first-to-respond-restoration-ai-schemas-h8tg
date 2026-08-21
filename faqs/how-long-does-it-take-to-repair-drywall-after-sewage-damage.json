@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-repair-drywall-after-sewage-damage",
+  "name": "How long does it take to repair drywall after sewage damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair drywall after sewage damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for repairing drywall after sewage damage varies based on the extent of the damage and the size of the affected area. Initial mitigation, including water extraction, removal of contaminated materials, cleaning, and drying, can take 3-5 days. Once the area is thoroughly dry and sanitized, reconstruction, such as installing new drywall, finishing, and painting, can add another 3-7 days. A comprehensive assessment by a restoration specialist can provide a more accurate estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity, but typically, mitigation and drying take 3-5 days, followed by 3-7 days for reconstruction. A professional assessment offers a precise timeline."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity, but typically, mitigation and drying take 3-5 days, followed by 3-7 days for reconstruction. A professional assessment o"
+}

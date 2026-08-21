@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-water-damage-from-a-leaking-door",
+  "name": "Does homeowner's insurance cover water damage from a leaking door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover water damage from a leaking door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, which could include damage from a door leak if it's due to an unforeseen event like a storm or a sudden failure of a component. However, policies generally do not cover damage resulting from neglect, poor maintenance, or long-term seepage that was preventable. It's crucial to review your specific policy details and contact your insurance provider as soon as damage occurs. We can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden water damage but not issues from neglect or poor maintenance; check your policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden water damage but not issues from neglect or poor maintenance; check your policy."
+}

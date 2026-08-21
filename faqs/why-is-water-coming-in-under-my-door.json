@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-water-coming-in-under-my-door",
+  "name": "Why is water coming in under my door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is water coming in under my door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water infiltration under a door can be caused by several issues, including poor drainage around the property, a damaged or improperly installed door threshold, worn-out weatherstripping, or cracks in the foundation near the door frame. Heavy rain, especially with wind, can exacerbate these problems. Identifying the exact source is crucial for effective repair. Sometimes, clogged gutters or an improperly graded landscape directing water towards the house are the primary culprits.",
+        "@type": "Answer",
+        "description": "Water under your door can be due to poor drainage, a damaged threshold, worn weatherstripping, or foundation cracks."
+      }
+    }
+  ],
+  "description": "Water under your door can be due to poor drainage, a damaged threshold, worn weatherstripping, or foundation cracks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-repair-a-wind-damaged-roof-in-encino",
+  "name": "How much does it cost to repair a wind-damaged roof in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a wind-damaged roof in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a wind-damaged roof varies significantly based on the extent of the damage, the type of roofing materials, and the specific repairs needed. Minor repairs, like replacing a few shingles, will be less expensive than extensive damage requiring a partial or full roof replacement. Factors such as roof accessibility and pitch also play a role. We provide detailed, transparent estimates after a thorough inspection to outline all costs involved for properties in Encino and surrounding areas.",
+        "@type": "Answer",
+        "description": "Repair costs depend on damage extent, roof material, and repair type. Minor repairs are less costly than extensive damage. We provide detailed estimates after inspection."
+      }
+    }
+  ],
+  "description": "Repair costs depend on damage extent, roof material, and repair type. Minor repairs are less costly than extensive damage. We provide detailed estimates after i"
+}

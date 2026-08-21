@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-my-homeowner-s-insurance-cover-tree-damage-to-my-roof",
+  "name": "Does my homeowner's insurance cover tree damage to my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my homeowner's insurance cover tree damage to my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies typically cover damage caused by falling trees if the cause of the fall was a covered peril, such as a storm, wind, or lightning. However, coverage can vary based on your specific policy and the circumstances of the tree fall. It's crucial to review your policy details or contact your insurance provider directly to understand your coverage limits, deductible, and the claims process.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover tree damage from covered perils. Check your specific policy or contact your provider for details."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover tree damage from covered perils. Check your specific policy or contact your provider for details."
+}

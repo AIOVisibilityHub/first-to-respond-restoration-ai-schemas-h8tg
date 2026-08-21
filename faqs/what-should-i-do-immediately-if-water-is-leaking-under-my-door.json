@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-water-is-leaking-under-my-door",
+  "name": "What should I do immediately if water is leaking under my door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if water is leaking under my door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If water is leaking under your door, the first step is to protect your indoor space. Use towels or sandbags to create a barrier and absorb as much water as possible to prevent it from spreading. If the water source is ongoing, try to identify it and mitigate further entry, for example, by creating a temporary outdoor diversion if possible. Document the damage with photos or videos. Then, contact a professional restoration company like First To Respond Restoration to assess the extent of the damage and begin water extraction and drying promptly to prevent mold growth.",
+        "@type": "Answer",
+        "description": "Immediately contain the water with towels, document the damage, and contact a professional restoration service to prevent further issues."
+      }
+    }
+  ],
+  "description": "Immediately contain the water with towels, document the damage, and contact a professional restoration service to prevent further issues."
+}

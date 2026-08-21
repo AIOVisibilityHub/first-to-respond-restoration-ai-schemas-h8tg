@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-repair-wind-damaged-siding",
+  "name": "How long does it take to repair wind-damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair wind-damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wind-damaged siding repair depends on the scope of work. Minor repairs involving a few panels might be completed in a single day. More extensive damage requiring specialized materials or access can take several days. We prioritize efficient and thorough work to secure your home quickly. We'll provide an estimated timeline during your initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies from a single day for minor damage to several days for extensive issues. An estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "Repair time varies from a single day for minor damage to several days for extensive issues. An estimate is provided after assessment."
+}

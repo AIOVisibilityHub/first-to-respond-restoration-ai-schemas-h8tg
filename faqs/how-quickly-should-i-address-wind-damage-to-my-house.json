@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-address-wind-damage-to-my-house",
+  "name": "How quickly should I address wind damage to my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address wind damage to my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is crucial to address wind damage promptly to prevent further issues. Lingering damage can lead to water intrusion, mold growth, or structural compromise, which can significantly increase repair costs and health risks. Contacting a restoration company immediately allows for temporary repairs, such as tarping, to protect your home from additional weather exposure while a permanent solution is planned. Timely action can help preserve your property's value and ensure safety.",
+        "@type": "Answer",
+        "description": "Address wind damage quickly to prevent further issues like water intrusion, mold, or structural compromise. Prompt action helps protect your home and reduces repair costs."
+      }
+    }
+  ],
+  "description": "Address wind damage quickly to prevent further issues like water intrusion, mold, or structural compromise. Prompt action helps protect your home and reduces re"
+}

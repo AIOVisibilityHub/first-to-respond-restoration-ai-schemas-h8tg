@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-storm-damage",
+  "name": "When should I call a professional for storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for storm damage as soon as possible after the storm has passed and it is safe to do so. Visible signs like a leaky roof, broken windows, water intrusion, or structural damage warrant immediate attention. Even seemingly minor damage can lead to larger issues like mold growth or further structural compromise if not addressed promptly. Early intervention can prevent secondary damage and streamline the restoration process.",
+        "@type": "Answer",
+        "description": "Call a professional for storm damage immediately after a storm, especially if you see a leaky roof, broken windows, or structural damage, to prevent further issues."
+      }
+    }
+  ],
+  "description": "Call a professional for storm damage immediately after a storm, especially if you see a leaky roof, broken windows, or structural damage, to prevent further iss"
+}

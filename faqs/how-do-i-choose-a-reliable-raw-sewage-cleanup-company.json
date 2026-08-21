@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reliable-raw-sewage-cleanup-company",
+  "name": "How do I choose a reliable raw sewage cleanup company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable raw sewage cleanup company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a raw sewage cleanup company, look for one with experience in biohazard remediation and specific certifications, such as those from the IICRC (Institute of Inspection, Cleaning and Restoration Certification). Ensure they are licensed and insured. Check their reviews and ask for references. A reliable company will offer a clear, detailed estimate, explain their process thoroughly, and use appropriate personal protective equipment and industrial-grade disinfectants. Responsiveness and availability for emergency service are also key factors.",
+        "@type": "Answer",
+        "description": "Choose a reliable company by checking for experience in biohazard remediation, IICRC certification, licensing, insurance, positive reviews, and emergency availability."
+      }
+    }
+  ],
+  "description": "Choose a reliable company by checking for experience in biohazard remediation, IICRC certification, licensing, insurance, positive reviews, and emergency availa"
+}

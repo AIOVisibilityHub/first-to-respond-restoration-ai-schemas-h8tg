@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-my-house-floods-from-rain",
+  "name": "What should I do immediately if my house floods from rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if my house floods from rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety first: if the water is deep or near electrical outlets, turn off your power. Avoid standing water. Contact a professional restoration company promptly. They can assess the damage, begin water extraction, and prevent further issues like mold growth. Document the damage with photos or videos for insurance purposes before cleanup begins. Moving affected items to a dry area can help mitigate secondary damage.",
+        "@type": "Answer",
+        "description": "Turn off power, stay safe, and contact a professional restoration company immediately to assess damage and begin water extraction."
+      }
+    }
+  ],
+  "description": "Turn off power, stay safe, and contact a professional restoration company immediately to assess damage and begin water extraction."
+}

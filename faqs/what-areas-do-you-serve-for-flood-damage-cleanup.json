@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-flood-damage-cleanup",
+  "name": "What areas do you serve for flood damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for flood damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides comprehensive flood damage cleanup services in several areas. We proudly serve Encino, North Hollywood, San Fernando, Studio City, Tarzana, and surrounding communities. If your property is located within these areas and has suffered flood damage, our emergency response team is available 24/7 to assist you. Our local expertise ensures a rapid response and understanding of regional considerations.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for flood damage cleanup."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for flood damage cleanup."
+}

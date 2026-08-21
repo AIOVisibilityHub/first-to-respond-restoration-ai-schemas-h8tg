@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-a-general-contractor-and-an-emergency-restoration",
+  "name": "What's the difference between a general contractor and an emergency restoration company for tree damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a general contractor and an emergency restoration company for tree damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor typically manages broader construction projects, while an emergency restoration company specializes in immediate response and mitigation of damage from specific events like tree falls, water, or fire. Restoration companies are equipped for urgent situations, offering services like emergency tarping, debris removal, and water extraction. They often work directly with insurance companies and focus on returning your property to its pre-damage condition quickly and efficiently.",
+        "@type": "Answer",
+        "description": "Emergency restoration companies specialize in immediate damage mitigation (e.g., tree falls) and work with insurance, unlike general contractors who handle broader projects."
+      }
+    }
+  ],
+  "description": "Emergency restoration companies specialize in immediate damage mitigation (e.g., tree falls) and work with insurance, unlike general contractors who handle broa"
+}

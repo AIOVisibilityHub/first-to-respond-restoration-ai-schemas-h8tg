@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-dry-out-a-house-after-rainwater-intrusion",
+  "name": "How do professionals dry out a house after rainwater intrusion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals dry out a house after rainwater intrusion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional restoration companies follow a multi-step process to dry out a house after rainwater intrusion. First, they perform water extraction using powerful pumps and vacuums. Next, they use industrial-grade air movers and dehumidifiers to remove remaining moisture from materials and the air, preventing mold growth. Moisture meters are used to identify hidden dampness within walls, floors, and ceilings. Finally, they monitor the drying process to ensure everything is thoroughly dry and restored to safe moisture levels, often involving sanitization.",
+        "@type": "Answer",
+        "description": "Professionals extract standing water, then use industrial air movers and dehumidifiers to dry affected areas. They use moisture meters to detect hidden dampness and monitor the process until safe moisture levels are achieved."
+      }
+    }
+  ],
+  "description": "Professionals extract standing water, then use industrial air movers and dehumidifiers to dry affected areas. They use moisture meters to detect hidden dampness"
+}

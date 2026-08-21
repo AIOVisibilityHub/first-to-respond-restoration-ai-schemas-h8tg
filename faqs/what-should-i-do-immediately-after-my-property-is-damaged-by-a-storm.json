@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-property-is-damaged-by-a-storm",
+  "name": "What should I do immediately after my property is damaged by a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my property is damaged by a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, ensure everyone's safety. If it's safe, take photos or videos of all visible damage before any cleanup. Prevent further damage by covering broken windows or leaky roofs if possible, without risking personal safety. Avoid entering areas with structural damage or standing water near electrical outlets. Contact your insurance company to initiate a claim and then call a professional storm damage restoration company like First To Respond Restoration for immediate assessment and emergency services.",
+        "@type": "Answer",
+        "description": "After a storm, prioritize safety, document damage with photos, prevent further issues if safe, contact your insurance, and call a professional restoration company immediately."
+      }
+    }
+  ],
+  "description": "After a storm, prioritize safety, document damage with photos, prevent further issues if safe, contact your insurance, and call a professional restoration compa"
+}

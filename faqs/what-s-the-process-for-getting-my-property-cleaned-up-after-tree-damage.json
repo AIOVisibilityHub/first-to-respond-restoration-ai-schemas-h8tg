@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-process-for-getting-my-property-cleaned-up-after-tree-damage",
+  "name": "What's the process for getting my property cleaned up after tree damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the process for getting my property cleaned up after tree damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process typically begins with an emergency response to secure the property, which might include temporary tarping or boarding up damaged areas. Next, professional tree removal experts safely cut and remove the fallen tree and large debris. Following this, restoration crews will remove smaller debris, assess all affected areas, and begin drying and mitigating any water damage. This leads into the full restoration phase, where repairs are made to the structure, roof, and interior. Throughout the process, a reputable company will coordinate with your insurance provider.",
+        "@type": "Answer",
+        "description": "The cleanup process involves emergency securing, professional tree removal, debris cleanup, water damage mitigation, and then full property restoration and repairs."
+      }
+    }
+  ],
+  "description": "The cleanup process involves emergency securing, professional tree removal, debris cleanup, water damage mitigation, and then full property restoration and repa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-sewage-from-walls",
+  "name": "How much does it cost to remove sewage from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove sewage from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to remove sewage from walls varies significantly based on several factors: the extent of contamination, the size of the affected area, the type of materials damaged, and the complexity of access. Costs can also be influenced by the need for specialized equipment, such as air scrubbers or industrial dehumidifiers, and the amount of demolition and reconstruction required. A professional assessment is necessary to provide an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Costs for sewage removal from walls vary widely based on the extent of contamination, affected area size, material damage, and complexity. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs for sewage removal from walls vary widely based on the extent of contamination, affected area size, material damage, and complexity. A professional assess"
+}

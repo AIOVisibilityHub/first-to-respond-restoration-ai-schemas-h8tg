@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-roof-leak-water-damage-cleanup",
+  "name": "What is the typical cost for roof leak water damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for roof leak water damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of roof leak water damage cleanup can vary significantly, typically ranging from a few hundred dollars for small, localized issues to several thousand for widespread damage affecting multiple rooms or structural elements. Factors influencing cost include the extent of water intrusion, the type of materials damaged (e.g., drywall, flooring, insulation), mold remediation needs, and the necessary repairs. Most restoration companies provide a detailed estimate after an on-site inspection. Insurance may cover some or all of these costs, depending on your policy.",
+        "@type": "Answer",
+        "description": "Costs range from hundreds to thousands of dollars, depending on damage extent, affected materials, and mold presence. An on-site estimate is usually provided."
+      }
+    }
+  ],
+  "description": "Costs range from hundreds to thousands of dollars, depending on damage extent, affected materials, and mold presence. An on-site estimate is usually provided."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-rainwater-damage-repair-and-restoration",
+  "name": "What is the typical cost for rainwater damage repair and restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for rainwater damage repair and restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for rainwater damage repair and restoration varies significantly based on several factors, including the extent of the damage, the size of the affected area, the type of materials damaged, and the duration of water exposure. Minor leaks might involve simpler drying and repair, while major floods could require extensive demolition, drying, and reconstruction. Most reputable restoration companies provide a detailed estimate after a thorough assessment. It's advisable to check your homeowner's insurance policy for coverage details.",
+        "@type": "Answer",
+        "description": "The cost of rainwater damage repair varies widely depending on the extent of damage, affected area size, and material types. A detailed estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "The cost of rainwater damage repair varies widely depending on the extent of damage, affected area size, and material types. A detailed estimate is provided aft"
+}

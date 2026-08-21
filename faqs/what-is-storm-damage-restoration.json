@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-storm-damage-restoration",
+  "name": "What is storm damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is storm damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm damage restoration is the process of repairing and restoring properties affected by natural events like heavy rains, strong winds, hail, or lightning. This can include addressing water damage from floods, structural damage from fallen trees or debris, roof repairs, and cleanup. The goal is to return your property to its pre-loss condition, ensuring safety and functionality. This often involves emergency services like board-up or water extraction, followed by thorough drying, cleaning, and reconstruction.",
+        "@type": "Answer",
+        "description": "Storm damage restoration repairs properties affected by natural events like heavy rains, winds, or hail, addressing water damage, structural issues, and cleanup to restore the property to its pre-loss condition."
+      }
+    }
+  ],
+  "description": "Storm damage restoration repairs properties affected by natural events like heavy rains, winds, or hail, addressing water damage, structural issues, and cleanup"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-considered-sewage-backup-and-why-is-it-dangerous",
+  "name": "What is considered sewage backup and why is it dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered sewage backup and why is it dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backup occurs when wastewater containing human waste, bacteria, viruses, and other contaminants flows back into a property. This can happen due to clogged pipes, broken sewer lines, heavy rainfall overwhelming the municipal system, or sump pump failures. It's dangerous because it poses significant health risks from exposure to pathogens, which can cause illnesses like hepatitis, tetanus, and gastrointestinal issues. Additionally, sewage can cause extensive structural damage to homes by saturating building materials, leading to mold growth and compromising structural integrity.",
+        "@type": "Answer",
+        "description": "Sewage backup is wastewater containing contaminants flowing back into a property. It's dangerous due to health risks from pathogens and potential structural damage."
+      }
+    }
+  ],
+  "description": "Sewage backup is wastewater containing contaminants flowing back into a property. It's dangerous due to health risks from pathogens and potential structural dam"
+}

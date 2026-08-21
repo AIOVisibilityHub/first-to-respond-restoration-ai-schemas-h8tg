@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-heavy-rain-cause-water-to-come-through-my-front-door",
+  "name": "Can heavy rain cause water to come through my front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can heavy rain cause water to come through my front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, heavy rain, especially when combined with strong winds, can definitely cause water to come through your front door. If your door's weatherstripping is old or damaged, the threshold is not sealed properly, or the grading around your home directs water towards the entrance, intense rainfall can overwhelm these defenses. This is a common issue that often requires professional assessment to identify the exact entry point and recommend durable solutions to prevent future leaks.",
+        "@type": "Answer",
+        "description": "Yes, heavy rain and wind can force water through doors, especially if weatherstripping or thresholds are compromised."
+      }
+    }
+  ],
+  "description": "Yes, heavy rain and wind can force water through doors, especially if weatherstripping or thresholds are compromised."
+}
