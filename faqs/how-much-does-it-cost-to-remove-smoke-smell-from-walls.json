@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-smoke-smell-from-walls",
+  "name": "How much does it cost to remove smoke smell from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove smoke smell from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of smoke odor removal from walls varies significantly based on factors such as the size of the affected area, the severity of the smoke damage, the types of materials involved, and the specific methods required (e.g., specialized cleaning, sealing, material replacement). A precise estimate can only be provided after a thorough on-site assessment. Most reputable restoration companies offer free inspections to determine the scope of work and provide a detailed quote tailored to your situation.",
+        "@type": "Answer",
+        "description": "Costs vary based on the extent of damage, affected area size, and materials. A professional on-site assessment is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on the extent of damage, affected area size, and materials. A professional on-site assessment is needed for an accurate estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-fire-to-prevent-further-soot-damage-to-wall",
+  "name": "What should I do immediately after a fire to prevent further soot damage to walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a fire to prevent further soot damage to walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after a fire, while waiting for professionals, avoid touching soot-covered walls or items, as this can embed the soot deeper or spread it. Ventilate the property if it's safe to do so, by opening windows and doors to reduce airborne soot and odors. Turn off your HVAC system to prevent circulating soot particles throughout the building. Do not attempt to wipe down walls with water or household cleaners, as this can set the soot and make professional removal more difficult. Your primary step should be to contact a fire damage restoration specialist.",
+        "@type": "Answer",
+        "description": "After a fire, avoid touching soot, ventilate safely, turn off HVAC, and do not attempt DIY cleaning; contact professionals immediately."
+      }
+    }
+  ],
+  "description": "After a fire, avoid touching soot, ventilate safely, turn off HVAC, and do not attempt DIY cleaning; contact professionals immediately."
+}

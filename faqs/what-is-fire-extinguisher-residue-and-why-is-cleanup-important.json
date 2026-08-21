@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-fire-extinguisher-residue-and-why-is-cleanup-important",
+  "name": "What is fire extinguisher residue and why is cleanup important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is fire extinguisher residue and why is cleanup important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire extinguisher residue is the chemical agent discharged during fire suppression, commonly dry chemical (monoammonium phosphate or sodium bicarbonate) or wet chemical. This residue can be corrosive, especially to electronic equipment and metals, and can cause respiratory irritation if inhaled. Proper cleanup is crucial to prevent long-term damage to property, avoid health hazards, and restore the affected area to a safe and usable condition. Depending on the type of extinguisher used, the residue can be powdery, sticky, or corrosive, requiring specific cleaning methods.",
+        "@type": "Answer",
+        "description": "Fire extinguisher residue is the chemical discharged during use, which can be corrosive and cause health issues. Cleanup is vital to prevent property damage and health hazards."
+      }
+    }
+  ],
+  "description": "Fire extinguisher residue is the chemical discharged during use, which can be corrosive and cause health issues. Cleanup is vital to prevent property damage and"
+}

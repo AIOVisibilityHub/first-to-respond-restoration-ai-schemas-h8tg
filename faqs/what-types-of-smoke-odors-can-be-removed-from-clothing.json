@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-smoke-odors-can-be-removed-from-clothing",
+  "name": "What types of smoke odors can be removed from clothing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of smoke odors can be removed from clothing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional cleaning services are equipped to remove a wide range of smoke odors from clothing, including those from wood fires, grease fires, electrical fires, and tobacco smoke. The effectiveness of removal depends on the intensity and duration of exposure, as well as the fabric type. While most common smoke odors can be significantly reduced or eliminated, some very deep-seated or unique chemical smoke odors may require multiple treatments or may not be entirely reversible.",
+        "@type": "Answer",
+        "description": "Professionals can remove most smoke odors like wood, grease, and tobacco. Success depends on exposure intensity and fabric type, with some deep-set odors requiring multiple treatments."
+      }
+    }
+  ],
+  "description": "Professionals can remove most smoke odors like wood, grease, and tobacco. Success depends on exposure intensity and fabric type, with some deep-set odors requir"
+}

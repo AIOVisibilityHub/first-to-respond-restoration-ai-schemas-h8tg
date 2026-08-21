@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-replace-rather-than-restore-smoke-damaged-furniture",
+  "name": "When should I replace rather than restore smoke-damaged furniture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace rather than restore smoke-damaged furniture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to replace versus restore smoke-damaged furniture depends on the extent of the damage, the item's sentimental or monetary value, and the cost-effectiveness of restoration. If an item has significant structural damage, deep charring, or irreversible odor saturation that restoration cannot fully address, replacement might be the more practical option. A professional assessment can help determine if restoration is viable and economically sensible, allowing you to make an informed decision.",
+        "@type": "Answer",
+        "description": "Consider replacement if furniture has severe structural damage, deep charring, or irreversible odor. A professional assessment helps determine if restoration is viable."
+      }
+    }
+  ],
+  "description": "Consider replacement if furniture has severe structural damage, deep charring, or irreversible odor. A professional assessment helps determine if restoration is"
+}

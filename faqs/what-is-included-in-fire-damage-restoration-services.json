@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-included-in-fire-damage-restoration-services",
+  "name": "What is included in fire damage restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in fire damage restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire damage restoration services typically involve several key steps. These include emergency board-up and roof tarping to secure the property, water extraction if firefighting efforts caused flooding, smoke and soot removal from all surfaces, deodorization to eliminate lingering smoke odors, contents cleaning and restoration, and structural repairs to rebuild damaged areas. The scope of work is tailored to the specific damage your property sustained.",
+        "@type": "Answer",
+        "description": "Fire damage restoration includes emergency board-up, water extraction, smoke and soot removal, deodorization, contents cleaning, and structural repairs."
+      }
+    }
+  ],
+  "description": "Fire damage restoration includes emergency board-up, water extraction, smoke and soot removal, deodorization, contents cleaning, and structural repairs."
+}

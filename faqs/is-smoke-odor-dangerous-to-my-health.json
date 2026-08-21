@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-smoke-odor-dangerous-to-my-health",
+  "name": "Is smoke odor dangerous to my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is smoke odor dangerous to my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lingering smoke odor indicates the presence of microscopic soot particles and harmful chemicals released during combustion. Inhaling these particles and volatile organic compounds (VOCs) can irritate the respiratory system, leading to coughing, wheezing, and shortness of breath. Prolonged exposure can worsen conditions like asthma and allergies, making professional odor removal important for a healthy indoor environment.",
+        "@type": "Answer",
+        "description": "Yes, lingering smoke indicates harmful soot and chemicals which can irritate respiratory systems and worsen conditions like asthma with prolonged exposure."
+      }
+    }
+  ],
+  "description": "Yes, lingering smoke indicates harmful soot and chemicals which can irritate respiratory systems and worsen conditions like asthma with prolonged exposure."
+}

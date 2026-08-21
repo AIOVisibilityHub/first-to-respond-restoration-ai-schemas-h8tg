@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-considered-small-fire-damage",
+  "name": "What is considered small fire damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered small fire damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small fire damage typically refers to fires that are contained to a limited area, such as a single room or a small section of a property, and do not compromise the structural integrity of the entire building. Examples include kitchen fires, electrical fires affecting an appliance, or fires started by candles. While the fire itself may be localized, the smoke, soot, and odor can spread throughout the property, requiring specialized cleanup to prevent further damage and ensure a safe environment.",
+        "@type": "Answer",
+        "description": "Small fire damage is localized fire damage, like a kitchen fire, that doesn't compromise a building's structure but still requires professional smoke and soot cleanup."
+      }
+    }
+  ],
+  "description": "Small fire damage is localized fire damage, like a kitchen fire, that doesn't compromise a building's structure but still requires professional smoke and soot c"
+}

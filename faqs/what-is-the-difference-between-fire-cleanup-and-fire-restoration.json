@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-fire-cleanup-and-fire-restoration",
+  "name": "What is the difference between fire cleanup and fire restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between fire cleanup and fire restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire cleanup primarily focuses on removing debris, soot, and smoke residues to make a property habitable again. Fire restoration is a broader process that encompasses cleanup but also includes repairing, rebuilding, and restoring the property to its pre-loss condition. This may involve structural repairs, content restoration, and complete reconstruction, in addition to extensive cleaning and odor removal.",
+        "@type": "Answer",
+        "description": "Fire cleanup removes debris and residues. Fire restoration is a broader process that includes cleanup, repairs, rebuilding, and restoring the property to pre-loss condition."
+      }
+    }
+  ],
+  "description": "Fire cleanup removes debris and residues. Fire restoration is a broader process that includes cleanup, repairs, rebuilding, and restoring the property to pre-lo"
+}

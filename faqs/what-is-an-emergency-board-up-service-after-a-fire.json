@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-an-emergency-board-up-service-after-a-fire",
+  "name": "What is an emergency board-up service after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an emergency board-up service after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency board-up service is a critical step immediately following a fire. It involves securing compromised windows, doors, and other openings with plywood or other materials. This service prevents unauthorized access, protects the property from weather elements, and deters vandalism, thereby safeguarding your property and contents from further damage until permanent repairs can begin. It's often coordinated with your insurance company.",
+        "@type": "Answer",
+        "description": "Emergency board-up secures damaged windows and doors after a fire, preventing further damage from weather, theft, and vandalism until repairs start."
+      }
+    }
+  ],
+  "description": "Emergency board-up secures damaged windows and doors after a fire, preventing further damage from weather, theft, and vandalism until repairs start."
+}

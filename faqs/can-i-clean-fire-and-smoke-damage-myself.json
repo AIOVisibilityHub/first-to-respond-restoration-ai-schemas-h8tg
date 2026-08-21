@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-fire-and-smoke-damage-myself",
+  "name": "Can I clean fire and smoke damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean fire and smoke damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor smoke residue might seem manageable, fire and smoke damage often involve complex issues best handled by professionals. Soot is acidic and can cause corrosion if not properly removed. Smoke odors permeate porous materials and require specialized techniques for elimination. Attempting DIY cleanup without proper equipment or knowledge can lead to further damage, incomplete odor removal, or health risks from airborne contaminants. Professional restoration ensures thorough cleanup, odor elimination, and prevents long-term problems, restoring your property safely and effectively.",
+        "@type": "Answer",
+        "description": "It's not recommended to clean fire and smoke damage yourself due to acidic soot, pervasive odors, and potential health risks. Professionals have specialized equipment and expertise for safe, thorough restoration."
+      }
+    }
+  ],
+  "description": "It's not recommended to clean fire and smoke damage yourself due to acidic soot, pervasive odors, and potential health risks. Professionals have specialized equ"
+}

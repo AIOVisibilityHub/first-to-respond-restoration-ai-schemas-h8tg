@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-remove-smoke-smell-from-a-house",
+  "name": "How do professionals remove smoke smell from a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals remove smoke smell from a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional smoke odor removal involves a multi-step process. Technicians first clean and remove all visible soot and smoke residue. This is followed by specialized techniques such as thermal fogging, ozone treatment, or hydroxyl generation to neutralize odor molecules at a microscopic level. Additionally, sealing surfaces with encapsulants might be necessary to prevent residual odors from re-emerging, ensuring the smell is truly eliminated, not just masked.",
+        "@type": "Answer",
+        "description": "Professionals clean all smoke residue, then use specialized treatments like thermal fogging, ozone, or hydroxyl generators to neutralize odor molecules, sometimes sealing surfaces."
+      }
+    }
+  ],
+  "description": "Professionals clean all smoke residue, then use specialized treatments like thermal fogging, ozone, or hydroxyl generators to neutralize odor molecules, sometim"
+}

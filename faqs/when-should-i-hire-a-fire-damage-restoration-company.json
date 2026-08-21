@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-hire-a-fire-damage-restoration-company",
+  "name": "When should I hire a fire damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a fire damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a fire damage restoration company as soon as possible after the fire department has cleared the property as safe. Prompt engagement allows professionals to immediately begin mitigating secondary damage, such as corrosion from soot and mold growth from water. Early intervention can significantly reduce the total cost and time required for restoration, helping you return to your property sooner.",
+        "@type": "Answer",
+        "description": "Hire a fire damage restoration company immediately after the property is deemed safe to prevent secondary damage and reduce overall restoration time and cost."
+      }
+    }
+  ],
+  "description": "Hire a fire damage restoration company immediately after the property is deemed safe to prevent secondary damage and reduce overall restoration time and cost."
+}

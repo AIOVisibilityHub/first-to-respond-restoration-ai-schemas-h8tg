@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-black-soot-removal-services-in-encino-or-other-local-areas",
+  "name": "Do you offer black soot removal services in Encino or other local areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer black soot removal services in Encino or other local areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides comprehensive black soot removal and restoration services in Encino, North Hollywood, San Fernando, Studio City, Tarzana, and surrounding areas. Our certified technicians are equipped to assess the damage, identify the source, and effectively clean and restore your ceilings and property. We understand the urgency of such situations and are prepared to respond promptly to mitigate further damage and ensure your home or business is returned to a safe and clean condition.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers black soot removal services in Encino, North Hollywood, San Fernando, Studio City, Tarzana, and surrounding areas."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers black soot removal services in Encino, North Hollywood, San Fernando, Studio City, Tarzana, and surrounding areas."
+}

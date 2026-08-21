@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-health-risks-of-lingering-smoke-smell-in-air-vents",
+  "name": "What are the health risks of lingering smoke smell in air vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the health risks of lingering smoke smell in air vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lingering smoke smell in air vents indicates the presence of microscopic smoke and soot particles, which can pose health risks. These particles can contain various toxins and carcinogens that become airborne when your HVAC system runs. Exposure to these contaminants can irritate the respiratory system, leading to coughing, wheezing, and shortness of breath, especially for individuals with asthma, allergies, or other respiratory conditions. Prolonged exposure can contribute to more serious long-term health issues, making professional removal important for indoor air quality.",
+        "@type": "Answer",
+        "description": "Lingering smoke particles in vents can cause respiratory irritation and other health issues due to airborne toxins. Professional removal improves indoor air quality."
+      }
+    }
+  ],
+  "description": "Lingering smoke particles in vents can cause respiratory irritation and other health issues due to airborne toxins. Professional removal improves indoor air qua"
+}

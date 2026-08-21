@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-my-home-still-smell-like-smoke-after-a-fire-even-after-cleaning",
+  "name": "Why does my home still smell like smoke after a fire, even after cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my home still smell like smoke after a fire, even after cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke odors are tenacious because microscopic smoke particles penetrate porous materials like drywall, wood, fabric, and insulation. These particles embed deeply and off-gas over time, leading to persistent smells. Standard cleaning methods often only address surface odors, leaving behind trapped smoke residues. Professional restoration uses specialized equipment and techniques, such as thermal fogging or ozone treatments, to neutralize these embedded odors at a molecular level, ensuring a thorough removal and preventing the smell from returning.",
+        "@type": "Answer",
+        "description": "Smoke particles embed in porous materials, causing persistent odors that standard cleaning can't remove. Professional restoration targets these deeply trapped particles."
+      }
+    }
+  ],
+  "description": "Smoke particles embed in porous materials, causing persistent odors that standard cleaning can't remove. Professional restoration targets these deeply trapped p"
+}

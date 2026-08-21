@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowners-insurance-cover-garage-fire-damage-and-cleanup-costs",
+  "name": "Will my homeowners insurance cover garage fire damage and cleanup costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowners insurance cover garage fire damage and cleanup costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowners insurance policies cover fire damage, including garage fires. This typically includes the cost of structural repairs, debris removal, and professional cleanup services. However, coverage limits and deductibles apply. It's important to review your specific policy or contact your insurance provider to understand the extent of your coverage and any specific requirements for filing a claim.",
+        "@type": "Answer",
+        "description": "Generally, homeowners insurance covers garage fire damage and cleanup, subject to policy limits and deductibles. Confirm specifics with your provider."
+      }
+    }
+  ],
+  "description": "Generally, homeowners insurance covers garage fire damage and cleanup, subject to policy limits and deductibles. Confirm specifics with your provider."
+}

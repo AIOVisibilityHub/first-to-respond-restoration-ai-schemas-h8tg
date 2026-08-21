@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-precautions-should-i-take-until-professional-cleanup-arrives",
+  "name": "What precautions should I take until professional cleanup arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What precautions should I take until professional cleanup arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Until professionals arrive for cleanup, take several precautions. First, ensure the area is well-ventilated by opening windows and doors, if safe to do so. Limit access to the affected area to prevent spreading the residue and to minimize inhalation or contact. Avoid using standard household vacuums, as they can spread fine powder further and damage the vacuum. Do not attempt to wipe down electronics or sensitive items, as this can embed the residue or cause further damage. If skin contact occurs, wash thoroughly with soap and water.",
+        "@type": "Answer",
+        "description": "Until professional cleanup, ventilate the area, limit access, avoid using household vacuums or wiping sensitive items, and wash skin thoroughly if contact occurs."
+      }
+    }
+  ],
+  "description": "Until professional cleanup, ventilate the area, limit access, avoid using household vacuums or wiping sensitive items, and wash skin thoroughly if contact occur"
+}

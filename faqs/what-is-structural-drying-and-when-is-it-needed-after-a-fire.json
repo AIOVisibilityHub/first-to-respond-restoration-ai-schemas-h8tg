@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-structural-drying-and-when-is-it-needed-after-a-fire",
+  "name": "What is structural drying and when is it needed after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is structural drying and when is it needed after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural drying is the process of removing excess moisture from a building's structure, including walls, floors, and framing. It's often needed after a fire because water used by firefighters to extinguish the blaze can saturate building materials. Proper structural drying prevents secondary damage like mold growth, wood rot, and structural weakening. This step is critical for ensuring the long-term integrity and safety of your home following a fire.",
+        "@type": "Answer",
+        "description": "Structural drying removes water from building materials, often needed after firefighters extinguish a blaze, to prevent mold, rot, and structural issues."
+      }
+    }
+  ],
+  "description": "Structural drying removes water from building materials, often needed after firefighters extinguish a blaze, to prevent mold, rot, and structural issues."
+}

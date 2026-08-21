@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-a-general-contractor-and-a-fire-restoration-compa",
+  "name": "What is the difference between a general contractor and a fire restoration company for garage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a fire restoration company for garage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor typically focuses on structural repairs and rebuilding. A fire restoration company specializes in the unique challenges of fire damage, including soot and smoke removal, deodorization, water damage mitigation, and content cleaning. While some restoration companies also handle rebuilding, their primary expertise lies in the intricate cleanup and remediation specific to fire damage. Often, a restoration company will manage the entire process, including any necessary reconstruction.",
+        "@type": "Answer",
+        "description": "General contractors focus on rebuilding, while fire restoration companies specialize in soot, smoke, and odor removal specific to fire damage. Restoration companies often manage the entire cleanup and rebuild process."
+      }
+    }
+  ],
+  "description": "General contractors focus on rebuilding, while fire restoration companies specialize in soot, smoke, and odor removal specific to fire damage. Restoration compa"
+}

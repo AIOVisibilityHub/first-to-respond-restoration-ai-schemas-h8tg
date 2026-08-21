@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-small-fire-damage-cleanup",
+  "name": "Will my insurance cover small fire damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover small fire damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies include coverage for fire and smoke damage. This typically covers the cost of professional cleanup, structural repairs, and replacement of damaged personal belongings, up to your policy's limits and subject to your deductible. It is essential to contact your insurance provider as soon as possible after the incident to report the damage and understand your specific coverage and claims process. A professional restoration company can often assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Yes, most homeowner's insurance policies cover fire and smoke damage cleanup. Contact your insurer promptly to understand your specific coverage and claims process."
+      }
+    }
+  ],
+  "description": "Yes, most homeowner's insurance policies cover fire and smoke damage cleanup. Contact your insurer promptly to understand your specific coverage and claims proc"
+}

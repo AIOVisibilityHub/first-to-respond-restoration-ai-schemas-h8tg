@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-fire-damage-cleanup-cost",
+  "name": "How much does fire damage cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does fire damage cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of fire damage cleanup is highly variable, influenced by several factors including the size of the damaged area, the extent of structural compromise, the type and amount of smoke and soot, and the need for content restoration or demolition. Costs can range significantly from hundreds for minor smoke damage to tens of thousands for extensive fire damage. Most homeowners insurance policies cover fire damage, but it's important to review your specific policy details. A professional restoration company can provide a detailed estimate after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Cleanup costs vary widely based on damage extent, property size, and type of restoration needed. Insurance often covers it, but an estimate requires an on-site assessment."
+      }
+    }
+  ],
+  "description": "Cleanup costs vary widely based on damage extent, property size, and type of restoration needed. Insurance often covers it, but an estimate requires an on-site"
+}

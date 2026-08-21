@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-professionally-remove-soot-from-walls",
+  "name": "How much does it cost to professionally remove soot from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to professionally remove soot from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional soot removal from walls varies widely based on several factors. These include the size of the affected area, the severity and type of soot (e.g., dry vs. oily), the types of surfaces involved, and the extent of additional damage like water or smoke odor. A full assessment by a restoration specialist is necessary to provide an accurate estimate. Most reputable companies offer free initial inspections to evaluate the damage and outline the scope of work and associated costs.",
+        "@type": "Answer",
+        "description": "The cost of professional soot removal varies greatly depending on the area size, soot severity, surface types, and additional damage, requiring an assessment for an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost of professional soot removal varies greatly depending on the area size, soot severity, surface types, and additional damage, requiring an assessment fo"
+}

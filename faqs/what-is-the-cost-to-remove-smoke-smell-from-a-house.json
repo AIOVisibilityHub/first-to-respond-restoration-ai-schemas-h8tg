@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-to-remove-smoke-smell-from-a-house",
+  "name": "What is the cost to remove smoke smell from a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost to remove smoke smell from a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of smoke odor removal varies significantly based on factors such as the extent of smoke damage, the size of the affected area, and the materials involved. It also depends on the specific restoration techniques required, such as ozone treatment or sealing. A professional restoration company will conduct an on-site assessment to provide an accurate estimate tailored to your property's unique needs.",
+        "@type": "Answer",
+        "description": "Cost varies based on damage extent, affected area size, materials, and required restoration techniques. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost varies based on damage extent, affected area size, materials, and required restoration techniques. A professional assessment provides an accurate estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-emergency-fire-restoration",
+  "name": "What is emergency fire restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is emergency fire restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency fire restoration involves immediate actions taken after a fire to mitigate damage, prevent further deterioration, and prepare a property for comprehensive repairs. This includes securing the site, removing debris, extracting water from firefighting efforts, and beginning the process of smoke and soot removal. The goal is to stabilize the property quickly to reduce secondary damage and minimize overall recovery time and costs.",
+        "@type": "Answer",
+        "description": "Emergency fire restoration involves immediate actions after a fire to mitigate damage, secure the property, and begin cleanup."
+      }
+    }
+  ],
+  "description": "Emergency fire restoration involves immediate actions after a fire to mitigate damage, secure the property, and begin cleanup."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-fire-damage-soot-and-candle-soot-and-how-are-they",
+  "name": "What's the difference between fire damage soot and candle soot, and how are they cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between fire damage soot and candle soot, and how are they cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire damage soot, often from structural fires, is typically denser, more acidic, and can be greasy due to burning various materials. It causes more severe staining and odor. Candle soot is generally drier, lighter, and localized, resulting from incomplete combustion of wax. While candle soot is often easier to clean, both require specific methods. Fire soot often needs aggressive degreasers, specialized solvents, and extensive odor removal, sometimes including ozone treatment. Candle soot can often be removed with dry chemical sponges and specific cleaning agents, but both are best handled by professionals to prevent smearing or permanent damage.",
+        "@type": "Answer",
+        "description": "Fire damage soot is typically denser, more acidic, and greasier, requiring aggressive cleaning. Candle soot is drier and lighter, often easier to clean, but both require professional techniques to avoid further damage."
+      }
+    }
+  ],
+  "description": "Fire damage soot is typically denser, more acidic, and greasier, requiring aggressive cleaning. Candle soot is drier and lighter, often easier to clean, but bot"
+}

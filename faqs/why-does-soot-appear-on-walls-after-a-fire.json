@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-soot-appear-on-walls-after-a-fire",
+  "name": "Why does soot appear on walls after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does soot appear on walls after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soot on walls after a fire is a byproduct of incomplete combustion. When materials burn, especially organic ones like wood, paper, or plastic, they release tiny carbon particles. These particles are carried by hot air and adhere to cooler surfaces like walls, ceilings, and other objects. The type of material burned, the intensity of the fire, and the oxygen availability all influence the amount and nature of the soot produced. Soot can be oily, dry, or a combination, making proper cleaning essential to prevent further damage and odors.",
+        "@type": "Answer",
+        "description": "Soot is formed from unburned carbon particles released during a fire, which then adhere to cooler surfaces like walls."
+      }
+    }
+  ],
+  "description": "Soot is formed from unburned carbon particles released during a fire, which then adhere to cooler surfaces like walls."
+}

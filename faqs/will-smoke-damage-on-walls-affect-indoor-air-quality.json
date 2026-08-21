@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-smoke-damage-on-walls-affect-indoor-air-quality",
+  "name": "Will smoke damage on walls affect indoor air quality?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will smoke damage on walls affect indoor air quality?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, smoke damage on walls significantly affects indoor air quality. Smoke residue contains microscopic particles and volatile organic compounds (VOCs) that can become airborne, leading to respiratory irritation, allergies, and other health issues for occupants. The persistent smoky odor itself is a sign of these airborne contaminants. Without thorough professional cleaning and deodorization, these particles can continue to off-gas over time, creating a long-term indoor air quality problem. Proper ventilation during and after the restoration process is crucial to help remove these pollutants.",
+        "@type": "Answer",
+        "description": "Yes, smoke damage on walls releases microscopic particles and VOCs into the air, negatively impacting indoor air quality and potentially causing health issues."
+      }
+    }
+  ],
+  "description": "Yes, smoke damage on walls releases microscopic particles and VOCs into the air, negatively impacting indoor air quality and potentially causing health issues."
+}

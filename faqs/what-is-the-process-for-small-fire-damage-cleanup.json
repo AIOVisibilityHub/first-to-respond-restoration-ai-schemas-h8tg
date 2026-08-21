@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-small-fire-damage-cleanup",
+  "name": "What is the process for small fire damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for small fire damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process for small fire damage typically begins with an assessment to determine the extent of damage and develop a restoration plan. This is followed by securing the property and removing damaged items. Professionals then focus on soot removal from all affected surfaces using specialized vacuums and cleaning agents. Odor neutralization is a crucial step, often involving air scrubbers and thermal foggers. Finally, affected areas are cleaned, sanitized, and prepared for any necessary repairs, ensuring the property is restored to its pre-fire condition.",
+        "@type": "Answer",
+        "description": "The cleanup process involves assessment, removal of damaged items, soot removal, odor neutralization, and final cleaning to restore the property."
+      }
+    }
+  ],
+  "description": "The cleanup process involves assessment, removal of damaged items, soot removal, odor neutralization, and final cleaning to restore the property."
+}

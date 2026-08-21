@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-fire-extinguisher-powder-cleanup",
+  "name": "When should I call a professional for fire extinguisher powder cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for fire extinguisher powder cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for fire extinguisher powder cleanup immediately after discharge, especially if it's a significant amount or has affected sensitive areas like electronics, HVAC systems, or extensive indoor spaces. Professionals have the specialized equipment, cleaning agents, and expertise to safely and effectively remove corrosive residues, prevent further damage, and ensure thorough decontamination, minimizing potential health risks and long-term property issues.",
+        "@type": "Answer",
+        "description": "Call a professional for fire extinguisher powder cleanup immediately, especially for large discharges or if electronics and HVAC systems are affected, to prevent further damage."
+      }
+    }
+  ],
+  "description": "Call a professional for fire extinguisher powder cleanup immediately, especially for large discharges or if electronics and HVAC systems are affected, to preven"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-an-apartment-fire",
+  "name": "What should I do immediately after an apartment fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after an apartment fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After an apartment fire, your first priority is ensuring everyone's safety and contacting emergency services. Once the fire department has deemed the property safe to enter (if applicable), notify your landlord and insurance company immediately. Avoid touching anything unnecessarily to prevent further damage or injury. Document the damage with photos or videos. Do not attempt to clean up any fire or smoke damage yourself, as this can be hazardous and may impede professional restoration efforts. Secure the property if possible to prevent further loss.",
+        "@type": "Answer",
+        "description": "Immediately after an apartment fire, ensure safety, contact emergency services, your landlord, and insurance. Document damage and do not attempt DIY cleanup."
+      }
+    }
+  ],
+  "description": "Immediately after an apartment fire, ensure safety, contact emergency services, your landlord, and insurance. Document damage and do not attempt DIY cleanup."
+}

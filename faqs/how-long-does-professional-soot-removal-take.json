@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-professional-soot-removal-take",
+  "name": "How long does professional soot removal take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does professional soot removal take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of professional soot removal depends on the severity and scope of the damage. A small area with light soot might only take a few hours to a day. For more extensive soot, such as after a significant puff-back or a fire, the process could take several days to a week or more, especially if it involves contents cleaning, deodorization, and structural repairs. Your restoration professional will provide a more accurate timeline after assessing the specific situation.",
+        "@type": "Answer",
+        "description": "Soot removal time varies from hours for light damage to days or weeks for extensive cases, depending on severity, scope, and additional services like deodorization."
+      }
+    }
+  ],
+  "description": "Soot removal time varies from hours for light damage to days or weeks for extensive cases, depending on severity, scope, and additional services like deodorizat"
+}

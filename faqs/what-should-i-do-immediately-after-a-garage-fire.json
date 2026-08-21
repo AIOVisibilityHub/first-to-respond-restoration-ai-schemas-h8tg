@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-garage-fire",
+  "name": "What should I do immediately after a garage fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a garage fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a garage fire, ensure your property is safe to enter and the fire department has given clearance. Contact your insurance company to report the damage and begin the claims process. It's crucial to avoid touching damaged areas or attempting to clean up yourself, as this can worsen the situation or expose you to hazards. A professional restoration company can assess the extent of the damage, secure your property, and develop a comprehensive cleanup plan.",
+        "@type": "Answer",
+        "description": "Once the fire department clears the scene, contact your insurance and a professional restoration company. Avoid disturbing damaged areas."
+      }
+    }
+  ],
+  "description": "Once the fire department clears the scene, contact your insurance and a professional restoration company. Avoid disturbing damaged areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-of-professional-smoke-smell-removal-services",
+  "name": "What is the cost of professional smoke smell removal services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of professional smoke smell removal services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of smoke smell removal services is not fixed and depends on several factors. These include the extent of the smoke damage, the size of the affected property, the types of materials that absorbed the smoke, and the specific deodorization methods required. A comprehensive assessment by a restoration company is necessary to provide an accurate estimate. Many insurance policies may cover smoke damage restoration; it's advisable to check with your provider.",
+        "@type": "Answer",
+        "description": "The cost of smoke smell removal varies based on damage extent, property size, affected materials, and methods used. An assessment is needed for an estimate."
+      }
+    }
+  ],
+  "description": "The cost of smoke smell removal varies based on damage extent, property size, affected materials, and methods used. An assessment is needed for an estimate."
+}

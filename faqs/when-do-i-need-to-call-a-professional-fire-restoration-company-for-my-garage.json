@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-to-call-a-professional-fire-restoration-company-for-my-garage",
+  "name": "When do I need to call a professional fire restoration company for my garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to call a professional fire restoration company for my garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional fire restoration company as soon as possible after a garage fire, once the immediate danger has passed and the fire department has cleared the scene. Even seemingly minor fires can leave hidden smoke damage or structural concerns that require expert assessment. Early intervention helps prevent secondary damage like mold from water, mitigates odor issues, and can speed up the overall recovery process.",
+        "@type": "Answer",
+        "description": "Contact a professional restoration company immediately after a garage fire, once the fire department clears the scene. Early intervention prevents further damage and speeds recovery."
+      }
+    }
+  ],
+  "description": "Contact a professional restoration company immediately after a garage fire, once the fire department clears the scene. Early intervention prevents further damag"
+}

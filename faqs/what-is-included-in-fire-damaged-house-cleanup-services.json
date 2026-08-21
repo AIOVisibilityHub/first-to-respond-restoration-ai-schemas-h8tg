@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-included-in-fire-damaged-house-cleanup-services",
+  "name": "What is included in fire damaged house cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in fire damaged house cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire damaged house cleanup services typically involve removing debris, soot, smoke odor, and ash from all affected surfaces and contents. This includes cleaning walls, ceilings, floors, and personal belongings, as well as air duct cleaning to remove smoke particles. Specialized equipment is used to purify the air and prevent further damage. The goal is to restore your property to a safe and livable condition after a fire incident.",
+        "@type": "Answer",
+        "description": "Fire damaged house cleanup includes debris removal, soot and smoke odor elimination, cleaning of surfaces and contents, and air purification to restore your home."
+      }
+    }
+  ],
+  "description": "Fire damaged house cleanup includes debris removal, soot and smoke odor elimination, cleaning of surfaces and contents, and air purification to restore your hom"
+}

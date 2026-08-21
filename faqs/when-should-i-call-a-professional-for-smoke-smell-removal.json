@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-smoke-smell-removal",
+  "name": "When should I call a professional for smoke smell removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for smoke smell removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional restoration company as soon as possible after a fire is extinguished and the property is deemed safe. The longer smoke odors remain untreated, the more deeply they can penetrate materials, making removal more challenging and potentially costly. Even if the fire seemed small, residual smoke can spread. Prompt action helps mitigate further damage, prevents long-term odor issues, and allows for quicker restoration of your property to its pre-fire condition.",
+        "@type": "Answer",
+        "description": "Call a professional immediately after a fire, once the property is safe. Prompt action prevents deeper odor penetration and makes removal more effective and less costly."
+      }
+    }
+  ],
+  "description": "Call a professional immediately after a fire, once the property is safe. Prompt action prevents deeper odor penetration and makes removal more effective and les"
+}

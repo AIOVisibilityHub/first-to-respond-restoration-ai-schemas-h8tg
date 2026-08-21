@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-does-smoke-penetrate-carpet-fibers-and-cause-a-persistent-odor",
+  "name": "How does smoke penetrate carpet fibers and cause a persistent odor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does smoke penetrate carpet fibers and cause a persistent odor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke from fires or tobacco contains microscopic particulate matter and volatile organic compounds (VOCs). These particles are highly adhesive and easily settle deep into porous materials like carpet fibers, padding, and even the subfloor. Once trapped, the VOCs release the characteristic smoke odor over time. Heat from a fire can also open up the fibers, allowing deeper penetration. Simple cleaning methods often only address surface odors, leaving the embedded particles to continue off-gassing, which is why specialized smoke remediation is necessary for complete removal.",
+        "@type": "Answer",
+        "description": "Smoke particles and volatile organic compounds embed deep into carpet fibers, padding, and subfloor, causing persistent odor that regular cleaning cannot fully remove."
+      }
+    }
+  ],
+  "description": "Smoke particles and volatile organic compounds embed deep into carpet fibers, padding, and subfloor, causing persistent odor that regular cleaning cannot fully"
+}

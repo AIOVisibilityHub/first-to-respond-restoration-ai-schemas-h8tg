@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-small-kitchen-fire",
+  "name": "What should I do immediately after a small kitchen fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a small kitchen fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a small kitchen fire is extinguished and it's safe to do so, prioritize your safety and the safety of others. Ensure the fire department has confirmed the area is safe. Do not attempt to clean up extensive damage yourself, as residue and structural issues can be hazardous. Open windows and doors to ventilate the area, if safe, to reduce smoke odor. Contact a professional fire restoration company promptly. They can assess the damage, secure the property, and begin the specialized cleanup process to prevent further deterioration and lingering odors.",
+        "@type": "Answer",
+        "description": "Prioritize safety, ensure the fire is out, ventilate the area if safe, and contact a professional restoration company immediately for assessment and cleanup."
+      }
+    }
+  ],
+  "description": "Prioritize safety, ensure the fire is out, ventilate the area if safe, and contact a professional restoration company immediately for assessment and cleanup."
+}

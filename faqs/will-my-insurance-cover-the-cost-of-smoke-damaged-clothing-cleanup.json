@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-the-cost-of-smoke-damaged-clothing-cleanup",
+  "name": "Will my insurance cover the cost of smoke damaged clothing cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover the cost of smoke damaged clothing cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies typically cover damage caused by fire and smoke, which includes the cost of cleaning and restoring smoke-damaged clothing and other personal belongings. However, coverage limits, deductibles, and specific policy terms can vary. It is essential to review your insurance policy or contact your insurance provider directly to understand your specific coverage for smoke damage restoration and to initiate a claim. We can provide documentation for your claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover smoke damage clothing cleanup, but check your specific policy for limits and deductibles. Contact your provider directly."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover smoke damage clothing cleanup, but check your specific policy for limits and deductibles. Contact your provider direct"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-smoke-smell-linger-in-walls-after-a-fire",
+  "name": "Why does smoke smell linger in walls after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does smoke smell linger in walls after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke odor penetrates porous materials like drywall, plaster, and wood studs deep within walls. The microscopic smoke particles, including soot and other combustion byproducts, get absorbed and trapped. These particles continue to release pungent odors over time, even after surface cleaning, because they are deeply embedded and not easily removed by conventional methods. Professional restoration targets these embedded particles to neutralize the smell effectively.",
+        "@type": "Answer",
+        "description": "Smoke odor lingers in walls because microscopic smoke particles penetrate and get trapped in porous building materials, continuously releasing a pungent smell."
+      }
+    }
+  ],
+  "description": "Smoke odor lingers in walls because microscopic smoke particles penetrate and get trapped in porous building materials, continuously releasing a pungent smell."
+}

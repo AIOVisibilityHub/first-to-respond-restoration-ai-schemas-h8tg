@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-apartment-fire-cleanup-cost",
+  "name": "How much does apartment fire cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does apartment fire cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of apartment fire cleanup varies widely based on the scale of the damage, the size of the affected area, and the types of materials that need to be cleaned or replaced. Factors include smoke and soot removal, odor neutralization, water damage remediation (if water was used to extinguish the fire), and structural repairs. Most reputable restoration companies provide a detailed estimate after an initial assessment. Often, homeowner's or renter's insurance policies cover fire damage restoration, so contacting your insurance provider is an important first step.",
+        "@type": "Answer",
+        "description": "Fire cleanup costs vary greatly with damage severity. Most restoration companies provide estimates, and insurance often covers the service."
+      }
+    }
+  ],
+  "description": "Fire cleanup costs vary greatly with damage severity. Most restoration companies provide estimates, and insurance often covers the service."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-smoke-smell-removal-typically-take",
+  "name": "How long does smoke smell removal typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does smoke smell removal typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of smoke smell removal varies greatly depending on the severity of the smoke damage, the size of the affected area, and the types of materials involved. Minor cases might take a few days, while extensive damage in a larger property could require several weeks. This includes the initial assessment, cleaning, deodorization treatments, and final air quality checks. A professional assessment can provide a more accurate timeline for your specific situation.",
+        "@type": "Answer",
+        "description": "Smoke smell removal can take from a few days to several weeks, depending on the damage severity, area size, and materials affected."
+      }
+    }
+  ],
+  "description": "Smoke smell removal can take from a few days to several weeks, depending on the damage severity, area size, and materials affected."
+}

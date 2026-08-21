@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-black-soot-on-my-walls",
+  "name": "When should I call a professional for black soot on my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for black soot on my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for black soot if the discoloration is widespread, deep-seated, or if you suspect it's from a significant event like a furnace puff-back, a small fire, or an electrical issue. Professionals have specialized equipment and cleaning agents to safely and effectively remove soot without causing further damage to surfaces. They can also help identify the source and recommend preventive measures. Attempting to clean extensive soot yourself can often worsen the problem.",
+        "@type": "Answer",
+        "description": "Call a professional for widespread, deep-seated soot, especially after a fire, furnace puff-back, or electrical issue, to ensure safe and effective removal."
+      }
+    }
+  ],
+  "description": "Call a professional for widespread, deep-seated soot, especially after a fire, furnace puff-back, or electrical issue, to ensure safe and effective removal."
+}

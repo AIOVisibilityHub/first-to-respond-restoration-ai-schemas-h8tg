@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-first-step-after-a-fire-damages-my-property",
+  "name": "What is the first step after a fire damages my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step after a fire damages my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The immediate first step after a fire is to ensure everyone's safety and contact emergency services. Once the fire department deems the property safe, contact your insurance company to report the damage and then reach out to a professional fire damage restoration company. They can assess the extent of the damage, secure the property to prevent further issues, and begin the mitigation process. Acting quickly helps minimize secondary damage like corrosion and odor absorption.",
+        "@type": "Answer",
+        "description": "After ensuring safety and contacting emergency services, report the fire to your insurance company and then contact a professional fire damage restoration company."
+      }
+    }
+  ],
+  "description": "After ensuring safety and contacting emergency services, report the fire to your insurance company and then contact a professional fire damage restoration compa"
+}

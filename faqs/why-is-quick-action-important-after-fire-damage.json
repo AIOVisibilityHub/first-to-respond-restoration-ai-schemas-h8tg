@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-quick-action-important-after-fire-damage",
+  "name": "Why is quick action important after fire damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is quick action important after fire damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quick action after fire damage is crucial to mitigate further deterioration and reduce overall repair costs. Smoke and soot residues are acidic and can cause etching and discoloration on surfaces if left untreated. Water used for extinguishing fires can lead to mold growth and further structural damage if not promptly extracted and dried. Responding quickly helps preserve more of your property and contents.",
+        "@type": "Answer",
+        "description": "Prompt action prevents further damage from acidic smoke, soot, and water, reducing repair costs and preserving more of your property."
+      }
+    }
+  ],
+  "description": "Prompt action prevents further damage from acidic smoke, soot, and water, reducing repair costs and preserving more of your property."
+}

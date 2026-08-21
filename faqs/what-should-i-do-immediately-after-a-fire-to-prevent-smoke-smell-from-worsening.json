@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-fire-to-prevent-smoke-smell-from-worsening",
+  "name": "What should I do immediately after a fire to prevent smoke smell from worsening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a fire to prevent smoke smell from worsening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring it is safe to enter, ventilate the property by opening windows and doors. Remove any charred or heavily smoke-damaged items that are salvageable, and dispose of non-salvageable items promptly. Avoid running your HVAC system if it circulated smoke. Contacting a professional restoration company quickly is crucial, as early intervention can significantly reduce the long-term impact of smoke odor.",
+        "@type": "Answer",
+        "description": "Ventilate the property, remove damaged items, avoid running HVAC, and contact a professional restoration company quickly to prevent the smoke smell from worsening."
+      }
+    }
+  ],
+  "description": "Ventilate the property, remove damaged items, avoid running HVAC, and contact a professional restoration company quickly to prevent the smoke smell from worseni"
+}

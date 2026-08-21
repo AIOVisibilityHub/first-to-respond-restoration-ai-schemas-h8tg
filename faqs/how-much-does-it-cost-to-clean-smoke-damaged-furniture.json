@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-clean-smoke-damaged-furniture",
+  "name": "How much does it cost to clean smoke-damaged furniture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to clean smoke-damaged furniture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of cleaning smoke-damaged furniture varies widely based on the extent of the damage, the type of furniture, and the required cleaning methods. Factors like the size of the item, the material (e.g., wood, fabric, leather), and the severity of smoke penetration all influence pricing. An initial inspection is usually necessary to provide an accurate estimate. Many restoration companies, including First To Respond Restoration, offer free assessments to determine the scope of work and associated costs.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, furniture type, and cleaning methods. An inspection is needed for an accurate estimate, often provided for free."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, furniture type, and cleaning methods. An inspection is needed for an accurate estimate, often provided for free."
+}

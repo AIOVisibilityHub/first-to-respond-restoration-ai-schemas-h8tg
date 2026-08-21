@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-smoke-damage-cleanup",
+  "name": "When should I call a professional for smoke damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for smoke damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for smoke damage cleanup as soon as possible after a fire or significant smoke incident. Lingering smoke odors can cause further deterioration of materials and can be difficult to remove if allowed to set in. Early intervention by professionals can minimize secondary damage, improve the chances of successful restoration, and reduce overall costs. They can quickly assess the situation and begin the appropriate restoration process.",
+        "@type": "Answer",
+        "description": "Call a professional for smoke damage cleanup immediately after a smoke incident to minimize further damage, aid restoration, and reduce costs."
+      }
+    }
+  ],
+  "description": "Call a professional for smoke damage cleanup immediately after a smoke incident to minimize further damage, aid restoration, and reduce costs."
+}

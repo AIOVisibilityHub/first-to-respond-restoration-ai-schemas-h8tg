@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-fire-damage-myself",
+  "name": "Can I clean up fire damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up fire damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface soot might seem manageable, fire damage cleanup is complex and often hazardous. Smoke residue is acidic and can cause irreversible damage if not cleaned properly. Soot contains carcinogens, and structural integrity might be compromised. Professional restoration companies have specialized training, protective gear, and industrial-grade equipment to safely and thoroughly remove contaminants, deodorize, and prevent secondary damage like mold. Attempting it yourself can be unsafe and less effective.",
+        "@type": "Answer",
+        "description": "Fire damage cleanup is hazardous and complex; professionals have specialized equipment and training to safely and effectively remove contaminants."
+      }
+    }
+  ],
+  "description": "Fire damage cleanup is hazardous and complex; professionals have specialized equipment and training to safely and effectively remove contaminants."
+}

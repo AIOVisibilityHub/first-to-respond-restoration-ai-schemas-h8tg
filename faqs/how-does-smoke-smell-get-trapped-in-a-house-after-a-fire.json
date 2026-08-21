@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-does-smoke-smell-get-trapped-in-a-house-after-a-fire",
+  "name": "How does smoke smell get trapped in a house after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does smoke smell get trapped in a house after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke from a fire is composed of microscopic particles that can penetrate porous materials like drywall, wood, fabric, and upholstery. These particles settle on surfaces and within ventilation systems, releasing persistent odors over time. Even after the visible soot is cleaned, the embedded smoke particles continue to off-gas, making the smell difficult to eliminate without specialized techniques and equipment. Professional remediation targets these hidden particles for effective odor removal.",
+        "@type": "Answer",
+        "description": "Smoke particles penetrate porous materials and ventilation systems, causing persistent odors even after visible soot is cleaned."
+      }
+    }
+  ],
+  "description": "Smoke particles penetrate porous materials and ventilation systems, causing persistent odors even after visible soot is cleaned."
+}

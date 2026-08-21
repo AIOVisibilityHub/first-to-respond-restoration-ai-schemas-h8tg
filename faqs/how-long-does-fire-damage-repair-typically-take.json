@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-fire-damage-repair-typically-take",
+  "name": "How long does fire damage repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does fire damage repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of fire damage repair varies significantly based on the extent of the damage. Minor smoke damage might take a few days to a week for cleaning and deodorization. Extensive structural damage, water damage from firefighting efforts, and widespread smoke and soot can extend the process to several weeks or even months. A professional restoration company will provide a more accurate timeline after a thorough assessment of your property.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity. Minor smoke damage may take days, while extensive structural issues could take weeks or months."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity. Minor smoke damage may take days, while extensive structural issues could take weeks or months."
+}

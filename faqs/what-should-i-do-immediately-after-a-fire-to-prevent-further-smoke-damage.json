@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-fire-to-prevent-further-smoke-damage",
+  "name": "What should I do immediately after a fire to prevent further smoke damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a fire to prevent further smoke damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring your safety and that the fire department has cleared the scene, you should contact a professional restoration company promptly. Avoid touching surfaces, as oils from your hands can embed soot. Do not attempt to clean fabrics or porous materials yourself. Open windows if possible to air out the property, but avoid using ceiling fans or central HVAC systems as they can spread soot. Remove valuables, but only if it's safe to do so.",
+        "@type": "Answer",
+        "description": "After a fire, ensure safety, call professionals, avoid touching surfaces or self-cleaning, open windows if safe, and do not use HVAC or fans."
+      }
+    }
+  ],
+  "description": "After a fire, ensure safety, call professionals, avoid touching surfaces or self-cleaning, open windows if safe, and do not use HVAC or fans."
+}

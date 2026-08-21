@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-black-soot-on-ceilings",
+  "name": "What causes black soot on ceilings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes black soot on ceilings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black soot on ceilings is commonly caused by incomplete combustion from various sources. This can include burning candles, fireplaces, gas appliances like stoves or water heaters, and even tobacco smoke. If a furnace or HVAC system is malfunctioning, it can also distribute soot throughout your home. In some cases, electrical issues can lead to soot marks near outlets or fixtures. Identifying the source is crucial for effective remediation and preventing recurrence.",
+        "@type": "Answer",
+        "description": "Black soot on ceilings is often caused by incomplete combustion from sources like candles, fireplaces, gas appliances, or a malfunctioning furnace. Tobacco smoke and electrical issues can also contribute."
+      }
+    }
+  ],
+  "description": "Black soot on ceilings is often caused by incomplete combustion from sources like candles, fireplaces, gas appliances, or a malfunctioning furnace. Tobacco smok"
+}

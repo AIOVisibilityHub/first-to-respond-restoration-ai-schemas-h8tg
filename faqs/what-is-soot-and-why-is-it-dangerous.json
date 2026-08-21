@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-soot-and-why-is-it-dangerous",
+  "name": "What is soot, and why is it dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is soot, and why is it dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soot is a byproduct of incomplete combustion, consisting of tiny carbon particles, acids, chemicals, and metals. It's dangerous because these microscopic particles can be easily inhaled, leading to respiratory problems, allergies, and other health issues. Soot is also corrosive and can cause permanent staining and etching on surfaces if not cleaned properly and promptly. It can contaminate air ducts and spread throughout the property, making professional removal essential to protect both health and property.",
+        "@type": "Answer",
+        "description": "Soot consists of tiny carbon particles and chemicals from combustion. It's dangerous due to inhalation risks and its corrosive nature, requiring professional removal."
+      }
+    }
+  ],
+  "description": "Soot consists of tiny carbon particles and chemicals from combustion. It's dangerous due to inhalation risks and its corrosive nature, requiring professional re"
+}

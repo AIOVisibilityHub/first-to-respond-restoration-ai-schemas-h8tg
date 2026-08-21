@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-fire-extinguisher-powder-cleanup-services-in-encino-or-studio-city",
+  "name": "Do you offer fire extinguisher powder cleanup services in Encino or Studio City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer fire extinguisher powder cleanup services in Encino or Studio City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides comprehensive fire extinguisher powder cleanup services in Encino, Studio City, and surrounding areas such as North Hollywood, San Fernando, and Tarzana. Our trained technicians are equipped to handle all aspects of powder residue removal, ensuring your property is thoroughly decontaminated and restored to its pre-incident condition. Contact us for prompt and effective service in your local area.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers fire extinguisher powder cleanup in Encino, Studio City, and nearby service areas like North Hollywood and San Fernando."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers fire extinguisher powder cleanup in Encino, Studio City, and nearby service areas like North Hollywood and San Fernando"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-smoke-damage-restoration",
+  "name": "Will my homeowner's insurance cover smoke damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover smoke damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover smoke damage caused by sudden and accidental fires, including those originating inside or outside your home. Coverage typically includes cleanup, odor removal, and repair or replacement of damaged structures and contents. However, it's essential to review your specific policy details and contact your insurance provider promptly to understand your coverage limits and claim procedures.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover smoke damage from sudden fires, including cleanup, odor removal, and repairs. Check your policy for specifics."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover smoke damage from sudden fires, including cleanup, odor removal, and repairs. Check your policy for specifics."
+}

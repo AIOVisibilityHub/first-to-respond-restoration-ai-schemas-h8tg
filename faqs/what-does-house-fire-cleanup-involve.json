@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-house-fire-cleanup-involve",
+  "name": "What does house fire cleanup involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does house fire cleanup involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "House fire cleanup is a multi-step process that addresses all damage caused by fire, smoke, and water. It typically includes emergency board-up and roof tarping to secure the property, water extraction and drying if firefighters used water, removal of damaged materials, and extensive smoke and soot removal from all surfaces. Specialized cleaning techniques are used for contents, followed by deodorization to eliminate persistent smoke odors. The goal is to restore the property to a safe and habitable condition.",
+        "@type": "Answer",
+        "description": "House fire cleanup involves securing the property, removing damaged materials, cleaning smoke and soot, and deodorizing the affected areas to restore the home."
+      }
+    }
+  ],
+  "description": "House fire cleanup involves securing the property, removing damaged materials, cleaning smoke and soot, and deodorizing the affected areas to restore the home."
+}

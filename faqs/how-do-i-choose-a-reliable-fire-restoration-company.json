@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reliable-fire-restoration-company",
+  "name": "How do I choose a reliable fire restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable fire restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a fire restoration company, look for one that is certified by organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification). Ensure they have experience with fire damage, are available 24/7 for emergencies, and are licensed and insured. Check reviews, ask for references, and ensure they can provide a detailed scope of work and handle insurance claims assistance.",
+        "@type": "Answer",
+        "description": "Choose a certified, experienced, 24/7 available, licensed, and insured company. Check reviews and references, and ensure they assist with insurance claims."
+      }
+    }
+  ],
+  "description": "Choose a certified, experienced, 24/7 available, licensed, and insured company. Check reviews and references, and ensure they assist with insurance claims."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-smoke-odor-removal",
+  "name": "Will my homeowner's insurance cover smoke odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover smoke odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover smoke damage and the associated odor removal if the fire was caused by a covered peril. However, coverage specifics can vary based on your policy and the cause of the fire. It's important to review your policy documents or contact your insurance provider directly to understand your coverage limits and deductible. Our team can also assist in documenting the damage and communicating with your insurer.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance typically covers smoke odor removal if the fire is from a covered peril, but check your policy or contact your provider for specifics."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance typically covers smoke odor removal if the fire is from a covered peril, but check your policy or contact your provider for specifics."
+}

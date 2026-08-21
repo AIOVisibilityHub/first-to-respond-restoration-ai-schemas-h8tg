@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-my-insurance-cover-smoke-damaged-furniture-cleanup",
+  "name": "Does my insurance cover smoke-damaged furniture cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my insurance cover smoke-damaged furniture cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies cover damage caused by fire and smoke, including the cleanup and restoration of smoke-damaged furniture. The specific coverage can vary depending on your policy terms, deductible, and the cause of the smoke damage. It's advisable to review your policy or contact your insurance provider directly to understand your coverage. First To Respond Restoration can assist with documentation and direct billing to insurance companies, simplifying the claims process.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover smoke damage cleanup. Check your policy or contact your provider. We can assist with insurance claims."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover smoke damage cleanup. Check your policy or contact your provider. We can assist with insurance claims."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-all-clothing-damaged-by-smoke-be-cleaned-and-restored",
+  "name": "Can all clothing damaged by smoke be cleaned and restored?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all clothing damaged by smoke be cleaned and restored?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all smoke-damaged clothing can be fully restored. The success of cleaning depends on factors like the type of smoke (e.g., grease fire, wood fire), the fabric type, the intensity of the damage, and how quickly the items are treated. While many common fabrics and light to moderate smoke damage can be effectively cleaned, heavily charred or melted synthetic materials are often irreparable. Our technicians assess each item to determine the best approach for restoration.",
+        "@type": "Answer",
+        "description": "Not all smoke-damaged clothing is restorable; success depends on smoke type, fabric, damage intensity, and treatment speed. Heavily charred items are often irreparable."
+      }
+    }
+  ],
+  "description": "Not all smoke-damaged clothing is restorable; success depends on smoke type, fabric, damage intensity, and treatment speed. Heavily charred items are often irre"
+}

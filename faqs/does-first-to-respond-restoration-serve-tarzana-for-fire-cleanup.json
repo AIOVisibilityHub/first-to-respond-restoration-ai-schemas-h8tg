@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-first-to-respond-restoration-serve-tarzana-for-fire-cleanup",
+  "name": "Does First To Respond Restoration serve Tarzana for fire cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does First To Respond Restoration serve Tarzana for fire cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration proudly serves Tarzana, along with other surrounding areas such as Encino, North Hollywood, and Studio City, for all house fire cleanup and restoration needs. Our team is available 24/7 for emergency services to help residents and businesses in these communities recover quickly from fire, smoke, and water damage. We are equipped to handle fire damage projects of any size, from initial board-up to complete reconstruction.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration serves Tarzana for all house fire cleanup and restoration needs, including emergency services."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration serves Tarzana for all house fire cleanup and restoration needs, including emergency services."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-garage-fire-cleanup-typically-take",
+  "name": "How long does garage fire cleanup typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does garage fire cleanup typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of garage fire cleanup varies significantly based on the severity of the fire damage, the size of the garage, and the contents affected. Minor smoke damage might be addressed in a few days, while extensive structural damage and pervasive smoke odor can require several weeks. A restoration company will provide a more accurate timeline after a thorough assessment. Factors like drying out water used to extinguish the fire also impact the schedule.",
+        "@type": "Answer",
+        "description": "Cleanup time depends on fire severity and garage size. Minor damage takes days; extensive damage can take weeks. A professional assessment provides an accurate timeline."
+      }
+    }
+  ],
+  "description": "Cleanup time depends on fire severity and garage size. Minor damage takes days; extensive damage can take weeks. A professional assessment provides an accurate"
+}

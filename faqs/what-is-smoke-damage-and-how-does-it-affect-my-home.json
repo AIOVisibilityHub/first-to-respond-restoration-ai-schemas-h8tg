@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-smoke-damage-and-how-does-it-affect-my-home",
+  "name": "What is smoke damage and how does it affect my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is smoke damage and how does it affect my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke damage extends beyond visible soot. It includes corrosive residues, unpleasant odors that permeate porous materials like drywall and upholstery, and potential discoloration of surfaces. The acidic nature of smoke can cause etching on glass and metal, leading to permanent damage if not addressed promptly. Lingering smoke odor can also affect indoor air quality, making your home uncomfortable and potentially unhealthy.",
+        "@type": "Answer",
+        "description": "Smoke damage involves corrosive residues, pervasive odors, and potential discoloration or etching of surfaces, affecting indoor air quality and comfort."
+      }
+    }
+  ],
+  "description": "Smoke damage involves corrosive residues, pervasive odors, and potential discoloration or etching of surfaces, affecting indoor air quality and comfort."
+}

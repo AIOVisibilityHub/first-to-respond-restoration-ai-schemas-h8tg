@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-fire-extinguisher-powder-harmful-to-breath-or-touch",
+  "name": "Is fire extinguisher powder harmful to breath or touch?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is fire extinguisher powder harmful to breath or touch?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While generally considered non-toxic, inhaling fire extinguisher powder can cause respiratory irritation, coughing, and shortness of breath, especially for individuals with asthma or other lung conditions. Direct skin contact may cause mild irritation. It's best to avoid prolonged exposure and wear appropriate personal protective equipment during cleanup. Professional restoration services ensure safe and thorough removal, minimizing health risks.",
+        "@type": "Answer",
+        "description": "Inhaling fire extinguisher powder can cause respiratory irritation, and skin contact may cause mild irritation. It's best to avoid prolonged exposure."
+      }
+    }
+  ],
+  "description": "Inhaling fire extinguisher powder can cause respiratory irritation, and skin contact may cause mild irritation. It's best to avoid prolonged exposure."
+}

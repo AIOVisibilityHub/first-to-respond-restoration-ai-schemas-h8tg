@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-smoke-damage-restoration",
+  "name": "What areas do you serve for smoke damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for smoke damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides smoke damage restoration services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. We are equipped to respond to emergencies in these communities, offering timely and effective solutions to mitigate smoke and fire damage in residential and commercial properties. Our team is available to assist you with comprehensive restoration needs.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for smoke damage restoration, providing timely emergency response."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for smoke damage restoration, providing timely emergency response."
+}

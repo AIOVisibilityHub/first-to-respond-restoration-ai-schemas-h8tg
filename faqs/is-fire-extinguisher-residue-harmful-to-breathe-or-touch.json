@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-fire-extinguisher-residue-harmful-to-breathe-or-touch",
+  "name": "Is fire extinguisher residue harmful to breathe or touch?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is fire extinguisher residue harmful to breathe or touch?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, fire extinguisher residue can be harmful if inhaled or if there is prolonged skin contact. Dry chemical powders can cause respiratory irritation, coughing, and shortness of breath, especially for individuals with asthma or other respiratory conditions. Direct skin contact can lead to irritation or chemical burns in some cases. It's crucial to wear appropriate personal protective equipment, such as respirators, gloves, and eye protection, when in an affected area or attempting any cleanup. Professional services prioritize safety by using proper gear and ventilation techniques.",
+        "@type": "Answer",
+        "description": "Yes, residue can cause respiratory irritation if inhaled and skin irritation upon contact. Proper personal protective equipment should always be used in affected areas."
+      }
+    }
+  ],
+  "description": "Yes, residue can cause respiratory irritation if inhaled and skin irritation upon contact. Proper personal protective equipment should always be used in affecte"
+}

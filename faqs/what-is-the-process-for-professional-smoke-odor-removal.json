@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-smoke-odor-removal",
+  "name": "What is the process for professional smoke odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional smoke odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional smoke odor removal typically begins with a detailed assessment of the damage. This is followed by content cleaning and removal of heavily contaminated porous materials that cannot be restored. Technicians then perform air scrubbing using HEPA filters and activated carbon to remove airborne particles. Specialized treatments like thermal fogging, ozone generation, or hydroxyl generators are applied to neutralize embedded odors. Finally, sealing surfaces may be necessary to encapsulate any remaining microscopic residues, ensuring the odor is permanently eliminated.",
+        "@type": "Answer",
+        "description": "The process involves assessment, removal of damaged items, air scrubbing, specialized odor neutralization treatments (like thermal fogging or ozone), and sometimes sealing surfaces."
+      }
+    }
+  ],
+  "description": "The process involves assessment, removal of damaged items, air scrubbing, specialized odor neutralization treatments (like thermal fogging or ozone), and someti"
+}

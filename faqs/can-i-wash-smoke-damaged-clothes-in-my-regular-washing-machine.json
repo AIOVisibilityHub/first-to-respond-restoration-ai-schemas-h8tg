@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-wash-smoke-damaged-clothes-in-my-regular-washing-machine",
+  "name": "Can I wash smoke-damaged clothes in my regular washing machine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I wash smoke-damaged clothes in my regular washing machine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Washing smoke-damaged clothes in a home washing machine is generally not recommended, especially for items with significant soot or strong odors. Household washers may not effectively remove all smoke particles and odors, and the heat from drying can set the smoke smell permanently into the fabric. Additionally, mixing heavily soiled items with other laundry can transfer odors and contaminants. Professional services use specialized equipment and solutions designed to safely and effectively neutralize smoke damage.",
+        "@type": "Answer",
+        "description": "It's generally not recommended to machine wash smoke-damaged clothes at home as it may not remove odors effectively and can set the smell. Professionals use specialized methods."
+      }
+    }
+  ],
+  "description": "It's generally not recommended to machine wash smoke-damaged clothes at home as it may not remove odors effectively and can set the smell. Professionals use spe"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-clean-up-fire-extinguisher-powder",
+  "name": "How long does it take to clean up fire extinguisher powder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clean up fire extinguisher powder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of fire extinguisher powder cleanup varies significantly based on the scale of the discharge and the complexity of the affected environment. A small, contained area might take a few hours, while a larger space with extensive contamination, especially involving intricate systems like HVAC or sensitive electronics, could require several days. After an initial assessment, our team can provide a more precise timeline for your specific situation.",
+        "@type": "Answer",
+        "description": "Cleanup time varies; a small area might take hours, while extensive contamination or complex systems could require several days. An assessment will provide a precise timeline."
+      }
+    }
+  ],
+  "description": "Cleanup time varies; a small area might take hours, while extensive contamination or complex systems could require several days. An assessment will provide a pr"
+}

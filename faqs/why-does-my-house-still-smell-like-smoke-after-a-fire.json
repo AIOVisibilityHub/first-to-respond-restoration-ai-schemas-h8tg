@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-my-house-still-smell-like-smoke-after-a-fire",
+  "name": "Why does my house still smell like smoke after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my house still smell like smoke after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke residue from a fire can permeate porous materials like drywall, wood, fabric, and insulation, making the smell linger even after visible damage is removed. Soot particles are microscopic and can settle deep into surfaces, requiring specialized cleaning techniques and equipment to eliminate the odor. Simply airing out the house or using air fresheners is usually not enough to address the embedded smoke odor.",
+        "@type": "Answer",
+        "description": "Smoke residue penetrates porous materials and microscopic soot particles embed in surfaces, requiring professional cleaning to eliminate the lingering odor."
+      }
+    }
+  ],
+  "description": "Smoke residue penetrates porous materials and microscopic soot particles embed in surfaces, requiring professional cleaning to eliminate the lingering odor."
+}

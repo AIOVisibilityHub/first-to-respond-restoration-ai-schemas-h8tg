@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-included-in-a-professional-garage-fire-cleanup-service",
+  "name": "What is included in a professional garage fire cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a professional garage fire cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional garage fire cleanup services typically include initial damage assessment, water extraction (if applicable), debris removal, soot and smoke residue cleaning from all surfaces, deodorization to eliminate smoke odors, and structural repairs. They also handle content cleaning, restoring salvageable items, and safely disposing of unsalvageable ones. This comprehensive approach ensures the garage is restored to a safe and habitable condition.",
+        "@type": "Answer",
+        "description": "Services include damage assessment, debris removal, soot and smoke cleaning, odor removal, and repairs. Content cleaning and disposal are also typically covered."
+      }
+    }
+  ],
+  "description": "Services include damage assessment, debris removal, soot and smoke cleaning, odor removal, and repairs. Content cleaning and disposal are also typically covered"
+}

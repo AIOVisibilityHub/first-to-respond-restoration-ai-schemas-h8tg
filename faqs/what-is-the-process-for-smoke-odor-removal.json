@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-smoke-odor-removal",
+  "name": "What is the process for smoke odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for smoke odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The smoke odor removal process typically begins with a thorough inspection and assessment of the damage. Technicians then remove all heavily damaged items and debris. This is followed by deep cleaning of all surfaces, including walls, ceilings, floors, and contents, to remove soot and smoke residues. Specialized equipment like air scrubbers with HEPA and activated carbon filters, ozone generators, or thermal foggers are used to neutralize airborne and embedded odors. Finally, deodorizers are applied, and HVAC systems are cleaned to ensure all traces of smoke odor are eliminated from the property.",
+        "@type": "Answer",
+        "description": "The process involves inspection, debris removal, deep cleaning of all surfaces and contents, and using specialized equipment like air scrubbers or ozone generators to neutralize odors. HVAC cleaning follows."
+      }
+    }
+  ],
+  "description": "The process involves inspection, debris removal, deep cleaning of all surfaces and contents, and using specialized equipment like air scrubbers or ozone generat"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-smoke-damage-myself",
+  "name": "Can I clean smoke damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean smoke damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface soot might seem manageable, professional cleaning is strongly recommended for smoke damage. Smoke residue is often acidic and can cause corrosion and permanent discoloration if not cleaned properly and promptly. Professional restoration companies use specialized equipment, cleaning agents, and techniques to safely remove soot, neutralize odors, and prevent secondary damage, ensuring a more thorough and lasting restoration.",
+        "@type": "Answer",
+        "description": "Professional cleaning is recommended for smoke damage due to its acidic nature and the specialized methods required to prevent permanent damage and odors."
+      }
+    }
+  ],
+  "description": "Professional cleaning is recommended for smoke damage due to its acidic nature and the specialized methods required to prevent permanent damage and odors."
+}

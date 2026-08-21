@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-smoke-damage-after-a-fire",
+  "name": "How quickly do I need to address smoke damage after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address smoke damage after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing smoke damage promptly is crucial. Within minutes, porous materials can begin to stain permanently. Within hours, acidic smoke residues can discolor plastics and cause etching on metal. After a few days, walls may yellow, and odors can embed deeply, making restoration more challenging and costly. Immediate action helps mitigate long-term damage and improves the chances of successful restoration.",
+        "@type": "Answer",
+        "description": "Immediate action is crucial. Smoke residues can cause permanent staining, discoloration, and etching within minutes to days, increasing restoration difficulty."
+      }
+    }
+  ],
+  "description": "Immediate action is crucial. Smoke residues can cause permanent staining, discoloration, and etching within minutes to days, increasing restoration difficulty."
+}

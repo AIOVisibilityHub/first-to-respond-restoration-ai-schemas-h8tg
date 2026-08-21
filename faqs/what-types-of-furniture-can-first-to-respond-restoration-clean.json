@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-furniture-can-first-to-respond-restoration-clean",
+  "name": "What types of furniture can First To Respond Restoration clean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of furniture can First To Respond Restoration clean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration is equipped to clean a wide range of smoke-damaged furniture. This includes upholstered items like sofas, chairs, and mattresses, as well as wooden furniture such as tables, dressers, and cabinets. We also handle leather pieces, antiques, and other household furnishings. Our team assesses each item to determine the most appropriate cleaning and deodorization methods tailored to its material and construction, ensuring comprehensive care.",
+        "@type": "Answer",
+        "description": "First To Respond Restoration cleans various smoke-damaged furniture, including upholstered, wood, leather, and antique items. Each item is assessed for tailored cleaning."
+      }
+    }
+  ],
+  "description": "First To Respond Restoration cleans various smoke-damaged furniture, including upholstered, wood, leather, and antique items. Each item is assessed for tailored"
+}

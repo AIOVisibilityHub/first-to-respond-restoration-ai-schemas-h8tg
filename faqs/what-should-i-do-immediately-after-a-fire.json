@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-fire",
+  "name": "What should I do immediately after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a fire, prioritize safety. Ensure everyone is safe and accounted for. Do not re-enter the property until fire officials declare it safe. Contact your insurance company immediately to report the damage. Avoid touching or disturbing damaged areas or contents, as this can worsen damage or pose health risks. Secure your property with emergency board-up if possible to prevent theft or further damage from elements. Then, contact a professional fire damage restoration company to assess the damage and begin the cleanup process.",
+        "@type": "Answer",
+        "description": "First, ensure safety and await official clearance to re-enter. Contact your insurance, avoid disturbing damaged areas, secure the property, and then call a professional restoration company."
+      }
+    }
+  ],
+  "description": "First, ensure safety and await official clearance to re-enter. Contact your insurance, avoid disturbing damaged areas, secure the property, and then call a prof"
+}

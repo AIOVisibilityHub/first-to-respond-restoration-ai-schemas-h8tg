@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-furniture-be-saved-if-it-has-heavy-smoke-damage",
+  "name": "Can furniture be saved if it has heavy smoke damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can furniture be saved if it has heavy smoke damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even furniture with heavy smoke damage can often be saved, depending on the material, the type of smoke, and the duration of exposure. While severe charring or structural compromise might render an item unsalvageable, many pieces with significant smoke odor and soot residue can undergo successful restoration. Our professionals use advanced techniques to remove deep-set odors and clean heavy soot. We conduct a thorough assessment to determine the feasibility of restoration and provide an honest appraisal of whether a piece can be returned to a safe and usable condition. We strive to salvage as much as possible for our clients.",
+        "@type": "Answer",
+        "description": "Many heavily smoke-damaged furniture pieces can be saved with professional restoration, depending on the material and smoke type. We assess each item for salvageability."
+      }
+    }
+  ],
+  "description": "Many heavily smoke-damaged furniture pieces can be saved with professional restoration, depending on the material and smoke type. We assess each item for salvag"
+}

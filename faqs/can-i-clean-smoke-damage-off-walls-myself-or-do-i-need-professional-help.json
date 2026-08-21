@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-smoke-damage-off-walls-myself-or-do-i-need-professional-help",
+  "name": "Can I clean smoke damage off walls myself, or do I need professional help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean smoke damage off walls myself, or do I need professional help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor smoke residues from small incidents like a burnt meal might be cleaned with household products, extensive smoke damage from a fire requires professional intervention. Smoke from fires contains corrosive compounds that can permanently stain surfaces and cause lingering odors if not properly treated. Professionals have specialized equipment, cleaning agents, and techniques to safely remove soot, neutralize odors, and prevent further deterioration of materials. Attempting to clean severe smoke damage yourself can sometimes spread the soot, making the problem worse.",
+        "@type": "Answer",
+        "description": "Minor smoke damage can be self-cleaned, but extensive damage from a fire requires professional restoration to effectively remove soot and odors."
+      }
+    }
+  ],
+  "description": "Minor smoke damage can be self-cleaned, but extensive damage from a fire requires professional restoration to effectively remove soot and odors."
+}

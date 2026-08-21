@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-for-emergency-fire-restoration-services",
+  "name": "When should I call for emergency fire restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call for emergency fire restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call for emergency fire restoration services as soon as the fire department declares your property safe to enter. Timely intervention is crucial to prevent further damage from smoke, soot, and water. Delaying restoration can lead to more extensive damage, including mold growth from water and corrosion from acidic soot, which increases repair costs and recovery time.",
+        "@type": "Answer",
+        "description": "Call for emergency fire restoration as soon as the fire department clears your property to prevent further damage from smoke, soot, and water."
+      }
+    }
+  ],
+  "description": "Call for emergency fire restoration as soon as the fire department clears your property to prevent further damage from smoke, soot, and water."
+}

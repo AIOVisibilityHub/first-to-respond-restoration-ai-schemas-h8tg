@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-smoke-smell-from-walls",
+  "name": "How long does it take to remove smoke smell from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove smoke smell from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of smoke odor removal depends on the severity of the smoke damage, the size of the affected area, and the type of materials involved. Mild cases might take a few days, including cleaning and air treatment. More severe damage, especially when materials need to be removed and replaced, can extend the process to several weeks. A professional assessment provides a more accurate timeline based on your specific situation. Our team works efficiently to restore your property.",
+        "@type": "Answer",
+        "description": "The duration varies from a few days for mild cases to several weeks for severe damage, depending on the extent and materials involved."
+      }
+    }
+  ],
+  "description": "The duration varies from a few days for mild cases to several weeks for severe damage, depending on the extent and materials involved."
+}

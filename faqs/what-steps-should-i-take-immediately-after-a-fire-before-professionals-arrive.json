@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-i-take-immediately-after-a-fire-before-professionals-arrive",
+  "name": "What steps should I take immediately after a fire before professionals arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take immediately after a fire before professionals arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring your safety and the property has been declared safe by the fire department, contact a professional restoration company immediately. Avoid touching surfaces, as oils from your hands can further embed soot. Limit movement to prevent spreading soot. Do not attempt to clean walls or furniture yourself. If power is off, avoid opening the refrigerator or freezer. Document the damage with photos or videos for insurance purposes. Your primary goal should be to prevent further contamination and prepare for professional intervention.",
+        "@type": "Answer",
+        "description": "Immediately after a fire, ensure safety, contact professionals, and avoid touching or cleaning soot. Document damage and limit movement to prevent spreading. Do not open appliances if power is off."
+      }
+    }
+  ],
+  "description": "Immediately after a fire, ensure safety, contact professionals, and avoid touching or cleaning soot. Document damage and limit movement to prevent spreading. Do"
+}

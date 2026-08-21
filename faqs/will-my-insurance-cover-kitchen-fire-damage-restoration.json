@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-kitchen-fire-damage-restoration",
+  "name": "Will my insurance cover kitchen fire damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover kitchen fire damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover damage caused by sudden and accidental fires, including kitchen fires. This typically includes the cost of cleaning soot and smoke, repairing damaged structures, and replacing affected contents. However, coverage can vary based on your specific policy, deductible, and the cause of the fire. It's crucial to review your policy documents and contact your insurance provider as soon as possible after the incident to understand your coverage and initiate a claim. A reputable restoration company can often assist with the insurance claims process.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers kitchen fire damage, including cleanup and repairs. Review your policy and contact your insurer promptly to confirm coverage and begin the claims process."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers kitchen fire damage, including cleanup and repairs. Review your policy and contact your insurer promptly to confirm coverage a"
+}

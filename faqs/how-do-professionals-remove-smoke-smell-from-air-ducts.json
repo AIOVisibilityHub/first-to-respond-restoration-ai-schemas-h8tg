@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-remove-smoke-smell-from-air-ducts",
+  "name": "How do professionals remove smoke smell from air ducts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals remove smoke smell from air ducts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use specialized equipment and techniques to remove smoke smell from air ducts. This typically involves a multi-step process, starting with a powerful vacuum system to remove loose soot and debris. Then, a rotating brush or air whip is used to dislodge stubborn smoke residues from duct walls. Finally, deodorizing and sealing agents specifically designed for smoke odor are applied to neutralize any remaining odors and prevent future off-gassing. The entire HVAC system, including the furnace and coils, is also thoroughly cleaned.",
+        "@type": "Answer",
+        "description": "Professionals use powerful vacuums, rotating brushes, and specialized deodorizing agents to clean smoke residues from air ducts and the HVAC system."
+      }
+    }
+  ],
+  "description": "Professionals use powerful vacuums, rotating brushes, and specialized deodorizing agents to clean smoke residues from air ducts and the HVAC system."
+}

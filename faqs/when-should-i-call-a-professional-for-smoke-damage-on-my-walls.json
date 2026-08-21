@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-smoke-damage-on-my-walls",
+  "name": "When should I call a professional for smoke damage on my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for smoke damage on my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for smoke damage on your walls immediately after a fire, even a small one, if you notice widespread soot, a persistent smoky odor, or if the smoke originated from burning plastics, chemicals, or electrical components. These types of smoke contain toxic residues that require specialized handling. Prompt professional intervention helps prevent corrosive soot from causing further damage to surfaces and significantly improves the chances of complete odor removal. Delaying treatment can lead to permanent staining and embedded odors that are much harder to resolve.",
+        "@type": "Answer",
+        "description": "Call a professional immediately after any fire if you see widespread soot, detect a persistent smoky odor, or if toxic materials were burned."
+      }
+    }
+  ],
+  "description": "Call a professional immediately after any fire if you see widespread soot, detect a persistent smoky odor, or if toxic materials were burned."
+}

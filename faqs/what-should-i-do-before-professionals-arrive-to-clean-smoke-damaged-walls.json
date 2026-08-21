@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-before-professionals-arrive-to-clean-smoke-damaged-walls",
+  "name": "What should I do before professionals arrive to clean smoke-damaged walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before professionals arrive to clean smoke-damaged walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before professionals arrive to clean smoke-damaged walls, ensure the area is safe to enter and the fire source is completely extinguished. If possible, turn off your HVAC system to prevent smoke particles from circulating further throughout the property. Avoid touching affected walls or surfaces, as this can embed soot deeper and spread the damage. Refrain from attempting to clean walls yourself, as improper methods can worsen the problem. Ventilate the area by opening windows and doors if safe to do so. Document the damage with photos or videos for insurance purposes.",
+        "@type": "Answer",
+        "description": "Before professionals arrive, ensure safety, turn off HVAC, avoid touching affected walls, refrain from self-cleaning, ventilate the area, and document damage for insurance."
+      }
+    }
+  ],
+  "description": "Before professionals arrive, ensure safety, turn off HVAC, avoid touching affected walls, refrain from self-cleaning, ventilate the area, and document damage fo"
+}

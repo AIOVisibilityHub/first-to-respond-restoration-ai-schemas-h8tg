@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-for-soot-removal",
+  "name": "When should I call a professional restoration company for soot removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company for soot removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company for soot removal as soon as the fire department has deemed your property safe to enter. Early intervention is critical to prevent permanent damage and mitigate strong odors. If you notice any soot on walls, ceilings, or contents after a fire, even a small one, it's best to consult experts. They can assess the full extent of the damage, which might not be immediately visible, and develop a comprehensive plan for effective cleanup and restoration.",
+        "@type": "Answer",
+        "description": "Call a professional restoration company for soot removal immediately after your property is declared safe, as early intervention prevents permanent damage and odor issues."
+      }
+    }
+  ],
+  "description": "Call a professional restoration company for soot removal immediately after your property is declared safe, as early intervention prevents permanent damage and o"
+}

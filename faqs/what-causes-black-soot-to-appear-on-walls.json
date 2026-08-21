@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-black-soot-to-appear-on-walls",
+  "name": "What causes black soot to appear on walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes black soot to appear on walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black soot on walls can be caused by various factors, most commonly incomplete combustion from candles, fireplaces, furnaces, or gas appliances. Poor ventilation can trap these particles, allowing them to settle. Other sources include smoking indoors, kitchen grease, and even certain types of air filters. Identifying the source is crucial for effective cleaning and prevention. If the soot appears suddenly or extensively, it could indicate an underlying issue that needs professional attention.",
+        "@type": "Answer",
+        "description": "Black soot on walls is typically caused by incomplete combustion from candles, fireplaces, or appliances, along with poor ventilation or smoking indoors."
+      }
+    }
+  ],
+  "description": "Black soot on walls is typically caused by incomplete combustion from candles, fireplaces, or appliances, along with poor ventilation or smoking indoors."
+}

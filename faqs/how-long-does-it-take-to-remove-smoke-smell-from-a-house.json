@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-smoke-smell-from-a-house",
+  "name": "How long does it take to remove smoke smell from a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove smoke smell from a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of smoke odor removal varies depending on the severity of the fire, the size of the affected area, and the types of materials involved. Minor fires might take a few days, while extensive damage can require weeks. Factors like charring, the type of smoke (e.g., protein, synthetic), and accessibility of affected areas all play a role. A professional assessment will provide a more accurate timeline, as it accounts for the unique challenges of your property.",
+        "@type": "Answer",
+        "description": "Removal time varies based on fire severity, affected area size, and material types, ranging from days to weeks. A professional assessment offers a precise estimate."
+      }
+    }
+  ],
+  "description": "Removal time varies based on fire severity, affected area size, and material types, ranging from days to weeks. A professional assessment offers a precise estim"
+}

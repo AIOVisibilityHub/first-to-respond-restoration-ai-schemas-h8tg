@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-soot-damage-to-walls-affect-the-air-quality-in-my-home",
+  "name": "Will soot damage to walls affect the air quality in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will soot damage to walls affect the air quality in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, soot damage to walls can significantly impact the air quality in your home. Soot particles are extremely fine and can become airborne, leading to respiratory issues, eye irritation, and other health concerns for occupants. The lingering odor associated with soot is also a sign of these microscopic particles being present in the air. Professional restoration includes air purification techniques, such as HEPA filtration and ozone treatments, to remove these harmful particles and restore healthy indoor air quality.",
+        "@type": "Answer",
+        "description": "Soot on walls releases fine airborne particles that degrade air quality, posing health risks and causing persistent odors."
+      }
+    }
+  ],
+  "description": "Soot on walls releases fine airborne particles that degrade air quality, posing health risks and causing persistent odors."
+}

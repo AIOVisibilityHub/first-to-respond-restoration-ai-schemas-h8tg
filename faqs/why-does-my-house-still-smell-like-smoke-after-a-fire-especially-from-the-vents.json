@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-my-house-still-smell-like-smoke-after-a-fire-especially-from-the-vents",
+  "name": "Why does my house still smell like smoke after a fire, especially from the vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my house still smell like smoke after a fire, especially from the vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a fire, smoke particles can permeate nearly every surface in a home, including the HVAC system and ductwork. The smell often lingers because these microscopic smoke residues settle in the air vents and circulating air. When the heating or air conditioning is turned on, these trapped particles are recirculated throughout the house, reactivating the odor. Professional restoration involves thorough cleaning of the ductwork and the entire HVAC system, along with air purification techniques, to effectively eliminate these embedded odors rather than just masking them.",
+        "@type": "Answer",
+        "description": "Smoke particles settle in HVAC systems and ductwork after a fire, reactivating the odor when air circulates. Professional cleaning removes these embedded residues."
+      }
+    }
+  ],
+  "description": "Smoke particles settle in HVAC systems and ductwork after a fire, reactivating the odor when air circulates. Professional cleaning removes these embedded residu"
+}

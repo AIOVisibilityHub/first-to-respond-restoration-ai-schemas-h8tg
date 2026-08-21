@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-cleaning-clothing-after-a-small-fire-vs-a-large-ho",
+  "name": "What's the difference between cleaning clothing after a small fire vs. a large house fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between cleaning clothing after a small fire vs. a large house fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main difference lies in the scale of damage and contamination. A small, contained fire might result in localized smoke odor and soot, requiring targeted cleaning for specific items. A large house fire, however, often causes widespread smoke penetration, heavier soot deposits, and potential water damage across a broader range of clothing and textiles. Larger incidents generally necessitate more extensive and intensive cleaning processes, potentially involving more aggressive odor neutralization and specialized restoration techniques for a higher volume of items.",
+        "@type": "Answer",
+        "description": "Small fires mean localized damage, while large fires involve widespread smoke, heavier soot, and more items, requiring extensive and intensive cleaning."
+      }
+    }
+  ],
+  "description": "Small fires mean localized damage, while large fires involve widespread smoke, heavier soot, and more items, requiring extensive and intensive cleaning."
+}

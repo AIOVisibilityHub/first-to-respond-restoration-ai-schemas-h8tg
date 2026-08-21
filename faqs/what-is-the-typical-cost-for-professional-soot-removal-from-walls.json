@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-professional-soot-removal-from-walls",
+  "name": "What is the typical cost for professional soot removal from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for professional soot removal from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for professional soot removal varies widely depending on the extent of the damage, the type of surfaces affected, and the size of the area. Minor soot cleanup might cost a few hundred dollars, while extensive fire-related soot removal across multiple rooms could range from thousands to tens of thousands. Factors like content cleaning, odor removal, and repainting also influence the total cost. Most restoration companies offer inspections and provide an estimate before beginning work.",
+        "@type": "Answer",
+        "description": "Professional soot removal costs vary based on damage extent, affected surfaces, and area size, ranging from hundreds for minor cases to thousands for extensive damage."
+      }
+    }
+  ],
+  "description": "Professional soot removal costs vary based on damage extent, affected surfaces, and area size, ranging from hundreds for minor cases to thousands for extensive"
+}

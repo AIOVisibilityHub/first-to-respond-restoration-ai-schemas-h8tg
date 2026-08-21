@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-small-fire-damage-cleanup",
+  "name": "When should I call a professional for small fire damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for small fire damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional restoration company for small fire damage cleanup as soon as the fire department declares the property safe to enter. Even small fires produce corrosive soot and strong odors that can cause ongoing damage if not addressed quickly. Professionals have the specialized equipment and training to safely remove soot, neutralize odors, and prevent secondary issues like mold growth from water used to extinguish the fire, ensuring a thorough and effective restoration.",
+        "@type": "Answer",
+        "description": "Call a professional restoration company for small fire damage cleanup immediately after the property is deemed safe to prevent further damage from soot and odors."
+      }
+    }
+  ],
+  "description": "Call a professional restoration company for small fire damage cleanup immediately after the property is deemed safe to prevent further damage from soot and odor"
+}

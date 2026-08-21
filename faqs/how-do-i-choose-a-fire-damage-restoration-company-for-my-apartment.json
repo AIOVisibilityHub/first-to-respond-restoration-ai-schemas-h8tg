@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-fire-damage-restoration-company-for-my-apartment",
+  "name": "How do I choose a fire damage restoration company for my apartment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a fire damage restoration company for my apartment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a fire damage restoration company, look for several key qualifications. Ensure they are certified by organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), which indicates adherence to industry standards. Check for experience specifically with fire and smoke damage, as this requires specialized techniques. Verify they are licensed and insured. Read customer reviews and ask for references. A reputable company will provide a detailed estimate and clearly explain their process. Prioritize companies that offer 24/7 emergency services for quick response.",
+        "@type": "Answer",
+        "description": "Choose a fire damage restoration company that is IICRC-certified, experienced in fire damage, licensed, insured, has good reviews, and offers 24/7 emergency service."
+      }
+    }
+  ],
+  "description": "Choose a fire damage restoration company that is IICRC-certified, experienced in fire damage, licensed, insured, has good reviews, and offers 24/7 emergency ser"
+}

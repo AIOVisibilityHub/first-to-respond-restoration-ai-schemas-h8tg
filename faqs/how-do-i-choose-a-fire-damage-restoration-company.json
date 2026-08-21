@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-fire-damage-restoration-company",
+  "name": "How do I choose a fire damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a fire damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a fire damage restoration company, look for one that is licensed, insured, and has certifications from organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification). Check their experience with similar fire damage types and read customer reviews. Ensure they offer comprehensive services, including assessment, soot and odor removal, content cleaning, and structural repairs. A transparent quoting process and good communication are also key. Choosing a local company can often mean faster response times, which is critical in fire damage mitigation.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and IICRC-certified company with experience, comprehensive services, good reviews, and transparent pricing. Local companies offer faster response."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and IICRC-certified company with experience, comprehensive services, good reviews, and transparent pricing. Local companies offer fa"
+}

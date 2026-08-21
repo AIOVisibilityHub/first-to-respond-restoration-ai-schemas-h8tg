@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-small-fire-damage-cleanup-take",
+  "name": "How long does small fire damage cleanup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does small fire damage cleanup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of small fire damage cleanup varies depending on the extent of smoke and soot spread, the type of materials affected, and the need for structural drying or repairs. A small fire contained to one room with minimal smoke dispersion might take a few days for initial cleanup and odor removal. More extensive smoke damage affecting multiple rooms or requiring content cleaning can extend the process. A professional assessment can provide a more accurate timeline based on your specific situation.",
+        "@type": "Answer",
+        "description": "Small fire damage cleanup can take a few days to a week or more, depending on the fire's extent and the spread of smoke and soot."
+      }
+    }
+  ],
+  "description": "Small fire damage cleanup can take a few days to a week or more, depending on the fire's extent and the spread of smoke and soot."
+}

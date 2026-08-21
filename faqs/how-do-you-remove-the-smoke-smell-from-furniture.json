@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-remove-the-smoke-smell-from-furniture",
+  "name": "How do you remove the smoke smell from furniture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you remove the smoke smell from furniture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing smoke smell from furniture is a specialized process that goes beyond surface cleaning. After soot removal, professional restorers use various techniques to neutralize embedded odors. These may include ozone generators, which oxidize odor molecules, or hydroxyl generators, which use a natural process to break down contaminants. Thermal fogging can also be employed to mimic smoke penetration with deodorizing agents. These methods effectively neutralize odors at a molecular level, rather than just masking them.",
+        "@type": "Answer",
+        "description": "Smoke smell is removed using specialized techniques like ozone or hydroxyl generation and thermal fogging, which neutralize odor molecules embedded in materials."
+      }
+    }
+  ],
+  "description": "Smoke smell is removed using specialized techniques like ozone or hydroxyl generation and thermal fogging, which neutralize odor molecules embedded in materials"
+}

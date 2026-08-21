@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-small-fire-damage-cleanup-cost",
+  "name": "How much does small fire damage cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does small fire damage cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of small fire damage cleanup is highly variable, depending on factors such as the size of the affected area, the type of materials damaged, the intensity of smoke and soot, and the necessary odor removal treatments. It also includes the labor involved, specialized equipment usage, and disposal of damaged items. Most reputable restoration companies provide a detailed estimate after an initial inspection. Many homeowner's insurance policies cover fire damage, so it's advisable to check with your provider.",
+        "@type": "Answer",
+        "description": "Cleanup costs vary based on damage extent, materials affected, and necessary treatments. A detailed estimate is provided after inspection, and insurance may cover it."
+      }
+    }
+  ],
+  "description": "Cleanup costs vary based on damage extent, materials affected, and necessary treatments. A detailed estimate is provided after inspection, and insurance may cov"
+}

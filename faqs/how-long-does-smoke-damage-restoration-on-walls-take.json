@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-smoke-damage-restoration-on-walls-take",
+  "name": "How long does smoke damage restoration on walls take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does smoke damage restoration on walls take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of smoke damage restoration on walls depends on the severity and scope of the damage. For minor smoke residue in a single room, the cleaning process might take a day or two. However, for significant fire damage involving multiple rooms, extensive soot removal, structural cleaning, deodorization, and potential repairs, the process can extend from several days to a few weeks. Factors like the drying time for cleaning agents or primers also influence the timeline. A detailed assessment from restoration specialists will provide a more precise project duration estimate.",
+        "@type": "Answer",
+        "description": "Restoration time ranges from a day for minor damage to several weeks for extensive fire damage, depending on severity and scope."
+      }
+    }
+  ],
+  "description": "Restoration time ranges from a day for minor damage to several weeks for extensive fire damage, depending on severity and scope."
+}

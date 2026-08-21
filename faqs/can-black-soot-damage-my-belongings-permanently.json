@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-black-soot-damage-my-belongings-permanently",
+  "name": "Can black soot damage my belongings permanently?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can black soot damage my belongings permanently?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, black soot can cause permanent damage to belongings if not addressed promptly and correctly. Soot particles are acidic and can etch or discolor surfaces over time, especially plastics, metals, and certain fabrics. Delicate items like electronics, artwork, and upholstered furniture are particularly vulnerable. The odor of soot can also permeate porous materials, making it very difficult to remove. Professional restoration is often necessary to clean and salvage affected items.",
+        "@type": "Answer",
+        "description": "Yes, acidic soot can permanently etch, discolor, or embed odors in belongings, especially electronics, artwork, and fabrics, if not professionally treated promptly."
+      }
+    }
+  ],
+  "description": "Yes, acidic soot can permanently etch, discolor, or embed odors in belongings, especially electronics, artwork, and fabrics, if not professionally treated promp"
+}

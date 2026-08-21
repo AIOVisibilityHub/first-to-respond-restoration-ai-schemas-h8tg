@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-black-soot-on-my-ceiling-dangerous",
+  "name": "Is black soot on my ceiling dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is black soot on my ceiling dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, black soot can pose health risks and should not be ignored. Soot particles are very fine and can be inhaled, potentially irritating the respiratory system and exacerbating conditions like asthma or bronchitis. Long-term exposure may lead to more serious health issues. Soot also contains corrosive elements that can cause permanent damage to surfaces if not promptly and properly removed. It's important to address the cause and clean the affected areas to ensure a healthy indoor environment.",
+        "@type": "Answer",
+        "description": "Yes, black soot can be dangerous. It consists of fine particles that can cause respiratory irritation and other health problems if inhaled. Soot also causes permanent damage to surfaces if not removed."
+      }
+    }
+  ],
+  "description": "Yes, black soot can be dangerous. It consists of fine particles that can cause respiratory irritation and other health problems if inhaled. Soot also causes per"
+}

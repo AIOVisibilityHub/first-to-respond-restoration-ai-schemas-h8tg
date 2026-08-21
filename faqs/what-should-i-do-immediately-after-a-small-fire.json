@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-small-fire",
+  "name": "What should I do immediately after a small fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a small fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a small fire, prioritize safety. Ensure everyone is safe and has evacuated if necessary. Once the fire department has extinguished the fire and deemed the property safe, avoid re-entering until given the all-clear. Do not touch or attempt to clean soot-covered items, as improper handling can embed soot further. Open windows for ventilation if safe, but avoid running central HVAC systems which can spread smoke. Contact your insurance provider and a professional restoration company promptly to mitigate further damage.",
+        "@type": "Answer",
+        "description": "Immediately after a small fire, ensure safety, wait for the fire department's all-clear, avoid touching damaged items, and contact your insurer and a professional restorer."
+      }
+    }
+  ],
+  "description": "Immediately after a small fire, ensure safety, wait for the fire department's all-clear, avoid touching damaged items, and contact your insurer and a profession"
+}

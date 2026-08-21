@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-smoke-smell-from-furniture",
+  "name": "How much does it cost to remove smoke smell from furniture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove smoke smell from furniture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to remove smoke smell from furniture varies significantly based on several factors. These include the size and type of the furniture item, the material it's made from (e.g., fabric, wood, leather), the severity of the smoke damage, and the specific restoration methods required. A single armchair will cost less than a large sectional sofa. We provide a detailed estimate after a thorough inspection of the damaged items. This allows us to accurately assess the extent of the odor and determine the most effective and cost-efficient treatment plan for your situation.",
+        "@type": "Answer",
+        "description": "Costs vary based on furniture size, material, smoke damage severity, and required restoration methods. We provide estimates after inspection."
+      }
+    }
+  ],
+  "description": "Costs vary based on furniture size, material, smoke damage severity, and required restoration methods. We provide estimates after inspection."
+}

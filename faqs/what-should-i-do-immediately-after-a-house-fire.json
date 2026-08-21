@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-house-fire",
+  "name": "What should I do immediately after a house fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a house fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring everyone's safety and the fire department has cleared the scene, contact your insurance company and a professional fire damage restoration company. Do not re-enter the property until it's declared safe by authorities. Avoid touching anything, as soot can permanently damage surfaces. Do not attempt to clean surfaces yourself. Secure your property by boarding up windows and tarping the roof to prevent further damage from weather or vandalism.",
+        "@type": "Answer",
+        "description": "After a fire, ensure safety, contact insurance and a restoration company, and do not re-enter or touch anything until it's safe and secured."
+      }
+    }
+  ],
+  "description": "After a fire, ensure safety, contact insurance and a restoration company, and do not re-enter or touch anything until it's safe and secured."
+}

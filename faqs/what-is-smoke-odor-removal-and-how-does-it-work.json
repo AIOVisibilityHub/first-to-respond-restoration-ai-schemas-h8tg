@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-smoke-odor-removal-and-how-does-it-work",
+  "name": "What is smoke odor removal and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is smoke odor removal and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke odor removal is a critical part of fire damage restoration that targets and eliminates persistent odors embedded in materials. Unlike simply masking odors, professional techniques involve breaking down odor-causing molecules. This can include using specialized equipment like ozone generators, thermal foggers, or hydroxyl generators, which neutralize odors at a molecular level. Thorough cleaning of all affected surfaces, textiles, and air ducts is also essential before odor elimination treatments are applied. The process ensures that the property is left smelling fresh and clean, not just temporarily covered.",
+        "@type": "Answer",
+        "description": "Smoke odor removal eliminates embedded odors using specialized equipment like ozone or hydroxyl generators to neutralize molecules. It also involves thorough cleaning of affected surfaces."
+      }
+    }
+  ],
+  "description": "Smoke odor removal eliminates embedded odors using specialized equipment like ozone or hydroxyl generators to neutralize molecules. It also involves thorough cl"
+}

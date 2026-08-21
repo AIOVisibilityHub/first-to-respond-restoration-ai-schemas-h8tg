@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reliable-company-for-smoke-damaged-clothing-cleanup-in-encino",
+  "name": "How do I choose a reliable company for smoke damaged clothing cleanup in Encino or North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for smoke damaged clothing cleanup in Encino or North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a company for smoke damaged clothing cleanup in areas like Encino or North Hollywood, look for companies with certifications in fire and smoke restoration, such as IICRC. Check their experience specifically with textile restoration. Read customer reviews focusing on odor removal success and careful handling of belongings. Ensure they offer detailed estimates and communicate clearly about their processes. Proximity and a prompt response time are also beneficial in emergency situations.",
+        "@type": "Answer",
+        "description": "Choose a company with fire restoration certifications, textile experience, good reviews, clear communication, detailed estimates, and a prompt local response."
+      }
+    }
+  ],
+  "description": "Choose a company with fire restoration certifications, textile experience, good reviews, clear communication, detailed estimates, and a prompt local response."
+}

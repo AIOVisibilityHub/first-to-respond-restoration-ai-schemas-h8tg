@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-restoration-company-versus-trying-to-clean-it-myself",
+  "name": "When should I call a restoration company versus trying to clean it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a restoration company versus trying to clean it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a restoration company immediately if the fire resulted in more than minimal, localized damage. If there's visible soot on walls, ceilings, or contents beyond the immediate burn area, or if you detect a persistent smoke odor, professional intervention is necessary. Any structural concerns, even minor charring on framing, also warrant expert assessment. Attempting DIY cleanup for significant damage can cause further harm, compromise air quality, and make professional restoration more challenging and costly in the long run. When in doubt, a professional assessment is always the safest approach.",
+        "@type": "Answer",
+        "description": "Call a restoration company if there's significant soot, persistent smoke odor, or any structural damage. DIY cleanup is only suitable for very minor, localized incidents and can worsen bigger problems."
+      }
+    }
+  ],
+  "description": "Call a restoration company if there's significant soot, persistent smoke odor, or any structural damage. DIY cleanup is only suitable for very minor, localized"
+}

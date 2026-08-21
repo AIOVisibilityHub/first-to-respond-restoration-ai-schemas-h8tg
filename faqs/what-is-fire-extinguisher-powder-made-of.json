@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-fire-extinguisher-powder-made-of",
+  "name": "What is fire extinguisher powder made of?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is fire extinguisher powder made of?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire extinguisher powder typically consists of finely ground chemicals designed to suppress fires. Common types include monoammonium phosphate (for ABC dry chemical extinguishers) and sodium or potassium bicarbonate (for BC dry chemical extinguishers). These powders work by interrupting the chemical reaction of a fire and by smothering the fuel source. They are non-toxic but can cause respiratory irritation and leave a significant mess requiring professional cleanup.",
+        "@type": "Answer",
+        "description": "Fire extinguisher powder is made of chemicals like monoammonium phosphate or bicarbonates, designed to suppress fires by interrupting the chemical reaction and smothering the fuel."
+      }
+    }
+  ],
+  "description": "Fire extinguisher powder is made of chemicals like monoammonium phosphate or bicarbonates, designed to suppress fires by interrupting the chemical reaction and"
+}

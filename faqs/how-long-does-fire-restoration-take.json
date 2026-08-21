@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-fire-restoration-take",
+  "name": "How long does fire restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does fire restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of fire restoration varies significantly based on the extent of the damage. Minor fire and smoke damage might be resolved in a few days to a week. More extensive structural damage and widespread soot contamination can extend the process to several weeks or even months, especially if reconstruction is required. An initial assessment provides a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Fire restoration time depends on damage severity, ranging from a few days for minor issues to several weeks or months for extensive damage."
+      }
+    }
+  ],
+  "description": "Fire restoration time depends on damage severity, ranging from a few days for minor issues to several weeks or months for extensive damage."
+}

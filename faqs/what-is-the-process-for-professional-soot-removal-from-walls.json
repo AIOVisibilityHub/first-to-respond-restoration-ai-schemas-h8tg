@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-soot-removal-from-walls",
+  "name": "What is the process for professional soot removal from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional soot removal from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional soot removal typically begins with a thorough assessment to determine the type and extent of soot damage. Technicians then use specialized techniques, which may include dry cleaning sponges to lift loose soot, followed by professional-grade cleaning solutions to dissolve and wipe away residue. Air scrubbers and ozone generators are often employed to remove airborne particles and neutralize odors. Depending on the severity, contents may be cleaned off-site, and the affected areas may require sealing and repainting to fully restore the property.",
+        "@type": "Answer",
+        "description": "The process involves assessment, specialized dry and wet cleaning, air purification, and often sealing or repainting to fully restore affected walls."
+      }
+    }
+  ],
+  "description": "The process involves assessment, specialized dry and wet cleaning, air purification, and often sealing or repainting to fully restore affected walls."
+}

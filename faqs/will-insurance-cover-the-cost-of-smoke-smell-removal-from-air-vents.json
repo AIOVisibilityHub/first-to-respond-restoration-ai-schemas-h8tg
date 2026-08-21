@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-insurance-cover-the-cost-of-smoke-smell-removal-from-air-vents",
+  "name": "Will insurance cover the cost of smoke smell removal from air vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will insurance cover the cost of smoke smell removal from air vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners insurance policies typically cover damage resulting from a sudden and accidental event, such as a fire. If the smoke smell in your air vents is a direct result of a covered fire event, then the cost of professional remediation for your HVAC system and ductwork would likely be included. However, coverage can vary depending on your specific policy and the extent of the damage. It is advisable to contact your insurance provider directly to understand your coverage details and filing a claim.",
+        "@type": "Answer",
+        "description": "Homeowners insurance often covers smoke smell removal from air vents if caused by a covered fire. Check your specific policy for details."
+      }
+    }
+  ],
+  "description": "Homeowners insurance often covers smoke smell removal from air vents if caused by a covered fire. Check your specific policy for details."
+}

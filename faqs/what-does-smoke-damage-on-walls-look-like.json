@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-smoke-damage-on-walls-look-like",
+  "name": "What does smoke damage on walls look like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does smoke damage on walls look like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke damage on walls can appear as yellow, brown, or black discoloration. This staining is often uneven, reflecting the path of smoke. Beyond visible marks, walls may have a sticky, oily residue, especially near the ceiling or vents. The damage can also include a pervasive smoky odor that permeates the material, even if the visual signs are subtle. Different types of smoke, such as from wood, plastic, or electrical fires, can produce varying levels of soot and distinct odors. It's crucial to address these signs promptly to prevent further saturation and lingering smells.",
+        "@type": "Answer",
+        "description": "Smoke damage appears as yellow, brown, or black discoloration and can leave a sticky residue with a pervasive odor."
+      }
+    }
+  ],
+  "description": "Smoke damage appears as yellow, brown, or black discoloration and can leave a sticky residue with a pervasive odor."
+}

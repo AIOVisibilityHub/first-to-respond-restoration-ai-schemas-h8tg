@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-thermal-fogging-for-smoke-odor-removal",
+  "name": "What is thermal fogging for smoke odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is thermal fogging for smoke odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thermal fogging is a professional technique used to eliminate stubborn smoke odors after a fire. It involves heating a specialized deodorizing solution to create a dense, dry fog. This fog contains microscopic odor-neutralizing particles that penetrate porous materials, fabrics, and hard-to-reach areas in the same way smoke did. As the fog permeates the affected environment, it chemically neutralizes the smoke odors at a molecular level, rather than just masking them. This process is highly effective for comprehensive odor eradication but requires trained technicians and specialized equipment due to the nature of the chemicals and process.",
+        "@type": "Answer",
+        "description": "Thermal fogging uses a heated deodorizing solution to create a fine fog that penetrates materials and chemically neutralizes smoke odors at a molecular level, effectively eliminating lingering smells."
+      }
+    }
+  ],
+  "description": "Thermal fogging uses a heated deodorizing solution to create a fine fog that penetrates materials and chemically neutralizes smoke odors at a molecular level, e"
+}

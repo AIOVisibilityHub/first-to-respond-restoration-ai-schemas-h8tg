@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-my-garage-fire-damage-myself",
+  "name": "Can I clean up my garage fire damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up my garage fire damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface soot might seem manageable, cleaning up fire damage yourself is not recommended due to potential health hazards and the risk of improper restoration. Soot and smoke residues contain toxic compounds, and incorrect cleaning methods can spread damage or permanently embed odors. Professionals have specialized equipment, cleaning agents, and safety gear to handle fire damage safely and effectively, preventing further issues.",
+        "@type": "Answer",
+        "description": "Self-cleanup is not recommended due to health hazards and the risk of improper restoration. Professionals use specialized equipment and methods for safe and effective cleanup."
+      }
+    }
+  ],
+  "description": "Self-cleanup is not recommended due to health hazards and the risk of improper restoration. Professionals use specialized equipment and methods for safe and eff"
+}

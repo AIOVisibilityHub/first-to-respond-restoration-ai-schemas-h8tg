@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-fire-damage-cleanup",
+  "name": "What areas do you serve for fire damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for fire damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our emergency restoration services for fire damage cleanup extend to several communities. We proudly serve residents and businesses in Encino, North Hollywood, San Fernando, and Studio City. If your property is located within these areas and has experienced fire or smoke damage, our team is ready to respond quickly and efficiently. We prioritize rapid response to mitigate further damage and begin the restoration process promptly, ensuring that help is available when you need it most in these communities.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, and Studio City for fire damage cleanup. Our team provides rapid response in these communities."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, and Studio City for fire damage cleanup. Our team provides rapid response in these communities."
+}

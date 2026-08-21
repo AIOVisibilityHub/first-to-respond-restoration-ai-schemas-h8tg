@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-smoke-damaged-clothing-cleanup",
+  "name": "What is the process for professional smoke damaged clothing cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional smoke damaged clothing cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional smoke damaged clothing cleanup typically involves several steps. First, items are inventoried and inspected for damage severity. Then, specialized techniques such as ozone treatment, thermal fogging, or industrial-grade wet and dry cleaning processes are employed to remove smoke odors and soot particles. Delicate items may require hand cleaning. Finally, items are thoroughly dried, inspected, and carefully packaged. The specific process can vary based on the fabric type and extent of contamination.",
+        "@type": "Answer",
+        "description": "The process involves inspection, specialized techniques like ozone or thermal fogging, industrial cleaning, drying, and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves inspection, specialized techniques like ozone or thermal fogging, industrial cleaning, drying, and final inspection."
+}

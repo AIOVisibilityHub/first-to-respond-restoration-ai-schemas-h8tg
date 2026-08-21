@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-of-professional-smoke-odor-removal-from-air-vents",
+  "name": "What is the cost of professional smoke odor removal from air vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of professional smoke odor removal from air vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional smoke odor removal from air vents varies depending on several factors, including the size of your home, the extent of the smoke damage, and the complexity of your HVAC system. Factors like the number of vents, accessibility of ductwork, and whether additional services like air purification or sealing are needed will also influence the price. It's best to get a detailed inspection and quote from a restoration company, as they can assess your specific situation and provide an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on home size, smoke damage extent, HVAC system complexity, and required services. A professional inspection provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Costs vary based on home size, smoke damage extent, HVAC system complexity, and required services. A professional inspection provides an accurate quote."
+}

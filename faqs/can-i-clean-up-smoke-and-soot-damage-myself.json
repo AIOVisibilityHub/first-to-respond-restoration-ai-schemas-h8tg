@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-smoke-and-soot-damage-myself",
+  "name": "Can I clean up smoke and soot damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up smoke and soot damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface soot might seem manageable, professional cleanup is highly recommended for kitchen fire damage. Smoke and soot particles are often acidic and can cause irreversible damage to materials if not handled correctly. Improper cleaning can also spread soot, embed odors deeper, and pose health risks due to respiratory irritants. Professionals have specialized equipment, cleaning agents, and training to safely and effectively remove contaminants, neutralize odors, and prevent secondary damage. They also assess for hidden damage that DIY efforts might miss.",
+        "@type": "Answer",
+        "description": "Professional cleanup is advised due to acidic soot, potential health risks, and the need for specialized equipment to prevent further damage and effectively remove odors."
+      }
+    }
+  ],
+  "description": "Professional cleanup is advised due to acidic soot, potential health risks, and the need for specialized equipment to prevent further damage and effectively rem"
+}

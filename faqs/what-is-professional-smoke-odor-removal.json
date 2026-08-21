@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-professional-smoke-odor-removal",
+  "name": "What is professional smoke odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is professional smoke odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional smoke odor removal involves specialized techniques and equipment to eliminate smoke particles and odors embedded in structures and belongings after a fire. This goes beyond surface cleaning, targeting microscopic soot and odor-causing residues. Experts use air scrubbers, ozone generators, thermal foggers, and industrial-strength deodorizers to neutralize odors at their source, rather than just masking them. The process often includes cleaning all affected surfaces, HVAC systems, and textiles to restore indoor air quality and prevent lingering smells.",
+        "@type": "Answer",
+        "description": "Professional smoke odor removal uses specialized methods and equipment to eliminate smoke particles and odors from homes and belongings after a fire. It targets embedded soot and residues to neutralize smells at their source."
+      }
+    }
+  ],
+  "description": "Professional smoke odor removal uses specialized methods and equipment to eliminate smoke particles and odors from homes and belongings after a fire. It targets"
+}

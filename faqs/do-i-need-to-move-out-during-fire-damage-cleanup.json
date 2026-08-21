@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-move-out-during-fire-damage-cleanup",
+  "name": "Do I need to move out during fire damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out during fire damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most significant fire damage cleanup projects, it is often advisable to temporarily relocate for your safety and the efficiency of the restoration work. The process involves specialized equipment, strong cleaning agents, and can create dust or fumes that are not safe for occupancy. Your restoration specialist can advise you based on the extent of the damage and the scope of work. We strive to complete the work quickly to minimize your displacement.",
+        "@type": "Answer",
+        "description": "You may need to move out during significant fire damage cleanup due to safety concerns from equipment and cleaning agents. Your specialist will advise you."
+      }
+    }
+  ],
+  "description": "You may need to move out during significant fire damage cleanup due to safety concerns from equipment and cleaning agents. Your specialist will advise you."
+}

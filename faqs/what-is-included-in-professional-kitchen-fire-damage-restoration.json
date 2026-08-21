@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-included-in-professional-kitchen-fire-damage-restoration",
+  "name": "What is included in professional kitchen fire damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in professional kitchen fire damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional kitchen fire damage restoration involves a comprehensive multi-step process. This typically includes immediate board-up and tarping services to secure the property. Technicians then assess the damage, remove charred debris, and perform specialized cleaning to eliminate soot and smoke residue from surfaces, contents, and HVAC systems. Odor removal techniques, such as thermal fogging or ozone treatment, are employed to neutralize lingering smoke smells. Finally, the affected areas are repaired and reconstructed to their pre-fire condition, which may include replacing drywall, flooring, cabinets, and repainting.",
+        "@type": "Answer",
+        "description": "Restoration includes securing the property, debris removal, specialized soot and smoke cleaning, odor elimination, and full reconstruction of damaged areas like walls, floors, and cabinets."
+      }
+    }
+  ],
+  "description": "Restoration includes securing the property, debris removal, specialized soot and smoke cleaning, odor elimination, and full reconstruction of damaged areas like"
+}

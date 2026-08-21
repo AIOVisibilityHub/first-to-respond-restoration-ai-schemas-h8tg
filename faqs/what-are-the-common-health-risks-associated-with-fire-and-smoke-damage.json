@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-health-risks-associated-with-fire-and-smoke-damage",
+  "name": "What are the common health risks associated with fire and smoke damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common health risks associated with fire and smoke damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exposure to fire and smoke damage can pose several health risks due to the presence of soot, toxic fumes, and mold. Soot particles can irritate the respiratory system, causing coughing, shortness of breath, and exacerbating conditions like asthma. Inhaling fumes from burned materials can expose individuals to hazardous chemicals. Additionally, water used in firefighting can lead to mold growth within 24-48 hours, causing allergic reactions, respiratory problems, or other health issues. Professional cleanup is essential to mitigate these risks and ensure a safe indoor environment.",
+        "@type": "Answer",
+        "description": "Common health risks include respiratory issues from soot, exposure to toxic fumes from burned materials, and allergic reactions or respiratory problems from mold growth caused by firefighting water."
+      }
+    }
+  ],
+  "description": "Common health risks include respiratory issues from soot, exposure to toxic fumes from burned materials, and allergic reactions or respiratory problems from mol"
+}

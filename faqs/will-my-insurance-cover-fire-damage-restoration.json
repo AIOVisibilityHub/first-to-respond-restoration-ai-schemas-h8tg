@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-fire-damage-restoration",
+  "name": "Will my insurance cover fire damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover fire damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies include coverage for fire and smoke damage. This typically covers the cost of repairing or rebuilding the structure, removing smoke odor, and cleaning personal belongings. However, coverage specifics can vary based on your policy and the cause of the fire. It's crucial to review your policy documents and speak with your insurance adjuster to understand your exact coverage limits and deductible.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover fire and smoke damage, including structural repairs and cleaning. Review your policy or contact your insurer for specifics."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover fire and smoke damage, including structural repairs and cleaning. Review your policy or contact your insurer for speci"
+}

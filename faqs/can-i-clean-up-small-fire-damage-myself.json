@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-small-fire-damage-myself",
+  "name": "Can I clean up small fire damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up small fire damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might seem manageable, cleaning up fire damage yourself is not recommended. Soot contains acidic particles that can cause further corrosion to surfaces and respiratory issues if not handled properly. Standard cleaning products are often ineffective against deep-set smoke odors and soot. Professional restoration companies use industrial-grade equipment, specialized cleaning agents, and personal protective equipment to safely and effectively remove contaminants, neutralize odors, and prevent additional property damage or health risks.",
+        "@type": "Answer",
+        "description": "Self-cleaning small fire damage is not recommended due to acidic soot, deep-set odors, and potential health risks. Professionals have specialized equipment and expertise."
+      }
+    }
+  ],
+  "description": "Self-cleaning small fire damage is not recommended due to acidic soot, deep-set odors, and potential health risks. Professionals have specialized equipment and"
+}

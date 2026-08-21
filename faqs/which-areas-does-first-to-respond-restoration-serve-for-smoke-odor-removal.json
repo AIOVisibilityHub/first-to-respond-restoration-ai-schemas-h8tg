@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/which-areas-does-first-to-respond-restoration-serve-for-smoke-odor-removal",
+  "name": "Which areas does First To Respond Restoration serve for smoke odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas does First To Respond Restoration serve for smoke odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides professional smoke odor removal services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to respond quickly to your property to assess the damage and begin the restoration process. If you are located in or near these areas and are dealing with smoke smell after a fire, please contact us for immediate assistance.",
+        "@type": "Answer",
+        "description": "First To Respond Restoration serves Encino, North Hollywood, San Fernando, Studio City, and Tarzana for smoke odor removal services."
+      }
+    }
+  ],
+  "description": "First To Respond Restoration serves Encino, North Hollywood, San Fernando, Studio City, and Tarzana for smoke odor removal services."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-house-fire-cleanup-usually-take",
+  "name": "How long does house fire cleanup usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does house fire cleanup usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of house fire cleanup varies significantly based on the extent of the damage. Minor smoke damage might be resolved in a few days, while extensive structural damage and widespread soot contamination can take several weeks or even months. Factors like the size of the affected area, the type of materials burned, and the need for structural repairs all play a role. A professional assessment can provide a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Cleanup time depends on damage severity, ranging from days for minor smoke to weeks or months for extensive structural issues."
+      }
+    }
+  ],
+  "description": "Cleanup time depends on damage severity, ranging from days for minor smoke to weeks or months for extensive structural issues."
+}

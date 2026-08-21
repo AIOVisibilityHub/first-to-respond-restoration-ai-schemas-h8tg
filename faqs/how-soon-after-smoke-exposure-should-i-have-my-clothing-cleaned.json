@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-soon-after-smoke-exposure-should-i-have-my-clothing-cleaned",
+  "name": "How soon after smoke exposure should I have my clothing cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon after smoke exposure should I have my clothing cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is crucial to address smoke-damaged clothing as quickly as possible. Smoke residue contains acidic compounds that can cause permanent staining, discoloration, and odor embedment over time, especially within 24-48 hours. Delayed treatment significantly reduces the chances of complete restoration and can make odors much harder to remove. Contacting professionals immediately helps prevent further deterioration and increases the likelihood of successful cleaning and odor removal.",
+        "@type": "Answer",
+        "description": "Clothing should be cleaned as soon as possible after smoke exposure, ideally within 24-48 hours, to prevent permanent damage and embedded odors."
+      }
+    }
+  ],
+  "description": "Clothing should be cleaned as soon as possible after smoke exposure, ideally within 24-48 hours, to prevent permanent damage and embedded odors."
+}

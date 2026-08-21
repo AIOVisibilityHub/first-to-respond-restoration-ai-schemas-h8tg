@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-ozone-generators-completely-remove-smoke-smell",
+  "name": "Will ozone generators completely remove smoke smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will ozone generators completely remove smoke smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ozone generators are one tool used in professional smoke odor removal, capable of oxidizing odor-causing molecules. While effective for certain types of odors and situations, they are usually part of a comprehensive restoration process and not a standalone solution, especially for heavy smoke damage. They must be used safely by trained professionals in unoccupied spaces due to health risks associated with high ozone levels.",
+        "@type": "Answer",
+        "description": "Ozone generators help oxidize odor molecules but are typically one part of a comprehensive professional smoke removal process, not a standalone solution, and require professional, safe use."
+      }
+    }
+  ],
+  "description": "Ozone generators help oxidize odor molecules but are typically one part of a comprehensive professional smoke removal process, not a standalone solution, and re"
+}

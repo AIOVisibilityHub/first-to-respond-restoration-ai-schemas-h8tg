@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-fire-damage-cleanup",
+  "name": "When should I call a professional for fire damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for fire damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional fire damage cleanup company as soon as possible after the fire has been extinguished and the property is deemed safe to enter by authorities. Immediate action helps prevent secondary damage like mold growth from water used by firefighters and limits further spread of smoke odors. Professionals have specialized equipment and expertise to safely and effectively handle hazardous materials and begin the restoration process promptly.",
+        "@type": "Answer",
+        "description": "Call a professional immediately after the fire is out and the property is safe to prevent further damage and begin specialized cleanup."
+      }
+    }
+  ],
+  "description": "Call a professional immediately after the fire is out and the property is safe to prevent further damage and begin specialized cleanup."
+}

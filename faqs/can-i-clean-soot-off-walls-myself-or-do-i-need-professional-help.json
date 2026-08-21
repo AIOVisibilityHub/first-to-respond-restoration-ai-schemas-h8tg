@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-soot-off-walls-myself-or-do-i-need-professional-help",
+  "name": "Can I clean soot off walls myself, or do I need professional help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean soot off walls myself, or do I need professional help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor, superficial soot stains might seem manageable, professional restoration is generally recommended. Soot is often acidic and can cause etching or discoloration if not properly neutralized and removed. DIY attempts can inadvertently spread the soot, embed it deeper into porous surfaces, or even cause further damage. Professionals have specialized equipment, cleaning agents, and techniques to safely and effectively remove soot, mitigate odors, and prevent long-term issues, especially after significant fires.",
+        "@type": "Answer",
+        "description": "For effective and safe removal, professional soot cleaning is recommended over DIY, which can spread damage."
+      }
+    }
+  ],
+  "description": "For effective and safe removal, professional soot cleaning is recommended over DIY, which can spread damage."
+}

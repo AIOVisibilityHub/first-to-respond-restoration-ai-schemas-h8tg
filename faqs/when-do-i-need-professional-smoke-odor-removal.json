@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-smoke-odor-removal",
+  "name": "When do I need professional smoke odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional smoke odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional smoke odor removal when smoke odors persist after initial cleaning attempts, or when the smoke damage is significant following a fire. This includes situations where soot and smoke residues are visible on surfaces, or when the smell is strong and pervasive throughout your property. Lingering smoke odors can indicate embedded particles that affect indoor air quality and can be harmful. If you've experienced a fire of any size, or if you detect a persistent smoke smell that home remedies can't fix, it's time to call in experts.",
+        "@type": "Answer",
+        "description": "You need professional smoke odor removal when odors persist after cleaning, visible soot is present, or after any significant fire. Persistent smoke can indicate embedded particles affecting air quality."
+      }
+    }
+  ],
+  "description": "You need professional smoke odor removal when odors persist after cleaning, visible soot is present, or after any significant fire. Persistent smoke can indicat"
+}

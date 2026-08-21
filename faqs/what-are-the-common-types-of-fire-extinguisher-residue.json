@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-types-of-fire-extinguisher-residue",
+  "name": "What are the common types of fire extinguisher residue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of fire extinguisher residue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common types of fire extinguisher residue come from dry chemical and wet chemical extinguishers. Dry chemical extinguishers, frequently found in homes and businesses, leave behind a fine, powdery substance, typically monoammonium phosphate or sodium bicarbonate. This powder can be corrosive to metals and electronics. Wet chemical extinguishers, used for kitchen fires, leave a soapy, foamy residue that is generally easier to clean but can still be slippery and require thorough removal. CO2 extinguishers leave no residue, while water-based ones leave water damage.",
+        "@type": "Answer",
+        "description": "Common residues include dry chemical powder (corrosive to metals/electronics) and wet chemical foam (soapy). CO2 leaves no residue, and water extinguishers cause water damage."
+      }
+    }
+  ],
+  "description": "Common residues include dry chemical powder (corrosive to metals/electronics) and wet chemical foam (soapy). CO2 leaves no residue, and water extinguishers caus"
+}

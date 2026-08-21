@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-apartment-fire-cleanup",
+  "name": "Will my insurance cover apartment fire cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover apartment fire cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, apartment fire cleanup is covered by renter's insurance for personal belongings and living expenses, and by the property owner's (landlord's) insurance for structural damage to the apartment itself. The extent of coverage depends on your specific policy and the cause of the fire. It's crucial to review your policy documents and contact your insurance provider as soon as possible after a fire. They can explain your coverage, guide you through the claims process, and often recommend preferred restoration vendors.",
+        "@type": "Answer",
+        "description": "Yes, renter's insurance usually covers personal belongings, and landlord's insurance covers structural damage. Review your policy and contact your provider."
+      }
+    }
+  ],
+  "description": "Yes, renter's insurance usually covers personal belongings, and landlord's insurance covers structural damage. Review your policy and contact your provider."
+}

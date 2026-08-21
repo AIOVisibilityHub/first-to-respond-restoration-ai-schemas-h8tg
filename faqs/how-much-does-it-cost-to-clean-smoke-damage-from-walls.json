@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-clean-smoke-damage-from-walls",
+  "name": "How much does it cost to clean smoke damage from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to clean smoke damage from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to clean smoke damage from walls varies significantly based on the extent of the damage, the type of smoke, the size of the affected area, and the materials involved. Minor damage to a small section of drywall might be less costly than extensive soot saturation across multiple rooms with porous materials like plaster. It also depends on whether repainting or odor sealing is required after cleaning. A professional assessment is necessary to provide an accurate estimate. Many homeowner insurance policies cover fire and smoke damage, which can help offset these costs.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, smoke type, and affected area size. A professional assessment is needed for an accurate estimate, and homeowner's insurance often covers it."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, smoke type, and affected area size. A professional assessment is needed for an accurate estimate, and homeowner's insurance o"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-of-professional-smoke-odor-removal",
+  "name": "What is the cost of professional smoke odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of professional smoke odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional smoke odor removal is highly variable, depending on several factors. These include the size of the affected area, the severity of the smoke damage, the types of materials contaminated, and the specific methods required. A small, contained area with light smoke might cost less, while a large home with extensive soot and deep odor penetration will incur higher costs. Many restoration companies provide a detailed estimate after an on-site inspection. This estimate often accounts for labor, equipment rental, cleaning supplies, and any necessary material replacements.",
+        "@type": "Answer",
+        "description": "The cost of smoke odor removal varies based on the size of the affected area, severity of damage, contaminated materials, and methods needed. A professional estimate is recommended."
+      }
+    }
+  ],
+  "description": "The cost of smoke odor removal varies based on the size of the affected area, severity of damage, contaminated materials, and methods needed. A professional est"
+}

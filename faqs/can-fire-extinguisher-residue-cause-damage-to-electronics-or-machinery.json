@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-fire-extinguisher-residue-cause-damage-to-electronics-or-machinery",
+  "name": "Can fire extinguisher residue cause damage to electronics or machinery?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can fire extinguisher residue cause damage to electronics or machinery?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, dry chemical fire extinguisher residue, particularly monoammonium phosphate, can be highly corrosive to electronics and machinery. The fine powder can penetrate sensitive components, cause short circuits, and accelerate corrosion over time, leading to system failure. Even non-corrosive residues can interfere with moving parts or create insulation issues. Immediate and thorough professional cleaning is essential to mitigate this damage, as delaying cleanup can lead to irreversible issues and costly replacements. Specialized cleaning methods are required for delicate equipment.",
+        "@type": "Answer",
+        "description": "Yes, dry chemical residue is corrosive to electronics and machinery, causing short circuits and accelerating corrosion. Immediate professional cleaning is vital to prevent irreversible damage."
+      }
+    }
+  ],
+  "description": "Yes, dry chemical residue is corrosive to electronics and machinery, causing short circuits and accelerating corrosion. Immediate professional cleaning is vital"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-black-soot-from-a-ceiling",
+  "name": "How long does it take to remove black soot from a ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove black soot from a ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of black soot removal depends on the severity and scope of the damage. A small, isolated area might take only a few hours to clean. However, if the soot is widespread, deeply embedded, or accompanied by strong odors, the process could extend to several days. This includes time for cleaning, odor neutralization, and potentially drying or repainting. A professional restoration company can provide a more precise timeline after assessing the specific conditions of your property.",
+        "@type": "Answer",
+        "description": "The time required depends on the soot's severity and spread. Minor cleaning might take hours, while extensive damage, including odor removal, could take several days. An assessment is needed for an exact timeline."
+      }
+    }
+  ],
+  "description": "The time required depends on the soot's severity and spread. Minor cleaning might take hours, while extensive damage, including odor removal, could take several"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reliable-company-for-smoke-odor-removal-in-encino-or-tarzana",
+  "name": "How do I choose a reliable company for smoke odor removal in Encino or Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable company for smoke odor removal in Encino or Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a restoration company, look for those with specific experience in smoke and fire damage restoration. Check for certifications from organizations like the IICRC, verify their insurance and licensing, and read customer reviews. It's also beneficial to choose a company that offers a clear scope of work and transparent pricing. First To Respond Restoration serves Encino, Tarzana, and surrounding areas.",
+        "@type": "Answer",
+        "description": "Choose a company with fire restoration experience, IICRC certifications, proper insurance, and positive reviews. First To Respond Restoration serves Encino, Tarzana, and nearby areas."
+      }
+    }
+  ],
+  "description": "Choose a company with fire restoration experience, IICRC certifications, proper insurance, and positive reviews. First To Respond Restoration serves Encino, Tar"
+}

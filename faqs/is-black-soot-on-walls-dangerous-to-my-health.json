@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-black-soot-on-walls-dangerous-to-my-health",
+  "name": "Is black soot on walls dangerous to my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is black soot on walls dangerous to my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor soot from candles might not pose an immediate severe threat, significant or prolonged exposure to soot from combustion byproducts can be harmful. Soot contains microscopic particles that can be inhaled, potentially leading to respiratory issues, especially for individuals with asthma or other lung conditions. It can also irritate eyes and skin. If you notice extensive soot, particularly after a fire or appliance malfunction, it's advisable to seek professional assessment and cleaning to ensure a safe environment.",
+        "@type": "Answer",
+        "description": "Soot, especially from combustion, contains harmful particles that can cause respiratory issues and irritation if inhaled. Professional assessment is recommended for extensive soot."
+      }
+    }
+  ],
+  "description": "Soot, especially from combustion, contains harmful particles that can cause respiratory issues and irritation if inhaled. Professional assessment is recommended"
+}

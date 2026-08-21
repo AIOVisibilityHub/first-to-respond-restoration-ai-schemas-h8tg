@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-i-take-immediately-after-noticing-black-soot-on-my-ceiling",
+  "name": "What steps should I take immediately after noticing black soot on my ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take immediately after noticing black soot on my ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover black soot, first ensure the source of the soot (e.g., faulty appliance, burning candle) is identified and addressed to prevent further contamination. Avoid rubbing or wiping the soot, as this can embed it further into surfaces. Isolate the affected area if possible to prevent spread. Ventilate the space by opening windows if safe to do so. Then, contact a professional restoration company for an assessment. They can safely handle the cleanup and advise on necessary repairs.",
+        "@type": "Answer",
+        "description": "Immediately identify and stop the soot source, avoid rubbing the soot, and ventilate the area. Then, contact a professional restoration company for a safe assessment and cleanup."
+      }
+    }
+  ],
+  "description": "Immediately identify and stop the soot source, avoid rubbing the soot, and ventilate the area. Then, contact a professional restoration company for a safe asses"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-apartment-fire-cleanup-typically-take",
+  "name": "How long does apartment fire cleanup typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does apartment fire cleanup typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of apartment fire cleanup varies significantly based on the extent of the damage. A small fire with localized smoke damage might only take a few days to a week. However, more severe fires affecting multiple rooms or causing structural damage could extend the process to several weeks or even months. Factors such as the type of materials burned, the amount of water used to extinguish the fire, and the need for permits for structural repairs all influence the timeline. A professional assessment can provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Cleanup time depends on fire damage severity; minor damage may take days, while extensive damage could take weeks to months."
+      }
+    }
+  ],
+  "description": "Cleanup time depends on fire damage severity; minor damage may take days, while extensive damage could take weeks to months."
+}

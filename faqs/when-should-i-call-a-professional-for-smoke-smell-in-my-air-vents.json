@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-smoke-smell-in-my-air-vents",
+  "name": "When should I call a professional for smoke smell in my air vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for smoke smell in my air vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you detect a persistent smoke smell in your air vents after a fire, even if it was a small one, or if you notice the odor recurring after attempting your own cleaning. Professionals have the necessary tools and expertise to properly inspect and clean your entire HVAC system and ductwork. Lingering smoke odor indicates embedded particles that can affect indoor air quality and may require specialized cleaning and deodorization techniques that only a restoration company can provide.",
+        "@type": "Answer",
+        "description": "Call a professional if smoke smell persists in your air vents after a fire or if DIY methods fail, as it indicates embedded particles requiring specialized cleaning."
+      }
+    }
+  ],
+  "description": "Call a professional if smoke smell persists in your air vents after a fire or if DIY methods fail, as it indicates embedded particles requiring specialized clea"
+}

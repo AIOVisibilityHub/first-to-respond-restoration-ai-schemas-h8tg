@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-smoke-smell-in-my-walls",
+  "name": "When should I call a professional for smoke smell in my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for smoke smell in my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional restoration company if the smoke smell persists after basic cleaning, if the odor is strong and pervasive, or if you suspect smoke has penetrated deep into structural elements. Professionals have the expertise, equipment, and cleaning agents to effectively neutralize embedded odors that DIY methods cannot address. Early intervention by experts can prevent the odor from spreading further and becoming more challenging to remove, ensuring a healthier indoor environment.",
+        "@type": "Answer",
+        "description": "Call a professional if smoke smell persists after cleaning, is strong and pervasive, or if you suspect deep penetration into structural materials."
+      }
+    }
+  ],
+  "description": "Call a professional if smoke smell persists after cleaning, is strong and pervasive, or if you suspect deep penetration into structural materials."
+}

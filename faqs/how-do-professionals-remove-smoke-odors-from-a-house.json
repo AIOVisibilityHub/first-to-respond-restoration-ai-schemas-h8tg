@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-remove-smoke-odors-from-a-house",
+  "name": "How do professionals remove smoke odors from a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals remove smoke odors from a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use a multi-step process to remove smoke odors. This typically includes removing all smoke-damaged materials, thorough cleaning of all surfaces with specialized deodorizing agents, and air purification using equipment like ozone generators or hydroxyl machines. These machines break down smoke particles at a molecular level. Air duct cleaning is also essential to eliminate trapped odors and ensure fresh air circulation throughout the property.",
+        "@type": "Answer",
+        "description": "Professionals remove smoke odors by clearing damaged materials, cleaning surfaces with deodorizers, and using ozone or hydroxyl machines for air purification, along with air duct cleaning."
+      }
+    }
+  ],
+  "description": "Professionals remove smoke odors by clearing damaged materials, cleaning surfaces with deodorizers, and using ozone or hydroxyl machines for air purification, a"
+}

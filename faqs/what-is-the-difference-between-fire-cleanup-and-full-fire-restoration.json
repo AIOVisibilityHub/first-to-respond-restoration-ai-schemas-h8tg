@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-fire-cleanup-and-full-fire-restoration",
+  "name": "What is the difference between fire cleanup and full fire restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between fire cleanup and full fire restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire cleanup focuses on removing immediate damage like soot, ash, and smoke odors, cleaning salvageable items, and preparing the property for repairs. Full fire restoration is a more comprehensive process that includes cleanup, but also extends to structural repairs, rebuilding damaged areas, replacing materials like drywall, flooring, and roofing, and potentially renovating parts of the home. Cleanup is a phase of the larger restoration project, bringing the property back to its pre-fire condition.",
+        "@type": "Answer",
+        "description": "Fire cleanup addresses immediate damage like soot and smoke, while full fire restoration includes cleanup plus structural repairs, rebuilding, and material replacement to pre-fire condition."
+      }
+    }
+  ],
+  "description": "Fire cleanup addresses immediate damage like soot and smoke, while full fire restoration includes cleanup plus structural repairs, rebuilding, and material repl"
+}

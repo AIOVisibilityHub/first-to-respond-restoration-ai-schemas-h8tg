@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-work-with-insurance-companies-for-fire-damage-claims",
+  "name": "Do you work with insurance companies for fire damage claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you work with insurance companies for fire damage claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we frequently work with insurance companies to streamline the fire damage restoration process for our clients. We can help document the damage, provide detailed estimates, and communicate directly with your insurance adjuster to ensure that all necessary repairs and cleanup are covered according to your policy. Our experience in navigating insurance claims helps to alleviate stress for homeowners and ensure a smoother, more efficient restoration. We aim to make the process as seamless as possible, from initial assessment to final repairs.",
+        "@type": "Answer",
+        "description": "Yes, we work with insurance companies. We assist with documentation, estimates, and communication with adjusters to simplify your fire damage claim process."
+      }
+    }
+  ],
+  "description": "Yes, we work with insurance companies. We assist with documentation, estimates, and communication with adjusters to simplify your fire damage claim process."
+}

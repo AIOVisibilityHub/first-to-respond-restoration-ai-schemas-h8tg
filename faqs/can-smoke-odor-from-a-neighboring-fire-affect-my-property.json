@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-smoke-odor-from-a-neighboring-fire-affect-my-property",
+  "name": "Can smoke odor from a neighboring fire affect my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can smoke odor from a neighboring fire affect my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, smoke and soot from a neighboring fire can easily infiltrate your property through vents, windows, cracks, or shared walls, even if your home wasn't directly impacted by flames. These airborne particles can carry strong odors and settle on surfaces, requiring professional cleaning and odor removal to prevent lingering smells. A professional inspection can determine the extent of infiltration and recommend appropriate remediation steps to protect your indoor air quality and property value.",
+        "@type": "Answer",
+        "description": "Yes, smoke from nearby fires can enter your home through vents or cracks, causing odors and requiring professional cleaning even without direct flame impact."
+      }
+    }
+  ],
+  "description": "Yes, smoke from nearby fires can enter your home through vents or cracks, causing odors and requiring professional cleaning even without direct flame impact."
+}

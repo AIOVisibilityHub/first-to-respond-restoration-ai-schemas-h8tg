@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-remove-smoke-smell-from-furniture-and-belongings",
+  "name": "How do professionals remove smoke smell from furniture and belongings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals remove smoke smell from furniture and belongings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use a multi-faceted approach to remove smoke smell from furniture and belongings. Textiles like upholstery and draperies are often dry-cleaned or laundered with specialized smoke odor neutralizing agents. Non-porous items are thoroughly cleaned to remove soot and residues. Porous items, like wood furniture, may undergo cleaning, sealing, or treatment in an ozone chamber. Thermal fogging can penetrate materials to neutralize odors at a molecular level. Each item is assessed to determine the most effective and safest cleaning method to restore it without damage.",
+        "@type": "Answer",
+        "description": "Professionals clean textiles with specialized agents, thoroughly clean non-porous items, and treat porous items with cleaning, sealing, or ozone. Thermal fogging also neutralizes odors in materials."
+      }
+    }
+  ],
+  "description": "Professionals clean textiles with specialized agents, thoroughly clean non-porous items, and treat porous items with cleaning, sealing, or ozone. Thermal foggin"
+}

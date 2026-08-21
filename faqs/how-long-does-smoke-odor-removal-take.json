@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-smoke-odor-removal-take",
+  "name": "How long does smoke odor removal take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does smoke odor removal take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of smoke odor removal varies depending on the extent of the smoke damage, the size of the affected area, and the type of materials involved. Minor smoke odors might be remediated within a few days, while severe cases from extensive fires could take several weeks. Factors like the intensity of the fire, the type of smoke (e.g., protein vs. synthetic), and how quickly remediation begins all play a role. A professional assessment can provide a more accurate timeline for your specific situation.",
+        "@type": "Answer",
+        "description": "The time required for smoke odor removal depends on the severity and extent of the smoke damage. Minor issues might take days, while severe cases could take weeks."
+      }
+    }
+  ],
+  "description": "The time required for smoke odor removal depends on the severity and extent of the smoke damage. Minor issues might take days, while severe cases could take wee"
+}

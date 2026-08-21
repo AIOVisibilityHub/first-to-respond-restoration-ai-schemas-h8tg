@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-professional-smoke-damage-restoration",
+  "name": "What is the typical process for professional smoke damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for professional smoke damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional smoke damage restoration typically involves several steps. First, the area is assessed to determine the extent of damage. Then, specialized equipment is used for soot removal and cleaning of all surfaces. Odor removal is a critical phase, often employing thermal fogging, ozone generators, or hydroxyl generators to neutralize embedded smells. Finally, contents are cleaned, and any necessary repairs or reconstruction are performed to return your home to its pre-fire condition.",
+        "@type": "Answer",
+        "description": "The process involves assessment, soot removal, specialized cleaning, odor neutralization using advanced equipment, contents cleaning, and any necessary repairs."
+      }
+    }
+  ],
+  "description": "The process involves assessment, soot removal, specialized cleaning, odor neutralization using advanced equipment, contents cleaning, and any necessary repairs."
+}

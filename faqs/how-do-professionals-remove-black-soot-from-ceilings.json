@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-remove-black-soot-from-ceilings",
+  "name": "How do professionals remove black soot from ceilings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals remove black soot from ceilings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional soot removal involves specialized techniques and equipment. First, the area is assessed to determine the type and extent of soot. Technicians then use HEPA-filtered vacuums to remove loose particles without spreading them further. Next, specific cleaning agents designed to dissolve and lift soot without damaging the ceiling material are applied. This often includes dry cleaning sponges and chemical degreasers. Air scrubbers and ozone generators may be used to eliminate odors and improve air quality. Finally, sealing and repainting might be necessary to ensure complete remediation.",
+        "@type": "Answer",
+        "description": "Professionals use HEPA vacuums, specialized cleaning agents, and dry cleaning sponges to remove soot. Air scrubbers and sealing may also be used to eliminate odors and fully restore the ceiling."
+      }
+    }
+  ],
+  "description": "Professionals use HEPA vacuums, specialized cleaning agents, and dry cleaning sponges to remove soot. Air scrubbers and sealing may also be used to eliminate od"
+}

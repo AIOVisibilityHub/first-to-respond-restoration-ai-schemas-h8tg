@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-fire-damage-restoration-companies-remove-smoke-odor",
+  "name": "How do fire damage restoration companies remove smoke odor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do fire damage restoration companies remove smoke odor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional fire damage restoration companies employ various techniques to effectively remove smoke odor. These include thorough cleaning of all affected surfaces to remove soot and odor-causing residues, air scrubbing with HEPA and activated carbon filters, ozone generation, and thermal fogging. These methods neutralize and eliminate odor molecules, rather than just masking them, ensuring a clean and fresh environment.",
+        "@type": "Answer",
+        "description": "Smoke odor is removed through thorough cleaning, air scrubbing, ozone generation, and thermal fogging, which neutralize odor molecules."
+      }
+    }
+  ],
+  "description": "Smoke odor is removed through thorough cleaning, air scrubbing, ozone generation, and thermal fogging, which neutralize odor molecules."
+}

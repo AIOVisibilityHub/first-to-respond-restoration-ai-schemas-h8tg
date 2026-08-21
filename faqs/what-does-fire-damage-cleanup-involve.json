@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-fire-damage-cleanup-involve",
+  "name": "What does fire damage cleanup involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does fire damage cleanup involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire damage cleanup is a comprehensive process that addresses all aspects of damage caused by fire, smoke, and soot. It typically includes emergency board-up and roof tarping to secure the property, water removal from firefighting efforts, soot and smoke residue removal from surfaces, odor elimination, content cleaning and restoration, and structural repairs. The goal is to return the property to its pre-fire condition, ensuring a safe and healthy environment. This process often requires specialized equipment and techniques to effectively remove microscopic soot particles and lingering smoke odors.",
+        "@type": "Answer",
+        "description": "Fire damage cleanup involves securing the property, removing water, cleaning soot and smoke, eliminating odors, restoring contents, and making structural repairs."
+      }
+    }
+  ],
+  "description": "Fire damage cleanup involves securing the property, removing water, cleaning soot and smoke, eliminating odors, restoring contents, and making structural repair"
+}

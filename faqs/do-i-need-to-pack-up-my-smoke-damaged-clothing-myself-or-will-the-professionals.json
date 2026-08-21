@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-pack-up-my-smoke-damaged-clothing-myself-or-will-the-professionals",
+  "name": "Do I need to pack up my smoke-damaged clothing myself, or will the professionals handle it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to pack up my smoke-damaged clothing myself, or will the professionals handle it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring a professional smoke damage restoration company, you typically do not need to pack up your smoke-damaged clothing yourself. Most reputable services include content manipulation and inventorying as part of their restoration process. Trained technicians will carefully pack out affected items, create a detailed inventory, and transport them to a specialized facility for cleaning. This ensures items are handled correctly and prevents further contamination or damage during transport.",
+        "@type": "Answer",
+        "description": "Professionals typically handle packing, inventorying, and transporting smoke-damaged clothing to their facility, so you usually don't need to do it yourself."
+      }
+    }
+  ],
+  "description": "Professionals typically handle packing, inventorying, and transporting smoke-damaged clothing to their facility, so you usually don't need to do it yourself."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-best-fire-restoration-company-for-my-garage",
+  "name": "How do I choose the best fire restoration company for my garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best fire restoration company for my garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a fire restoration company, look for one that is licensed, insured, and has certifications in fire and smoke restoration from organizations like the IICRC. Review their experience with garage fires specifically and check customer reviews. Ensure they offer a full range of services, including emergency response, soot removal, deodorization, and structural repairs. Get a detailed estimate and confirm they work directly with insurance companies.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and certified company with good reviews. Ensure they offer comprehensive services, experience with garage fires, and work with insurance."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and certified company with good reviews. Ensure they offer comprehensive services, experience with garage fires, and work with insur"
+}

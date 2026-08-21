@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-furniture-can-be-restored-after-smoke-damage",
+  "name": "What types of furniture can be restored after smoke damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of furniture can be restored after smoke damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most types of furniture can be candidates for smoke damage restoration, including upholstered sofas and chairs, wooden tables and cabinets, leather goods, and even some decorative items. The success of restoration largely depends on the material's porosity and the extent of smoke penetration. Fabric and wood are highly absorbent and require intensive treatment, while leather and sealed wood may respond more readily. Our technicians assess each piece to determine the most effective cleaning and deodorization methods, ensuring the best possible outcome for your specific items.",
+        "@type": "Answer",
+        "description": "Most furniture, including upholstered, wooden, and leather items, can be restored after smoke damage. Assess the material and extent of damage for the best approach."
+      }
+    }
+  ],
+  "description": "Most furniture, including upholstered, wooden, and leather items, can be restored after smoke damage. Assess the material and extent of damage for the best appr"
+}

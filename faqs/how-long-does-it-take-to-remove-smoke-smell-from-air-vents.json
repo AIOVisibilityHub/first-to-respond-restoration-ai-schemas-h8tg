@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-smoke-smell-from-air-vents",
+  "name": "How long does it take to remove smoke smell from air vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove smoke smell from air vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to remove smoke smell from air vents depends on the severity of the smoke damage and the size of the HVAC system. A typical professional duct cleaning and deodorization service can take anywhere from a few hours to a full day for an average-sized home. However, the entire process of smoke odor remediation for a whole house, including air purification and cleaning of other surfaces, might take longer. Your restoration specialist can provide a more precise timeline after assessing the damage.",
+        "@type": "Answer",
+        "description": "Removing smoke smell from air vents can take a few hours to a full day, depending on damage severity and system size. Full home remediation may take longer."
+      }
+    }
+  ],
+  "description": "Removing smoke smell from air vents can take a few hours to a full day, depending on damage severity and system size. Full home remediation may take longer."
+}

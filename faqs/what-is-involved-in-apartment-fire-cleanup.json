@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-apartment-fire-cleanup",
+  "name": "What is involved in apartment fire cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in apartment fire cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Apartment fire cleanup involves several critical steps to restore a property to a safe and livable condition. This typically begins with damage assessment, followed by water removal if firefighting efforts were involved. Next, soot and smoke residue are removed from all affected surfaces, including walls, ceilings, and contents. Damaged materials like drywall, flooring, and insulation are then removed and replaced. Odor neutralization is a key part of the process, ensuring no lingering smoke smells. Finally, thorough cleaning and sanitization are performed.",
+        "@type": "Answer",
+        "description": "Apartment fire cleanup involves damage assessment, water removal, soot and smoke cleanup, material removal and replacement, odor neutralization, and final sanitization."
+      }
+    }
+  ],
+  "description": "Apartment fire cleanup involves damage assessment, water removal, soot and smoke cleanup, material removal and replacement, odor neutralization, and final sanit"
+}

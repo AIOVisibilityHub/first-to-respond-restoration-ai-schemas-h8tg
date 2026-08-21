@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-fire-damage-and-smoke-damage-on-walls",
+  "name": "What is the difference between fire damage and smoke damage on walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between fire damage and smoke damage on walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire damage refers to the direct destruction of materials by heat and flames, often resulting in charring, melting, or complete combustion of wall structures. Smoke damage, while often a consequence of fire, specifically involves the discoloration, sooting, and odor impregnation caused by smoke particles and gases settling on surfaces. Walls can have significant smoke damage even without direct fire contact, as smoke travels and penetrates porous materials. Restoration efforts for fire damage often involve reconstruction, whereas smoke damage primarily focuses on specialized cleaning, deodorization, and sealing.",
+        "@type": "Answer",
+        "description": "Fire damage is direct destruction by heat and flames, while smoke damage is discoloration, sooting, and odor from smoke particles settling on surfaces."
+      }
+    }
+  ],
+  "description": "Fire damage is direct destruction by heat and flames, while smoke damage is discoloration, sooting, and odor from smoke particles settling on surfaces."
+}

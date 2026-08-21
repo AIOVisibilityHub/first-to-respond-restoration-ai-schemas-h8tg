@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-professional-soot-cleanup-remove-all-smoke-odors",
+  "name": "Will professional soot cleanup remove all smoke odors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will professional soot cleanup remove all smoke odors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, professional soot cleanup services aim to completely remove all smoke odors. Lingering smoke odors are caused by microscopic soot particles and volatile organic compounds (VOCs) that embed themselves into porous materials. Professionals use specialized equipment like ozone generators, thermal foggers, and industrial air scrubbers, along with thorough cleaning and sealing techniques, to neutralize and eliminate these odor-causing particles, rather than just masking them. This ensures a fresh and clean environment after restoration.",
+        "@type": "Answer",
+        "description": "Professional soot cleanup effectively removes all smoke odors using specialized equipment and techniques to neutralize odor-causing particles, not just mask them."
+      }
+    }
+  ],
+  "description": "Professional soot cleanup effectively removes all smoke odors using specialized equipment and techniques to neutralize odor-causing particles, not just mask the"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-stay-in-my-home-during-fire-restoration",
+  "name": "Can I stay in my home during fire restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during fire restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during fire restoration depends on the severity of the damage and the extent of the restoration work. Minor smoke damage might allow for partial occupancy, but significant structural damage, air quality issues, or extensive reconstruction will likely require temporary relocation for safety and efficiency. Your restoration professional can advise you based on a damage assessment.",
+        "@type": "Answer",
+        "description": "Staying home during fire restoration depends on damage severity. Minor damage might allow it, but significant issues usually require temporary relocation for safety."
+      }
+    }
+  ],
+  "description": "Staying home during fire restoration depends on damage severity. Minor damage might allow it, but significant issues usually require temporary relocation for sa"
+}

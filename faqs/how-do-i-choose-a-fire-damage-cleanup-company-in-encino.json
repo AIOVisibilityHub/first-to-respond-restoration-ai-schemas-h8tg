@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-fire-damage-cleanup-company-in-encino",
+  "name": "How do I choose a fire damage cleanup company in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a fire damage cleanup company in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a fire damage cleanup company in Encino, look for one that is licensed, insured, and has extensive experience specifically with fire and smoke damage restoration. Check for certifications from organizations like the IICRC. Read customer reviews and ensure they offer emergency services, provide detailed estimates, and can work directly with your insurance company. Our team serves Encino and surrounding areas with certified technicians and a commitment to quality.",
+        "@type": "Answer",
+        "description": "Choose a fire damage cleanup company in Encino that is licensed, insured, IICRC-certified, experienced, offers emergency services, and works with insurance."
+      }
+    }
+  ],
+  "description": "Choose a fire damage cleanup company in Encino that is licensed, insured, IICRC-certified, experienced, offers emergency services, and works with insurance."
+}

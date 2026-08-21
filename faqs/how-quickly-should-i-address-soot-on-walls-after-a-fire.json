@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-address-soot-on-walls-after-a-fire",
+  "name": "How quickly should I address soot on walls after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address soot on walls after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing soot on walls promptly is crucial for minimizing long-term damage. Soot is acidic and corrosive, meaning it can etch and stain surfaces permanently if left untreated. The longer soot remains, the deeper it penetrates porous materials and the more difficult it becomes to remove. Odors also become more embedded over time. We recommend contacting a professional restoration company as soon as possible after the fire has been extinguished and the property is deemed safe.",
+        "@type": "Answer",
+        "description": "You should address soot on walls quickly, as its acidic nature can cause permanent damage and embed odors if left untreated."
+      }
+    }
+  ],
+  "description": "You should address soot on walls quickly, as its acidic nature can cause permanent damage and embed odors if left untreated."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-serve-encino-north-hollywood-and-studio-city-for-smoke-odor-removal",
+  "name": "Do you serve Encino, North Hollywood, and Studio City for smoke odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you serve Encino, North Hollywood, and Studio City for smoke odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides comprehensive smoke odor removal services, including cleaning air vents and HVAC systems, to the communities of Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to handle fire and smoke damage restoration, ensuring that your home's air quality is restored after a fire. Contact us for a professional assessment and service in your area.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration serves Encino, North Hollywood, San Fernando, Studio City, and Tarzana for smoke odor removal from air vents."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration serves Encino, North Hollywood, San Fernando, Studio City, and Tarzana for smoke odor removal from air vents."
+}

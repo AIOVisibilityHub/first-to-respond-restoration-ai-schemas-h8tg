@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-fire-damaged-house-cleanup-cost",
+  "name": "How much does fire damaged house cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does fire damaged house cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of fire damaged house cleanup is highly variable, depending on factors such as the size of the affected area, the severity of smoke and soot damage, the types of materials needing restoration, and the need for structural repairs. Most restoration companies provide a detailed estimate after a thorough on-site assessment. We work with many insurance providers to help streamline the claims process and ensure transparent pricing for our services in areas like Encino and Tarzana.",
+        "@type": "Answer",
+        "description": "Cleanup costs vary based on damage severity, property size, and materials affected. A detailed estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "Cleanup costs vary based on damage severity, property size, and materials affected. A detailed estimate is provided after assessment."
+}

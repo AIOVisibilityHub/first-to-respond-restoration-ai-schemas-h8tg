@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-kitchen-fire-cleanup-typically-take",
+  "name": "How long does kitchen fire cleanup typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen fire cleanup typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of kitchen fire cleanup varies significantly based on the extent of the damage. A small, contained fire might take a few days for smoke and soot removal, while a larger fire with structural damage could take several weeks or even months. Factors like the type of materials burned, the penetration of smoke odor, and the need for structural repairs all influence the timeline. After an initial assessment, a restoration company can provide a more accurate estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Cleanup time varies from days to weeks or months, depending on fire severity, smoke penetration, and structural damage. A professional assessment will provide a specific timeline."
+      }
+    }
+  ],
+  "description": "Cleanup time varies from days to weeks or months, depending on fire severity, smoke penetration, and structural damage. A professional assessment will provide a"
+}
