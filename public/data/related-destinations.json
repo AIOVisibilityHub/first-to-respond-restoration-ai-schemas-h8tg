@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-21T21:54:59.754Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "First To Respond Restoration",
+    "canonicalUrl": "https://first2respond.aiovisibility.net",
+    "aiDataHub": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "First To Respond Restoration — canonical website",
+      "url": "https://first2respond.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "First To Respond Restoration — AI Data Hub",
+      "url": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/",
+      "repo": "AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg"
+    }
+  }
+}
