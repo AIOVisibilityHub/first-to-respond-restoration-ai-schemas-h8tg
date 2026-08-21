@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-06-26T23:05:32.877Z",
+  "generatedAt": "2026-08-21T21:54:59.754Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -11,14 +11,14 @@
   "notALinkWheel": true,
   "entity": {
     "name": "First To Respond Restoration",
-    "canonicalUrl": "http://first2respond.com",
+    "canonicalUrl": "https://first2respond.aiovisibility.net",
     "aiDataHub": "https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
       "label": "First To Respond Restoration — canonical website",
-      "url": "http://first2respond.com"
+      "url": "https://first2respond.aiovisibility.net"
     },
     {
       "role": "ai-data-hub",
