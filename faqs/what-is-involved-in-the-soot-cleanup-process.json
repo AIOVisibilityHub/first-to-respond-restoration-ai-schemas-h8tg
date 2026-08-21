@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-the-soot-cleanup-process",
+  "name": "What is involved in the soot cleanup process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the soot cleanup process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The soot cleanup process typically begins with a thorough inspection to assess the damage. Professionals then ventilate the area and use specialized equipment, like HEPA vacuums and air scrubbers, to remove loose soot particles and improve air quality. This is followed by detailed cleaning of all affected surfaces using specific soot removal agents. Contents are also cleaned, restored, or inventoried. Finally, odor neutralization treatments are applied to eliminate lingering smoke smells, ensuring the property is fully restored.",
+        "@type": "Answer",
+        "description": "The soot cleanup process includes inspection, ventilation, specialized vacuuming, detailed cleaning of all surfaces and contents, and odor neutralization to restore the property."
+      }
+    }
+  ],
+  "description": "The soot cleanup process includes inspection, ventilation, specialized vacuuming, detailed cleaning of all surfaces and contents, and odor neutralization to res"
+}

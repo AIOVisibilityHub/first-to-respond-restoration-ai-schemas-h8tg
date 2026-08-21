@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-remove-smoke-odors-from-a-property",
+  "name": "How do professionals remove smoke odors from a property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals remove smoke odors from a property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use several methods to effectively remove smoke odors. These include thoroughly cleaning all affected surfaces to remove embedded soot and residues, which are primary sources of odor. Air scrubbers with activated carbon filters are used to purify the air. Thermal fogging or ozone generators may be employed to neutralize odor-causing molecules, particularly in areas where smoke has deeply penetrated. Each method is chosen based on the type and severity of the smoke odor to ensure complete elimination rather than just masking the smell.",
+        "@type": "Answer",
+        "description": "Professionals remove smoke odors by cleaning affected surfaces, using air scrubbers, and employing thermal fogging or ozone generators to neutralize odor-causing molecules at their source."
+      }
+    }
+  ],
+  "description": "Professionals remove smoke odors by cleaning affected surfaces, using air scrubbers, and employing thermal fogging or ozone generators to neutralize odor-causin"
+}

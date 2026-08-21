@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-the-fire-damage-restoration-process",
+  "name": "What is involved in the fire damage restoration process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the fire damage restoration process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with securing the property, followed by a thorough assessment of fire, smoke, and water damage. This includes identifying affected areas and salvageable items. Next, water extraction and drying occur if there was water from firefighting. Soot and smoke residue are then removed from surfaces and contents. Specialized cleaning and deodorization techniques eliminate smoke odors, and finally, repairs and reconstruction are carried out to restore the property.",
+        "@type": "Answer",
+        "description": "The process involves securing the property, assessing damage, water removal, soot and smoke cleaning, odor removal, and structural repairs."
+      }
+    }
+  ],
+  "description": "The process involves securing the property, assessing damage, water removal, soot and smoke cleaning, odor removal, and structural repairs."
+}

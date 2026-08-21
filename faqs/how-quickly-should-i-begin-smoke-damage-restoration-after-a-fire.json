@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-begin-smoke-damage-restoration-after-a-fire",
+  "name": "How quickly should I begin smoke damage restoration after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I begin smoke damage restoration after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is crucial to start smoke damage restoration as soon as possible after a fire is extinguished and the property is deemed safe. Smoke residues and soot contain acidic components that can cause irreversible etching and discoloration to surfaces, fabrics, and plastics over time. The longer smoke damage sits, the more difficult and costly it becomes to clean and restore. Prompt action helps prevent secondary damage, permanent staining, and persistent odors, increasing the likelihood of successful restoration.",
+        "@type": "Answer",
+        "description": "Begin smoke damage restoration promptly after a fire, as acidic smoke residues can cause permanent damage and make odors more difficult to remove if left untreated."
+      }
+    }
+  ],
+  "description": "Begin smoke damage restoration promptly after a fire, as acidic smoke residues can cause permanent damage and make odors more difficult to remove if left untrea"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-soon-should-i-call-for-fire-damage-restoration-after-a-fire",
+  "name": "How soon should I call for fire damage restoration after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon should I call for fire damage restoration after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is critical to contact a fire damage restoration company as soon as possible after the fire is extinguished and the property is deemed safe by authorities. Soot and smoke residue can continue to cause corrosion and staining if left untreated, leading to secondary damage that becomes more difficult and costly to remediate over time. Prompt action helps mitigate further damage and speeds up the overall recovery process.",
+        "@type": "Answer",
+        "description": "Contact a fire damage restoration company immediately after the fire is out and the property is safe to prevent further damage."
+      }
+    }
+  ],
+  "description": "Contact a fire damage restoration company immediately after the fire is out and the property is safe to prevent further damage."
+}

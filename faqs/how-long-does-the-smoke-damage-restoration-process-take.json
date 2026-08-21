@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-the-smoke-damage-restoration-process-take",
+  "name": "How long does the smoke damage restoration process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the smoke damage restoration process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the smoke damage restoration process varies significantly based on the extent of the damage, the size of the property, and the type of materials affected. A small area with light smoke might take a few days, while a property with extensive soot, structural smoke damage, and pervasive odors could take several weeks. Our team provides an estimated timeline after a thorough initial assessment. Our goal is always to complete the restoration efficiently without compromising on quality, ensuring your property is fully restored.",
+        "@type": "Answer",
+        "description": "The restoration timeline varies based on damage severity and property size, ranging from a few days for minor issues to several weeks for extensive smoke damage."
+      }
+    }
+  ],
+  "description": "The restoration timeline varies based on damage severity and property size, ranging from a few days for minor issues to several weeks for extensive smoke damage"
+}

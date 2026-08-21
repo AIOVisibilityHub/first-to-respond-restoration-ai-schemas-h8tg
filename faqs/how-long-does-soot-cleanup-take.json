@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-soot-cleanup-take",
+  "name": "How long does soot cleanup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does soot cleanup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of soot cleanup depends on the extent of the fire damage and the size of the affected property. A small area with light soot might take a day or two, while extensive damage to an entire home could take several days to a few weeks. The process includes assessing the damage, removing debris, cleaning all surfaces, and addressing odors. Professionals work efficiently to complete the cleanup, but thoroughness is key to ensuring all soot and odors are completely eliminated for a healthy living environment.",
+        "@type": "Answer",
+        "description": "Soot cleanup duration varies by damage extent and property size, ranging from days to weeks. Thoroughness is essential for complete soot and odor elimination."
+      }
+    }
+  ],
+  "description": "Soot cleanup duration varies by damage extent and property size, ranging from days to weeks. Thoroughness is essential for complete soot and odor elimination."
+}

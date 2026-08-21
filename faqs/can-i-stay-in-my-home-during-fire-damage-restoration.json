@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-stay-in-my-home-during-fire-damage-restoration",
+  "name": "Can I stay in my home during fire damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during fire damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home during fire damage restoration depends entirely on the severity of the damage and safety concerns. If the fire caused significant structural damage, compromised electrical systems, or resulted in extensive smoke and soot contamination, it's generally unsafe and unhealthy to stay. For minor, localized damage, it might be possible to remain, but it's best to consult with your restoration company and local authorities to ensure safety and compliance.",
+        "@type": "Answer",
+        "description": "Staying in your home during restoration depends on the damage severity and safety; it's often not advisable for significant damage."
+      }
+    }
+  ],
+  "description": "Staying in your home during restoration depends on the damage severity and safety; it's often not advisable for significant damage."
+}

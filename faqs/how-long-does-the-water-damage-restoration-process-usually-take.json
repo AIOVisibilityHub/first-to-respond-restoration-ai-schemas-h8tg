@@ -3,16 +3,25 @@
   "name": "How long does the water damage restoration process usually take?",
   "@type": "FAQPage",
   "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
   "mainEntity": [
     {
       "name": "How long does the water damage restoration process usually take?",
       "@type": "Question",
       "acceptedAnswer": {
-        "text": "Water damage restoration typically takes 3 to 7 days for drying, but full repairs can extend to 1 to 3 weeks depending on damage severity. The process includes water extraction (1–2 days), drying (3–7 days), cleaning (1–2 days), and reconstruction (1–3 weeks). Larger jobs or contaminated water may require longer timelines. Most projects take between 3 to 5 days to dry properly. Timelines vary based on material types and saturation levels.",
+        "text": "The duration of the water damage restoration process depends on the severity and category of the water intrusion. For minor issues, drying might take 3-5 days. For more extensive damage, involving multiple rooms or structural components, the process can extend from one to two weeks for drying and potentially several weeks or months if reconstruction is needed. Factors like the amount of water, type of affected materials, and humidity levels all influence the timeline. Professionals continuously monitor moisture levels to ensure complete drying.",
         "@type": "Answer",
-        "description": "Drying takes 3–7 days; full restoration with repairs can take 1–3 weeks depending on damage extent and water contamination level."
+        "description": "Restoration duration varies with damage severity; minor issues may take 3-5 days for drying, while extensive damage could take weeks or months if reconstruction is needed."
       }
     }
   ],
-  "description": "Drying takes 3–7 days; full restoration with repairs can take 1–3 weeks depending on damage extent and water contamination level."
+  "description": "Restoration duration varies with damage severity; minor issues may take 3-5 days for drying, while extensive damage could take weeks or months if reconstruction"
 }

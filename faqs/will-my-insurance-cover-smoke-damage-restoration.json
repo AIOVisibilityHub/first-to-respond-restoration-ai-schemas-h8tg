@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-smoke-damage-restoration",
+  "name": "Will my insurance cover smoke damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover smoke damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies typically cover damage caused by sudden and accidental fires, which includes smoke damage restoration. However, the extent of coverage can vary depending on your specific policy, deductible, and the cause of the fire. It's important to review your insurance policy documents or contact your insurance provider directly to understand your coverage limits, claim process, and any exclusions. Restoration companies can often help document the damage for your claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover smoke damage from sudden fires, but check your specific policy and deductible with your provider for details."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover smoke damage from sudden fires, but check your specific policy and deductible with your provider for details."
+}

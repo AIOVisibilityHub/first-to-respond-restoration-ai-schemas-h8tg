@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-smoke-damage-restoration-involve",
+  "name": "What does smoke damage restoration involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does smoke damage restoration involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke damage restoration is a comprehensive process to clean and repair properties affected by smoke and soot. It typically includes assessing the extent of damage, removing soot and smoke residues from surfaces, deodorizing to eliminate smoke odors, and cleaning or restoring affected contents. This can involve specialized techniques for different materials and surfaces, as well as air purification to improve indoor air quality. The goal is to return the property to a safe and habitable condition, addressing both visible and hidden damage.",
+        "@type": "Answer",
+        "description": "Smoke damage restoration cleans and repairs properties affected by smoke and soot, removing residues, eliminating odors, and restoring contents to pre-damage conditions."
+      }
+    }
+  ],
+  "description": "Smoke damage restoration cleans and repairs properties affected by smoke and soot, removing residues, eliminating odors, and restoring contents to pre-damage co"
+}

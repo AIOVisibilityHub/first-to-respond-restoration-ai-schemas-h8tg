@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-soot-cleanup",
+  "name": "When should I call a professional for soot cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for soot cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for soot cleanup immediately after a fire, once the fire department has deemed the property safe to enter. Soot residue is corrosive and begins damaging surfaces within hours, leading to etching and permanent discoloration. Professional restoration services have the specialized equipment, cleaning agents, and expertise to safely and effectively remove soot, neutralize odors, and prevent further damage, which is crucial for a complete recovery.",
+        "@type": "Answer",
+        "description": "Call a professional for soot cleanup immediately after a fire. Soot causes rapid and permanent damage if not handled promptly by experts."
+      }
+    }
+  ],
+  "description": "Call a professional for soot cleanup immediately after a fire. Soot causes rapid and permanent damage if not handled promptly by experts."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-my-insurance-cover-fire-damage-restoration",
+  "name": "Does my insurance cover fire damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my insurance cover fire damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover fire damage. This typically includes structural damage to your home, damage to personal belongings, and sometimes additional living expenses if your home becomes uninhabitable. It is important to review your specific policy or contact your insurance provider to understand your coverage details and claim process. A reputable restoration company can often assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover fire damage. Check your specific policy for details and coverage limits."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover fire damage. Check your specific policy for details and coverage limits."
+}

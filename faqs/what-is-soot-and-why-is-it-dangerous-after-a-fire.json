@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-soot-and-why-is-it-dangerous-after-a-fire",
+  "name": "What is soot and why is it dangerous after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is soot and why is it dangerous after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soot consists of fine black particles produced by incomplete combustion of organic matter. After a fire, soot is highly acidic, corrosive, and can contain toxic chemicals, carcinogens, and heavy metals. Inhaling soot particles can cause respiratory problems, and prolonged exposure can lead to serious health issues. Soot also stains surfaces quickly and can cause permanent damage to materials like plastics, fabrics, and metals if not addressed promptly by professionals.",
+        "@type": "Answer",
+        "description": "Soot is acidic and toxic residue from fires. It can cause respiratory issues and permanent damage to property if not cleaned professionally."
+      }
+    }
+  ],
+  "description": "Soot is acidic and toxic residue from fires. It can cause respiratory issues and permanent damage to property if not cleaned professionally."
+}

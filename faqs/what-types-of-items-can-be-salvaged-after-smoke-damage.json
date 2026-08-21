@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-items-can-be-salvaged-after-smoke-damage",
+  "name": "What types of items can be salvaged after smoke damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of items can be salvaged after smoke damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many items can be salvaged after smoke damage, depending on the material and the severity of exposure. Porous items like upholstered furniture, drapes, and clothing often require specialized cleaning and deodorization. Non-porous items such as hard furniture, appliances, and certain electronics can frequently be cleaned and restored. Our team assesses each item individually to determine the best course of action, advising on what can be safely cleaned, restored, or if replacement is the more viable option, always aiming to preserve your valuables where possible.",
+        "@type": "Answer",
+        "description": "Many items, including hard furniture, some electronics, and textiles, can often be salvaged after smoke damage through specialized cleaning and restoration processes."
+      }
+    }
+  ],
+  "description": "Many items, including hard furniture, some electronics, and textiles, can often be salvaged after smoke damage through specialized cleaning and restoration proc"
+}

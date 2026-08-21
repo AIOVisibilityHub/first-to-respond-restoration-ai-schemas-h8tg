@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-fire-damage-restoration",
+  "name": "What is fire damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is fire damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire damage restoration is the process of cleaning, repairing, and rebuilding property affected by fire and smoke. It involves several steps, including securing the property, assessing the damage, removing smoke and soot, cleaning contents, deodorizing, and making structural repairs. The goal is to return the property to its pre-loss condition, addressing not only visible damage but also hidden issues like smoke odor penetration and water damage from firefighting efforts.",
+        "@type": "Answer",
+        "description": "Fire damage restoration is the process of cleaning, repairing, and rebuilding property damaged by fire and smoke."
+      }
+    }
+  ],
+  "description": "Fire damage restoration is the process of cleaning, repairing, and rebuilding property damaged by fire and smoke."
+}

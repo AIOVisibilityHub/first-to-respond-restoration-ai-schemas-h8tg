@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-fire-damage-restoration-and-general-cleaning",
+  "name": "What is the difference between fire damage restoration and general cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between fire damage restoration and general cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire damage restoration goes far beyond general cleaning. General cleaning addresses visible dirt and grime, while fire restoration deals with complex issues like corrosive soot, pervasive smoke odors embedded in materials, and potential water damage from firefighting efforts. Restoration requires specialized equipment, chemicals, and techniques to mitigate secondary damage, disinfect affected areas, and rebuild structural components. It aims to return the property to its pre-loss condition, not just superficially clean it.",
+        "@type": "Answer",
+        "description": "Fire damage restoration handles corrosive soot, embedded smoke odors, and structural repairs with specialized methods, while general cleaning addresses only visible dirt."
+      }
+    }
+  ],
+  "description": "Fire damage restoration handles corrosive soot, embedded smoke odors, and structural repairs with specialized methods, while general cleaning addresses only vis"
+}

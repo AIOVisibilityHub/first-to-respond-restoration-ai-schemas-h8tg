@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-soot-myself-after-a-small-fire",
+  "name": "Can I clean soot myself after a small fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean soot myself after a small fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might be tempting to clean soot yourself after a small fire, it's generally not recommended. Soot is toxic and can cause further damage if handled improperly. Without professional-grade equipment and specialized cleaning solutions, you risk embedding soot particles deeper into surfaces, spreading the damage, or causing permanent staining. Professional restorers have the knowledge to safely remove soot, prevent cross-contamination, and address hidden issues like structural damage or lingering odors that DIY methods often miss.",
+        "@type": "Answer",
+        "description": "Cleaning soot yourself is not recommended due to its toxicity and risk of causing further damage. Professionals have the right equipment and knowledge for safe and effective removal."
+      }
+    }
+  ],
+  "description": "Cleaning soot yourself is not recommended due to its toxicity and risk of causing further damage. Professionals have the right equipment and knowledge for safe"
+}
