@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-landlord-s-insurance-cover-my-personal-belongings-damaged-by-water-in-a",
+  "name": "Will my landlord's insurance cover my personal belongings damaged by water in a rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my landlord's insurance cover my personal belongings damaged by water in a rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, your landlord's insurance policy typically covers the building structure and their own property, but it does not extend to your personal belongings. For your possessions to be covered, you would need to have your own renter's insurance policy. Renter's insurance is designed to protect your personal items from various perils, including water damage, fire, and theft. It's highly recommended for all tenants to secure such a policy for peace of mind.",
+        "@type": "Answer",
+        "description": "No, your landlord's insurance only covers the building. You need your own renter's insurance to cover your personal belongings."
+      }
+    }
+  ],
+  "description": "No, your landlord's insurance only covers the building. You need your own renter's insurance to cover your personal belongings."
+}

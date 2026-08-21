@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-commercial-property-restoration-company",
+  "name": "When should I call a commercial property restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a commercial property restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a commercial property restoration company as soon as possible after any significant damage occurs, such as a burst pipe, fire, or storm impact. Prompt action can prevent secondary damage like mold growth and often reduces the overall repair cost and time. Early intervention is crucial for mitigating losses and ensuring a faster return to business operations.",
+        "@type": "Answer",
+        "description": "Call a commercial property restoration company immediately after damage from events like fire, water, or storms to prevent secondary issues and minimize disruption."
+      }
+    }
+  ],
+  "description": "Call a commercial property restoration company immediately after damage from events like fire, water, or storms to prevent secondary issues and minimize disrupt"
+}

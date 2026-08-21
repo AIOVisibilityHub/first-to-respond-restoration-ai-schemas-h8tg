@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-water-damage-restoration-take-for-an-apartment",
+  "name": "How long does water damage restoration take for an apartment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damage restoration take for an apartment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage restoration varies significantly based on the extent and category of the damage. Minor leaks might take a few days for drying and minor repairs. Extensive water damage, involving multiple rooms, structural drying, mold remediation, and significant reconstruction, can take several weeks or even longer. Factors like the amount of water, types of materials affected, and necessary demolition impact the timeline. A professional assessment will provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Restoration time varies, from a few days for minor issues to several weeks for extensive damage, depending on severity."
+      }
+    }
+  ],
+  "description": "Restoration time varies, from a few days for minor issues to several weeks for extensive damage, depending on severity."
+}

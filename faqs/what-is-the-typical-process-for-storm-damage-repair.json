@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-storm-damage-repair",
+  "name": "What is the typical process for storm damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for storm damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process begins with an initial inspection to assess the damage and create a repair plan. This is often followed by emergency services like board-ups or water extraction to secure the property and prevent secondary damage. After mitigation, comprehensive repairs, cleaning, and restoration work are performed to return your property to its pre-storm condition. Throughout the process, reputable companies can help coordinate with your insurance company.",
+        "@type": "Answer",
+        "description": "The process involves inspection, emergency services, comprehensive repairs, cleaning, and restoration, often with insurance coordination."
+      }
+    }
+  ],
+  "description": "The process involves inspection, emergency services, comprehensive repairs, cleaning, and restoration, often with insurance coordination."
+}

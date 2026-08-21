@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-commercial-storm-damage-restoration",
+  "name": "What is commercial storm damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is commercial storm damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial storm damage restoration involves repairing and rebuilding commercial properties affected by severe weather events like hurricanes, tornadoes, strong winds, and heavy rainfall. This process typically includes emergency services such as boarding up windows and tarping roofs, water extraction and drying, structural repairs, mold remediation if necessary, and debris removal. The goal is to return the business property to its pre-storm condition, minimizing downtime and ensuring the safety and functionality of the premises.",
+        "@type": "Answer",
+        "description": "Commercial storm damage restoration is the process of repairing and rebuilding business properties after severe weather events. It includes emergency services, water removal, structural repairs, and debris cleanup to restore the property."
+      }
+    }
+  ],
+  "description": "Commercial storm damage restoration is the process of repairing and rebuilding business properties after severe weather events. It includes emergency services,"
+}

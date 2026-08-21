@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-secondary-damage-in-hotel-water-restoration",
+  "name": "What is 'secondary damage' in hotel water restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'secondary damage' in hotel water restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Secondary damage in hotel water restoration refers to problems that arise as a consequence of unaddressed or improperly treated initial water damage. This typically includes issues such as mold growth, which can begin within 24-48 hours, as well as structural weakening, delamination of materials, electrical hazards from water exposure, and persistent unpleasant odors. These secondary issues often become more costly and complex to fix than the initial water damage itself, underscoring the importance of rapid and thorough restoration.",
+        "@type": "Answer",
+        "description": "Secondary damage refers to problems like mold growth, structural weakening, and odors that develop if initial water damage is not quickly and properly addressed."
+      }
+    }
+  ],
+  "description": "Secondary damage refers to problems like mold growth, structural weakening, and odors that develop if initial water damage is not quickly and properly addressed"
+}

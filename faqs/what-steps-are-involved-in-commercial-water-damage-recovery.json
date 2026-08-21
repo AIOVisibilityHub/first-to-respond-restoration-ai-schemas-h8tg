@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-are-involved-in-commercial-water-damage-recovery",
+  "name": "What steps are involved in commercial water damage recovery?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in commercial water damage recovery?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial water damage recovery typically involves several key steps. First, the source of water is identified and stopped. Then, standing water is extracted, and specialized drying equipment is used to thoroughly dry the affected structures and contents. This is followed by cleaning and sanitizing to prevent mold and bacteria growth. Finally, any damaged materials are removed, and necessary repairs or reconstruction are performed to restore the property to its original condition. Throughout the process, continuous monitoring ensures effective drying.",
+        "@type": "Answer",
+        "description": "Water damage recovery involves stopping the source, water extraction, thorough drying, cleaning, sanitizing, and then repair or reconstruction."
+      }
+    }
+  ],
+  "description": "Water damage recovery involves stopping the source, water extraction, thorough drying, cleaning, sanitizing, and then repair or reconstruction."
+}

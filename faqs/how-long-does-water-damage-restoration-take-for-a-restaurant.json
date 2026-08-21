@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-water-damage-restoration-take-for-a-restaurant",
+  "name": "How long does water damage restoration take for a restaurant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damage restoration take for a restaurant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage restoration for a restaurant varies based on the extent of the damage, the size of the affected area, and the type of materials involved. Minor incidents might take a few days for drying and sanitization. More severe cases, involving structural damage or extensive mold remediation, could take weeks to complete, especially if reconstruction is necessary. Restoration professionals will provide a timeline after their initial assessment.",
+        "@type": "Answer",
+        "description": "Restoration time varies from a few days for minor issues to several weeks for severe damage requiring structural repairs or mold remediation."
+      }
+    }
+  ],
+  "description": "Restoration time varies from a few days for minor issues to several weeks for severe damage requiring structural repairs or mold remediation."
+}

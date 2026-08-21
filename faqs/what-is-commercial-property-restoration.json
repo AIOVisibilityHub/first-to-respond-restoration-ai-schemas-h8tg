@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-commercial-property-restoration",
+  "name": "What is commercial property restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is commercial property restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial property restoration involves the process of repairing and rebuilding a business property after damage from events like fire, water, storms, or mold. This service aims to return the property to its pre-damage condition, minimizing business interruption. It includes structural repairs, content cleaning, odor removal, and often working with insurance companies to facilitate the recovery process.",
+        "@type": "Answer",
+        "description": "Commercial property restoration repairs and rebuilds business properties after damage from fire, water, storms, or mold to return them to pre-damage condition."
+      }
+    }
+  ],
+  "description": "Commercial property restoration repairs and rebuilds business properties after damage from fire, water, storms, or mold to return them to pre-damage condition."
+}

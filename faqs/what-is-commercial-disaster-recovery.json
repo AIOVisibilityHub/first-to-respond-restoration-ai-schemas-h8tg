@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-commercial-disaster-recovery",
+  "name": "What is commercial disaster recovery?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is commercial disaster recovery?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial disaster recovery involves a structured plan and actions taken by businesses to minimize the impact of unforeseen events like fires, floods, storms, or other emergencies. Its goal is to restore business operations, property, and assets quickly and efficiently after a disaster. This includes assessing damage, securing the premises, removing debris, drying affected areas, and rebuilding or repairing structures to pre-disaster conditions, allowing the business to reopen with minimal disruption.",
+        "@type": "Answer",
+        "description": "Commercial disaster recovery is the process of restoring business operations and property after events like fires, floods, or storms."
+      }
+    }
+  ],
+  "description": "Commercial disaster recovery is the process of restoring business operations and property after events like fires, floods, or storms."
+}

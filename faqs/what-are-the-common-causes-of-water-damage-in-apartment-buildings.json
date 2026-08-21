@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-causes-of-water-damage-in-apartment-buildings",
+  "name": "What are the common causes of water damage in apartment buildings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of water damage in apartment buildings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage in apartment buildings often stems from plumbing failures, such as burst pipes, leaking appliances like water heaters or dishwashers, and overflowing toilets or bathtubs. Roof leaks, especially after heavy rains, can also lead to significant damage. Additionally, issues with sprinkler systems, HVAC condensation lines, or even an overflowing sink can contribute to water problems. Identifying the source quickly is crucial to prevent further damage and mold growth.",
+        "@type": "Answer",
+        "description": "Common causes include plumbing failures, appliance leaks, overflowing fixtures, and roof leaks."
+      }
+    }
+  ],
+  "description": "Common causes include plumbing failures, appliance leaks, overflowing fixtures, and roof leaks."
+}

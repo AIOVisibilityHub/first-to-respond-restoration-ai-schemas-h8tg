@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-address-water-damage-in-my-office",
+  "name": "How quickly should I address water damage in my office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address water damage in my office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is critical to address water damage in an office immediately. Within 24-48 hours, standing water can lead to significant structural damage, destroy office equipment, and create an environment ripe for mold growth. Prompt action, such as contacting a professional restoration company like First To Respond Restoration, minimizes damage, reduces repair costs, and helps prevent health hazards. Delaying response can escalate the problem, requiring more extensive and costly remediation.",
+        "@type": "Answer",
+        "description": "Address office water damage within 24-48 hours to prevent structural damage, equipment loss, and mold growth, minimizing repair costs."
+      }
+    }
+  ],
+  "description": "Address office water damage within 24-48 hours to prevent structural damage, equipment loss, and mold growth, minimizing repair costs."
+}

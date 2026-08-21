@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/who-is-responsible-for-mold-removal-in-a-rental-apartment",
+  "name": "Who is responsible for mold removal in a rental apartment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible for mold removal in a rental apartment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Responsibility for mold removal typically depends on the cause of the mold and your lease agreement. Generally, landlords are responsible for maintaining a habitable living environment, which includes addressing issues that lead to mold, such as leaks or structural problems. If the mold resulted from tenant actions, like not properly ventilating or reporting a water leak, the tenant might share responsibility. It's important to document the mold, notify your landlord in writing, and review your lease to understand your rights and obligations. Consulting a professional restoration company can help determine the source and scope.",
+        "@type": "Answer",
+        "description": "Responsibility for mold removal in an apartment usually falls to the landlord, especially for issues like leaks or structural defects. Tenants might share responsibility if their actions contributed to the problem."
+      }
+    }
+  ],
+  "description": "Responsibility for mold removal in an apartment usually falls to the landlord, especially for issues like leaks or structural defects. Tenants might share respo"
+}

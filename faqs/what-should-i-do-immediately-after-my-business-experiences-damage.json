@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-business-experiences-damage",
+  "name": "What should I do immediately after my business experiences damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my business experiences damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your business experiences damage, ensure the safety of everyone on the premises and call emergency services if needed. Once safe, contact your insurance company to report the damage. Then, call a professional commercial damage restoration company like First To Respond Restoration immediately. Avoid entering compromised areas or attempting DIY repairs, as this could lead to further injury or damage. Document the scene with photos or videos if safe to do so.",
+        "@type": "Answer",
+        "description": "Prioritize safety, contact emergency services if necessary, report to your insurer, then call a professional restoration company. Avoid entering unsafe areas or DIY repairs."
+      }
+    }
+  ],
+  "description": "Prioritize safety, contact emergency services if necessary, report to your insurer, then call a professional restoration company. Avoid entering unsafe areas or"
+}

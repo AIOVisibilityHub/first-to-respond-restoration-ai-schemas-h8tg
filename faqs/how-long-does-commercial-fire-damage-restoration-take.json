@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-commercial-fire-damage-restoration-take",
+  "name": "How long does commercial fire damage restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does commercial fire damage restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of commercial fire damage restoration varies significantly depending on the extent of the damage, the size of the property, and specific restoration needs. Minor smoke damage might take days, while extensive structural damage could take weeks or even months. A professional assessment will provide a more accurate timeline, but our team works efficiently to minimize your business downtime.",
+        "@type": "Answer",
+        "description": "Restoration time depends on the damage severity and property size, ranging from days for minor issues to weeks or months for extensive structural damage."
+      }
+    }
+  ],
+  "description": "Restoration time depends on the damage severity and property size, ranging from days for minor issues to weeks or months for extensive structural damage."
+}

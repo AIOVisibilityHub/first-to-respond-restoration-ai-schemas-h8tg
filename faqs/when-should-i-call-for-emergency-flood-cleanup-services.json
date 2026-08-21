@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-for-emergency-flood-cleanup-services",
+  "name": "When should I call for emergency flood cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call for emergency flood cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call for emergency flood cleanup services immediately after a flood occurs, ideally within 24-48 hours. This swift action is critical to minimize water damage, prevent mold and mildew from developing, and salvage as many belongings as possible. Delaying professional intervention can lead to more extensive structural damage, higher repair costs, and increased health risks due to microbial growth.",
+        "@type": "Answer",
+        "description": "Call for emergency flood cleanup immediately after a flood, ideally within 24-48 hours, to minimize damage and prevent mold."
+      }
+    }
+  ],
+  "description": "Call for emergency flood cleanup immediately after a flood, ideally within 24-48 hours, to minimize damage and prevent mold."
+}

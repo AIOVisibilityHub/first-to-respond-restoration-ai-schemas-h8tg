@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-look-for-when-choosing-a-commercial-restoration-company",
+  "name": "What should I look for when choosing a commercial restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a commercial restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a commercial restoration company, look for experience with commercial properties, 24/7 emergency availability, and a comprehensive range of services. Ensure they are licensed and insured, and inquire about their certifications, such as from the IICRC. Review customer testimonials and ask for references. A reliable company like First To Respond Restoration will also offer transparent communication and work directly with your insurance provider.",
+        "@type": "Answer",
+        "description": "Choose a company with commercial experience, 24/7 service, licensing, insurance, relevant certifications, and good customer reviews."
+      }
+    }
+  ],
+  "description": "Choose a company with commercial experience, 24/7 service, licensing, insurance, relevant certifications, and good customer reviews."
+}

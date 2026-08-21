@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-commercial-damage-restoration",
+  "name": "What is commercial damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is commercial damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial damage restoration is the process of repairing and rebuilding commercial properties after events such as fire, water damage, mold, or natural disasters. It involves initial assessment, emergency mitigation services like water extraction or board-up, structural drying, cleaning, sanitization, and reconstruction. The goal is to restore the business property to its pre-loss condition as quickly and efficiently as possible to minimize business interruption.",
+        "@type": "Answer",
+        "description": "Commercial damage restoration repairs and rebuilds business properties after fire, water, mold, or storm damage, aiming to restore them to pre-loss condition."
+      }
+    }
+  ],
+  "description": "Commercial damage restoration repairs and rebuilds business properties after fire, water, mold, or storm damage, aiming to restore them to pre-loss condition."
+}

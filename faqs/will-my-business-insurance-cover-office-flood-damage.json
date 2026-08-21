@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-business-insurance-cover-office-flood-damage",
+  "name": "Will my business insurance cover office flood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my business insurance cover office flood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most commercial property insurance policies cover sudden and accidental water damage, such as a burst pipe or appliance malfunction. However, damage from external flooding (e.g., heavy rain, river overflow) is typically covered only if you have a separate flood insurance policy, often obtained through the National Flood Insurance Program (NFIP). It's crucial to review your specific policy details or consult with your insurance agent to understand your coverage limitations and requirements for filing a claim. A professional restoration company can assist with documentation for your insurance provider.",
+        "@type": "Answer",
+        "description": "Commercial property insurance usually covers sudden internal water damage, but external flood damage requires a separate flood insurance policy. Review your policy for specifics."
+      }
+    }
+  ],
+  "description": "Commercial property insurance usually covers sudden internal water damage, but external flood damage requires a separate flood insurance policy. Review your pol"
+}

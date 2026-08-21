@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/which-areas-do-you-serve-for-storm-damage-restoration",
+  "name": "Which areas do you serve for storm damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas do you serve for storm damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide emergency storm damage restoration services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to respond quickly to these areas to assess damage, secure your property, and begin the necessary restoration work. If you are located in these communities and have experienced storm damage, please contact us for immediate assistance.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for emergency storm damage restoration."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for emergency storm damage restoration."
+}

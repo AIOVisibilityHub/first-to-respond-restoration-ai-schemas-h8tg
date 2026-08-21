@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-house-floods-from-a-storm",
+  "name": "What should I do immediately after my house floods from a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my house floods from a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount. Turn off electricity and gas if it's safe to do so. Avoid contact with floodwater, as it may contain contaminants or electrical hazards. Document the damage with photos and videos for insurance purposes. Contact your insurance provider promptly and then call a professional restoration company like First To Respond Restoration to assess the damage and begin water extraction and drying to prevent further issues like mold growth.",
+        "@type": "Answer",
+        "description": "Prioritize safety by turning off utilities. Document damage for insurance and then contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Prioritize safety by turning off utilities. Document damage for insurance and then contact a professional restoration company."
+}

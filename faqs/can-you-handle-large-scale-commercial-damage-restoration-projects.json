@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-you-handle-large-scale-commercial-damage-restoration-projects",
+  "name": "Can you handle large-scale commercial damage restoration projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you handle large-scale commercial damage restoration projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration is equipped to manage large-scale commercial damage restoration projects. We have the resources, specialized equipment, and experienced personnel necessary to address extensive damage in commercial properties of various sizes and complexities. Our team can coordinate with property managers, business owners, and insurance adjusters to ensure a streamlined and effective restoration process, getting your operations back on track efficiently.",
+        "@type": "Answer",
+        "description": "Yes, we are equipped for large-scale commercial damage restoration projects, with resources and personnel to handle extensive damage in various properties."
+      }
+    }
+  ],
+  "description": "Yes, we are equipped for large-scale commercial damage restoration projects, with resources and personnel to handle extensive damage in various properties."
+}

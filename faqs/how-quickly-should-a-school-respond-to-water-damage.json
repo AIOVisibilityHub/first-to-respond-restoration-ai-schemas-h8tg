@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-a-school-respond-to-water-damage",
+  "name": "How quickly should a school respond to water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should a school respond to water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediate action is critical when water damage occurs in a school. Water can quickly penetrate building materials, leading to accelerated deterioration and potential mold growth within 24-48 hours. A rapid response helps minimize structural damage, reduces remediation costs, and ensures a healthier environment for students and staff. Contacting a professional restoration company within hours of discovery is ideal to begin water extraction and drying processes promptly.",
+        "@type": "Answer",
+        "description": "Schools should respond immediately to water damage, ideally within hours. This prevents extensive structural damage and mold growth, which can start within 24-48 hours."
+      }
+    }
+  ],
+  "description": "Schools should respond immediately to water damage, ideally within hours. This prevents extensive structural damage and mold growth, which can start within 24-4"
+}

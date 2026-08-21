@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-hidden-moisture-or-mold-after-a-flood",
+  "name": "What are the signs of hidden moisture or mold after a flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of hidden moisture or mold after a flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a flood, watch for several signs of hidden moisture or mold. These include a persistent musty or earthy odor, visible discoloration or staining on walls, ceilings, or floors, peeling paint or wallpaper, and warping of wood materials. Additionally, if you experience increased respiratory issues, sneezing, or irritation after the flood, it could indicate mold growth. A professional inspection can detect hidden moisture and mold before it becomes a larger problem.",
+        "@type": "Answer",
+        "description": "Look for musty odors, discoloration, peeling paint, warping wood, or respiratory symptoms. A professional can detect hidden moisture and mold."
+      }
+    }
+  ],
+  "description": "Look for musty odors, discoloration, peeling paint, warping wood, or respiratory symptoms. A professional can detect hidden moisture and mold."
+}

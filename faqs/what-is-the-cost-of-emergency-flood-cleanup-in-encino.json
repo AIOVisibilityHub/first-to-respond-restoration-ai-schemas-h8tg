@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-of-emergency-flood-cleanup-in-encino",
+  "name": "What is the cost of emergency flood cleanup in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of emergency flood cleanup in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of emergency flood cleanup in Encino depends on several factors, including the scope of water damage, the type of water (e.g., clean, gray, black), the affected area's size, and the materials needing restoration or replacement. We provide a detailed estimate after assessing your property. Our services are often covered by homeowner's insurance, and we can assist with the claims process.",
+        "@type": "Answer",
+        "description": "Flood cleanup costs in Encino vary based on damage scope, water type, and affected area size. We provide estimates and assist with insurance claims."
+      }
+    }
+  ],
+  "description": "Flood cleanup costs in Encino vary based on damage scope, water type, and affected area size. We provide estimates and assist with insurance claims."
+}

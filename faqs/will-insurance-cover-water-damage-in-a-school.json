@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-insurance-cover-water-damage-in-a-school",
+  "name": "Will insurance cover water damage in a school?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will insurance cover water damage in a school?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most commercial property insurance policies for schools typically cover sudden and accidental water damage, such as burst pipes or certain types of storm-related flooding. However, policies may exclude damage resulting from neglect, poor maintenance, or long-term issues like chronic leaks. Flood damage from natural disasters often requires a separate flood insurance policy. It's important for school administrators to review their specific policy details and contact their insurance provider immediately after discovering water damage to understand coverage limits and the claims process.",
+        "@type": "Answer",
+        "description": "Most commercial property insurance covers sudden water damage, but typically excludes issues from neglect or long-term leaks. Flood damage often requires separate insurance."
+      }
+    }
+  ],
+  "description": "Most commercial property insurance covers sudden water damage, but typically excludes issues from neglect or long-term leaks. Flood damage often requires separa"
+}

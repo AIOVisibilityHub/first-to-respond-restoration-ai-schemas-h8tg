@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-measures-can-my-business-take-to-prepare-for-a-disaster",
+  "name": "What measures can my business take to prepare for a disaster?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measures can my business take to prepare for a disaster?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Businesses can take several proactive measures to prepare for disasters. Develop a comprehensive emergency plan that includes communication protocols, evacuation routes, and data backup procedures. Conduct regular risk assessments to identify potential vulnerabilities. Maintain adequate insurance coverage and keep important documents secure and accessible off-site. Additionally, having a professional disaster recovery company on call can significantly expedite response and recovery efforts when an event occurs.",
+        "@type": "Answer",
+        "description": "Prepare by developing emergency plans, conducting risk assessments, securing important documents, and having a disaster recovery company on call."
+      }
+    }
+  ],
+  "description": "Prepare by developing emergency plans, conducting risk assessments, securing important documents, and having a disaster recovery company on call."
+}

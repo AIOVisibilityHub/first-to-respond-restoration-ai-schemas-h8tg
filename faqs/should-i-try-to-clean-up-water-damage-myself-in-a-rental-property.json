@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/should-i-try-to-clean-up-water-damage-myself-in-a-rental-property",
+  "name": "Should I try to clean up water damage myself in a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to clean up water damage myself in a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor spills, you might be able to clean it yourself. However, for anything more significant than a small puddle, it's strongly recommended to call professionals. Water damage can quickly lead to hidden moisture in walls, flooring, and structural elements, fostering mold growth and compromising building integrity. Professionals have specialized equipment to detect hidden moisture, thoroughly dry affected areas, and prevent secondary damage. Attempting a DIY cleanup for significant damage could lead to greater issues later.",
+        "@type": "Answer",
+        "description": "For anything more than a small spill, professional cleanup is recommended. Hidden moisture can lead to mold and structural issues that DIY efforts often miss."
+      }
+    }
+  ],
+  "description": "For anything more than a small spill, professional cleanup is recommended. Hidden moisture can lead to mold and structural issues that DIY efforts often miss."
+}

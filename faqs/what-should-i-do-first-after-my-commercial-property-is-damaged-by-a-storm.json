@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-first-after-my-commercial-property-is-damaged-by-a-storm",
+  "name": "What should I do first after my commercial property is damaged by a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first after my commercial property is damaged by a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring the safety of all occupants, your first step should be to contact a professional commercial storm damage restoration company like First To Respond Restoration. While waiting for professionals, you can take photos or videos of the damage for insurance purposes and cover broken windows or holes with tarps if it's safe to do so. Avoid entering areas with structural damage or electrical hazards. Also, notify your insurance provider as soon as possible to start the claims process.",
+        "@type": "Answer",
+        "description": "First, ensure safety, then contact a professional restoration company immediately. Document damage for insurance and avoid unsafe areas. Also, notify your insurance provider."
+      }
+    }
+  ],
+  "description": "First, ensure safety, then contact a professional restoration company immediately. Document damage for insurance and avoid unsafe areas. Also, notify your insur"
+}

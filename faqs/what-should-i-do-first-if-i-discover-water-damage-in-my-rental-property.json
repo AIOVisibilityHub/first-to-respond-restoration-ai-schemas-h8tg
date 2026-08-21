@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-first-if-i-discover-water-damage-in-my-rental-property",
+  "name": "What should I do first if I discover water damage in my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I discover water damage in my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover water damage, first prioritize safety by turning off the main water supply to prevent further leakage and shutting off electricity to affected areas. Contact your landlord or property management immediately to report the damage. Document everything with photos and videos before any cleanup begins. Then, reach out to a professional water damage restoration company for assessment and mitigation. Acting quickly can prevent more extensive damage and mold growth, which is crucial in a rental setting.",
+        "@type": "Answer",
+        "description": "Immediately turn off water and electricity, report to your landlord, document the damage, and then contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately turn off water and electricity, report to your landlord, document the damage, and then contact a professional restoration company."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-the-flood-cleanup-process-take",
+  "name": "How long does the flood cleanup process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the flood cleanup process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of flood cleanup varies depending on the extent of the damage, the type of water involved, and the size of the affected area. A typical residential cleanup might take anywhere from a few days to several weeks. Initial water extraction and drying can be completed quickly, but thorough structural drying and potential repairs take longer. We provide an estimated timeline after our initial assessment.",
+        "@type": "Answer",
+        "description": "Flood cleanup duration varies based on damage extent and area size, typically ranging from a few days to several weeks."
+      }
+    }
+  ],
+  "description": "Flood cleanup duration varies based on damage extent and area size, typically ranging from a few days to several weeks."
+}

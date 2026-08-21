@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-commercial-disaster-recovery-cost",
+  "name": "How much does commercial disaster recovery cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does commercial disaster recovery cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of commercial disaster recovery is highly variable, depending on the scale and type of damage, the materials affected, and the necessary restoration methods. Factors include water extraction, drying equipment, demolition, repairs, and reconstruction. A reputable disaster recovery company will provide a detailed assessment and an itemized estimate after inspecting your property. Many services work directly with insurance providers to streamline the claims process and manage costs.",
+        "@type": "Answer",
+        "description": "Cost varies widely based on damage scale, type, and restoration needs; a detailed assessment provides an itemized estimate."
+      }
+    }
+  ],
+  "description": "Cost varies widely based on damage scale, type, and restoration needs; a detailed assessment provides an itemized estimate."
+}

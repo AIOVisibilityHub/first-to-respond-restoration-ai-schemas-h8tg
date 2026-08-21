@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-myself-or-should-i-hire-a-professional",
+  "name": "Can I remove mold myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small areas of surface mold (less than 10 square feet) on non-porous materials, you might be able to clean it yourself using appropriate safety gear and cleaning solutions. However, for larger infestations, mold that has penetrated porous materials like drywall or carpets, or if you suspect hidden mold behind walls, professional remediation is highly recommended. Professionals have specialized equipment, training, and containment procedures to safely remove mold, prevent its spread, and address the underlying moisture source, ensuring a thorough and lasting solution. Attempting large-scale removal yourself can worsen the problem or expose you to health risks.",
+        "@type": "Answer",
+        "description": "Small areas of surface mold on non-porous materials might be DIY-friendly. For larger infestations, porous materials, or hidden mold, professional remediation is recommended to ensure safe and thorough removal."
+      }
+    }
+  ],
+  "description": "Small areas of surface mold on non-porous materials might be DIY-friendly. For larger infestations, porous materials, or hidden mold, professional remediation i"
+}

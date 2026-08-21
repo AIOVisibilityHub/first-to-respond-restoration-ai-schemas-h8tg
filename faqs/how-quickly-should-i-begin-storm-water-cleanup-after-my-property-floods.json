@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-begin-storm-water-cleanup-after-my-property-floods",
+  "name": "How quickly should I begin storm water cleanup after my property floods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I begin storm water cleanup after my property floods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should initiate storm water cleanup as quickly as possible, ideally within 24 to 48 hours of water intrusion. The longer water sits, the greater the risk of mold growth, structural damage to walls, floors, and foundations, and irreversible damage to personal belongings. Prompt action by a professional restoration company can significantly reduce the extent of damage and the overall cost of restoration.",
+        "@type": "Answer",
+        "description": "Begin storm water cleanup within 24 to 48 hours to minimize structural damage, mold growth, and further property loss."
+      }
+    }
+  ],
+  "description": "Begin storm water cleanup within 24 to 48 hours to minimize structural damage, mold growth, and further property loss."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-look-for-when-choosing-a-commercial-water-damage-restoration-compa",
+  "name": "What should I look for when choosing a commercial water damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a commercial water damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a restoration company, look for certifications from organizations like IICRC (Institute of Inspection, Cleaning and Restoration Certification), indicating adherence to industry standards. Verify they have experience with commercial properties, offer 24/7 emergency services, and can provide references. It's also beneficial if they can assist with the insurance claims process. Choose a local company familiar with areas like Encino and North Hollywood for faster response times.",
+        "@type": "Answer",
+        "description": "Choose a company with IICRC certifications, commercial experience, 24/7 emergency service, and good references, preferably local."
+      }
+    }
+  ],
+  "description": "Choose a company with IICRC certifications, commercial experience, 24/7 emergency service, and good references, preferably local."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-a-retail-store-call-an-emergency-restoration-company-for-water-damag",
+  "name": "When should a retail store call an emergency restoration company for water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should a retail store call an emergency restoration company for water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A retail store should call an emergency restoration company immediately after any significant water intrusion, regardless of the time of day. This includes incidents like burst pipes, roof leaks during heavy rain, sewer backups, or sprinkler system malfunctions. Rapid response is critical because the longer water sits, the more damage it causes, increasing the risk of mold growth, structural deterioration, and inventory loss. Emergency services ensure quick water extraction and drying commence as soon as possible, minimizing business downtime and overall recovery costs.",
+        "@type": "Answer",
+        "description": "Call an emergency restoration company immediately after any significant water intrusion, like burst pipes or severe leaks, to minimize damage and prevent mold."
+      }
+    }
+  ],
+  "description": "Call an emergency restoration company immediately after any significant water intrusion, like burst pipes or severe leaks, to minimize damage and prevent mold."
+}

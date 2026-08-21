@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-address-water-damage-in-my-restaurant",
+  "name": "How quickly should I address water damage in my restaurant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address water damage in my restaurant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing water damage immediately is critical for a restaurant. Within 24-48 hours, mold can begin to grow, which poses health risks and can lead to costly remediation. Prompt action minimizes structural damage to floors, walls, and ceilings, and helps protect equipment and inventory. A rapid response also reduces business downtime and potential revenue loss. Contacting a professional restoration service quickly is essential.",
+        "@type": "Answer",
+        "description": "You should address water damage immediately; mold can begin to grow within 24-48 hours, causing further damage and health risks."
+      }
+    }
+  ],
+  "description": "You should address water damage immediately; mold can begin to grow within 24-48 hours, causing further damage and health risks."
+}

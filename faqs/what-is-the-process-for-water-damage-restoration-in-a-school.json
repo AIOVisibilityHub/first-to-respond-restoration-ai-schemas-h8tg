@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-water-damage-restoration-in-a-school",
+  "name": "What is the process for water damage restoration in a school?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for water damage restoration in a school?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water damage restoration process typically begins with an assessment to determine the extent of damage and the water source. Next, water extraction removes standing water using powerful pumps and vacuums. Following extraction, industrial-grade dehumidifiers and air movers are used for structural drying to remove moisture from building materials. Cleaning and sanitization steps address contaminants and prevent mold. Finally, repairs and reconstruction restore the affected areas to their pre-damage condition, often involving drywall replacement, flooring repair, and painting.",
+        "@type": "Answer",
+        "description": "The process involves assessment, water extraction, structural drying, cleaning and sanitization, and finally, repairs and reconstruction to restore the affected areas."
+      }
+    }
+  ],
+  "description": "The process involves assessment, water extraction, structural drying, cleaning and sanitization, and finally, repairs and reconstruction to restore the affected"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-commercial-fire-damage-restoration-company",
+  "name": "How do I choose the right commercial fire damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right commercial fire damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a restoration company, look for one with extensive experience in commercial properties, relevant certifications (like IICRC), and a proven track record. Verify their availability for emergency services, their ability to handle insurance claims, and their commitment to clear communication. A local company with a good reputation, like First To Respond Restoration, can offer quick response times and personalized service.",
+        "@type": "Answer",
+        "description": "Choose a company with commercial experience, certifications, emergency availability, good insurance claim support, and strong local reputation."
+      }
+    }
+  ],
+  "description": "Choose a company with commercial experience, certifications, emergency availability, good insurance claim support, and strong local reputation."
+}

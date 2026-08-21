@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-you-respond-to-a-commercial-property-emergency",
+  "name": "How quickly can you respond to a commercial property emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can you respond to a commercial property emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We understand that time is critical in a commercial emergency. First To Respond Restoration provides 24/7 emergency response services. Our teams are dispatched immediately upon receiving your call, aiming to arrive on-site within hours, depending on location and traffic conditions in areas like Encino, North Hollywood, or Studio City. Rapid response helps prevent further damage and accelerates the restoration process, getting your business back on track sooner.",
+        "@type": "Answer",
+        "description": "First To Respond Restoration offers 24/7 emergency response and aims to be on-site within hours of your call."
+      }
+    }
+  ],
+  "description": "First To Respond Restoration offers 24/7 emergency response and aims to be on-site within hours of your call."
+}

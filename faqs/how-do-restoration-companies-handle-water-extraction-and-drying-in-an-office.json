@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-restoration-companies-handle-water-extraction-and-drying-in-an-office",
+  "name": "How do restoration companies handle water extraction and drying in an office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do restoration companies handle water extraction and drying in an office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional restoration companies use industrial-grade equipment for efficient water extraction and drying. This typically involves powerful pumps and wet vacuums to remove bulk water. Following extraction, specialized air movers and commercial dehumidifiers are strategically placed to circulate air and reduce humidity, preventing secondary damage and mold growth. Moisture meters and thermal imaging cameras are used to detect hidden moisture within walls, ceilings, and floors. This precise monitoring ensures thorough drying, preventing long-term issues that can arise from incomplete moisture removal.",
+        "@type": "Answer",
+        "description": "Restoration companies use industrial pumps, wet vacuums, air movers, and dehumidifiers for water extraction and drying, using moisture meters to ensure thoroughness."
+      }
+    }
+  ],
+  "description": "Restoration companies use industrial pumps, wet vacuums, air movers, and dehumidifiers for water extraction and drying, using moisture meters to ensure thorough"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-my-commercial-insurance-cover-storm-damage-restoration",
+  "name": "Does my commercial insurance cover storm damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my commercial insurance cover storm damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most commercial property insurance policies include coverage for damage caused by sudden and accidental events like storms, including wind, hail, and lightning. However, coverage details can vary, especially regarding flood damage, which often requires a separate policy. It's crucial to review your specific policy documents or contact your insurance provider directly to understand what is covered, your deductible, and the claims process. A professional restoration company can often assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Many commercial insurance policies cover storm damage, but details vary, especially for flood. Review your policy or contact your provider to understand your specific coverage."
+      }
+    }
+  ],
+  "description": "Many commercial insurance policies cover storm damage, but details vary, especially for flood. Review your policy or contact your provider to understand your sp"
+}

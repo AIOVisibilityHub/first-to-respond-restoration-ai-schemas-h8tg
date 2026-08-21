@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-mold-remediation-company-for-my-office-building",
+  "name": "How do I choose a mold remediation company for my office building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a mold remediation company for my office building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a mold remediation company for your office building, look for a licensed and insured company with specific experience in commercial properties. Verify their certifications, such as those from the IICRC (Institute of Inspection, Cleaning and Restoration Certification). Inquire about their process, including containment procedures, equipment used, and post-remediation verification. Ask for references from other businesses and ensure they offer a detailed estimate. Transparency, professionalism, and a comprehensive approach to moisture source identification and repair are key indicators of a reputable company.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and certified company with commercial experience, good references, and a clear process."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and certified company with commercial experience, good references, and a clear process."
+}

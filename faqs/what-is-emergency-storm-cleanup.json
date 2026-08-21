@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-emergency-storm-cleanup",
+  "name": "What is emergency storm cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is emergency storm cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency storm cleanup involves the urgent removal of debris, water, and damaged structures from your property after a severe storm. This service addresses hazards like fallen trees, floodwaters, damaged roofs, and compromised building elements to prevent further damage, ensure safety, and begin the restoration process. It often includes water extraction, drying, debris removal, and initial structural repairs.",
+        "@type": "Answer",
+        "description": "Emergency storm cleanup is the urgent removal of debris, water, and damaged structures from your property after a severe storm to ensure safety and prevent further damage."
+      }
+    }
+  ],
+  "description": "Emergency storm cleanup is the urgent removal of debris, water, and damaged structures from your property after a severe storm to ensure safety and prevent furt"
+}

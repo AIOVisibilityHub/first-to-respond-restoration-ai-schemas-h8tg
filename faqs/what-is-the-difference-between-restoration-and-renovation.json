@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-restoration-and-renovation",
+  "name": "What is the difference between restoration and renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between restoration and renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration focuses on returning a damaged property to its pre-loss condition, emphasizing repair and cleanup after an event like fire or water damage. The goal is to salvage and restore existing structures and contents as much as possible. Renovation, on the other hand, involves updating or improving a property, often changing its design, functionality, or aesthetic. While restoration may involve some reconstruction, its primary aim is to recover from damage, not to remodel.",
+        "@type": "Answer",
+        "description": "Restoration repairs a property to its pre-loss state after damage, while renovation updates or improves a property, often changing its design."
+      }
+    }
+  ],
+  "description": "Restoration repairs a property to its pre-loss state after damage, while renovation updates or improves a property, often changing its design."
+}

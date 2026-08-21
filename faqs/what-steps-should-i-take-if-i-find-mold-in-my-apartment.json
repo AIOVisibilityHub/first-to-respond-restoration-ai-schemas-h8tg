@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-i-take-if-i-find-mold-in-my-apartment",
+  "name": "What steps should I take if I find mold in my apartment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take if I find mold in my apartment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover mold, first, do not disturb it to prevent releasing spores. Document the mold with photos and videos, noting its location and size. Immediately notify your landlord or property management in writing, detailing your findings and requesting prompt action. Avoid trying to clean extensive mold yourself without proper safety equipment. Ensure adequate ventilation in your apartment and try to address any obvious moisture sources, such as wiping up spills. Contact a professional restoration service for an assessment, especially if the mold is widespread or you suspect it's hidden.",
+        "@type": "Answer",
+        "description": "If you find mold, document it, notify your landlord in writing, and avoid disturbing it. For widespread or hidden mold, contact a professional restoration service for assessment."
+      }
+    }
+  ],
+  "description": "If you find mold, document it, notify your landlord in writing, and avoid disturbing it. For widespread or hidden mold, contact a professional restoration servi"
+}

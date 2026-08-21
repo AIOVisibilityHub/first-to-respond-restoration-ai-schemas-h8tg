@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-a-contractor-or-a-specialized-storm-restoration-company-for-storm-dama",
+  "name": "Do I need a contractor or a specialized storm restoration company for storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a contractor or a specialized storm restoration company for storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For extensive storm damage, a specialized storm restoration company is generally more appropriate than a general contractor. Restoration companies are equipped with specific tools, training, and experience in handling complex damage scenarios like water intrusion, mold remediation, and structural drying, in addition to general construction. They are also typically more experienced with insurance claims processes related to storm events.",
+        "@type": "Answer",
+        "description": "For extensive storm damage, a specialized storm restoration company is often better than a general contractor due to specialized equipment, training, and insurance claim experience."
+      }
+    }
+  ],
+  "description": "For extensive storm damage, a specialized storm restoration company is often better than a general contractor due to specialized equipment, training, and insura"
+}

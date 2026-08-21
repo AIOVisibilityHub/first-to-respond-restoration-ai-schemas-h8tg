@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-sources-of-water-damage-in-commercial-buildings",
+  "name": "What are common sources of water damage in commercial buildings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common sources of water damage in commercial buildings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage in commercial buildings can stem from various sources. These often include burst pipes, leaky roofs, overflowing toilets or sinks, malfunctioning HVAC systems, sewer backups, and severe weather events like heavy rain or flooding. Regular maintenance and inspections can help identify and mitigate some of these risks before they cause extensive damage to your property in areas like Encino or North Hollywood.",
+        "@type": "Answer",
+        "description": "Common sources include burst pipes, roof leaks, HVAC malfunctions, sewer backups, and severe weather events."
+      }
+    }
+  ],
+  "description": "Common sources include burst pipes, roof leaks, HVAC malfunctions, sewer backups, and severe weather events."
+}

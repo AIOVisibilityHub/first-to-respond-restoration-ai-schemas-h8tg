@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-warehouse-insurance-cover-water-damage-restoration-costs",
+  "name": "Will my warehouse insurance cover water damage restoration costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my warehouse insurance cover water damage restoration costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether your warehouse insurance covers water damage restoration depends on the specific cause of the damage and your policy's terms. Most commercial property insurance policies cover sudden and accidental water damage, such as from a burst pipe or a leaking sprinkler system. However, damage caused by gradual leaks, neglect, or external flooding (unless you have a separate flood insurance policy) may not be covered. It's essential to review your policy details or contact your insurance provider directly to understand your coverage limitations and claim procedures.",
+        "@type": "Answer",
+        "description": "Coverage for water damage restoration depends on your insurance policy and the cause of the damage; review your policy or contact your provider."
+      }
+    }
+  ],
+  "description": "Coverage for water damage restoration depends on your insurance policy and the cause of the damage; review your policy or contact your provider."
+}

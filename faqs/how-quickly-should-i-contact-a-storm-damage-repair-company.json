@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-contact-a-storm-damage-repair-company",
+  "name": "How quickly should I contact a storm damage repair company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I contact a storm damage repair company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a storm damage repair company as soon as it is safe to do so after a storm. Prompt action can prevent further damage, such as mold growth from water intrusion or structural deterioration. Many companies offer emergency services to secure your property quickly, which can be crucial for minimizing overall repair costs and ensuring safety.",
+        "@type": "Answer",
+        "description": "Contact a storm damage repair company immediately after a storm to prevent further damage and ensure safety. Many offer emergency services."
+      }
+    }
+  ],
+  "description": "Contact a storm damage repair company immediately after a storm to prevent further damage and ensure safety. Many offer emergency services."
+}

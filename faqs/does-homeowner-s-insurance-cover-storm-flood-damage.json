@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-storm-flood-damage",
+  "name": "Does homeowner's insurance cover storm flood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover storm flood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard homeowner's insurance policies typically do not cover flood damage caused by natural disasters like storms. Flood insurance is usually a separate policy, often obtained through the National Flood Insurance Program (NFIP) or private insurers. It's crucial to review your specific policy or contact your insurance agent to understand your coverage for storm-related flooding. We can help you navigate the claims process after you've contacted your insurer.",
+        "@type": "Answer",
+        "description": "Standard homeowner's insurance often excludes storm flood damage; a separate flood insurance policy is usually required. Check your policy or contact your agent."
+      }
+    }
+  ],
+  "description": "Standard homeowner's insurance often excludes storm flood damage; a separate flood insurance policy is usually required. Check your policy or contact your agent"
+}

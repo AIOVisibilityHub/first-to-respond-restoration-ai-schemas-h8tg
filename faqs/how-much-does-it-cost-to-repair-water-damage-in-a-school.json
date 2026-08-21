@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-repair-water-damage-in-a-school",
+  "name": "How much does it cost to repair water damage in a school?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair water damage in a school?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of repairing water damage in a school varies widely based on the extent of damage, the type of water (clean, gray, or black), the size of the affected area, and the materials involved. Minor leaks might require simple drying and repair, while major floods could necessitate extensive reconstruction, mold remediation, and HVAC system overhauls. Restoration companies provide detailed estimates after an initial assessment, often working with school insurance providers to cover eligible costs. It's recommended to get an assessment to understand the scope and potential expenses.",
+        "@type": "Answer",
+        "description": "Costs vary significantly based on damage extent, water type, affected area size, and materials. A professional assessment provides a detailed estimate."
+      }
+    }
+  ],
+  "description": "Costs vary significantly based on damage extent, water type, affected area size, and materials. A professional assessment provides a detailed estimate."
+}

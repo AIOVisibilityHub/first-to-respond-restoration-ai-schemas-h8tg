@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-call-for-professional-commercial-flood-cleanup-after-a-floo",
+  "name": "How quickly should I call for professional commercial flood cleanup after a flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I call for professional commercial flood cleanup after a flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional commercial flood cleanup service immediately after discovering water damage, ideally within 24 to 48 hours. The longer water sits, the greater the risk of mold growth, structural compromise, and irreversible damage to inventory and fixtures. Rapid response helps mitigate secondary damage, reduces overall restoration costs, and speeds up the recovery process for your business.",
+        "@type": "Answer",
+        "description": "Contact a professional commercial flood cleanup service immediately, ideally within 24-48 hours, to prevent mold growth and further damage."
+      }
+    }
+  ],
+  "description": "Contact a professional commercial flood cleanup service immediately, ideally within 24-48 hours, to prevent mold growth and further damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-water-damage-lead-to-mold-in-school-buildings",
+  "name": "Can water damage lead to mold in school buildings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water damage lead to mold in school buildings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, water damage in school buildings very commonly leads to mold growth if not addressed quickly and thoroughly. Mold spores are ubiquitous and only require moisture, warmth, and an organic food source (like drywall, wood, or ceiling tiles) to germinate and spread. If water-damaged areas are not properly dried within 24-48 hours, mold can begin to grow, often hidden within walls or under flooring. Professional remediation is often necessary to safely remove mold and prevent recurrence.",
+        "@type": "Answer",
+        "description": "Yes, water damage frequently leads to mold growth if areas aren't thoroughly dried within 24-48 hours. Mold spores need moisture to germinate."
+      }
+    }
+  ],
+  "description": "Yes, water damage frequently leads to mold growth if areas aren't thoroughly dried within 24-48 hours. Mold spores need moisture to germinate."
+}

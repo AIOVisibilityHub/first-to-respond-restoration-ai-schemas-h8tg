@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-business-insurance-cover-water-damage-in-my-office",
+  "name": "Will my business insurance cover water damage in my office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my business insurance cover water damage in my office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most business insurance policies cover sudden and accidental water damage, such as a burst pipe or an overflowing toilet. However, damage from floods, gradual leaks, or neglected maintenance may not be covered under a standard policy and often requires separate flood insurance or specific endorsements. It is essential to review your specific policy documents or consult with your insurance provider to understand your coverage limits and exclusions. A professional restoration company can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Business insurance often covers sudden water damage, but flood damage or damage from neglected maintenance typically requires separate coverage. Review your policy."
+      }
+    }
+  ],
+  "description": "Business insurance often covers sudden water damage, but flood damage or damage from neglected maintenance typically requires separate coverage. Review your pol"
+}

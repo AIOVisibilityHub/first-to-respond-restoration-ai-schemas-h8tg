@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-my-business-insurance-cover-water-damage-in-my-restaurant",
+  "name": "Does my business insurance cover water damage in my restaurant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my business insurance cover water damage in my restaurant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most commercial property insurance policies include coverage for certain types of water damage. Typically, sudden and accidental water damage, such as from a burst pipe, is covered. However, damage resulting from neglect, maintenance issues, or specific types of flooding (e.g., natural flood not covered by a separate flood insurance policy) may not be. Review your specific policy details or consult your insurance provider to understand your coverage.",
+        "@type": "Answer",
+        "description": "Typically, sudden and accidental water damage is covered by commercial property insurance, but check your specific policy for exclusions like neglect or natural flooding."
+      }
+    }
+  ],
+  "description": "Typically, sudden and accidental water damage is covered by commercial property insurance, but check your specific policy for exclusions like neglect or natural"
+}

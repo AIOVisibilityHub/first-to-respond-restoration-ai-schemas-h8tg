@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-prevent-mold-growth-during-storm-water-cleanup",
+  "name": "How do you prevent mold growth during storm water cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prevent mold growth during storm water cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing mold growth during storm water cleanup is critical. It involves thoroughly extracting all standing water, followed by aggressive drying of all affected porous materials and structural components using industrial air movers and dehumidifiers. Additionally, antimicrobial treatments are applied to inhibit mold spores. Controlling humidity levels and ensuring proper ventilation throughout the drying process are also essential steps to prevent mold from taking hold.",
+        "@type": "Answer",
+        "description": "Mold is prevented by thorough water extraction, aggressive drying with specialized equipment, antimicrobial treatments, and controlling humidity and ventilation."
+      }
+    }
+  ],
+  "description": "Mold is prevented by thorough water extraction, aggressive drying with specialized equipment, antimicrobial treatments, and controlling humidity and ventilation"
+}

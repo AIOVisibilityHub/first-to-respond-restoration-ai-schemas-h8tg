@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-i-take-immediately-after-discovering-water-damage-in-my-restau",
+  "name": "What steps should I take immediately after discovering water damage in my restaurant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take immediately after discovering water damage in my restaurant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering water damage, prioritize safety by turning off the main water supply and electricity to affected areas if safe to do so. Alert staff and customers to any hazards. Contact a professional water damage restoration company immediately. If possible, document the damage with photos or videos for insurance purposes. Avoid attempting to clean up extensive damage yourself, as this can worsen the situation or expose you to contaminants. Your quick response can significantly reduce overall damage.",
+        "@type": "Answer",
+        "description": "Immediately turn off water and power (if safe), notify staff, document damage, and call a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately turn off water and power (if safe), notify staff, document damage, and call a professional restoration company."
+}

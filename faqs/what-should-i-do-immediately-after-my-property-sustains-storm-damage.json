@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-property-sustains-storm-damage",
+  "name": "What should I do immediately after my property sustains storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my property sustains storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring personal safety, the first step is to prevent further damage. This might involve temporary repairs like tarping a damaged roof or boarding up broken windows. Document the damage thoroughly with photos and videos for insurance purposes. Then, contact a professional restoration company for a comprehensive assessment and to begin the cleanup and repair process. Avoid entering areas with structural damage or electrical hazards until deemed safe.",
+        "@type": "Answer",
+        "description": "Prioritize safety, prevent further damage, document everything, and contact a professional restoration company for assessment."
+      }
+    }
+  ],
+  "description": "Prioritize safety, prevent further damage, document everything, and contact a professional restoration company for assessment."
+}

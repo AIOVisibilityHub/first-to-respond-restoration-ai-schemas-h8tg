@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-discover-water-damage-in-my-apartment",
+  "name": "What should I do immediately if I discover water damage in my apartment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover water damage in my apartment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover water damage, first ensure your safety and shut off the water supply if the leak is isolated to your unit and safe to do so. Contact your landlord or property management immediately to report the incident. They will guide you on the next steps, which may include contacting a professional water damage restoration company. Document the damage with photos or videos for insurance purposes, but avoid entering areas with standing water or electrical hazards.",
+        "@type": "Answer",
+        "description": "Immediately report it to your landlord, shut off water if safe, and document the damage."
+      }
+    }
+  ],
+  "description": "Immediately report it to your landlord, shut off water if safe, and document the damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-of-mold-in-a-commercial-property",
+  "name": "What are common signs of mold in a commercial property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of mold in a commercial property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold in a commercial property include a persistent musty odor, visible discoloration (patches of black, green, or white) on walls, ceilings, floors, or furnishings, and water stains on surfaces. Employees or tenants may also report unexplained allergy-like symptoms such as sneezing, coughing, watery eyes, or skin irritation. Promptly addressing these signs can help prevent further spread and potential health impacts.",
+        "@type": "Answer",
+        "description": "Common signs are a musty odor, visible discoloration on surfaces, and unexplained allergy-like symptoms among occupants."
+      }
+    }
+  ],
+  "description": "Common signs are a musty odor, visible discoloration on surfaces, and unexplained allergy-like symptoms among occupants."
+}

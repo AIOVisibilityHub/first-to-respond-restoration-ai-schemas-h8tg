@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-sources-of-water-damage-in-an-office-building",
+  "name": "What are common sources of water damage in an office building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common sources of water damage in an office building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage in an office can stem from various issues, including plumbing leaks from pipes or fixtures, burst water heaters, HVAC system malfunctions leading to condensation overflows, or roof leaks during heavy rain. External factors like foundation cracks, blocked drains, or flash floods can also cause significant damage. Even small, undetected leaks can lead to widespread issues like mold growth and structural weakening over time, making prompt detection and repair crucial for maintaining a healthy and safe office environment.",
+        "@type": "Answer",
+        "description": "Common sources of office water damage include plumbing leaks, burst pipes, HVAC overflows, roof leaks, and external flooding issues."
+      }
+    }
+  ],
+  "description": "Common sources of office water damage include plumbing leaks, burst pipes, HVAC overflows, roof leaks, and external flooding issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-business-insurance-cover-commercial-flood-cleanup-costs",
+  "name": "Will my business insurance cover commercial flood cleanup costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my business insurance cover commercial flood cleanup costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Business insurance coverage for flood cleanup depends on your specific policy. Standard commercial property insurance policies typically cover water damage from internal sources (like burst pipes), but often exclude damage from natural floods. Flood damage usually requires a separate flood insurance policy. It's crucial to review your policy details or consult with your insurance provider to understand your coverage limits and exclusions before or after a flood event.",
+        "@type": "Answer",
+        "description": "Coverage for commercial flood cleanup depends on your specific insurance policy; standard policies may cover internal water damage, but natural floods often require separate flood insurance."
+      }
+    }
+  ],
+  "description": "Coverage for commercial flood cleanup depends on your specific insurance policy; standard policies may cover internal water damage, but natural floods often req"
+}

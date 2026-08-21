@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-evacuate-my-office-building-if-mold-is-found",
+  "name": "Do I need to evacuate my office building if mold is found?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to evacuate my office building if mold is found?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to evacuate your office building due to mold depends on several factors, including the extent of the mold growth, the type of mold, and the health sensitivities of the building occupants. Small, isolated mold issues might not require evacuation, but extensive growth, especially in HVAC systems or areas with high foot traffic, may warrant temporary relocation. A professional mold assessment can help determine the severity of the problem and recommend appropriate safety measures, including whether temporary evacuation or partial area closure is necessary during remediation.",
+        "@type": "Answer",
+        "description": "Evacuation depends on the extent of mold, type of mold, and occupant sensitivities; a professional assessment can advise."
+      }
+    }
+  ],
+  "description": "Evacuation depends on the extent of mold, type of mold, and occupant sensitivities; a professional assessment can advise."
+}

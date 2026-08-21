@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-mold-remediation-take-in-an-apartment",
+  "name": "How long does mold remediation take in an apartment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does mold remediation take in an apartment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold remediation varies significantly based on the size of the mold infestation, the type of materials affected, and the underlying cause. A small, isolated mold patch might be remediated in a day or two. However, larger or more complex cases involving hidden mold, extensive structural damage, or multiple affected areas can take several days to a week or more. This timeframe includes the initial assessment, containment setup, removal, cleaning, drying, and final verification. Our team works efficiently to minimize disruption while ensuring complete and effective mold removal.",
+        "@type": "Answer",
+        "description": "Mold remediation duration depends on the infestation size and complexity. Small cases might take a day or two, while larger or hidden mold issues can extend to several days or over a week."
+      }
+    }
+  ],
+  "description": "Mold remediation duration depends on the infestation size and complexity. Small cases might take a day or two, while larger or hidden mold issues can extend to"
+}

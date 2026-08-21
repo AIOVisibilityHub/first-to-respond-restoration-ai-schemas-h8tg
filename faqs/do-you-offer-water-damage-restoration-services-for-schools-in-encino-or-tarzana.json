@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-water-damage-restoration-services-for-schools-in-encino-or-tarzana",
+  "name": "Do you offer water damage restoration services for schools in Encino or Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer water damage restoration services for schools in Encino or Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides comprehensive water damage restoration services for schools and other commercial properties in Encino, Tarzana, and surrounding areas like North Hollywood and Studio City. Our certified technicians are equipped to handle all aspects of water damage, from emergency water extraction and drying to mold remediation and complete structural repairs. We understand the unique needs of school environments and prioritize rapid response to minimize disruption and ensure a safe return to learning.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration serves schools in Encino, Tarzana, North Hollywood, and Studio City. We offer full water damage restoration, including emergency extraction and mold remediation."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration serves schools in Encino, Tarzana, North Hollywood, and Studio City. We offer full water damage restoration, including emergen"
+}

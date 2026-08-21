@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-commercial-fire-damage-restoration-help-with-odor-removal",
+  "name": "Can commercial fire damage restoration help with odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can commercial fire damage restoration help with odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, odor removal is a critical part of commercial fire damage restoration. Smoke odors can deeply penetrate porous materials and linger long after visible damage is repaired. Our technicians utilize advanced deodorization techniques, such as thermal fogging, ozone treatment, and hydroxyl generators, to neutralize and eliminate these pervasive smells, ensuring your business environment is fresh and clean.",
+        "@type": "Answer",
+        "description": "Yes, we use advanced techniques like thermal fogging and ozone treatment to neutralize and eliminate persistent smoke odors from your business."
+      }
+    }
+  ],
+  "description": "Yes, we use advanced techniques like thermal fogging and ozone treatment to neutralize and eliminate persistent smoke odors from your business."
+}

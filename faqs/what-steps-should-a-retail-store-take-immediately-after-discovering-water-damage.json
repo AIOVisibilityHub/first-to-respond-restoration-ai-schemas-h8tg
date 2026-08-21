@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-a-retail-store-take-immediately-after-discovering-water-damage",
+  "name": "What steps should a retail store take immediately after discovering water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should a retail store take immediately after discovering water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering water damage, a retail store should first prioritize safety by cutting off the power supply if water is near electrical outlets and securing the affected area to prevent customer or employee access. Next, identify and stop the water source if possible. Contact a professional water damage restoration company promptly, as rapid response is crucial to minimize damage and prevent mold growth. Document the damage extensively with photos and videos for insurance purposes. Avoid attempting to clean up large quantities of water yourself, especially if it involves contaminated water, as this requires specialized equipment and expertise.",
+        "@type": "Answer",
+        "description": "Immediately secure the area, stop the water source if safe, and contact a professional restoration company. Document all damage for insurance."
+      }
+    }
+  ],
+  "description": "Immediately secure the area, stop the water source if safe, and contact a professional restoration company. Document all damage for insurance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-disaster-restoration-and-property-repair",
+  "name": "What is the difference between disaster restoration and property repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between disaster restoration and property repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Disaster restoration is a comprehensive process that begins immediately after a disaster, focusing on mitigating further damage, cleaning, drying, sanitizing, and removing affected materials. It's about bringing the property back to a safe and stable condition. Property repair, or reconstruction, is typically a part of the restoration process that follows, specifically dealing with rebuilding or fixing structural elements and finishes to return the property to its pre-loss state. Restoration encompasses the entire emergency response and recovery effort, while repair is the construction phase.",
+        "@type": "Answer",
+        "description": "Disaster restoration is the overall emergency response and recovery process, while property repair is the subsequent reconstruction phase to fix damage."
+      }
+    }
+  ],
+  "description": "Disaster restoration is the overall emergency response and recovery process, while property repair is the subsequent reconstruction phase to fix damage."
+}

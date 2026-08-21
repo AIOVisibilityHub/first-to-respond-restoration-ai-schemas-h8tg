@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-immediate-steps-to-take-after-an-office-flood",
+  "name": "What are the immediate steps to take after an office flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the immediate steps to take after an office flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is the first priority. Turn off the electricity to affected areas if safe to do so. Avoid entering areas with standing water, especially if electrical outlets are submerged. Document the damage extensively with photos and videos for insurance purposes. Begin removing valuable items, electronics, and documents to a dry, secure location. Do not attempt to use household vacuums to remove water, as this can be dangerous. Contact a professional water damage restoration company promptly to assess the situation and mitigate further damage. Quick action can significantly reduce long-term structural and mold issues.",
+        "@type": "Answer",
+        "description": "Prioritize safety by turning off electricity and avoiding standing water. Document damage, move valuables, and contact a professional restoration company immediately."
+      }
+    }
+  ],
+  "description": "Prioritize safety by turning off electricity and avoiding standing water. Document damage, move valuables, and contact a professional restoration company immedi"
+}

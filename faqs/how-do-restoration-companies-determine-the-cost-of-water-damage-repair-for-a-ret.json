@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-restoration-companies-determine-the-cost-of-water-damage-repair-for-a-ret",
+  "name": "How do restoration companies determine the cost of water damage repair for a retail store?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do restoration companies determine the cost of water damage repair for a retail store?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration companies determine the cost of water damage repair by assessing several factors. These include the category of water (clean, gray, black) and the class of damage (how much of the area is affected), which dictate the complexity of the cleanup. They also consider the type and amount of affected materials (e.g., carpet, wood, drywall, merchandise), the necessary equipment for extraction and drying, and the labor involved. Any required demolition, anti-microbial treatments, and reconstruction work will also factor into the total estimate. Most reputable companies provide a detailed, itemized estimate after an on-site inspection.",
+        "@type": "Answer",
+        "description": "Costs are determined by the water category, damage class, affected materials, equipment needed, labor, and any required reconstruction. A detailed estimate is provided after inspection."
+      }
+    }
+  ],
+  "description": "Costs are determined by the water category, damage class, affected materials, equipment needed, labor, and any required reconstruction. A detailed estimate is p"
+}

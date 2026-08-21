@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-office-flood-cleanup-typically-take",
+  "name": "How long does office flood cleanup typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does office flood cleanup typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of office flood cleanup varies greatly depending on the extent of the damage, the source of the water, and the materials affected. A minor flood involving a small area might be dried and sanitized within 3-5 days. However, severe flooding impacting multiple rooms, structural elements, or requiring extensive demolition and reconstruction can take several weeks to complete. Factors like the type of building materials, humidity levels, and promptness of response also influence the timeline. A professional assessment will provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Cleanup time varies from 3-5 days for minor floods to several weeks for severe damage, depending on the extent, water source, and affected materials."
+      }
+    }
+  ],
+  "description": "Cleanup time varies from 3-5 days for minor floods to several weeks for severe damage, depending on the extent, water source, and affected materials."
+}

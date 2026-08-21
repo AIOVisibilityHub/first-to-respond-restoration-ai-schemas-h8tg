@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-look-for-when-choosing-a-commercial-flood-cleanup-company",
+  "name": "What should I look for when choosing a commercial flood cleanup company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a commercial flood cleanup company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a commercial flood cleanup company, look for certifications from organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), indicating adherence to industry standards. Verify their experience with commercial properties, check for 24/7 emergency response, and ensure they are licensed and insured. Also, consider their reputation, client testimonials, and ability to provide a clear, transparent estimate.",
+        "@type": "Answer",
+        "description": "Choose a company with IICRC certifications, commercial property experience, 24/7 emergency service, proper licensing and insurance, and strong client testimonials."
+      }
+    }
+  ],
+  "description": "Choose a company with IICRC certifications, commercial property experience, 24/7 emergency service, proper licensing and insurance, and strong client testimonia"
+}

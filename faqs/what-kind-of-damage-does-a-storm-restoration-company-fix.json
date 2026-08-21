@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-damage-does-a-storm-restoration-company-fix",
+  "name": "What kind of damage does a storm restoration company fix?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage does a storm restoration company fix?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm restoration companies specialize in repairing damage caused by various weather events. This includes structural damage from wind, hail, or falling trees; water damage from heavy rain, flooding, or burst pipes due to freezing; and roof damage. Services often extend to debris removal, board-ups, temporary repairs, and comprehensive reconstruction to return your property to its pre-storm condition.",
+        "@type": "Answer",
+        "description": "Storm restoration companies fix structural damage, water damage, roof damage, and provide debris removal and reconstruction services after severe weather."
+      }
+    }
+  ],
+  "description": "Storm restoration companies fix structural damage, water damage, roof damage, and provide debris removal and reconstruction services after severe weather."
+}

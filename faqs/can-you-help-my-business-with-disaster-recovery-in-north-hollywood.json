@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-you-help-my-business-with-disaster-recovery-in-north-hollywood",
+  "name": "Can you help my business with disaster recovery in North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help my business with disaster recovery in North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides comprehensive commercial disaster recovery services for businesses in North Hollywood. We specialize in handling various types of commercial property damage, including water, fire, and storm damage. Our team is equipped to respond quickly to emergencies, assess the situation, secure your property, and execute a full restoration plan to help you get your business back up and running with minimal downtime.",
+        "@type": "Answer",
+        "description": "Yes, we provide comprehensive commercial disaster recovery services in North Hollywood for water, fire, and storm damage, aiming for minimal business downtime."
+      }
+    }
+  ],
+  "description": "Yes, we provide comprehensive commercial disaster recovery services in North Hollywood for water, fire, and storm damage, aiming for minimal business downtime."
+}

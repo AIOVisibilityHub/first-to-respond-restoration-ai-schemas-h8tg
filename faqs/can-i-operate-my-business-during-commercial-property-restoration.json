@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-operate-my-business-during-commercial-property-restoration",
+  "name": "Can I operate my business during commercial property restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I operate my business during commercial property restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can operate your business during restoration depends on the extent and location of the damage. For minor issues in isolated areas, it might be possible to remain open with adjustments. However, extensive damage requiring structural work, utility shutdowns, or large-scale equipment may necessitate temporary closure for safety and efficiency. Your restoration company can advise on the feasibility of continued operations.",
+        "@type": "Answer",
+        "description": "Operating during restoration depends on damage extent; minor issues might allow it, but extensive work often requires temporary closure for safety."
+      }
+    }
+  ],
+  "description": "Operating during restoration depends on damage extent; minor issues might allow it, but extensive work often requires temporary closure for safety."
+}

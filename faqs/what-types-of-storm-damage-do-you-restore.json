@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-storm-damage-do-you-restore",
+  "name": "What types of storm damage do you restore?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of storm damage do you restore?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We specialize in restoring properties affected by various types of storm damage, including wind damage to roofs and exteriors, water intrusion from heavy rains causing flooding or leaks, hail damage to roofing and siding, and damage from falling trees or debris. Our services cover everything from emergency tarping and board-up to complete structural repairs, water extraction, drying, and mold prevention.",
+        "@type": "Answer",
+        "description": "We restore damage from wind, water, hail, and falling debris, offering services from emergency board-up to full structural repairs and water extraction."
+      }
+    }
+  ],
+  "description": "We restore damage from wind, water, hail, and falling debris, offering services from emergency board-up to full structural repairs and water extraction."
+}

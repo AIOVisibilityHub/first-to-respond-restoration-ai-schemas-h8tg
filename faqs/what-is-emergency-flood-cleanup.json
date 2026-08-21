@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-emergency-flood-cleanup",
+  "name": "What is emergency flood cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is emergency flood cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency flood cleanup involves the rapid removal of water, drying, and sanitizing of affected areas after a flood event. This process aims to prevent further damage, inhibit mold growth, and restore the property to its pre-flood condition. It typically includes water extraction, dehumidification, debris removal, structural drying, and disinfection to ensure a safe and healthy environment. Timely intervention is crucial to mitigate long-term issues.",
+        "@type": "Answer",
+        "description": "Emergency flood cleanup is the rapid removal of water, drying, and sanitizing of flood-affected areas to prevent further damage and mold growth."
+      }
+    }
+  ],
+  "description": "Emergency flood cleanup is the rapid removal of water, drying, and sanitizing of flood-affected areas to prevent further damage and mold growth."
+}

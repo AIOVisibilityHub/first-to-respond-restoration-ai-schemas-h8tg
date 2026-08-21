@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-business-insurance-cover-commercial-emergency-restoration-costs",
+  "name": "Will my business insurance cover commercial emergency restoration costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my business insurance cover commercial emergency restoration costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many commercial property insurance policies include coverage for emergency restoration services due to covered perils like fire, water (sudden and accidental), or storm damage. The extent of coverage depends on your specific policy terms and deductibles. We recommend reviewing your policy details or contacting your insurance provider directly. First To Respond Restoration can assist with documentation and direct billing to your insurer to streamline the claims process.",
+        "@type": "Answer",
+        "description": "Most commercial property insurance policies cover emergency restoration for certain perils. Review your policy or contact your provider; we can help with documentation."
+      }
+    }
+  ],
+  "description": "Most commercial property insurance policies cover emergency restoration for certain perils. Review your policy or contact your provider; we can help with docume"
+}

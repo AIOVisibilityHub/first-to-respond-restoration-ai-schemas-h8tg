@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-you-handle-large-scale-commercial-property-damage",
+  "name": "Can you handle large-scale commercial property damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you handle large-scale commercial property damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration is equipped to handle commercial property damage of all sizes, from small retail spaces to large industrial complexes. Our teams have the necessary training, equipment, and resources to manage extensive damage events, coordinating all aspects of the restoration process. We focus on scalable solutions that restore your business operations efficiently, regardless of the incident's scope.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration is equipped to handle large-scale commercial property damage for various business types, coordinating all aspects of restoration."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration is equipped to handle large-scale commercial property damage for various business types, coordinating all aspects of restorati"
+}

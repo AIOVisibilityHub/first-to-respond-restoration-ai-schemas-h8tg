@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-before-storm-cleanup-professionals-arrive",
+  "name": "What should I do before storm cleanup professionals arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before storm cleanup professionals arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before storm cleanup professionals arrive, ensure your property is safe to enter if possible. Turn off electricity and gas if there's any risk of water contact or structural damage. Document the damage with photos or videos for insurance purposes, and if safe, move undamaged valuables to a secure location. Avoid walking through contaminated water or disturbing damaged areas.",
+        "@type": "Answer",
+        "description": "Before professionals arrive, ensure safety, turn off utilities if needed, document damage with photos, and move valuables if safe. Avoid contact with contaminated areas."
+      }
+    }
+  ],
+  "description": "Before professionals arrive, ensure safety, turn off utilities if needed, document damage with photos, and move valuables if safe. Avoid contact with contaminat"
+}

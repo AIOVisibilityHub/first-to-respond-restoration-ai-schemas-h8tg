@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-storm-damage-repair-and-restoration-for-commercial",
+  "name": "What's the difference between storm damage repair and restoration for commercial properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between storm damage repair and restoration for commercial properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair typically refers to fixing specific damaged components, such as replacing a broken window or mending a section of a roof. Restoration, however, encompasses a broader, more comprehensive process. It involves not just fixing visible damage but also addressing underlying issues like water intrusion, structural integrity, mold prevention, and bringing the entire commercial property back to its pre-loss condition, including cleaning and sanitization. Restoration aims for a complete recovery, not just a superficial fix.",
+        "@type": "Answer",
+        "description": "Repair fixes specific damages, while restoration is a comprehensive process that addresses all underlying issues to return the entire commercial property to its pre-loss state."
+      }
+    }
+  ],
+  "description": "Repair fixes specific damages, while restoration is a comprehensive process that addresses all underlying issues to return the entire commercial property to its"
+}

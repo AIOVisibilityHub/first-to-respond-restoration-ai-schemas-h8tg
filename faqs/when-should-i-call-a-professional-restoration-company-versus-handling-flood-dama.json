@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-versus-handling-flood-dama",
+  "name": "When should I call a professional restoration company versus handling flood damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company versus handling flood damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always call a professional restoration company for storm flood damage, especially if the water is from an unknown source, covers a large area, or has been present for more than 24 hours. Professionals have the specialized equipment, training, and expertise to safely extract water, thoroughly dry hidden moisture, prevent mold, and identify potential structural issues. DIY efforts are rarely sufficient for comprehensive flood remediation and can lead to long-term problems.",
+        "@type": "Answer",
+        "description": "Always call professionals for storm flood damage, especially if the water source is unknown, the area is large, or water has been present over 24 hours."
+      }
+    }
+  ],
+  "description": "Always call professionals for storm flood damage, especially if the water source is unknown, the area is large, or water has been present over 24 hours."
+}

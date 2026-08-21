@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-commercial-property-insurance-cover-damage-restoration",
+  "name": "Does commercial property insurance cover damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does commercial property insurance cover damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most commercial property insurance policies include coverage for various types of damage, such as fire, water, and storm-related incidents. However, the specifics of coverage, including deductibles and exclusions, depend on your individual policy. It's advisable to review your insurance documents or contact your provider to understand what is covered. We can assist with documentation and communication with your insurance company.",
+        "@type": "Answer",
+        "description": "Commercial property insurance often covers damage restoration, but specifics depend on your policy. Review your documents or contact your provider for details."
+      }
+    }
+  ],
+  "description": "Commercial property insurance often covers damage restoration, but specifics depend on your policy. Review your documents or contact your provider for details."
+}

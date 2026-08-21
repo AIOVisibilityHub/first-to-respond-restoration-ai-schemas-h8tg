@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-makes-your-flood-cleanup-service-different-from-other-companies-in-tarzana",
+  "name": "What makes your flood cleanup service different from other companies in Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes your flood cleanup service different from other companies in Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration stands out in Tarzana due to our rapid response times, certified technicians, and comprehensive approach to flood damage. We utilize advanced drying technology and follow industry best practices to ensure thorough restoration. Our team is dedicated to clear communication, guiding you through every step, and providing exceptional customer service to minimize your stress during a difficult time.",
+        "@type": "Answer",
+        "description": "We offer rapid response, certified technicians, advanced technology, and comprehensive service, ensuring thorough flood restoration and clear communication in Tarzana."
+      }
+    }
+  ],
+  "description": "We offer rapid response, certified technicians, advanced technology, and comprehensive service, ensuring thorough flood restoration and clear communication in T"
+}

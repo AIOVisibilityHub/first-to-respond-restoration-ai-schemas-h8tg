@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-type-of-damage-do-you-handle-in-storm-cleanup",
+  "name": "What type of damage do you handle in storm cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of damage do you handle in storm cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We handle a wide range of storm damage, including water damage from flooding or leaks, wind damage such as compromised roofs or broken windows, and debris removal from fallen trees, branches, or other structural elements. Our services also cover addressing damage from hail, lightning strikes, and associated issues like mold prevention following water intrusion.",
+        "@type": "Answer",
+        "description": "We handle water damage, wind damage (roofs, windows), and debris removal (fallen trees, branches) caused by storms, including hail and lightning."
+      }
+    }
+  ],
+  "description": "We handle water damage, wind damage (roofs, windows), and debris removal (fallen trees, branches) caused by storms, including hail and lightning."
+}

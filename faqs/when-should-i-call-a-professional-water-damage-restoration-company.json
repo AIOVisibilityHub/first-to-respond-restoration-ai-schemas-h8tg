@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-water-damage-restoration-company",
+  "name": "When should I call a professional water damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional water damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional water damage restoration company as soon as possible after discovering water damage, especially if the damage is significant, involves sewage, or has been present for more than 24-48 hours. Professionals have specialized equipment to thoroughly dry affected areas, prevent mold growth, and safely address contamination. Prompt intervention by experts minimizes secondary damage, reduces repair costs, and ensures a healthier living environment.",
+        "@type": "Answer",
+        "description": "Call professionals immediately for significant damage, sewage issues, or if water has been present for over 24-48 hours."
+      }
+    }
+  ],
+  "description": "Call professionals immediately for significant damage, sewage issues, or if water has been present for over 24-48 hours."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-damage-do-commercial-restoration-services-cover",
+  "name": "What types of damage do commercial restoration services cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage do commercial restoration services cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial restoration services typically cover a wide range of damage types, including water damage from floods, leaks, or burst pipes; fire and smoke damage, which often includes soot and odor removal; storm damage from wind, rain, or hail; and mold remediation. These services address structural integrity, interior finishes, and content recovery.",
+        "@type": "Answer",
+        "description": "Commercial restoration covers water, fire, smoke, storm damage, and mold remediation, addressing structural issues and interior finishes."
+      }
+    }
+  ],
+  "description": "Commercial restoration covers water, fire, smoke, storm damage, and mold remediation, addressing structural issues and interior finishes."
+}

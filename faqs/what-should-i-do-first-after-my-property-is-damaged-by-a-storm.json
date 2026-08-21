@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-first-after-my-property-is-damaged-by-a-storm",
+  "name": "What should I do first after my property is damaged by a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first after my property is damaged by a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring personal safety, the first steps involve documenting the damage with photos and videos. Then, contact your insurance company to initiate a claim. Next, reach out to a professional storm damage restoration company for an assessment and emergency services, such as temporary roof tarps or water extraction, to prevent further damage. Do not attempt major repairs yourself if it is unsafe.",
+        "@type": "Answer",
+        "description": "After ensuring safety, document damage, contact your insurance company, then call a professional storm damage restoration company for assessment and emergency services."
+      }
+    }
+  ],
+  "description": "After ensuring safety, document damage, contact your insurance company, then call a professional storm damage restoration company for assessment and emergency s"
+}

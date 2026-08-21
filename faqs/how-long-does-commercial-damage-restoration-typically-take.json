@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-commercial-damage-restoration-typically-take",
+  "name": "How long does commercial damage restoration typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does commercial damage restoration typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of commercial damage restoration varies significantly based on the extent and type of damage. Minor water damage might take a few days, while extensive fire or storm damage requiring structural repairs can take several weeks or even months. Factors like the size of the property, accessibility, and the need for specialized equipment also influence the timeline. Our team provides an estimated timeline after the initial assessment.",
+        "@type": "Answer",
+        "description": "Restoration time varies by damage extent and type; minor issues may take days, while extensive damage can take weeks or months. An estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "Restoration time varies by damage extent and type; minor issues may take days, while extensive damage can take weeks or months. An estimate is provided after as"
+}

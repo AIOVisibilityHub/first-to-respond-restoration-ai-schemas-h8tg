@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-restore-an-office-after-water-damage",
+  "name": "How long does it take to restore an office after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to restore an office after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of office water damage restoration varies significantly based on the extent of the damage, the category of water (e.g., clean, gray, black), and the size of the affected area. Minor incidents might be mitigated in a few days, while extensive damage involving structural repairs and mold remediation could take several weeks. A professional assessment from a company like First To Respond Restoration can provide a more accurate timeline after evaluating the specific conditions of your office in areas like Encino or Tarzana.",
+        "@type": "Answer",
+        "description": "Restoration time depends on damage extent, water category, and area size; minor issues take days, while extensive damage can take weeks."
+      }
+    }
+  ],
+  "description": "Restoration time depends on damage extent, water category, and area size; minor issues take days, while extensive damage can take weeks."
+}

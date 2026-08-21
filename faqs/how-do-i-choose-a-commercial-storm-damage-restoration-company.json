@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-commercial-storm-damage-restoration-company",
+  "name": "How do I choose a commercial storm damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a commercial storm damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a restoration company, look for one with experience in commercial properties and a strong track record. Verify they are licensed, insured, and offer 24/7 emergency services, as storm damage often requires immediate attention. Inquire about their certifications (e.g., IICRC), their process for handling insurance claims, and their communication protocols. Reading customer reviews and requesting references can also provide insight into their reliability and quality of work. First To Respond Restoration serves Encino, North Hollywood, San Fernando, Studio City, and Tarzana.",
+        "@type": "Answer",
+        "description": "Choose a company experienced in commercial properties, licensed, insured, with 24/7 emergency services and relevant certifications. Check references and reviews."
+      }
+    }
+  ],
+  "description": "Choose a company experienced in commercial properties, licensed, insured, with 24/7 emergency services and relevant certifications. Check references and reviews"
+}

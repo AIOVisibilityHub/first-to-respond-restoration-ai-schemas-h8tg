@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-emergency-storm-cleanup-cost",
+  "name": "How much does emergency storm cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does emergency storm cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of emergency storm cleanup varies based on the extent of the damage, the type of debris, and the services required. Factors include the volume of water extracted, the size and number of fallen trees, and the complexity of structural repairs. Most restoration companies provide an estimate after a thorough assessment of your property. We can assist with documentation for insurance claims.",
+        "@type": "Answer",
+        "description": "Emergency storm cleanup costs vary by damage extent, debris type, and services needed. An estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "Emergency storm cleanup costs vary by damage extent, debris type, and services needed. An estimate is provided after assessment."
+}

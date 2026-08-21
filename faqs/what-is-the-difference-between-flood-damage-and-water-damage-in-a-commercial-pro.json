@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-flood-damage-and-water-damage-in-a-commercial-pro",
+  "name": "What is the difference between flood damage and water damage in a commercial property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between flood damage and water damage in a commercial property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, 'flood damage' specifically refers to damage caused by rising water from external sources, such as overflowing rivers, heavy rainfall, or storm surges, typically covered by flood insurance. 'Water damage' is a broader term encompassing damage from internal sources like burst pipes, leaking appliances, or sprinkler systems. Understanding the distinction is important for insurance claims and the specific cleanup approach.",
+        "@type": "Answer",
+        "description": "Flood damage is from external rising water, while water damage is a broader term for internal sources like burst pipes. This distinction is vital for insurance and cleanup methods."
+      }
+    }
+  ],
+  "description": "Flood damage is from external rising water, while water damage is a broader term for internal sources like burst pipes. This distinction is vital for insurance"
+}

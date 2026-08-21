@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/who-is-responsible-for-water-damage-in-an-apartment-building",
+  "name": "Who is responsible for water damage in an apartment building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible for water damage in an apartment building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Responsibility for water damage in an apartment building depends on the cause and location of the damage. Typically, the building owner or landlord is responsible for damage caused by issues with the building's structure or common plumbing systems. Tenants are generally responsible for damage caused by their own negligence or issues within their unit (e.g., an overflowing bathtub). Reviewing your lease agreement and discussing with your landlord and insurance provider will clarify specific responsibilities.",
+        "@type": "Answer",
+        "description": "Responsibility depends on the cause; generally, landlords handle building issues and tenants are responsible for their own negligence."
+      }
+    }
+  ],
+  "description": "Responsibility depends on the cause; generally, landlords handle building issues and tenants are responsible for their own negligence."
+}

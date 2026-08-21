@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-prevent-mold-after-a-flood",
+  "name": "How do you prevent mold after a flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prevent mold after a flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing mold after a flood requires rapid and thorough drying. Our process includes immediate water extraction, using industrial-grade dehumidifiers and air movers to quickly reduce moisture levels in the air and materials. We also apply antimicrobial treatments to affected surfaces. Complete drying within 24-48 hours is critical, as mold can begin to grow rapidly in moist conditions.",
+        "@type": "Answer",
+        "description": "We prevent mold after a flood by rapid water extraction, industrial-grade drying, and antimicrobial treatments, focusing on drying within 24-48 hours."
+      }
+    }
+  ],
+  "description": "We prevent mold after a flood by rapid water extraction, industrial-grade drying, and antimicrobial treatments, focusing on drying within 24-48 hours."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-commercial-fire",
+  "name": "What should I do immediately after a commercial fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a commercial fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring everyone's safety and the fire department has cleared the property, contact your insurance company to report the damage. Next, secure the property to prevent unauthorized entry and further damage. Avoid entering damaged areas unless deemed safe by professionals. Then, contact a reputable commercial fire damage restoration company like First To Respond Restoration to begin the assessment and emergency mitigation process.",
+        "@type": "Answer",
+        "description": "First, ensure safety, contact insurance, then secure the property, and finally call a professional restoration company."
+      }
+    }
+  ],
+  "description": "First, ensure safety, contact insurance, then secure the property, and finally call a professional restoration company."
+}

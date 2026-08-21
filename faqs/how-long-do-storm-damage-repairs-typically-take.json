@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-do-storm-damage-repairs-typically-take",
+  "name": "How long do storm damage repairs typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do storm damage repairs typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of storm damage repairs varies significantly based on the extent and type of damage. Minor repairs might take a few days, while extensive structural damage or widespread water remediation could take several weeks or even months. Factors influencing the timeline include the severity of the storm, availability of materials, permitting requirements, and the efficiency of the restoration company and insurance claim processing.",
+        "@type": "Answer",
+        "description": "Repair times vary widely based on damage severity, from days for minor issues to weeks or months for extensive structural or water damage."
+      }
+    }
+  ],
+  "description": "Repair times vary widely based on damage severity, from days for minor issues to weeks or months for extensive structural or water damage."
+}

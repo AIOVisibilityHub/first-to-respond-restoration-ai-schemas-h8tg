@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-storm-water-cleanup-and-restoration-usually-take",
+  "name": "How long does storm water cleanup and restoration usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does storm water cleanup and restoration usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of storm water cleanup and restoration varies significantly based on the extent of the damage, the size of the affected area, and the type of materials impacted. A small water leak might be dried and restored in a few days, while extensive flooding requiring structural repairs could take weeks or even months. A professional assessment will provide a more accurate timeline, but prompt action always helps expedite the process.",
+        "@type": "Answer",
+        "description": "Cleanup time varies based on damage severity and size of the affected area, ranging from a few days for minor issues to weeks or months for extensive flooding."
+      }
+    }
+  ],
+  "description": "Cleanup time varies based on damage severity and size of the affected area, ranging from a few days for minor issues to weeks or months for extensive flooding."
+}

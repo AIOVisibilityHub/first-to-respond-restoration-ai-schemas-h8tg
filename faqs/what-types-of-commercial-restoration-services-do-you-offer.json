@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-commercial-restoration-services-do-you-offer",
+  "name": "What types of commercial restoration services do you offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of commercial restoration services do you offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration offers comprehensive commercial restoration services, including water damage restoration, fire and smoke damage restoration, mold remediation, and storm damage repair. We also provide services for vandalism cleanup and biohazard remediation. Our goal is to quickly and efficiently restore your commercial property to its pre-loss condition, minimizing downtime for your business operations. We handle properties ranging from small offices to large industrial complexes.",
+        "@type": "Answer",
+        "description": "We offer commercial water, fire, smoke, mold, storm, vandalism, and biohazard restoration services."
+      }
+    }
+  ],
+  "description": "We offer commercial water, fire, smoke, mold, storm, vandalism, and biohazard restoration services."
+}

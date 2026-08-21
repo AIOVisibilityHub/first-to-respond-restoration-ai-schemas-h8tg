@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-of-mold-in-an-office-building",
+  "name": "What are common signs of mold in an office building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of mold in an office building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold in an office building include a musty or earthy odor, especially in damp areas like basements, bathrooms, or near water leaks. Visible mold growth often appears as discolored patches (green, black, white, or orange) on walls, ceilings, carpets, or upholstery. Employees might also report unexplained health symptoms such as respiratory issues, skin irritation, or persistent headaches, which can sometimes be linked to mold exposure. Early detection of these signs is crucial for prompt action to prevent further spread and potential health impacts.",
+        "@type": "Answer",
+        "description": "Common signs of mold include a musty odor, visible discolored patches, and unexplained health symptoms among occupants."
+      }
+    }
+  ],
+  "description": "Common signs of mold include a musty odor, visible discolored patches, and unexplained health symptoms among occupants."
+}

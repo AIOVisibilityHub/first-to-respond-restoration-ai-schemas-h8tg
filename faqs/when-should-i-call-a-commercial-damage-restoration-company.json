@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-commercial-damage-restoration-company",
+  "name": "When should I call a commercial damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a commercial damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a commercial damage restoration company immediately after discovering damage, ideally within 24-48 hours. Prompt action is crucial to prevent secondary damage, such as mold growth from water intrusion or further structural deterioration. Waiting can lead to more extensive damage, increased repair costs, and prolonged business downtime. Early intervention helps secure your property, mitigate ongoing issues, and expedite the restoration process.",
+        "@type": "Answer",
+        "description": "Call a commercial damage restoration company immediately after damage occurs, preferably within 24-48 hours, to prevent further issues and reduce costs."
+      }
+    }
+  ],
+  "description": "Call a commercial damage restoration company immediately after damage occurs, preferably within 24-48 hours, to prevent further issues and reduce costs."
+}

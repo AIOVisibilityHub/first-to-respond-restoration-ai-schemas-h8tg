@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-storm-water-cleanup",
+  "name": "What is the process for storm water cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for storm water cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The storm water cleanup process typically begins with an assessment of the damage and categorization of the water. This is followed by water extraction using powerful pumps and vacuums. Next, affected areas are thoroughly dried using industrial-grade dehumidifiers and air movers. Sanitation and disinfection are then performed to prevent mold and bacterial growth. Finally, restoration work, such as repairing or replacing damaged materials, is completed to return your property to its pre-damage condition.",
+        "@type": "Answer",
+        "description": "The process involves damage assessment, water extraction, drying, sanitation, and final restoration to repair affected areas and prevent further issues."
+      }
+    }
+  ],
+  "description": "The process involves damage assessment, water extraction, drying, sanitation, and final restoration to repair affected areas and prevent further issues."
+}

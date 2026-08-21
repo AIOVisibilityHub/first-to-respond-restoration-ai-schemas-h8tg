@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-mold-remediation-cost-for-an-office-building",
+  "name": "How much does mold remediation cost for an office building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does mold remediation cost for an office building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold remediation for an office building varies significantly based on several factors. These include the size of the affected area, the type and extent of mold growth, the materials contaminated, and the complexity of accessing the mold. Other factors impacting cost are the necessary containment measures, repair of the moisture source, and any post-remediation reconstruction. A professional assessment is required to provide an accurate estimate after a thorough inspection of the office building. Basic projects might be less, while extensive contamination in critical systems will be more involved.",
+        "@type": "Answer",
+        "description": "Mold remediation costs vary based on the size of the affected area, extent of growth, and complexity of the job."
+      }
+    }
+  ],
+  "description": "Mold remediation costs vary based on the size of the affected area, extent of growth, and complexity of the job."
+}

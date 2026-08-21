@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-commercial-disaster-recovery-typically-take",
+  "name": "How long does commercial disaster recovery typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does commercial disaster recovery typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of commercial disaster recovery varies significantly based on the type and extent of the damage, the size of the property, and specific restoration requirements. Minor water damage might be resolved in a few days, while extensive fire or storm damage requiring structural rebuilding could take weeks or even months. A professional assessment can provide a more accurate timeline, but the goal is always to expedite the process safely and effectively to minimize business interruption.",
+        "@type": "Answer",
+        "description": "Recovery time varies significantly based on damage type and extent; minor damage can take days, while extensive damage may take weeks or months."
+      }
+    }
+  ],
+  "description": "Recovery time varies significantly based on damage type and extent; minor damage can take days, while extensive damage may take weeks or months."
+}

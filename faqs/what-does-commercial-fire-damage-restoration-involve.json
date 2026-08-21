@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-commercial-fire-damage-restoration-involve",
+  "name": "What does commercial fire damage restoration involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does commercial fire damage restoration involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial fire damage restoration is a comprehensive process to repair and restore a business property after a fire. It typically includes emergency services like board-up and water extraction, followed by soot and smoke removal, structural cleaning, deodorization, and content restoration. The goal is to return the property to its pre-fire condition, addressing structural integrity, air quality, and aesthetic damage to minimize business interruption.",
+        "@type": "Answer",
+        "description": "It involves emergency services, soot and smoke removal, cleaning, deodorization, and structural repairs to restore a commercial property after a fire."
+      }
+    }
+  ],
+  "description": "It involves emergency services, soot and smoke removal, cleaning, deodorization, and structural repairs to restore a commercial property after a fire."
+}

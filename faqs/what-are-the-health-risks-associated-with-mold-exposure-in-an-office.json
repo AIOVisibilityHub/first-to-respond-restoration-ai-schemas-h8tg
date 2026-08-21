@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-health-risks-associated-with-mold-exposure-in-an-office",
+  "name": "What are the health risks associated with mold exposure in an office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the health risks associated with mold exposure in an office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exposure to mold in an office can lead to various health issues, particularly for individuals with allergies, asthma, or compromised immune systems. Common symptoms include respiratory problems like coughing, wheezing, and shortness of breath, as well as nasal congestion and sore throat. Skin irritation, eye irritation, and headaches are also frequently reported. While not everyone will experience symptoms, prolonged exposure can exacerbate existing conditions or contribute to new sensitivities. Removing the mold and addressing the underlying moisture problem is crucial for occupant health.",
+        "@type": "Answer",
+        "description": "Health risks include respiratory issues, allergies, skin and eye irritation, and headaches, especially for sensitive individuals."
+      }
+    }
+  ],
+  "description": "Health risks include respiratory issues, allergies, skin and eye irritation, and headaches, especially for sensitive individuals."
+}

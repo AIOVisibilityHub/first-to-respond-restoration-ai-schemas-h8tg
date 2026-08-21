@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-water-damage-restoration-typically-take-for-a-rental-property",
+  "name": "How long does water damage restoration typically take for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damage restoration typically take for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage restoration varies significantly depending on the extent of the damage, the size of the affected area, and the type of materials involved. Simple water extraction and drying might take 3-5 days. More severe damage, especially if it involves structural repairs, mold remediation, or extensive reconstruction, could take several weeks or even longer. A professional assessment will provide a more accurate timeline after evaluating the specific situation of your rental property.",
+        "@type": "Answer",
+        "description": "Restoration time varies. Simple drying can take 3-5 days, while extensive damage with repairs could take several weeks. A professional assessment provides a clearer timeline."
+      }
+    }
+  ],
+  "description": "Restoration time varies. Simple drying can take 3-5 days, while extensive damage with repairs could take several weeks. A professional assessment provides a cle"
+}

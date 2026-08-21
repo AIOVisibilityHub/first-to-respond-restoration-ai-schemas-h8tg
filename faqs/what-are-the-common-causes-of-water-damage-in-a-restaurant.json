@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-causes-of-water-damage-in-a-restaurant",
+  "name": "What are the common causes of water damage in a restaurant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of water damage in a restaurant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage in a restaurant can stem from several sources, including burst pipes, overflowing sinks or toilets, leaking roofs, faulty appliances like dishwashers or ice machines, and severe weather events leading to flooding. Grease traps can also overflow if not regularly maintained, causing significant water issues. Early detection and regular maintenance are crucial to prevent extensive damage and business interruption.",
+        "@type": "Answer",
+        "description": "Common causes include burst pipes, appliance malfunctions, overflowing fixtures, roof leaks, and weather-related flooding."
+      }
+    }
+  ],
+  "description": "Common causes include burst pipes, appliance malfunctions, overflowing fixtures, roof leaks, and weather-related flooding."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reliable-water-damage-restoration-company-for-my-office",
+  "name": "How do I choose a reliable water damage restoration company for my office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable water damage restoration company for my office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a water damage restoration company, look for certified professionals who are experienced in commercial properties. Check for IICRC certification, indicating adherence to industry standards. Verify they offer 24/7 emergency services, transparent pricing, and provide detailed estimates. Read customer reviews and ask for references. A reputable company, like First To Respond Restoration, will also assist with insurance claims and provide clear communication throughout the restoration process, ensuring your office is returned to its pre-damage state efficiently.",
+        "@type": "Answer",
+        "description": "Choose a restoration company based on IICRC certification, 24/7 service, transparent pricing, experience with commercial properties, and positive reviews."
+      }
+    }
+  ],
+  "description": "Choose a restoration company based on IICRC certification, 24/7 service, transparent pricing, experience with commercial properties, and positive reviews."
+}

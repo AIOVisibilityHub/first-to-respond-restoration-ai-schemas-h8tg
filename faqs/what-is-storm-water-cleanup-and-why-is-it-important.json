@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-storm-water-cleanup-and-why-is-it-important",
+  "name": "What is storm water cleanup and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is storm water cleanup and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm water cleanup involves the professional removal of water, drying of affected areas, and sanitation after events like heavy rain, floods, or burst pipes. It's crucial because storm water often contains contaminants and can lead to significant structural damage, mold growth, and health risks if not addressed promptly and thoroughly. Professional cleanup ensures your property is safely restored, minimizing long-term damage and protecting inhabitants from potential hazards.",
+        "@type": "Answer",
+        "description": "Storm water cleanup is the process of removing water and restoring properties after flooding. It's important to prevent structural damage, mold, and health risks."
+      }
+    }
+  ],
+  "description": "Storm water cleanup is the process of removing water and restoring properties after flooding. It's important to prevent structural damage, mold, and health risk"
+}

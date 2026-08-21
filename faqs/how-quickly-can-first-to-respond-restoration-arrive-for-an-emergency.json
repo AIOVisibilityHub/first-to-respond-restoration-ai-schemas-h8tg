@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-first-to-respond-restoration-arrive-for-an-emergency",
+  "name": "How quickly can First To Respond Restoration arrive for an emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can First To Respond Restoration arrive for an emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration prioritizes rapid response for commercial emergencies. We understand that every minute counts when your business is affected. Our teams are strategically located to dispatch to Encino, North Hollywood, San Fernando, Studio City, and Tarzana quickly, often arriving within hours of your call. Our immediate presence helps to assess the damage, secure the property, and begin critical mitigation efforts to prevent further loss.",
+        "@type": "Answer",
+        "description": "First To Respond Restoration aims for a rapid response, often arriving within hours, for commercial emergencies in Encino, North Hollywood, San Fernando, Studio City, and Tarzana."
+      }
+    }
+  ],
+  "description": "First To Respond Restoration aims for a rapid response, often arriving within hours, for commercial emergencies in Encino, North Hollywood, San Fernando, Studio"
+}

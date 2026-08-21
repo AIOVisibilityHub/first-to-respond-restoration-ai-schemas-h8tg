@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-are-involved-in-your-flood-cleanup-service",
+  "name": "What steps are involved in your flood cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in your flood cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our flood cleanup process typically includes several key steps: emergency contact and assessment, water extraction using powerful pumps, removal of damaged materials, thorough drying and dehumidification with specialized equipment, cleaning and sanitizing affected areas to prevent mold and bacteria, and finally, restoration of your property to its pre-loss condition. We keep you informed throughout every stage.",
+        "@type": "Answer",
+        "description": "Our flood cleanup involves assessment, water extraction, material removal, drying, sanitizing, and restoration of your property."
+      }
+    }
+  ],
+  "description": "Our flood cleanup involves assessment, water extraction, material removal, drying, sanitizing, and restoration of your property."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-emergency-flood-cleanup-services-outside-of-normal-business-hours-i",
+  "name": "Do you offer emergency flood cleanup services outside of normal business hours in North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency flood cleanup services outside of normal business hours in North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides 24/7 emergency flood cleanup services in North Hollywood and surrounding areas. Water damage doesn't adhere to business hours, and immediate action is critical to prevent further deterioration of your property. Our emergency teams are always ready to deploy, ensuring prompt assessment and commencement of restoration efforts day or night.",
+        "@type": "Answer",
+        "description": "Yes, we offer 24/7 emergency flood cleanup services in North Hollywood, as immediate action is critical to prevent further property damage."
+      }
+    }
+  ],
+  "description": "Yes, we offer 24/7 emergency flood cleanup services in North Hollywood, as immediate action is critical to prevent further property damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-water-damage-in-schools",
+  "name": "What causes water damage in schools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water damage in schools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage in schools can stem from various sources, including burst pipes due to aging infrastructure or freezing temperatures, leaking roofs from heavy rains or poor maintenance, and plumbing overflows from toilets or sinks. Additionally, malfunctioning HVAC systems, severe weather events like floods, and even vandalism can lead to significant water intrusion. Prompt identification of the source is crucial for effective remediation and preventing further damage, such as mold growth or structural compromise.",
+        "@type": "Answer",
+        "description": "Common causes include burst pipes, roof leaks, plumbing overflows, and severe weather events. Identifying the source quickly is essential to prevent further damage."
+      }
+    }
+  ],
+  "description": "Common causes include burst pipes, roof leaks, plumbing overflows, and severe weather events. Identifying the source quickly is essential to prevent further dam"
+}

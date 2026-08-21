@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-water-damage-restoration-process-for-an-office",
+  "name": "What is the typical water damage restoration process for an office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical water damage restoration process for an office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water damage restoration process typically begins with emergency contact and assessment to identify the water source and extent of damage. This is followed by water extraction using powerful pumps and vacuums. Next, drying and dehumidification equipment is used to remove moisture from materials and the air. Cleaning and sanitizing affected areas prevent mold and bacteria growth. Finally, restoration involves repairing or replacing damaged structural components and contents to return your office to its pre-damage condition. First To Respond Restoration follows these steps to ensure thorough remediation.",
+        "@type": "Answer",
+        "description": "The restoration process includes assessment, water extraction, drying, dehumidification, cleaning, sanitization, and final repairs."
+      }
+    }
+  ],
+  "description": "The restoration process includes assessment, water extraction, drying, dehumidification, cleaning, sanitization, and final repairs."
+}

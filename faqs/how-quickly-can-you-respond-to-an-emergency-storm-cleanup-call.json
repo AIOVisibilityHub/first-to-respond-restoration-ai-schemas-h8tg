@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-you-respond-to-an-emergency-storm-cleanup-call",
+  "name": "How quickly can you respond to an emergency storm cleanup call?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can you respond to an emergency storm cleanup call?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We understand the urgency of storm damage and aim to respond rapidly to emergency cleanup calls. Our team is available 24/7, and we strive to be on-site as quickly as possible, often within a few hours, depending on your location and the severity of the widespread damage. A prompt response helps to minimize further damage and initiate the recovery process sooner.",
+        "@type": "Answer",
+        "description": "We respond rapidly, often within a few hours, to emergency storm cleanup calls, as our team is available 24/7."
+      }
+    }
+  ],
+  "description": "We respond rapidly, often within a few hours, to emergency storm cleanup calls, as our team is available 24/7."
+}

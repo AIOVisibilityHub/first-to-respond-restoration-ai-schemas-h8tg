@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-for-storm-cleanup-services",
+  "name": "When should I call for storm cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call for storm cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call for storm cleanup services as soon as it is safe to do so after a storm, especially if your property has sustained significant damage such as flooding, fallen trees, or structural compromise. Prompt action helps mitigate secondary damage like mold growth or further structural instability. Contacting a professional quickly ensures a rapid response to assess and address the immediate hazards.",
+        "@type": "Answer",
+        "description": "Call for storm cleanup services as soon as it is safe after a storm if your property has significant damage like flooding or fallen trees."
+      }
+    }
+  ],
+  "description": "Call for storm cleanup services as soon as it is safe after a storm if your property has significant damage like flooding or fallen trees."
+}

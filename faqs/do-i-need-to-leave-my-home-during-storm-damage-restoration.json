@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-leave-my-home-during-storm-damage-restoration",
+  "name": "Do I need to leave my home during storm damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during storm damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to vacate your home depends on the severity and nature of the damage. If there's significant structural damage, electrical hazards, or widespread mold, it might be unsafe to remain. For less severe damage, such as localized water intrusion in one room, it might be possible to stay. Your restoration professional will advise on the safest option during their initial assessment.",
+        "@type": "Answer",
+        "description": "Whether you need to leave depends on the damage's severity; your restoration professional will advise if it's unsafe to stay."
+      }
+    }
+  ],
+  "description": "Whether you need to leave depends on the damage's severity; your restoration professional will advise if it's unsafe to stay."
+}

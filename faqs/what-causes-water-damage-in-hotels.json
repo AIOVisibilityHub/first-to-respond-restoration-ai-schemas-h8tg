@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-water-damage-in-hotels",
+  "name": "What causes water damage in hotels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water damage in hotels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage in hotels can stem from various sources. Common culprits include burst pipes, leaky roofs, overflowing toilets or sinks, malfunctioning fire sprinkler systems, and severe weather events like heavy rain or flooding. HVAC system condensation issues and appliance failures in guest rooms or service areas can also lead to significant water intrusion. Prompt identification and repair of these issues are crucial to prevent extensive damage and mold growth.",
+        "@type": "Answer",
+        "description": "Water damage in hotels is commonly caused by burst pipes, leaky roofs, overflowing fixtures, sprinkler system malfunctions, and severe weather."
+      }
+    }
+  ],
+  "description": "Water damage in hotels is commonly caused by burst pipes, leaky roofs, overflowing fixtures, sprinkler system malfunctions, and severe weather."
+}

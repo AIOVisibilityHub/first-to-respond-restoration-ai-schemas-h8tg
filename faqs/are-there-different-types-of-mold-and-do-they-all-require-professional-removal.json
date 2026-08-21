@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/are-there-different-types-of-mold-and-do-they-all-require-professional-removal",
+  "name": "Are there different types of mold, and do they all require professional removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of mold, and do they all require professional removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are thousands of mold species, commonly categorized by color like black, green, or white. While some molds are more allergenic or produce mycotoxins, no mold should be ignored. All molds require removal when found indoors, as they can cause property damage and health issues. Identifying the specific type of mold is generally not necessary for remediation, as the removal process focuses on eliminating the growth and moisture source, regardless of species. If you suspect any type of mold, professional assessment and remediation are recommended to ensure complete and safe removal.",
+        "@type": "Answer",
+        "description": "Thousands of mold species exist, and all types require removal when found indoors due to potential health and property risks. Professional remediation is recommended regardless of the specific mold type."
+      }
+    }
+  ],
+  "description": "Thousands of mold species exist, and all types require removal when found indoors due to potential health and property risks. Professional remediation is recomm"
+}

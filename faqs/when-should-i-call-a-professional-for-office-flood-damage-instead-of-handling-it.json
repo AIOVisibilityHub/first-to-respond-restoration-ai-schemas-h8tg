@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-office-flood-damage-instead-of-handling-it",
+  "name": "When should I call a professional for office flood damage instead of handling it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for office flood damage instead of handling it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for office flood damage whenever there's more than a very small amount of water (e.g., a spilled glass), or if the water has been present for more than a few hours. Professionals are essential for issues like contaminated water (sewage), large-scale flooding, water affecting electrical systems, or concerns about structural integrity. They have the specialized equipment, expertise, and safety protocols to properly extract water, dry the area, sanitize, and prevent mold, which is critical for maintaining a healthy and safe work environment.",
+        "@type": "Answer",
+        "description": "Call a professional for any significant flood, contaminated water, electrical issues, or when water has been present for more than a few hours to ensure proper drying and mold prevention."
+      }
+    }
+  ],
+  "description": "Call a professional for any significant flood, contaminated water, electrical issues, or when water has been present for more than a few hours to ensure proper"
+}

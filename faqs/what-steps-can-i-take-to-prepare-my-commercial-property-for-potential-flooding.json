@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-can-i-take-to-prepare-my-commercial-property-for-potential-flooding",
+  "name": "What steps can I take to prepare my commercial property for potential flooding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps can I take to prepare my commercial property for potential flooding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your commercial property for potential flooding, start by developing an emergency response plan, including evacuation routes and a communication strategy. Consider installing flood barriers or sandbags in vulnerable areas. Elevate critical equipment and valuable inventory off the floor. Regularly inspect and maintain your roof, gutters, and drainage systems. Review your insurance policies to ensure adequate flood coverage and keep important documents in waterproof containers.",
+        "@type": "Answer",
+        "description": "Prepare by creating an emergency plan, installing flood barriers, elevating critical assets, maintaining drainage systems, and securing adequate flood insurance coverage."
+      }
+    }
+  ],
+  "description": "Prepare by creating an emergency plan, installing flood barriers, elevating critical assets, maintaining drainage systems, and securing adequate flood insurance"
+}

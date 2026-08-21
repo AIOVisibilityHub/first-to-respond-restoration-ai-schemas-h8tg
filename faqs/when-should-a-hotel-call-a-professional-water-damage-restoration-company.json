@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-a-hotel-call-a-professional-water-damage-restoration-company",
+  "name": "When should a hotel call a professional water damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should a hotel call a professional water damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A hotel should call a professional water damage restoration company immediately upon discovering any significant water intrusion. This includes situations like burst pipes, significant leaks, sewage backups, or flooding from external sources. While hotel staff can address minor spills, anything that affects multiple rooms, seeps into walls or floors, or involves contaminated water requires expert intervention. Professionals have the specialized equipment and expertise to quickly mitigate damage, prevent mold growth, and safely restore the property.",
+        "@type": "Answer",
+        "description": "Call a professional immediately for any significant water intrusion, such as burst pipes, major leaks, or sewage backups, to prevent extensive damage and mold."
+      }
+    }
+  ],
+  "description": "Call a professional immediately for any significant water intrusion, such as burst pipes, major leaks, or sewage backups, to prevent extensive damage and mold."
+}

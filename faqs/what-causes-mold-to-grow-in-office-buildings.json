@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-mold-to-grow-in-office-buildings",
+  "name": "What causes mold to grow in office buildings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes mold to grow in office buildings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold growth in office buildings is primarily caused by excess moisture. Common sources include leaky roofs, plumbing leaks, condensation from HVAC systems or windows, and high indoor humidity levels. Poor ventilation can trap moisture, creating ideal conditions for mold. Building materials like drywall, ceiling tiles, wood, and insulation provide a food source for mold spores when wet. Any situation where water intrudes and is not dried completely and quickly can lead to mold development, making prompt identification and repair of moisture sources critical.",
+        "@type": "Answer",
+        "description": "Mold grows due to excess moisture from leaks, high humidity, condensation, or poor ventilation combined with organic building materials."
+      }
+    }
+  ],
+  "description": "Mold grows due to excess moisture from leaks, high humidity, condensation, or poor ventilation combined with organic building materials."
+}

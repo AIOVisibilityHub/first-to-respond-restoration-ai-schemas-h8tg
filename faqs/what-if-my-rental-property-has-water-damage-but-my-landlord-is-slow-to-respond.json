@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-if-my-rental-property-has-water-damage-but-my-landlord-is-slow-to-respond",
+  "name": "What if my rental property has water damage, but my landlord is slow to respond?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my rental property has water damage, but my landlord is slow to respond?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your landlord is slow to respond to water damage, continue documenting all communication attempts and the damage itself. Review your lease for clauses regarding emergency repairs or landlord responsiveness. If the damage poses a health or safety risk (e.g., electrical hazards, severe mold potential), you might need to consult local tenant rights organizations or housing authorities for guidance. In some cases, tenants have options like withholding rent for repairs, but this must be done according to specific legal procedures to avoid issues. Your priority remains protecting your belongings and health.",
+        "@type": "Answer",
+        "description": "Document everything, review your lease, and if it's a health or safety risk, consult tenant rights organizations. Legal options may exist but require careful adherence to procedures."
+      }
+    }
+  ],
+  "description": "Document everything, review your lease, and if it's a health or safety risk, consult tenant rights organizations. Legal options may exist but require careful ad"
+}

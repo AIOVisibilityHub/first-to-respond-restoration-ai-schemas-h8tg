@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-look-for-when-choosing-an-office-flood-cleanup-company",
+  "name": "What should I look for when choosing an office flood cleanup company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing an office flood cleanup company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting an office flood cleanup company, prioritize those with proven experience in commercial properties, relevant certifications (e.g., IICRC), and 24/7 emergency response capabilities. Verify they are licensed and insured. Look for transparent pricing and companies willing to provide a detailed estimate. Good communication, a clear action plan, and assistance with insurance claims are also vital. Reading customer reviews and ensuring they serve your specific location (e.g., Encino, North Hollywood) will help you choose a reliable and effective partner for your restoration needs.",
+        "@type": "Answer",
+        "description": "Look for experience in commercial properties, certifications, 24/7 emergency response, licensing, insurance, transparent pricing, and good communication when choosing a cleanup company."
+      }
+    }
+  ],
+  "description": "Look for experience in commercial properties, certifications, 24/7 emergency response, licensing, insurance, transparent pricing, and good communication when ch"
+}

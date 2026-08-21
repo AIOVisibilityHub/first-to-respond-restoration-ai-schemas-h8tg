@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-risk-of-mold-after-an-office-flood",
+  "name": "What is the risk of mold after an office flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the risk of mold after an office flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold can begin to grow within 24-48 hours after water damage if moisture is not properly addressed. It thrives in damp, dark environments and can lead to structural damage, unpleasant odors, and potential health issues for employees, such as allergic reactions or respiratory problems. Professional restoration includes thorough drying and often antimicrobial treatments to inhibit mold growth. If mold is already present, specialized mold remediation techniques are required to safely remove it and prevent its return, ensuring a healthy office environment.",
+        "@type": "Answer",
+        "description": "Mold can grow within 24-48 hours after a flood, causing structural damage and health issues. Professional restoration includes drying and antimicrobial treatments to prevent or remove it."
+      }
+    }
+  ],
+  "description": "Mold can grow within 24-48 hours after a flood, causing structural damage and health issues. Professional restoration includes drying and antimicrobial treatmen"
+}

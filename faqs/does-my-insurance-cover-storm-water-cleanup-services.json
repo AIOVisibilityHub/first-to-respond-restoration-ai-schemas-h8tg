@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-my-insurance-cover-storm-water-cleanup-services",
+  "name": "Does my insurance cover storm water cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my insurance cover storm water cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies provide coverage for water damage, but the specifics depend on the cause of the water intrusion and your individual policy. Damage from sudden and accidental events, like burst pipes, is often covered. Flood damage, however, typically requires a separate flood insurance policy. It's best to review your policy or contact your insurance provider directly to understand your coverage for storm water cleanup.",
+        "@type": "Answer",
+        "description": "Insurance coverage for storm water cleanup depends on your policy and the cause of damage. Flood damage often requires a separate flood insurance policy."
+      }
+    }
+  ],
+  "description": "Insurance coverage for storm water cleanup depends on your policy and the cause of damage. Flood damage often requires a separate flood insurance policy."
+}

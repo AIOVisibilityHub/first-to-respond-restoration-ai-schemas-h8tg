@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-i-take-immediately-after-discovering-water-damage-in-my-wareho",
+  "name": "What steps should I take immediately after discovering water damage in my warehouse?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take immediately after discovering water damage in my warehouse?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after discovering water damage in your warehouse, your first steps should be to ensure safety by identifying and mitigating hazards like electrical risks. If possible and safe, stop the water source. Next, contact a professional water damage restoration company promptly, as quick action is crucial. Document the damage thoroughly with photos and videos for insurance purposes. If safe to do so, move valuable or susceptible inventory and equipment to an unaffected area to prevent further loss. Avoid using household vacuums for water removal, as this can be dangerous.",
+        "@type": "Answer",
+        "description": "Immediately ensure safety, stop the water source, contact professionals, document damage, and move inventory to prevent further loss."
+      }
+    }
+  ],
+  "description": "Immediately ensure safety, stop the water source, contact professionals, document damage, and move inventory to prevent further loss."
+}

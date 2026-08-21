@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-health-risks-associated-with-water-damage-in-schools",
+  "name": "What are the health risks associated with water damage in schools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the health risks associated with water damage in schools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unaddressed water damage in schools poses several health risks, primarily from mold growth. Mold spores can trigger allergic reactions, asthma attacks, and respiratory issues in sensitive individuals. Prolonged exposure can also lead to skin irritation, headaches, and fatigue. Stagnant water can also become a breeding ground for bacteria and pests. Ensuring thorough drying and remediation is vital to mitigate these health hazards and maintain a safe learning environment.",
+        "@type": "Answer",
+        "description": "Health risks include allergic reactions, asthma attacks, and respiratory issues due to mold growth. Stagnant water can also foster bacteria and pests."
+      }
+    }
+  ],
+  "description": "Health risks include allergic reactions, asthma attacks, and respiratory issues due to mold growth. Stagnant water can also foster bacteria and pests."
+}

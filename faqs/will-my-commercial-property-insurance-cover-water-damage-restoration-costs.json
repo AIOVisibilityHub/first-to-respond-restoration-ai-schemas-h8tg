@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-commercial-property-insurance-cover-water-damage-restoration-costs",
+  "name": "Will my commercial property insurance cover water damage restoration costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my commercial property insurance cover water damage restoration costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial property insurance policies vary greatly in their coverage for water damage. Generally, sudden and accidental water damage, such as from a burst pipe, is covered. However, damage resulting from neglect, maintenance issues, or flooding (which requires separate flood insurance) may not be covered. It's essential to review your specific policy or contact your insurance provider to understand your coverage limitations and requirements. We can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Coverage depends on your specific policy; sudden and accidental damage is often covered, but flood damage typically requires separate insurance."
+      }
+    }
+  ],
+  "description": "Coverage depends on your specific policy; sudden and accidental damage is often covered, but flood damage typically requires separate insurance."
+}

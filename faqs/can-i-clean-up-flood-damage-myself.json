@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-flood-damage-myself",
+  "name": "Can I clean up flood damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up flood damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you might be able to handle very small, clean water spills, professional flood cleanup is crucial for larger incidents or when water is contaminated. Untreated floodwaters can harbor bacteria, viruses, and mold, posing significant health risks. Professionals have specialized equipment for thorough drying and sanitization, which prevents hidden moisture and long-term issues that DIY methods often miss.",
+        "@type": "Answer",
+        "description": "For significant or contaminated flood damage, professional cleanup is crucial to prevent health risks, mold, and long-term issues that DIY methods often miss."
+      }
+    }
+  ],
+  "description": "For significant or contaminated flood damage, professional cleanup is crucial to prevent health risks, mold, and long-term issues that DIY methods often miss."
+}

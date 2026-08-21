@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-business-insurance-cover-commercial-fire-damage-restoration",
+  "name": "Will my business insurance cover commercial fire damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my business insurance cover commercial fire damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most commercial property insurance policies include coverage for fire damage, including the restoration costs. However, the specifics of your coverage depend on your individual policy. We recommend reviewing your policy documents or contacting your insurance provider directly. Our team can assist with documentation and communication with your insurer to streamline the claims process.",
+        "@type": "Answer",
+        "description": "Most commercial property insurance covers fire damage restoration, but review your specific policy or contact your provider for details."
+      }
+    }
+  ],
+  "description": "Most commercial property insurance covers fire damage restoration, but review your specific policy or contact your provider for details."
+}

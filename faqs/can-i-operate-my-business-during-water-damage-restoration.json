@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-operate-my-business-during-water-damage-restoration",
+  "name": "Can I operate my business during water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I operate my business during water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can operate your business during restoration depends on the extent and location of the water damage. Minor damage in a non-critical area might allow for partial operation. However, extensive damage affecting safety, air quality, or essential utilities often requires temporary closure or relocation. A professional assessment will determine the safest and most practical course of action to ensure minimal disruption while safeguarding employees and customers.",
+        "@type": "Answer",
+        "description": "Operation depends on the damage's extent and location; extensive damage usually requires temporary closure or relocation for safety."
+      }
+    }
+  ],
+  "description": "Operation depends on the damage's extent and location; extensive damage usually requires temporary closure or relocation for safety."
+}

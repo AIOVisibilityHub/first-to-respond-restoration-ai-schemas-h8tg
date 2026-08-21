@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-retail-store-water-damage-restoration",
+  "name": "What areas do you serve for retail store water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for retail store water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides professional water damage restoration services for retail stores in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. We understand the urgency required for commercial properties and are equipped to respond swiftly to mitigate damage and help businesses get back to operation. If your retail store is located within these areas and has experienced water damage, please contact us for immediate assistance.",
+        "@type": "Answer",
+        "description": "We serve retail stores in Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water damage restoration."
+      }
+    }
+  ],
+  "description": "We serve retail stores in Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water damage restoration."
+}

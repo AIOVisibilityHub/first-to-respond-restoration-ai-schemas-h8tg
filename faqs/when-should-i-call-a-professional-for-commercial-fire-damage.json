@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-commercial-fire-damage",
+  "name": "When should I call a professional for commercial fire damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for commercial fire damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional restoration company immediately after the fire department has deemed the property safe to enter. Timely intervention is crucial to prevent secondary damage, such as mold growth from water used to extinguish the fire, or further corrosion from acidic soot. Prompt action also helps to preserve valuable assets and accelerate the overall recovery process for your business.",
+        "@type": "Answer",
+        "description": "Call a professional immediately after the fire is out and the property is safe, to prevent secondary damage and speed up recovery."
+      }
+    }
+  ],
+  "description": "Call a professional immediately after the fire is out and the property is safe, to prevent secondary damage and speed up recovery."
+}

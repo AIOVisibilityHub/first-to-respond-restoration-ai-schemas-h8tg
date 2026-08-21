@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-water-damage-restoration-in-a-rental-property",
+  "name": "What is the typical process for water damage restoration in a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water damage restoration in a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process usually begins with an emergency response to assess the damage and stop the water source. This is followed by water extraction using powerful pumps. Next, industrial-grade dehumidifiers and air movers are used for thorough drying of the structure and contents. Once dry, affected materials are cleaned, sanitized, or removed if irreparable. Finally, restoration involves repairing or replacing damaged items and restoring the property to its pre-damage condition. Throughout, communication with both tenant and landlord is key.",
+        "@type": "Answer",
+        "description": "The process involves emergency assessment, water extraction, thorough drying, cleaning/sanitizing, and then repairs to restore the property."
+      }
+    }
+  ],
+  "description": "The process involves emergency assessment, water extraction, thorough drying, cleaning/sanitizing, and then repairs to restore the property."
+}

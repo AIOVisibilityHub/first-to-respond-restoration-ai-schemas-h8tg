@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-provide-water-damage-restoration-services-in-north-hollywood",
+  "name": "Do you provide water damage restoration services in North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you provide water damage restoration services in North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration proudly provides comprehensive water damage restoration services in North Hollywood. As a local emergency restoration company, we are equipped to respond quickly to water emergencies in apartments, homes, and businesses across the area. Our services include water extraction, structural drying, dehumidification, mold prevention, and reconstruction, ensuring your property is restored efficiently and effectively. Contact us for immediate assistance.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers comprehensive water damage restoration services in North Hollywood."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers comprehensive water damage restoration services in North Hollywood."
+}

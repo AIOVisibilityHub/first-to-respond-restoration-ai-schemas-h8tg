@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-water-damage-restoration-company-for-a-school",
+  "name": "How do I choose a water damage restoration company for a school?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a water damage restoration company for a school?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a water damage restoration company for a school, prioritize experience with commercial and institutional properties, especially those with sensitive environments. Look for certifications from organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), ensuring technicians are properly trained. Check for comprehensive insurance, a quick response time, and local references. A reputable company should also offer clear communication, detailed estimates, and a transparent restoration process to minimize disruption to school operations.",
+        "@type": "Answer",
+        "description": "Choose a company with commercial experience, IICRC certifications, insurance, fast response times, and local references. Clear communication is also key."
+      }
+    }
+  ],
+  "description": "Choose a company with commercial experience, IICRC certifications, insurance, fast response times, and local references. Clear communication is also key."
+}

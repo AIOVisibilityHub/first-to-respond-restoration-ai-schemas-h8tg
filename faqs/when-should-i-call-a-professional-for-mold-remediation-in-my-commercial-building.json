@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-remediation-in-my-commercial-building",
+  "name": "When should I call a professional for mold remediation in my commercial building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold remediation in my commercial building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for mold remediation if you discover visible mold growth covering an area larger than a few square feet, or if you suspect hidden mold due to a persistent musty odor or recent water damage. Professionals have the specialized equipment and training to safely contain, remove, and prevent the return of mold without spreading spores, protecting both your property and the health of occupants. Early intervention is crucial.",
+        "@type": "Answer",
+        "description": "Call a professional for mold remediation if you see significant mold growth, suspect hidden mold, or after water damage, to ensure safe and thorough removal."
+      }
+    }
+  ],
+  "description": "Call a professional for mold remediation if you see significant mold growth, suspect hidden mold, or after water damage, to ensure safe and thorough removal."
+}

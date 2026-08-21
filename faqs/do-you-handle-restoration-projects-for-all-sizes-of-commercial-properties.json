@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-handle-restoration-projects-for-all-sizes-of-commercial-properties",
+  "name": "Do you handle restoration projects for all sizes of commercial properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle restoration projects for all sizes of commercial properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration is equipped to handle restoration projects for a wide range of commercial properties, regardless of size or complexity. From small retail spaces and office buildings to multi-story commercial complexes, industrial facilities, and educational institutions, our teams have the resources and expertise. We assess each project individually to ensure we deploy the appropriate personnel and equipment for effective restoration.",
+        "@type": "Answer",
+        "description": "Yes, we handle restoration projects for all sizes of commercial properties, from small offices to large industrial facilities."
+      }
+    }
+  ],
+  "description": "Yes, we handle restoration projects for all sizes of commercial properties, from small offices to large industrial facilities."
+}

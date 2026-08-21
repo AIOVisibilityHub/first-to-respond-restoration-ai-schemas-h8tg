@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-hotel-business-be-disrupted-during-water-damage-restoration",
+  "name": "Will my hotel business be disrupted during water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my hotel business be disrupted during water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimizing disruption to your hotel business is a priority during water damage restoration. Restoration companies often employ strategies like isolating affected areas, working during off-peak hours, and using specialized equipment to complete tasks efficiently. While some areas may need to be temporarily closed, the goal is to restore operations as quickly as possible. A professional restoration company will work with hotel management to create a phased plan that allows other parts of the hotel to remain operational.",
+        "@type": "Answer",
+        "description": "While some areas may be temporarily affected, professional restoration aims to minimize disruption by isolating work areas and scheduling strategically to keep other parts of the hotel operational."
+      }
+    }
+  ],
+  "description": "While some areas may be temporarily affected, professional restoration aims to minimize disruption by isolating work areas and scheduling strategically to keep"
+}

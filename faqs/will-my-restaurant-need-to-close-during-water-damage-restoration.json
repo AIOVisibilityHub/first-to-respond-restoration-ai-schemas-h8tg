@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-restaurant-need-to-close-during-water-damage-restoration",
+  "name": "Will my restaurant need to close during water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my restaurant need to close during water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether your restaurant needs to close depends on the extent and location of the water damage. Minor damage in a non-critical area might allow for partial operation. However, significant damage affecting the kitchen, dining area, or restrooms, or damage that compromises structural integrity or creates health hazards, will likely require temporary closure. Restoration companies work to expedite the process to minimize business interruption.",
+        "@type": "Answer",
+        "description": "Closure depends on the damage's extent and location; severe damage or health hazards usually require temporary closure."
+      }
+    }
+  ],
+  "description": "Closure depends on the damage's extent and location; severe damage or health hazards usually require temporary closure."
+}

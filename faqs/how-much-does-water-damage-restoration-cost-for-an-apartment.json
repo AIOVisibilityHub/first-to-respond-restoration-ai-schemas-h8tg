@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-water-damage-restoration-cost-for-an-apartment",
+  "name": "How much does water damage restoration cost for an apartment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does water damage restoration cost for an apartment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damage restoration for an apartment is highly variable, depending on factors such as the size of the affected area, the category of water (clean, gray, or black), the materials damaged, and the extent of required repairs or mold remediation. Minor drying and repairs might be less, while extensive structural drying, material replacement, and mold treatment will significantly increase costs. Restoration companies typically provide an estimate after an on-site assessment. Many costs are often covered by property insurance, minus any deductible.",
+        "@type": "Answer",
+        "description": "Costs vary greatly based on damage severity, water category, affected materials, and necessary repairs; estimates are provided after assessment."
+      }
+    }
+  ],
+  "description": "Costs vary greatly based on damage severity, water category, affected materials, and necessary repairs; estimates are provided after assessment."
+}

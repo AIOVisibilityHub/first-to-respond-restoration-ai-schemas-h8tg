@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-business-insurance-cover-water-damage-in-my-retail-store",
+  "name": "Will my business insurance cover water damage in my retail store?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my business insurance cover water damage in my retail store?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Business insurance coverage for water damage in a retail store varies significantly based on your specific policy. Most commercial property insurance policies cover sudden and accidental water damage, such as a burst pipe or a leaking appliance. However, damage from floods, sewer backups, or gradual leaks (due to lack of maintenance) may require separate endorsements or might not be covered at all. It's crucial to review your policy documents thoroughly or speak with your insurance agent to understand your coverage limits, deductibles, and what specific types of water damage are included or excluded.",
+        "@type": "Answer",
+        "description": "Coverage depends on your specific business insurance policy. Most cover sudden damage, but floods or gradual leaks may require separate coverage. Review your policy or contact your agent."
+      }
+    }
+  ],
+  "description": "Coverage depends on your specific business insurance policy. Most cover sudden damage, but floods or gradual leaks may require separate coverage. Review your po"
+}

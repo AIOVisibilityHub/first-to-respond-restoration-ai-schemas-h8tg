@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-sources-of-water-damage-in-rental-properties",
+  "name": "What are common sources of water damage in rental properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common sources of water damage in rental properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common sources of water damage in rental properties include leaky pipes, overflowing toilets or sinks, malfunctioning appliances like washing machines or dishwashers, and issues with the water heater. External factors such as heavy rain causing roof leaks or foundation seepage, and HVAC system condensation line backups can also contribute. Often, damage arises from a combination of aging infrastructure and everyday wear and tear, sometimes exacerbated by tenant use.",
+        "@type": "Answer",
+        "description": "Common sources include leaky pipes, overflowing fixtures, appliance malfunctions, water heater issues, and external leaks from rain or foundation problems."
+      }
+    }
+  ],
+  "description": "Common sources include leaky pipes, overflowing fixtures, appliance malfunctions, water heater issues, and external leaks from rain or foundation problems."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-can-i-take-to-prepare-my-business-for-an-emergency",
+  "name": "What steps can I take to prepare my business for an emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps can I take to prepare my business for an emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your business for an emergency involves several key steps. Develop an emergency action plan that includes evacuation routes, contact lists for employees and emergency services, and designated meeting points. Regularly back up important data and documents off-site. Consider implementing measures like flood barriers or fire suppression systems. Having a pre-arranged agreement with a restoration company can also expedite response times when disaster strikes.",
+        "@type": "Answer",
+        "description": "Prepare by creating an emergency action plan, backing up data, considering preventative measures, and having a pre-arranged agreement with a restoration company."
+      }
+    }
+  ],
+  "description": "Prepare by creating an emergency action plan, backing up data, considering preventative measures, and having a pre-arranged agreement with a restoration company"
+}

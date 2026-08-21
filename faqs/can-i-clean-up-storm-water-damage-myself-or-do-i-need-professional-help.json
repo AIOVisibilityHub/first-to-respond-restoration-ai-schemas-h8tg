@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-storm-water-damage-myself-or-do-i-need-professional-help",
+  "name": "Can I clean up storm water damage myself, or do I need professional help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up storm water damage myself, or do I need professional help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface water might seem manageable, storm water often contains contaminants and can quickly lead to hidden moisture issues. Professionals have specialized equipment for thorough water extraction, drying, and moisture detection, which is crucial for preventing mold and ensuring structural integrity. Without proper tools and expertise, you risk overlooking hidden damage, leading to more significant and costly problems down the line. Professional restoration is recommended for effective and safe cleanup.",
+        "@type": "Answer",
+        "description": "Professional help is recommended for storm water damage due to potential contaminants, hidden moisture, and the need for specialized equipment to prevent mold and structural issues."
+      }
+    }
+  ],
+  "description": "Professional help is recommended for storm water damage due to potential contaminants, hidden moisture, and the need for specialized equipment to prevent mold a"
+}

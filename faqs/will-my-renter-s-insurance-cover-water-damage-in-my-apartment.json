@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-renter-s-insurance-cover-water-damage-in-my-apartment",
+  "name": "Will my renter's insurance cover water damage in my apartment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my renter's insurance cover water damage in my apartment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renter's insurance typically covers your personal belongings if they are damaged by certain perils, including sudden and accidental water discharge from plumbing, heating, or air conditioning systems. However, it generally does not cover damage caused by floods, gradual leaks, or the structural repairs to the apartment itself – that's usually covered by the landlord's property insurance. It's important to review your specific policy and speak with your insurance provider to understand your coverage limitations and what's included.",
+        "@type": "Answer",
+        "description": "Renter's insurance usually covers personal belongings for sudden water damage, but not flood damage or structural repairs."
+      }
+    }
+  ],
+  "description": "Renter's insurance usually covers personal belongings for sudden water damage, but not flood damage or structural repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-restoration-companies-handle-water-damaged-restaurant-equipment-and-inven",
+  "name": "How do restoration companies handle water-damaged restaurant equipment and inventory?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do restoration companies handle water-damaged restaurant equipment and inventory?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional restoration companies prioritize the assessment and mitigation of damage to restaurant equipment and inventory. They will carefully move salvageable items to a dry, secure location. Specialized drying techniques are used for inventory like packaged foods or non-perishable goods that can be saved. Equipment is assessed for electrical safety and damage; some items can be restored, while others may need replacement. Detailed inventory lists are created for insurance claims.",
+        "@type": "Answer",
+        "description": "They assess, move salvageable items, use specialized drying for inventory, and evaluate equipment for restoration or replacement."
+      }
+    }
+  ],
+  "description": "They assess, move salvageable items, use specialized drying for inventory, and evaluate equipment for restoration or replacement."
+}
