@@ -1,0 +1,150 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the Hidden Dangers of Smoke Damage?",
+  "publisher": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Smoke damage might seem less severe than fire damage at first glance, but it comes with its own set of hidden dangers that many people overlook. Beyond the unpleasant odor, smoke residues are often highly acidic and corrosive. These microscopic particles can settle on surfaces like metal, plastic, and even glass, slowly etching and deteriorating them over time if not properly cleaned. This corrosion can damage electronics, appliances, and even structural components, leading to much larger problems down the road. Another major hidden danger is the impact on indoor air quality. Smoke contains carcinogens and other toxic chemicals that can be inhaled, posing serious health risks, especially for children, the elderly, and individuals with respiratory conditions. These particles are so fine that they easily penetrate porous materials and the HVAC system, circulating throughout your home. Furthermore, smoke can often conceal water damage if firefighters used water to extinguish the blaze. This combination creates a perfect breeding ground for mold, which introduces a whole new set of structural and health concerns. The key takeaway here is that smoke damage is more than just a cosmetic issue. It requires a comprehensive approach to ensure all hidden dangers are addressed. That's why relying on seasoned professionals like First To Respond Restoration is so critical. Our team has the expertise to detect and remediate all aspects of smoke damage, ensuring your property is safe and clean.",
+  "datePublished": "2026-08-21"
+}

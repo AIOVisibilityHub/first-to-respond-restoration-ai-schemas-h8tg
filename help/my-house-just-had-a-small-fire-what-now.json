@@ -1,0 +1,150 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My House Just Had a Small Fire – What Now?",
+  "publisher": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s tough when a small fire breaks out at home; even a minor incident can leave behind more than just char. You might think a little smoke and soot aren’t a big deal, but they can quickly lead to bigger problems if not handled right. The key is to act quickly and smart to prevent long-term damage and health hazards. First off, safety is number one—make sure everyone is okay and the fire is completely out. Next, assess the visible damage, but don't rush into cleaning yet. Things like soot are corrosive and can permanently stain surfaces if wiped incorrectly. Plus, smoke odors can really linger, getting into everything from fabrics to your ventilation system. Knowing when to call in the pros is crucial; for anything beyond a tiny, contained scorch mark, their expertise is invaluable. They've got the specialized equipment to deal with hidden smoke damage and make sure your air quality is safe again. Remember, even a small fire can compromise structural integrity or leave unseen issues. Getting a professional assessment helps you understand the full scope of what needs to be done. They can also help with inventorying damaged items for insurance claims.",
+  "datePublished": "2026-08-21"
+}

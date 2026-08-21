@@ -1,0 +1,150 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Pro for Smoke Damage in Your Home",
+  "publisher": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to bring in the pros for smoke damage can save you a lot of hassle and ensure your home is truly safe. While you might feel like you can handle minor cleanup, there are clear signals that professional intervention is essential. Consider calling an expert if: * The smoke damage is extensive or covers multiple rooms: Widespread damage usually means embedded soot and odor that DIY methods can't reach. * There's a lingering smoke smell even after initial cleaning and airing out: This indicates smoke particles have deeply penetrated materials. * You notice soot on walls, ceilings, or personal belongings that won't easily wipe off: Soot can be corrosive and cause permanent staining or damage if not treated correctly. * Your HVAC system was running during or after the incident: Smoke particles likely circulated through your ventilation, requiring professional duct cleaning. * You're dealing with structural damage alongside the smoke: This always calls for professional assessment and repair to ensure safety. * You have sensitive individuals in your home (children, elderly, those with respiratory issues): Smoke residue and lingering odors can pose health risks. Don't underestimate the complexity of smoke damage. When in doubt, especially in areas like the San Fernando Valley where we serve, a quick call to a restoration specialist can give you peace of mind and ensure a thorough, safe restoration.",
+  "datePublished": "2026-08-21"
+}

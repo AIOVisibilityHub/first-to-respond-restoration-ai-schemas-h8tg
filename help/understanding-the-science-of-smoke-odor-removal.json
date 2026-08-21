@@ -1,0 +1,150 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Understanding the Science of Smoke Odor Removal",
+  "publisher": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever wonder why smoke odor is so tough to get rid of? It's all about science! When something burns, it releases microscopic particles and gases that attach to surfaces and penetrate porous materials. These aren't just soot; they're complex chemical compounds that continue to off-gas, creating that lingering, unpleasant smell. True smoke odor removal isn't just about cleaning; it's about neutralization. Professionals use a variety of scientific methods. For instance, air scrubbers with HEPA and activated carbon filters physically remove airborne smoke particles and VOCs (volatile organic compounds). Ozone generators produce ozone, a powerful oxidizer that chemically reacts with and breaks down odor-causing molecules. Thermal fogging involves a specialized fog that mimics smoke particles, allowing it to penetrate the same areas as the smoke, carrying odor-neutralizing agents with it. These techniques don't just mask the smell; they chemically alter or remove the compounds responsible for it. It's a precise process, and understanding this science is why specialists like First To Respond Restoration can effectively restore your home, making sure every trace of that stubborn smoke odor is gone for good from your San Fernando Valley property.",
+  "datePublished": "2026-08-21"
+}

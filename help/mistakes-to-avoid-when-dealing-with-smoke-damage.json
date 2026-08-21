@@ -1,0 +1,150 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Dealing with Smoke Damage",
+  "publisher": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your home experiences smoke damage, it's natural to want to jump in and fix things, but some actions can actually worsen the situation. One common mistake is *waiting too long to act*; smoke residue is acidic and can cause permanent damage to surfaces if not addressed quickly. Another error is *trying to clean with household cleaners*; these often spread the soot, embed it deeper, or cause staining. You're better off waiting for professional cleaning methods. *Using regular vacuum cleaners* for soot can also be problematic; they often lack the filtration needed and can blow microscopic soot particles further into the air and other areas. *Ignoring HVAC systems* is a big no-no; smoke and soot can circulate through your ducts, contaminating your entire house. Make sure to have your HVAC system inspected and cleaned by a professional. Lastly, *throwing out items that seem ruined* without professional assessment can lead to unnecessary losses; many items can be restored with specialized techniques. Avoiding these common pitfalls can save you time, money, and headaches, and ensures a more effective restoration process. For thorough and safe smoke damage remediation, especially after a significant incident, a restoration company is your best bet.",
+  "datePublished": "2026-08-21"
+}
