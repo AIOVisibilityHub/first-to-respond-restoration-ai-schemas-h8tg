@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-tell-if-the-water-in-my-house-is-black-water",
+  "name": "How can I tell if the water in my house is 'black water'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if the water in my house is 'black water'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black water typically has a strong, foul odor and may appear dark, murky, or contain visible sewage, debris, or chemical residue. Its source is usually an overflowing toilet (especially from the bowl, not just the tank), sewage backup, or floodwaters that have mixed with ground contaminants. If water originates from a natural disaster flood or a sewer line, it is considered black water. Always assume water from these sources is black water and avoid direct contact.",
+        "@type": "Answer",
+        "description": "Black water often smells foul, looks dark and murky, and comes from sources like sewage backups, overflowing toilets (from the bowl), or contaminated floodwaters."
+      }
+    }
+  ],
+  "description": "Black water often smells foul, looks dark and murky, and comes from sources like sewage backups, overflowing toilets (from the bowl), or contaminated floodwater"
+}

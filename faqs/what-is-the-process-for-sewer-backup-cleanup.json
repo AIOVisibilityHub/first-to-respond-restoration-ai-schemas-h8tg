@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-sewer-backup-cleanup",
+  "name": "What is the process for sewer backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for sewer backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process typically begins with an assessment to determine the scope of contamination. Next, technicians extract sewage water and remove contaminated porous materials like carpeting and drywall. Affected surfaces are then thoroughly cleaned, disinfected, and deodorized using commercial-grade products. Finally, the area is dried using industrial-grade air movers and dehumidifiers to prevent mold. Throughout, containment measures are used to prevent cross-contamination.",
+        "@type": "Answer",
+        "description": "The process involves assessment, sewage extraction, removal of contaminated materials, cleaning, disinfection, and professional drying."
+      }
+    }
+  ],
+  "description": "The process involves assessment, sewage extraction, removal of contaminated materials, cleaning, disinfection, and professional drying."
+}

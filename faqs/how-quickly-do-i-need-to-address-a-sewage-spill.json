@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-a-sewage-spill",
+  "name": "How quickly do I need to address a sewage spill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address a sewage spill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewage spill should be addressed as quickly as possible, ideally within 24-48 hours. The longer sewage sits, the deeper it permeates porous materials, increasing the risk of structural damage and mold growth. Pathogens multiply rapidly in standing sewage, escalating health hazards. Immediate action helps contain the contamination, reduces the scope of required remediation, and minimizes long-term damage and cleanup costs. Contacting a professional restoration service promptly is crucial for effective and safe cleanup.",
+        "@type": "Answer",
+        "description": "Address a sewage spill within 24-48 hours to minimize health risks, prevent structural damage, and limit mold growth."
+      }
+    }
+  ],
+  "description": "Address a sewage spill within 24-48 hours to minimize health risks, prevent structural damage, and limit mold growth."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-can-t-i-clean-up-sewage-myself",
+  "name": "Why can't I clean up sewage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why can't I clean up sewage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning up sewage requires specialized equipment and expertise beyond typical household cleaning. Household disinfectants are often insufficient to eliminate all pathogens found in sewage. Without proper personal protective equipment (PPE), there's a high risk of exposure to biohazards. Furthermore, sewage often permeates porous materials like drywall and subflooring, requiring professional drying and sanitization techniques to prevent mold growth, structural damage, and persistent odors. Improper cleanup can leave behind invisible contaminants, creating ongoing health risks.",
+        "@type": "Answer",
+        "description": "Sewage cleanup requires specialized equipment, strong disinfectants, and proper personal protective equipment to safely remove biohazards and prevent further contamination or mold."
+      }
+    }
+  ],
+  "description": "Sewage cleanup requires specialized equipment, strong disinfectants, and proper personal protective equipment to safely remove biohazards and prevent further co"
+}

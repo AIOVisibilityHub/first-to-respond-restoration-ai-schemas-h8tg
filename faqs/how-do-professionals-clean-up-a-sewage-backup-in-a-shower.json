@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-clean-up-a-sewage-backup-in-a-shower",
+  "name": "How do professionals clean up a sewage backup in a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals clean up a sewage backup in a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional sewage cleanup involves several critical steps to ensure safety and thorough decontamination. First, technicians will extract all contaminated water and remove any affected porous materials, such as drywall, flooring, or carpets. Next, they thoroughly clean and disinfect all affected surfaces using industrial-grade antimicrobial agents. Specialized drying equipment is then used to eliminate moisture and prevent mold growth. Finally, the area is deodorized and restored to its pre-loss condition, often including minor repairs or reconstruction.",
+        "@type": "Answer",
+        "description": "Professionals extract contaminated water, remove damaged materials, disinfect surfaces, dry the area, and restore it to pre-loss condition."
+      }
+    }
+  ],
+  "description": "Professionals extract contaminated water, remove damaged materials, disinfect surfaces, dry the area, and restore it to pre-loss condition."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-prevent-sewer-smells-from-returning-after-they-ve-been-fixed",
+  "name": "Can I prevent sewer smells from returning after they've been fixed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent sewer smells from returning after they've been fixed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, several preventative measures can help keep sewer smells from returning. Regularly pour water down all drains, especially those in seldom-used fixtures, to keep P-traps full. Consider installing P-trap primers in less-used areas to automatically replenish the water seal. Avoid pouring grease or harsh chemicals down drains to prevent clogs. Ensure your plumbing vent system is clear of debris. Regular professional plumbing inspections can also help identify potential issues before they lead to sewer gas problems, contributing to long-term prevention.",
+        "@type": "Answer",
+        "description": "Prevent sewer smells by regularly filling P-traps, avoiding drain abuse, and ensuring your plumbing vent system is clear."
+      }
+    }
+  ],
+  "description": "Prevent sewer smells by regularly filling P-traps, avoiding drain abuse, and ensuring your plumbing vent system is clear."
+}

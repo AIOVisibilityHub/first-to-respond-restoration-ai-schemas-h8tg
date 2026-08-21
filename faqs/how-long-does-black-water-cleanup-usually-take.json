@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-black-water-cleanup-usually-take",
+  "name": "How long does black water cleanup usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does black water cleanup usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of black water cleanup varies depending on the severity of the contamination, the size of the affected area, and the types of materials involved. A minor incident might take a few days, while extensive damage in multiple rooms could extend to a week or more for the initial remediation and drying phase. Structural drying can add several days. The entire process, from initial cleanup to final restoration, is carefully managed to ensure all health hazards are addressed and the property is returned to a safe condition as quickly as possible.",
+        "@type": "Answer",
+        "description": "Cleanup time depends on damage severity and area size, ranging from a few days for minor incidents to over a week for extensive contamination, including drying."
+      }
+    }
+  ],
+  "description": "Cleanup time depends on damage severity and area size, ranging from a few days for minor incidents to over a week for extensive contamination, including drying."
+}

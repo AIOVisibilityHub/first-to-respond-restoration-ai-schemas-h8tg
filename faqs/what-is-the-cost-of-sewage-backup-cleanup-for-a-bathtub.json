@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-of-sewage-backup-cleanup-for-a-bathtub",
+  "name": "What is the cost of sewage backup cleanup for a bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of sewage backup cleanup for a bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewage backup cleanup varies significantly based on several factors, including the volume of sewage, the size of the affected area, the type of materials contaminated, and the extent of required repairs. It involves specialized services like sewage extraction, thorough cleaning, sanitization, deodorization, and often mold prevention. A professional restoration company will provide a detailed estimate after assessing the damage. Most homeowners' insurance policies cover sudden and accidental sewage backups.",
+        "@type": "Answer",
+        "description": "Cost varies based on sewage volume, affected area size, contaminated materials, and necessary repairs. A professional estimate is required, and insurance often covers it."
+      }
+    }
+  ],
+  "description": "Cost varies based on sewage volume, affected area size, contaminated materials, and necessary repairs. A professional estimate is required, and insurance often"
+}

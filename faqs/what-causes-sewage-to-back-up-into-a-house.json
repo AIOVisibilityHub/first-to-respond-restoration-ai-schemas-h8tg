@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-sewage-to-back-up-into-a-house",
+  "name": "What causes sewage to back up into a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sewage to back up into a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backups can stem from several issues, most commonly blockages in your main sewer line or municipal sewer system. Common culprits include tree roots invading pipes, flushed non-biodegradable items, collapsed or broken pipes due to age or ground shifting, and heavy rainfall overwhelming the public sewer system. Grease buildup is another frequent cause, restricting flow over time. Identifying the precise cause is crucial for effective repair and preventing future occurrences.",
+        "@type": "Answer",
+        "description": "Sewage backups are typically caused by blockages from tree roots, non-flushable items, collapsed pipes, heavy rain, or grease buildup."
+      }
+    }
+  ],
+  "description": "Sewage backups are typically caused by blockages from tree roots, non-flushable items, collapsed pipes, heavy rain, or grease buildup."
+}

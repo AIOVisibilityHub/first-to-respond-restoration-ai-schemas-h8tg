@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-i-take-if-i-find-sewer-water-in-my-crawl-space",
+  "name": "What steps should I take if I find sewer water in my crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take if I find sewer water in my crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you find sewer water, first ensure everyone evacuates the immediate area and avoid contact with the water. Turn off your main water supply if the leak is from a pipe, and shut off electrical power to the affected zone if safe to do so. Then, contact a professional emergency restoration service immediately. Do not attempt cleanup yourself.",
+        "@type": "Answer",
+        "description": "Evacuate the area, avoid contact with water, turn off water and power if safe. Immediately call a professional emergency restoration service; do not attempt cleanup yourself."
+      }
+    }
+  ],
+  "description": "Evacuate the area, avoid contact with water, turn off water and power if safe. Immediately call a professional emergency restoration service; do not attempt cle"
+}

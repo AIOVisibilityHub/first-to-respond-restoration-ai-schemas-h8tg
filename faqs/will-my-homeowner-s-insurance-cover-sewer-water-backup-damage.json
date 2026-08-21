@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-sewer-water-backup-damage",
+  "name": "Will my homeowner's insurance cover sewer water backup damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover sewer water backup damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies often provide coverage for sudden and accidental water damage. However, coverage for sewer backups specifically may require an additional endorsement or rider on your policy. Standard policies typically exclude damage caused by sewer backups unless this specific coverage is added. It's essential to review your individual policy or contact your insurance provider directly to understand your coverage limitations and confirm if you are protected against sewer water backup damage.",
+        "@type": "Answer",
+        "description": "Coverage for sewer backup damage often requires an additional endorsement on your homeowner's insurance policy. Check your specific policy or contact your provider."
+      }
+    }
+  ],
+  "description": "Coverage for sewer backup damage often requires an additional endorsement on your homeowner's insurance policy. Check your specific policy or contact your provi"
+}

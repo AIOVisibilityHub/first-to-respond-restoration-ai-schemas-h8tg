@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-sewage-backup-in-a-bathtub",
+  "name": "What causes sewage backup in a bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sewage backup in a bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backup in a bathtub typically occurs due to blockages in the main sewer line or individual drain lines. Common culprits include accumulated grease, hair, foreign objects flushed down toilets, or tree roots infiltrating the sewer pipes. Heavy rainfall can also overwhelm municipal sewer systems, causing backups into connected homes. Less frequently, a collapsed or damaged sewer pipe can be the underlying issue, requiring professional inspection and repair.",
+        "@type": "Answer",
+        "description": "Sewage backup in a bathtub is usually caused by blockages in the main sewer line or drain pipes from grease, hair, foreign objects, or tree roots. Heavy rain can also overwhelm municipal systems."
+      }
+    }
+  ],
+  "description": "Sewage backup in a bathtub is usually caused by blockages in the main sewer line or drain pipes from grease, hair, foreign objects, or tree roots. Heavy rain ca"
+}

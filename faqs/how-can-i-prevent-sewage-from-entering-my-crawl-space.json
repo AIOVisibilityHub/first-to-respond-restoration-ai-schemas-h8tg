@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-sewage-from-entering-my-crawl-space",
+  "name": "How can I prevent sewage from entering my crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent sewage from entering my crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing sewage in your crawl space involves regular plumbing maintenance and awareness of potential issues. Avoid flushing non-biodegradable items, ensure your main sewer line is free of tree root intrusions through periodic inspections, and repair any leaky pipes promptly. Consider installing a backwater valve to prevent sewage from backing up into your home during city sewer line issues. Maintaining proper yard drainage can also mitigate risks from heavy rainfall.",
+        "@type": "Answer",
+        "description": "Preventative measures include regular plumbing maintenance, avoiding flushing non-biodegradables, inspecting sewer lines for roots, and installing backwater valves."
+      }
+    }
+  ],
+  "description": "Preventative measures include regular plumbing maintenance, avoiding flushing non-biodegradables, inspecting sewer lines for roots, and installing backwater val"
+}

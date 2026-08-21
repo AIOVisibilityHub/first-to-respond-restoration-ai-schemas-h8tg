@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-dry-out-a-bathroom-floor-after-a-toilet-leak",
+  "name": "How long does it take to dry out a bathroom floor after a toilet leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to dry out a bathroom floor after a toilet leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to dry out a bathroom floor after a toilet leak depends on several factors, including the amount of water, the types of materials affected, and the ambient humidity. Typically, professional drying using specialized equipment like air movers and dehumidifiers can take anywhere from 2 to 5 days. This process ensures all hidden moisture in subflooring, walls, and other structural components is removed to prevent mold growth and further damage. A professional will monitor moisture levels throughout the drying process.",
+        "@type": "Answer",
+        "description": "Drying a bathroom floor after a toilet leak usually takes 2 to 5 days with professional equipment, depending on water volume and affected materials, to prevent mold."
+      }
+    }
+  ],
+  "description": "Drying a bathroom floor after a toilet leak usually takes 2 to 5 days with professional equipment, depending on water volume and affected materials, to prevent"
+}

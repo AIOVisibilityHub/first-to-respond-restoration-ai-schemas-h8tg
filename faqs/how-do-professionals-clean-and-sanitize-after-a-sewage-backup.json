@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-clean-and-sanitize-after-a-sewage-backup",
+  "name": "How do professionals clean and sanitize after a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals clean and sanitize after a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals follow a multi-step process. First, they extract all standing sewage and remove contaminated porous materials like carpeting or drywall. Next, the affected hard surfaces are thoroughly cleaned using specialized antimicrobial agents. This is followed by powerful disinfection to eliminate bacteria, viruses, and fungi. Industrial-grade dehumidifiers and air movers are then used to dry the area completely, preventing mold growth. Finally, deodorizers are applied to eliminate lingering odors, ensuring a safe and clean environment.",
+        "@type": "Answer",
+        "description": "Professionals extract sewage, remove contaminated materials, clean and disinfect surfaces with antimicrobial agents, then dry the area with industrial equipment, and deodorize."
+      }
+    }
+  ],
+  "description": "Professionals extract sewage, remove contaminated materials, clean and disinfect surfaces with antimicrobial agents, then dry the area with industrial equipment"
+}

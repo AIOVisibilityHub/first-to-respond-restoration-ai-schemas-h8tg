@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-clean-up-and-dry-a-basement-after-a-sewer-backup",
+  "name": "How long does it take to clean up and dry a basement after a sewer backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clean up and dry a basement after a sewer backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for cleaning up and drying a basement after a sewer backup depends on the severity of the contamination and the extent of moisture. Initial water removal and sanitization can take a day or two. The drying process, using industrial dehumidifiers and air movers, typically takes three to five days, sometimes longer for extensive saturation or high humidity. The entire restoration process, including any necessary repairs or reconstruction, can vary from a few days to several weeks.",
+        "@type": "Answer",
+        "description": "Cleanup and sanitization take 1-2 days, while drying typically requires 3-5 days. The overall restoration timeline depends on damage severity."
+      }
+    }
+  ],
+  "description": "Cleanup and sanitization take 1-2 days, while drying typically requires 3-5 days. The overall restoration timeline depends on damage severity."
+}

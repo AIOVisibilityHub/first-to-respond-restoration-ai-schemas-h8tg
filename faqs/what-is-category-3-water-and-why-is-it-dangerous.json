@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-category-3-water-and-why-is-it-dangerous",
+  "name": "What is 'Category 3' water, and why is it dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'Category 3' water, and why is it dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "'Category 3' water, often referred to as black water, is highly contaminated and poses a significant health risk. It originates from sources such as sewage backups, toilet overflows containing feces, floodwaters from rivers or oceans, and groundwater entering a structure. This type of water contains pathogenic agents, including bacteria, viruses, and other toxic substances, which can cause severe illness or death if ingested or through contact. All materials contaminated with Category 3 water must be professionally removed and disposed of, and the affected area thoroughly disinfected.",
+        "@type": "Answer",
+        "description": "Category 3 water, or 'black water,' is highly contaminated sewage or floodwater containing dangerous pathogens that can cause severe illness. Professional removal and disinfection are essential."
+      }
+    }
+  ],
+  "description": "Category 3 water, or 'black water,' is highly contaminated sewage or floodwater containing dangerous pathogens that can cause severe illness. Professional remov"
+}

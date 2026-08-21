@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-stay-open-during-commercial-sewage-cleanup",
+  "name": "Can I stay open during commercial sewage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay open during commercial sewage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ability to stay open during commercial sewage cleanup depends heavily on the extent and location of the contamination within your business. If the affected area is isolated, and the cleanup can be performed without posing health risks to employees or customers, or disrupting essential operations, limited sections of your business might remain open. However, due to the hazardous nature of sewage, comprehensive cleanup often requires temporary closure of the affected zones or the entire property to ensure safety, prevent further contamination, and allow technicians to work efficiently.",
+        "@type": "Answer",
+        "description": "Staying open during cleanup depends on the contamination's extent and location; isolated areas might allow partial operation, but widespread issues often require temporary closure for safety."
+      }
+    }
+  ],
+  "description": "Staying open during cleanup depends on the contamination's extent and location; isolated areas might allow partial operation, but widespread issues often requir"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-a-typical-sewage-cleanup-project-take",
+  "name": "How long does a typical sewage cleanup project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sewage cleanup project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sewage cleanup project varies widely based on the severity of the damage, the size of the affected area, and the materials involved. A small backup might be cleaned and dried in 2-3 days, while extensive contamination affecting multiple rooms could take a week or more for complete remediation and drying. We will provide a more accurate timeline after our initial assessment of your property.",
+        "@type": "Answer",
+        "description": "Project duration varies, from 2-3 days for small backups to over a week for extensive contamination, depending on severity and area size."
+      }
+    }
+  ],
+  "description": "Project duration varies, from 2-3 days for small backups to over a week for extensive contamination, depending on severity and area size."
+}

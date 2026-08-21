@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-sewage-backup-in-my-shower",
+  "name": "What should I do immediately after discovering a sewage backup in my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a sewage backup in my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your first priority is to avoid contact with the contaminated water. If safe, try to turn off your home's main water supply to prevent more water from entering the system. Do not use any plumbing fixtures, such as toilets or sinks, as this could worsen the backup. Contact a professional restoration company experienced in sewage cleanup right away. They have the necessary equipment and expertise to safely extract the water, sanitize the area, and begin the restoration process.",
+        "@type": "Answer",
+        "description": "Immediately avoid contact with sewage, turn off your main water supply if safe, and do not use any plumbing. Contact a professional restoration company at once."
+      }
+    }
+  ],
+  "description": "Immediately avoid contact with sewage, turn off your main water supply if safe, and do not use any plumbing. Contact a professional restoration company at once."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-a-sewage-backup-myself",
+  "name": "Can I clean up a sewage backup myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up a sewage backup myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning up a sewage backup yourself is not recommended due to severe health risks. Sewage contains harmful bacteria, viruses, and other pathogens that can cause serious illness. Proper personal protective equipment (PPE) and specialized cleaning agents are required for safe and effective remediation. Additionally, professional restoration companies have industrial-grade equipment to properly dry and dehumidify affected areas, preventing mold growth and further structural damage that DIY efforts often miss. Always contact certified professionals for sewage cleanup.",
+        "@type": "Answer",
+        "description": "No, it's not recommended to clean sewage yourself due to severe health risks and the need for specialized equipment and techniques for proper remediation."
+      }
+    }
+  ],
+  "description": "No, it's not recommended to clean sewage yourself due to severe health risks and the need for specialized equipment and techniques for proper remediation."
+}

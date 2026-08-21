@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-average-cost-to-remove-and-replace-sewage-damaged-carpet",
+  "name": "What is the average cost to remove and replace sewage-damaged carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to remove and replace sewage-damaged carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to remove and replace sewage-damaged carpet varies widely depending on the affected area's size, the type of carpet, the extent of contamination, and any additional structural damage. This typically includes labor for removal, disposal fees for hazardous waste, cleaning and sanitizing the subfloor, and the cost of new carpet and installation. An on-site assessment by a professional restoration company is essential to provide an accurate estimate. Insurance coverage often applies to such incidents.",
+        "@type": "Answer",
+        "description": "Costs vary based on area size, carpet type, damage extent, and disposal fees. An on-site assessment is needed for an accurate estimate, and insurance often covers such incidents."
+      }
+    }
+  ],
+  "description": "Costs vary based on area size, carpet type, damage extent, and disposal fees. An on-site assessment is needed for an accurate estimate, and insurance often cove"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-sewage-backing-up-into-my-bathtub",
+  "name": "Why is sewage backing up into my bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is sewage backing up into my bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backing up into your bathtub usually indicates a significant blockage in your main sewer line. This blockage prevents wastewater from flowing out of your home, causing it to seek the path of least resistance, which is often the lowest drain point – typically a bathtub or shower. Common causes include tree root intrusion, accumulation of grease and debris, or a collapsed pipe. It's a serious plumbing issue that requires professional attention to identify and resolve the root cause.",
+        "@type": "Answer",
+        "description": "Sewage backing up into your bathtub usually indicates a major blockage in your main sewer line, often caused by tree roots or debris."
+      }
+    }
+  ],
+  "description": "Sewage backing up into your bathtub usually indicates a major blockage in your main sewer line, often caused by tree roots or debris."
+}

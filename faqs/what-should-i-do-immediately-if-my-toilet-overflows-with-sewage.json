@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-my-toilet-overflows-with-sewage",
+  "name": "What should I do immediately if my toilet overflows with sewage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if my toilet overflows with sewage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, try to stop the water flow by lifting the float arm inside the toilet tank or turning off the water supply valve behind the toilet. Avoid flushing again. Isolate the affected area by closing doors and restricting access to pets and children. Do not attempt to clean it yourself without proper protective gear. Contact a professional restoration company immediately for safe and effective sewage cleanup and disinfection.",
+        "@type": "Answer",
+        "description": "Immediately stop the water flow, avoid flushing, restrict access to the area, and call a professional restoration company for help."
+      }
+    }
+  ],
+  "description": "Immediately stop the water flow, avoid flushing, restrict access to the area, and call a professional restoration company for help."
+}

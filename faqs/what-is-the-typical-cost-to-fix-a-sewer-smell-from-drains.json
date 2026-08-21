@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-to-fix-a-sewer-smell-from-drains",
+  "name": "What is the typical cost to fix a sewer smell from drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to fix a sewer smell from drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a sewer smell varies widely depending on the underlying cause. A simple fix like refilling a dry P-trap costs nothing. If a plumber needs to clear a minor clog, it might be a standard service call fee. For more complex issues like repairing a cracked vent pipe, replacing a section of a sewer line, or addressing a main line blockage, costs can range from a few hundred to several thousand dollars. An inspection is usually required to provide an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary from free for simple P-trap refills to several thousand dollars for major sewer line repairs. An inspection is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary from free for simple P-trap refills to several thousand dollars for major sewer line repairs. An inspection is needed for an accurate estimate."
+}

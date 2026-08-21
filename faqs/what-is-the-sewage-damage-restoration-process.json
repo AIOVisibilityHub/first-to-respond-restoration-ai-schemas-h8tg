@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-sewage-damage-restoration-process",
+  "name": "What is the sewage damage restoration process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the sewage damage restoration process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sewage damage restoration process typically begins with a thorough assessment of the affected areas. Technicians then extract standing sewage and remove all contaminated porous materials. This is followed by a deep cleaning and disinfection phase, using professional-grade sanitizers to eliminate bacteria and odors. Finally, specialized drying equipment is used to remove moisture, and the area is reconstructed or repaired to its pre-damage condition. Monitoring and testing ensure the space is fully restored and safe.",
+        "@type": "Answer",
+        "description": "The process involves assessment, sewage extraction, removal of contaminated materials, deep cleaning, disinfection, drying, and final repairs."
+      }
+    }
+  ],
+  "description": "The process involves assessment, sewage extraction, removal of contaminated materials, deep cleaning, disinfection, drying, and final repairs."
+}

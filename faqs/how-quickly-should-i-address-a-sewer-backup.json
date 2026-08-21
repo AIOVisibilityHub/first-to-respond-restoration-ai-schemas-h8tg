@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-address-a-sewer-backup",
+  "name": "How quickly should I address a sewer backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address a sewer backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewer backup should be addressed immediately, ideally within 24-48 hours. Sewage is a Category 3 biohazard, meaning it contains harmful bacteria and pathogens. Prolonged exposure allows these contaminants to spread further, increases the risk of mold growth, and can lead to more extensive and costly damage to your property's structure and contents. Rapid response minimizes health risks and reduces the overall impact.",
+        "@type": "Answer",
+        "description": "Address a sewer backup within 24-48 hours due to health risks and to prevent further damage and mold growth."
+      }
+    }
+  ],
+  "description": "Address a sewer backup within 24-48 hours due to health risks and to prevent further damage and mold growth."
+}

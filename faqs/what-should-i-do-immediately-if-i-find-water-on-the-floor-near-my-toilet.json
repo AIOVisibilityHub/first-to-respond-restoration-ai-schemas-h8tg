@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-find-water-on-the-floor-near-my-toilet",
+  "name": "What should I do immediately if I find water on the floor near my toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I find water on the floor near my toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately turn off the water supply to the toilet by locating the shut-off valve, typically found on the wall behind or beneath the toilet tank. Place towels or buckets to contain the standing water and prevent it from spreading. If the leak is significant or persistent, avoid using the toilet. Contact a professional restoration company or plumber promptly to assess the situation, repair the source of the leak, and address any potential water damage to your property. Delay can lead to mold growth and structural issues.",
+        "@type": "Answer",
+        "description": "Turn off the toilet's water supply, contain the water with towels, and contact a professional restoration company or plumber immediately to prevent further damage."
+      }
+    }
+  ],
+  "description": "Turn off the toilet's water supply, contain the water with towels, and contact a professional restoration company or plumber immediately to prevent further dama"
+}

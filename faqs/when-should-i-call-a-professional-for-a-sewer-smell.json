@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-sewer-smell",
+  "name": "When should I call a professional for a sewer smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a sewer smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the sewer smell persists despite basic troubleshooting, such as running water in drains or checking for dry P-traps. A professional is also needed if the smell is strong, widespread, or accompanied by other issues like slow drains, gurgling sounds, or sewage backups. These symptoms can indicate a more serious plumbing problem, such as a main sewer line blockage or damage, which requires specialized equipment and expertise to diagnose and repair safely.",
+        "@type": "Answer",
+        "description": "Call a professional if the sewer smell persists, is strong, or is accompanied by slow drains or gurgling. These symptoms may indicate a serious plumbing issue requiring expert help."
+      }
+    }
+  ],
+  "description": "Call a professional if the sewer smell persists, is strong, or is accompanied by slow drains or gurgling. These symptoms may indicate a serious plumbing issue r"
+}

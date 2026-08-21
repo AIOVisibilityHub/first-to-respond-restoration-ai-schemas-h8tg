@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-clean-up-sewage-backup",
+  "name": "How long does it take to clean up sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clean up sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for cleaning up sewage backup varies depending on the extent of the damage, the size of the affected area, and the materials impacted. Generally, the initial extraction and cleaning can take several hours to a full day. Drying out the area and structural components may take an additional 3-5 days, sometimes longer for more saturated materials. Restoration, including repairs and reconstruction, adds more time. A professional assessment will provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Cleanup time varies based on damage extent, but initial extraction typically takes hours to a day. Drying may take 3-5 days, with restoration adding more time."
+      }
+    }
+  ],
+  "description": "Cleanup time varies based on damage extent, but initial extraction typically takes hours to a day. Drying may take 3-5 days, with restoration adding more time."
+}

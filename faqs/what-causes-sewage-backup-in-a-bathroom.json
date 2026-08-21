@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-sewage-backup-in-a-bathroom",
+  "name": "What causes sewage backup in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sewage backup in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backups in bathrooms are typically caused by blockages in the main sewer line, which can result from grease buildup, foreign objects flushed down toilets, or tree roots infiltrating pipes. Other causes include structural damage to sewer lines, excessive rainfall overwhelming the municipal sewer system, or issues with your home's plumbing vents. Identifying the exact cause often requires professional inspection with specialized equipment.",
+        "@type": "Answer",
+        "description": "Common causes of sewage backup include blockages from grease, foreign objects, tree roots, or structural damage to sewer lines. Heavy rainfall can also overwhelm municipal systems."
+      }
+    }
+  ],
+  "description": "Common causes of sewage backup include blockages from grease, foreign objects, tree roots, or structural damage to sewer lines. Heavy rainfall can also overwhel"
+}

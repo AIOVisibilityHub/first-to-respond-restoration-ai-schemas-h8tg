@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-future-sewer-water-backups-in-my-basement",
+  "name": "How can I prevent future sewer water backups in my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future sewer water backups in my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventative measures include avoiding flushing non-biodegradable items and pouring grease down drains. Consider installing a backwater valve on your sewer line, which can prevent sewage from flowing back into your home. Regularly cleaning your drains and having your sewer line inspected for tree root intrusion or blockages can also help. For homes in areas prone to heavy rainfall, ensuring proper exterior drainage away from your foundation is also beneficial.",
+        "@type": "Answer",
+        "description": "Prevent backups by avoiding drain abuse, installing a backwater valve, regularly inspecting your sewer line, and ensuring proper exterior drainage."
+      }
+    }
+  ],
+  "description": "Prevent backups by avoiding drain abuse, installing a backwater valve, regularly inspecting your sewer line, and ensuring proper exterior drainage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-sewer-water-cleanup-in-a-crawl-space",
+  "name": "What is the process for sewer water cleanup in a crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for sewer water cleanup in a crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process begins with a thorough assessment to identify the source and extent of contamination. This is followed by extraction of the water, removal of all contaminated materials, and deep cleaning with industrial-grade disinfectants. Specialized drying equipment is then used to eliminate all moisture. Finally, post-remediation testing ensures the area is free from pathogens and safe.",
+        "@type": "Answer",
+        "description": "The process involves assessment, water extraction, removal of contaminated materials, deep disinfection, thorough drying, and final testing to ensure safety."
+      }
+    }
+  ],
+  "description": "The process involves assessment, water extraction, removal of contaminated materials, deep disinfection, thorough drying, and final testing to ensure safety."
+}

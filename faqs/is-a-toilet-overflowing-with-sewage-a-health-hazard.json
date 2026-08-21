@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-toilet-overflowing-with-sewage-a-health-hazard",
+  "name": "Is a toilet overflowing with sewage a health hazard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a toilet overflowing with sewage a health hazard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a toilet overflowing with sewage is a significant health hazard. Raw sewage, classified as Category 3 'black water,' contains harmful bacteria, viruses, and parasites that can cause severe illness if ingested or if it comes into contact with skin or open wounds. It can also spread pathogens through airborne particles. Professional cleanup and disinfection are crucial to prevent the spread of disease and ensure the safety of your environment.",
+        "@type": "Answer",
+        "description": "Yes, sewage overflow is a major health hazard due to bacteria, viruses, and parasites, requiring immediate professional cleanup."
+      }
+    }
+  ],
+  "description": "Yes, sewage overflow is a major health hazard due to bacteria, viruses, and parasites, requiring immediate professional cleanup."
+}

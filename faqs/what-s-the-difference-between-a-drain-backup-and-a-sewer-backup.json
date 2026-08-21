@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-a-drain-backup-and-a-sewer-backup",
+  "name": "What's the difference between a drain backup and a sewer backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a drain backup and a sewer backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A drain backup usually involves a blockage in a single fixture's drainpipe, like a sink or toilet, meaning water backs up only in that specific area. A sewer backup, however, indicates a blockage in the main sewer line, affecting multiple fixtures or even causing sewage to emerge from floor drains throughout your home. Sewer backups are typically more severe and require immediate professional attention due to widespread contamination.",
+        "@type": "Answer",
+        "description": "A drain backup is localized to one fixture, while a sewer backup affects multiple fixtures or floor drains due to a main sewer line blockage and is more severe."
+      }
+    }
+  ],
+  "description": "A drain backup is localized to one fixture, while a sewer backup affects multiple fixtures or floor drains due to a main sewer line blockage and is more severe."
+}

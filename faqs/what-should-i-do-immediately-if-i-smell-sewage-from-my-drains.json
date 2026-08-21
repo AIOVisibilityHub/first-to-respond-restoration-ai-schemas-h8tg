@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-smell-sewage-from-my-drains",
+  "name": "What should I do immediately if I smell sewage from my drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I smell sewage from my drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, pour a gallon of water down any seldom-used drains (like in a guest bathroom or laundry room) to refill P-traps. Check toilet bowls to ensure they are full. If the smell persists, open windows to ventilate the area and ensure no one is exposed to high concentrations of gas. Avoid using harsh chemicals as they can sometimes exacerbate issues. If the smell remains strong or widespread, contact a professional restoration company for inspection.",
+        "@type": "Answer",
+        "description": "Pour water down drains to refill P-traps and ventilate your home. If the smell persists or is strong, contact a professional."
+      }
+    }
+  ],
+  "description": "Pour water down drains to refill P-traps and ventilate your home. If the smell persists or is strong, contact a professional."
+}

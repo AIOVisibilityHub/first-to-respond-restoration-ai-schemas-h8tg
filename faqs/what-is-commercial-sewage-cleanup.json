@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-commercial-sewage-cleanup",
+  "name": "What is commercial sewage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is commercial sewage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial sewage cleanup involves the professional removal, cleaning, and sanitization of properties affected by black water contamination, which is category 3 water containing human waste, pathogens, and other hazardous materials. This process is critical for businesses to prevent health risks, structural damage, and further contamination. It typically includes water extraction, removal of contaminated materials, thorough disinfection, deodorization, and restoration of the affected area to a safe and habitable condition. Specialized equipment and trained technicians are necessary to handle the biological hazards associated with sewage.",
+        "@type": "Answer",
+        "description": "Commercial sewage cleanup is the professional process of removing, cleaning, and sanitizing properties contaminated by black water, which contains hazardous waste."
+      }
+    }
+  ],
+  "description": "Commercial sewage cleanup is the professional process of removing, cleaning, and sanitizing properties contaminated by black water, which contains hazardous was"
+}

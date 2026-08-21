@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-sewage-cleanup",
+  "name": "What is the typical process for sewage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for sewage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical sewage cleanup process involves several critical steps. First, professionals assess the extent of contamination and identify the source. Next, they safely extract sewage and contaminated water. All affected porous materials, such as carpet, drywall, and insulation, are removed. The area is then thoroughly cleaned, disinfected, and sanitized using industrial-grade products. Finally, high-powered drying equipment is used to eliminate all moisture and prevent mold. Post-cleanup testing may be conducted to ensure the area is free from pathogens and odors.",
+        "@type": "Answer",
+        "description": "Sewage cleanup involves assessment, sewage extraction, removal of contaminated materials, thorough cleaning and disinfection, and professional drying to prevent mold."
+      }
+    }
+  ],
+  "description": "Sewage cleanup involves assessment, sewage extraction, removal of contaminated materials, thorough cleaning and disinfection, and professional drying to prevent"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-clean-up-a-sewage-overflow",
+  "name": "How do professionals clean up a sewage overflow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals clean up a sewage overflow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals follow a multi-step process for sewage cleanup. They begin by extracting all standing water and sewage. Contaminated porous materials like carpet, drywall, and insulation are safely removed and disposed of. The affected areas are then thoroughly cleaned, disinfected, and sanitized using industrial-grade antimicrobials. Specialized equipment is used to dry the structure completely, followed by air purification to eliminate odors and airborne contaminants, ensuring the property is safe and free of pathogens.",
+        "@type": "Answer",
+        "description": "Professionals extract sewage, remove contaminated materials, clean and disinfect affected areas, dry the structure, and purify the air."
+      }
+    }
+  ],
+  "description": "Professionals extract sewage, remove contaminated materials, clean and disinfect affected areas, dry the structure, and purify the air."
+}

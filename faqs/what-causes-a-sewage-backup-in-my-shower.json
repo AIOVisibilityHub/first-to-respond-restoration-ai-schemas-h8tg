@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-sewage-backup-in-my-shower",
+  "name": "What causes a sewage backup in my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a sewage backup in my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backups in showers often occur due to blockages in the main sewer line or your home's drainage system. Common culprits include tree roots invading pipes, flushed non-flushable items like wipes, grease buildup, or structural damage to old pipes. Issues within municipal sewer lines can also contribute to backups, causing waste to reverse flow into the lowest drains in a home, which is frequently a shower.",
+        "@type": "Answer",
+        "description": "Sewage backups in showers are usually caused by blockages in the main sewer line, tree root intrusion, flushed non-flushable items, or grease buildup."
+      }
+    }
+  ],
+  "description": "Sewage backups in showers are usually caused by blockages in the main sewer line, tree root intrusion, flushed non-flushable items, or grease buildup."
+}

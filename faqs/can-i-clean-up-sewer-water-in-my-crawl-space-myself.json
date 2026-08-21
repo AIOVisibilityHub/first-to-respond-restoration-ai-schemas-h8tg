@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-sewer-water-in-my-crawl-space-myself",
+  "name": "Can I clean up sewer water in my crawl space myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up sewer water in my crawl space myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, cleaning up sewer water yourself is not recommended due to severe health hazards. Sewer water contains biohazards that require specialized equipment, protective gear, and disinfectants for safe removal and decontamination. Professional restoration companies are trained and certified to handle black water contamination, ensuring proper cleanup and preventing further health risks or property damage.",
+        "@type": "Answer",
+        "description": "Cleaning up sewer water yourself is highly risky due to biohazards. Professionals have the necessary equipment and training for safe and thorough decontamination."
+      }
+    }
+  ],
+  "description": "Cleaning up sewer water yourself is highly risky due to biohazards. Professionals have the necessary equipment and training for safe and thorough decontaminatio"
+}

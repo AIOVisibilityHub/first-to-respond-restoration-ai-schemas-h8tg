@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-grey-water-and-black-water-in-a-crawl-space",
+  "name": "What is the difference between grey water and black water in a crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between grey water and black water in a crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a crawl space, grey water typically refers to wastewater from sinks, showers, bathtubs, and washing machines, which may contain soap, dirt, and minor contaminants. While not immediately life-threatening, it can still promote mold growth and odors. Black water, however, is significantly more hazardous as it contains human waste from toilets, dishwashers, or raw sewage, carrying dangerous pathogens, bacteria, and viruses. Black water contamination always requires professional remediation due to severe health risks.",
+        "@type": "Answer",
+        "description": "Grey water is from sinks and showers, while black water contains human waste and is significantly more hazardous, requiring professional remediation."
+      }
+    }
+  ],
+  "description": "Grey water is from sinks and showers, while black water contains human waste and is significantly more hazardous, requiring professional remediation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-immediate-dangers-of-sewage-on-my-floor",
+  "name": "What are the immediate dangers of sewage on my floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the immediate dangers of sewage on my floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage contains harmful bacteria, viruses, and parasites that pose significant health risks. Direct contact or inhaling airborne particles can lead to illnesses like E. coli infection, Hepatitis A, and tetanus. Beyond health concerns, sewage water can cause extensive damage to flooring, walls, and structural elements if not promptly and properly addressed. It also creates unpleasant odors and can attract pests. Professional cleanup is crucial to mitigate these dangers and prevent further contamination or damage.",
+        "@type": "Answer",
+        "description": "Sewage on the floor presents immediate health risks from bacteria and viruses, and can cause extensive property damage if not cleaned promptly."
+      }
+    }
+  ],
+  "description": "Sewage on the floor presents immediate health risks from bacteria and viruses, and can cause extensive property damage if not cleaned promptly."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-black-water-gray-water-and-clean-water-damage",
+  "name": "What's the difference between black water, gray water, and clean water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between black water, gray water, and clean water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage is categorized into three types based on contamination level. Clean water (Category 1) originates from sanitary sources like leaky faucets or burst supply lines and poses no immediate health threat. Gray water (Category 2) contains some contaminants, such as water from a washing machine or dishwasher, and can cause illness if ingested. Black water (Category 3) is grossly contaminated water, like sewage or floodwaters, posing a severe health risk due to pathogens. Each category requires different handling and remediation protocols.",
+        "@type": "Answer",
+        "description": "Clean water is sanitary, gray water has some contaminants, and black water is highly contaminated and dangerous. Each category requires different cleanup methods."
+      }
+    }
+  ],
+  "description": "Clean water is sanitary, gray water has some contaminants, and black water is highly contaminated and dangerous. Each category requires different cleanup method"
+}

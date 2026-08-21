@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-sewage-cleanup-for-carpet",
+  "name": "Will my insurance cover sewage cleanup for carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover sewage cleanup for carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover sudden and accidental damage from sewage backups, but coverage can vary. It often depends on the specific cause of the backup and the details of your policy. For example, damage from an overflowing toilet may be covered, while damage from external sewer line issues might require specific endorsements like sewer backup coverage. It is advisable to review your policy or contact your insurance provider directly as soon as the incident occurs to understand your coverage limits and claim process.",
+        "@type": "Answer",
+        "description": "Many homeowner's insurance policies cover sewage backup, but coverage depends on the cause and your specific policy. Check with your insurance provider immediately."
+      }
+    }
+  ],
+  "description": "Many homeowner's insurance policies cover sewage backup, but coverage depends on the cause and your specific policy. Check with your insurance provider immediat"
+}

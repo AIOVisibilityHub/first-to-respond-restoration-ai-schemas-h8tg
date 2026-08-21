@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reputable-company-for-sewage-cleanup",
+  "name": "How do I choose a reputable company for sewage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable company for sewage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a sewage cleanup company, look for several key qualifications. Ensure they are certified by organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification) in water damage and biohazard remediation. Verify they are licensed and insured to protect your property and their workers. Check for references or online reviews to gauge customer satisfaction. A reputable company will offer 24/7 emergency services, provide a detailed estimate, and clearly explain their cleanup process, including disinfection and drying protocols. Transparent communication and experience are crucial.",
+        "@type": "Answer",
+        "description": "Choose a sewage cleanup company that is IICRC-certified, licensed, insured, has positive reviews, offers 24/7 emergency service, and provides clear estimates."
+      }
+    }
+  ],
+  "description": "Choose a sewage cleanup company that is IICRC-certified, licensed, insured, has positive reviews, offers 24/7 emergency service, and provides clear estimates."
+}

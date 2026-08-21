@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-sewer-smell-in-my-house",
+  "name": "What causes a sewer smell in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a sewer smell in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer smells in a house are typically caused by a dry P-trap, a cracked or loose vent pipe, a clogged drain, or a compromised sewer line. A dry P-trap allows sewer gases to enter your home because the water seal has evaporated. Vent pipe issues can prevent proper airflow in your plumbing system, leading to gas buildup. Clogs can trap organic matter, producing foul odors. More seriously, a broken or leaking sewer line can release gases and wastewater into your property. Identifying the exact cause is crucial for effective remediation.",
+        "@type": "Answer",
+        "description": "Sewer smells are commonly caused by dry P-traps, vent pipe issues, clogged drains, or compromised sewer lines."
+      }
+    }
+  ],
+  "description": "Sewer smells are commonly caused by dry P-traps, vent pipe issues, clogged drains, or compromised sewer lines."
+}

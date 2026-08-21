@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-there-s-sewer-water-in-my-basement",
+  "name": "What should I do immediately if there's sewer water in my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if there's sewer water in my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, avoid direct contact with the water and keep pets and children away from the affected area. If safe to do so, turn off your home's main water supply and electricity to the basement to prevent further damage or hazards. Ventilate the area by opening windows and doors, if possible. Document the damage with photos or videos for insurance purposes. Contact a professional restoration company promptly, as timely intervention is crucial to minimize damage and health risks.",
+        "@type": "Answer",
+        "description": "Immediately avoid contact, turn off water and electricity if safe, ventilate the area, document damage, and call a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately avoid contact, turn off water and electricity if safe, ventilate the area, document damage, and call a professional restoration company."
+}

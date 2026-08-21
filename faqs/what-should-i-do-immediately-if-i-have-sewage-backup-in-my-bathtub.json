@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-have-sewage-backup-in-my-bathtub",
+  "name": "What should I do immediately if I have sewage backup in my bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I have sewage backup in my bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, avoid contact with the sewage and prevent pets or children from entering the area. Do not use any plumbing fixtures in your home, as this could worsen the backup. If safe, turn off your main water supply to prevent additional water from entering the system. Contact a professional emergency restoration company immediately. They can assess the situation, identify the source of the backup, and begin the specialized cleanup and sanitization process to protect your property and health.",
+        "@type": "Answer",
+        "description": "Immediately avoid contact with sewage, stop using plumbing, and turn off your main water supply if safe. Contact a professional emergency restoration company."
+      }
+    }
+  ],
+  "description": "Immediately avoid contact with sewage, stop using plumbing, and turn off your main water supply if safe. Contact a professional emergency restoration company."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-for-sewage-backup-vs-a-plu",
+  "name": "When should I call a professional restoration company for sewage backup vs. a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company for sewage backup vs. a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Call a plumber primarily when the issue is confined to the plumbing system and there's no significant water damage or contamination, such as a clogged toilet that hasn't overflowed. For sewage backup, where raw sewage has overflowed into your bathtub or home, you should immediately call a professional restoration company. Restoration experts specialize in the safe cleanup, disinfection, drying, and restoration of affected areas, addressing the health hazards and preventing secondary damage like mold. They can also help coordinate with plumbers to fix the underlying issue.",
+        "@type": "Answer",
+        "description": "Call a plumber for plumbing issues without significant overflow. For sewage backup with overflow and contamination, call a professional restoration company for cleanup, disinfection, and drying."
+      }
+    }
+  ],
+  "description": "Call a plumber for plumbing issues without significant overflow. For sewage backup with overflow and contamination, call a professional restoration company for"
+}

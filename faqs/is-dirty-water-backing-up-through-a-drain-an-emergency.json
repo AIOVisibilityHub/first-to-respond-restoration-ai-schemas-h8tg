@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-dirty-water-backing-up-through-a-drain-an-emergency",
+  "name": "Is dirty water backing up through a drain an emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is dirty water backing up through a drain an emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, dirty water backing up through a drain is considered an emergency. This water, known as Category 3 or 'black water,' contains sewage, bacteria, viruses, and other hazardous contaminants. It poses significant health risks to occupants and can cause extensive damage to your property's structure, flooring, and personal belongings. Prompt action is crucial to prevent further contamination, structural issues, and mold growth. Professional restoration is necessary to safely clean, sanitize, and dry affected areas.",
+        "@type": "Answer",
+        "description": "Yes, dirty water backup is an emergency due to health risks from contaminants and potential for extensive property damage. Professional cleanup is required."
+      }
+    }
+  ],
+  "description": "Yes, dirty water backup is an emergency due to health risks from contaminants and potential for extensive property damage. Professional cleanup is required."
+}

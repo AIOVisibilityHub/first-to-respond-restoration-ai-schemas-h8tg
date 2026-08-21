@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-know-if-i-need-professional-sewage-cleanup-or-if-i-can-clean-it-myself",
+  "name": "How do I know if I need professional sewage cleanup or if I can clean it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need professional sewage cleanup or if I can clean it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always opt for professional sewage cleanup when dealing with any amount of black water (sewage). Even small backups can harbor dangerous pathogens. DIY cleanup is only safe for clean water spills. If the water is dark, odorous, or comes from a toilet overflow containing fecal matter, it is considered hazardous. Professionals have the training, equipment, and disinfectants to ensure complete and safe remediation.",
+        "@type": "Answer",
+        "description": "Always use professional cleanup for sewage due to dangerous pathogens; only clean water spills are safe for DIY. If it's dark, odorous, or from a toilet, call pros."
+      }
+    }
+  ],
+  "description": "Always use professional cleanup for sewage due to dangerous pathogens; only clean water spills are safe for DIY. If it's dark, odorous, or from a toilet, call p"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-crawl-space-sewage-cleanup",
+  "name": "When should I call a professional for crawl space sewage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for crawl space sewage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for crawl space sewage cleanup immediately upon discovery. Sewage water contains dangerous pathogens that require specialized equipment and expertise for safe removal and disinfection. Attempting DIY cleanup without proper protective gear and strong disinfectants can expose you to severe health risks. Professionals ensure thorough sanitation, proper disposal of waste, and complete drying to prevent mold growth and further structural damage.",
+        "@type": "Answer",
+        "description": "Call a professional immediately; sewage contains dangerous pathogens requiring specialized equipment for safe removal and disinfection."
+      }
+    }
+  ],
+  "description": "Call a professional immediately; sewage contains dangerous pathogens requiring specialized equipment for safe removal and disinfection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-sewer-backup-cleanup",
+  "name": "Does homeowner's insurance cover sewer backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover sewer backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard homeowner's insurance policies often do not automatically cover damage from sewer backups. Coverage for this specific peril typically requires a separate endorsement or rider to your policy, often called 'sewer and drain backup coverage' or similar. It is crucial to review your policy documents or contact your insurance provider directly to understand your specific coverage details and if this type of damage is included.",
+        "@type": "Answer",
+        "description": "Standard homeowner's insurance usually doesn't cover sewer backups; a separate endorsement or rider is often required."
+      }
+    }
+  ],
+  "description": "Standard homeowner's insurance usually doesn't cover sewer backups; a separate endorsement or rider is often required."
+}

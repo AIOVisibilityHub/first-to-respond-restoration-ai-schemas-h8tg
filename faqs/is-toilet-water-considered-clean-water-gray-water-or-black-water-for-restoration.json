@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-toilet-water-considered-clean-water-gray-water-or-black-water-for-restoration",
+  "name": "Is toilet water considered clean water, gray water, or black water for restoration purposes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is toilet water considered clean water, gray water, or black water for restoration purposes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Toilet water on the floor is generally categorized based on its source and potential contaminants. If it's from the tank or a supply line before it enters the bowl (Category 1, 'clean water'), it poses minimal risk initially. However, once it touches the bowl, especially if mixed with urine or feces, it quickly becomes Category 2 ('gray water') or Category 3 ('black water'), carrying significant health risks. A professional restorer will always treat toilet overflow as at least gray water, requiring specific protocols for safe cleanup and disinfection.",
+        "@type": "Answer",
+        "description": "Toilet water can range from 'clean' (from the tank) to 'gray' or 'black' (from the bowl with waste), requiring different restoration protocols due to potential health risks."
+      }
+    }
+  ],
+  "description": "Toilet water can range from 'clean' (from the tank) to 'gray' or 'black' (from the bowl with waste), requiring different restoration protocols due to potential"
+}

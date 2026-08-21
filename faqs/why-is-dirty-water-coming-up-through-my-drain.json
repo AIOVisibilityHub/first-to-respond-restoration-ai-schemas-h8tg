@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-dirty-water-coming-up-through-my-drain",
+  "name": "Why is dirty water coming up through my drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is dirty water coming up through my drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dirty water backing up through a drain typically indicates a blockage or issue within your plumbing system, often in the main sewer line. Common causes include tree roots invading pipes, accumulation of grease, hair, and debris, or a collapsed pipe section. When the wastewater can't flow freely through the main line, it seeks the path of least resistance, which is often the lowest drain in your home, like a shower, tub, or toilet. Identifying the exact cause requires a professional assessment, often with camera inspection.",
+        "@type": "Answer",
+        "description": "Dirty water coming up through a drain usually signals a blockage in your main sewer line from tree roots, grease, or debris. A professional inspection is needed to pinpoint the cause."
+      }
+    }
+  ],
+  "description": "Dirty water coming up through a drain usually signals a blockage in your main sewer line from tree roots, grease, or debris. A professional inspection is needed"
+}

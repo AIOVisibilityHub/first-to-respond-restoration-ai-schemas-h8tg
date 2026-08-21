@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-i-take-immediately-after-discovering-black-water",
+  "name": "What steps should I take immediately after discovering black water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take immediately after discovering black water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering black water, prioritize safety first. Avoid all contact with the water and keep pets and family members away from the affected area. If safe to do so, turn off the water supply to prevent further leakage and shut off electricity to the affected areas to prevent electrical hazards. Do not attempt to clean it yourself. Immediately contact a professional water damage restoration company. They will guide you through the next steps and provide an emergency response to begin containment and cleanup.",
+        "@type": "Answer",
+        "description": "Immediately after discovering black water, ensure safety by avoiding contact, turning off water and electricity if safe, and calling a professional restoration company for emergency assistance."
+      }
+    }
+  ],
+  "description": "Immediately after discovering black water, ensure safety by avoiding contact, turning off water and electricity if safe, and calling a professional restoration"
+}

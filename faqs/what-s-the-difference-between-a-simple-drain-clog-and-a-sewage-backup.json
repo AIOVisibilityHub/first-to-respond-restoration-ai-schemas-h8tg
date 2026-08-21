@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-a-simple-drain-clog-and-a-sewage-backup",
+  "name": "What's the difference between a simple drain clog and a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a simple drain clog and a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple drain clog typically affects one fixture, like a toilet or sink, and is usually isolated within that fixture's trap or immediate drainpipe. Water may drain slowly or not at all from that single point. A sewage backup, however, indicates a blockage or issue further down the main sewer line, affecting multiple fixtures or causing sewage to back up into toilets, showers, or drains throughout the bathroom or even other parts of the home. Sewage backups often involve foul odors and contaminated water from the main sewer system.",
+        "@type": "Answer",
+        "description": "A drain clog affects one fixture, while a sewage backup indicates a main sewer line issue affecting multiple fixtures with contaminated water and foul odors."
+      }
+    }
+  ],
+  "description": "A drain clog affects one fixture, while a sewage backup indicates a main sewer line issue affecting multiple fixtures with contaminated water and foul odors."
+}

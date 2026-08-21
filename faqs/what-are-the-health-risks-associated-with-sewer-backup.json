@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-health-risks-associated-with-sewer-backup",
+  "name": "What are the health risks associated with sewer backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the health risks associated with sewer backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer backups pose significant health risks due to the presence of harmful microorganisms, including bacteria (like E. coli and Salmonella), viruses (like Hepatitis A and Rotavirus), and parasites. Exposure can lead to gastrointestinal illnesses, skin infections, respiratory problems, and other serious health conditions. It's unsafe to come into direct contact with sewage or breathe in contaminated air without proper protective gear and professional handling.",
+        "@type": "Answer",
+        "description": "Sewer backups carry risks of illness from bacteria, viruses, and parasites, causing gastrointestinal, skin, and respiratory issues."
+      }
+    }
+  ],
+  "description": "Sewer backups carry risks of illness from bacteria, viruses, and parasites, causing gastrointestinal, skin, and respiratory issues."
+}

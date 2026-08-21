@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-toilet-sewage-backup",
+  "name": "When should I call a professional for a toilet sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a toilet sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for a toilet sewage backup immediately. Sewage (Category 3 water) poses significant health risks due to contaminants. Professionals have the specialized equipment, training, and protective gear to safely handle and remove biohazardous waste, thoroughly disinfect the area, and prevent mold growth. Attempting to clean it yourself without proper precautions can be dangerous and may lead to incomplete remediation, resulting in ongoing health or structural issues.",
+        "@type": "Answer",
+        "description": "Call a professional immediately for any toilet sewage backup. It's biohazardous, requires specialized equipment and training for safe cleanup, and prevents further health risks or structural damage."
+      }
+    }
+  ],
+  "description": "Call a professional immediately for any toilet sewage backup. It's biohazardous, requires specialized equipment and training for safe cleanup, and prevents furt"
+}

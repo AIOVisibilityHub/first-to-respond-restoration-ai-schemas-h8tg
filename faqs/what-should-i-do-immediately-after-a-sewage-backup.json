@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-sewage-backup",
+  "name": "What should I do immediately after a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after a sewage backup, restrict access to the affected area to prevent contamination. Do not use your plumbing system (toilets, sinks) to avoid further overflow. Turn off your HVAC system if the backup is near vents to prevent airborne contaminants. Avoid direct contact with the sewage and standing water. Contact a professional emergency restoration company like First To Respond Restoration right away for assessment and cleanup to ensure proper sanitation and safety.",
+        "@type": "Answer",
+        "description": "Immediately restrict access, do not use plumbing, turn off HVAC, and call a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately restrict access, do not use plumbing, turn off HVAC, and call a professional restoration company."
+}

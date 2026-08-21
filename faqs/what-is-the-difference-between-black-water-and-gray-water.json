@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-black-water-and-gray-water",
+  "name": "What is the difference between black water and gray water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between black water and gray water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The distinction between black water and gray water lies in their contamination levels and sources. Gray water comes from sinks, showers, bathtubs, and washing machines; while not potable, it typically contains fewer contaminants than black water. Black water, however, originates from sewage, toilet bowls containing fecal matter, or floodwaters from rivers and oceans. It carries pathogenic bacteria and viruses, posing severe health risks. Black water requires immediate professional remediation, while gray water, though needing cleanup, presents a lower immediate health threat.",
+        "@type": "Answer",
+        "description": "Black water is highly contaminated from sewage or floodwaters, posing severe health risks. Gray water, from sinks or showers, has fewer contaminants and lower immediate risk."
+      }
+    }
+  ],
+  "description": "Black water is highly contaminated from sewage or floodwaters, posing severe health risks. Gray water, from sinks or showers, has fewer contaminants and lower i"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-water-damage-restoration-for-toilet-water-on-the-flo",
+  "name": "When do I need professional water damage restoration for toilet water on the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional water damage restoration for toilet water on the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional water damage restoration if the water has seeped into porous materials like subflooring, drywall, or carpeting, or if the leak has been ongoing for some time. Any amount of standing water that isn't quickly and completely dried can lead to structural damage, mold growth, or unpleasant odors. Professionals have specialized equipment to detect hidden moisture, thoroughly dry the affected areas, and safely remediate any contamination or mold, ensuring your property is restored to a safe and healthy condition.",
+        "@type": "Answer",
+        "description": "Professional water damage restoration is needed if water has penetrated porous materials, if the leak was prolonged, or if mold is suspected, to prevent structural damage and health risks."
+      }
+    }
+  ],
+  "description": "Professional water damage restoration is needed if water has penetrated porous materials, if the leak was prolonged, or if mold is suspected, to prevent structu"
+}

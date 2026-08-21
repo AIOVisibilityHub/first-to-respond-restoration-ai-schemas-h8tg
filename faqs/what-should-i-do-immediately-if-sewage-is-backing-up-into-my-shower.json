@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-sewage-is-backing-up-into-my-shower",
+  "name": "What should I do immediately if sewage is backing up into my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if sewage is backing up into my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If sewage is backing up into your shower, the first step is to stop using any water fixtures in your home, including toilets, sinks, and washing machines. This prevents more wastewater from entering the overwhelmed sewer line. Next, avoid contact with the contaminated water and keep pets and children away from the affected area. Then, contact a professional restoration company like First To Respond Restoration immediately. They can assess the situation, identify the source of the backup, and begin the necessary cleanup and sanitation process.",
+        "@type": "Answer",
+        "description": "Immediately stop using all water fixtures, avoid contact with the sewage, keep pets and children away, and call a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately stop using all water fixtures, avoid contact with the sewage, keep pets and children away, and call a professional restoration company."
+}

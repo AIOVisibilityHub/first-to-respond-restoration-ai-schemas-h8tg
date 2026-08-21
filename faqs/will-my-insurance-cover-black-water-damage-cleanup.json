@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-black-water-damage-cleanup",
+  "name": "Will my insurance cover black water damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover black water damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies provide coverage for sudden and accidental water damage, which can include black water damage if the source is covered (e.g., a burst pipe within the home). However, damage from external flooding (like river overflow) typically requires a separate flood insurance policy. It's crucial to review your specific policy details or contact your insurance provider to understand your coverage. Our team can assist you with documenting the damage and communicating with your insurance company to streamline the claims process.",
+        "@type": "Answer",
+        "description": "Coverage for black water damage depends on your policy and the water source. Most standard policies cover internal accidents, but external flooding requires flood insurance. Check your policy details."
+      }
+    }
+  ],
+  "description": "Coverage for black water damage depends on your policy and the water source. Most standard policies cover internal accidents, but external flooding requires flo"
+}

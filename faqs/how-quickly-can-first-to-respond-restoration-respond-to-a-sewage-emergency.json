@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-first-to-respond-restoration-respond-to-a-sewage-emergency",
+  "name": "How quickly can First To Respond Restoration respond to a sewage emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can First To Respond Restoration respond to a sewage emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration offers 24/7 emergency services and aims to respond to sewage emergencies as quickly as possible. Our local teams in Encino, North Hollywood, San Fernando, Studio City, and Tarzana are dispatched immediately upon receiving your call. Prompt response is crucial to minimize water damage, prevent mold growth, and mitigate health risks associated with sewage contamination.",
+        "@type": "Answer",
+        "description": "We offer 24/7 emergency service and respond quickly, often within hours, to minimize damage and health risks in Encino, North Hollywood, San Fernando, Studio City, and Tarzana."
+      }
+    }
+  ],
+  "description": "We offer 24/7 emergency service and respond quickly, often within hours, to minimize damage and health risks in Encino, North Hollywood, San Fernando, Studio Ci"
+}

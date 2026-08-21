@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-sewage-backup-in-my-toilet",
+  "name": "What should I do immediately after a sewage backup in my toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a sewage backup in my toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after noticing a sewage backup, stop using all water fixtures in your home to prevent further overflow. Do not flush the toilet again. If it's safe to do so, turn off your main water supply. Avoid contact with the contaminated water. Contact a professional restoration company promptly to assess the situation and begin the cleanup and remediation process. They can identify the source of the backup and mitigate health risks.",
+        "@type": "Answer",
+        "description": "Stop using all water fixtures, turn off your main water supply if safe, and avoid contact with the sewage. Immediately call a professional restoration company."
+      }
+    }
+  ],
+  "description": "Stop using all water fixtures, turn off your main water supply if safe, and avoid contact with the sewage. Immediately call a professional restoration company."
+}

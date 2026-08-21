@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-sewer-smell-dangerous",
+  "name": "Is a sewer smell dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a sewer smell dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the primary concern with a sewer smell is often its unpleasantness, it can also pose health risks. Sewer gas primarily contains methane, hydrogen sulfide, ammonia, and carbon dioxide. In high concentrations, hydrogen sulfide can be toxic, causing symptoms like headaches, nausea, and in extreme cases, unconsciousness. Methane is also highly flammable and can present an explosion risk if it accumulates in enclosed spaces. Therefore, it's important to address persistent sewer smells promptly to ensure the safety of your home and its occupants.",
+        "@type": "Answer",
+        "description": "Sewer smell can be dangerous. Gases like hydrogen sulfide are toxic in high concentrations, causing headaches and nausea, while methane is flammable, posing an explosion risk."
+      }
+    }
+  ],
+  "description": "Sewer smell can be dangerous. Gases like hydrogen sulfide are toxic in high concentrations, causing headaches and nausea, while methane is flammable, posing an"
+}

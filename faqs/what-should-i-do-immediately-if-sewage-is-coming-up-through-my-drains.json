@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-sewage-is-coming-up-through-my-drains",
+  "name": "What should I do immediately if sewage is coming up through my drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if sewage is coming up through my drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, stop using all water sources in your home, including toilets, showers, and sinks. If safe, turn off your main water supply. Avoid contact with the sewage. Call a professional restoration company immediately to assess the situation and begin cleanup. Do not try to clean it yourself, as it requires specialized equipment and safety precautions.",
+        "@type": "Answer",
+        "description": "Immediately stop using all water sources, turn off your main water supply if safe, and avoid contact with the sewage. Call a professional restoration company right away."
+      }
+    }
+  ],
+  "description": "Immediately stop using all water sources, turn off your main water supply if safe, and avoid contact with the sewage. Call a professional restoration company ri"
+}

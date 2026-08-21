@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-clean-up-sewage-backup",
+  "name": "How much does it cost to clean up sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to clean up sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewage backup cleanup varies significantly based on the extent of contamination, the size of the affected area, and the amount of material that needs to be removed or replaced. Factors include labor, specialized equipment, disinfection agents, and potential reconstruction. It is best to get an assessment from a professional restoration company for an accurate estimate. Many homeowner's insurance policies may cover sewage backup cleanup, depending on your specific policy.",
+        "@type": "Answer",
+        "description": "Cleanup costs vary based on contamination extent and affected area size. A professional assessment is needed for an accurate estimate. Insurance may cover it."
+      }
+    }
+  ],
+  "description": "Cleanup costs vary based on contamination extent and affected area size. A professional assessment is needed for an accurate estimate. Insurance may cover it."
+}

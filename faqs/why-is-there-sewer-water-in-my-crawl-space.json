@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-there-sewer-water-in-my-crawl-space",
+  "name": "Why is there sewer water in my crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is there sewer water in my crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer water can enter your crawl space due to several issues, most commonly a ruptured sewer line, a major clog causing a backup, or a failing sump pump if one is present. Tree root intrusion into pipes, ground shifting, or corrosion can also lead to breaks. It's crucial to identify the source quickly to prevent further damage and health risks.",
+        "@type": "Answer",
+        "description": "Sewer water in your crawl space often indicates a broken or clogged sewer line, or a failing sump pump. Tree roots or pipe corrosion can cause these issues."
+      }
+    }
+  ],
+  "description": "Sewer water in your crawl space often indicates a broken or clogged sewer line, or a failing sump pump. Tree roots or pipe corrosion can cause these issues."
+}

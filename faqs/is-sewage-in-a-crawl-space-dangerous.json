@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-sewage-in-a-crawl-space-dangerous",
+  "name": "Is sewage in a crawl space dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewage in a crawl space dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sewage in a crawl space is extremely dangerous. It contains harmful bacteria, viruses, and parasites that pose significant health risks, including E. coli, Salmonella, and Hepatitis. Exposure can lead to gastrointestinal illnesses, skin infections, respiratory problems, and other serious health conditions. Furthermore, the moisture can lead to mold growth, which also negatively impacts air quality and structural integrity. Professional cleanup is essential to mitigate these hazards.",
+        "@type": "Answer",
+        "description": "Yes, it is very dangerous due to harmful bacteria, viruses, and mold, posing significant health risks."
+      }
+    }
+  ],
+  "description": "Yes, it is very dangerous due to harmful bacteria, viruses, and mold, posing significant health risks."
+}

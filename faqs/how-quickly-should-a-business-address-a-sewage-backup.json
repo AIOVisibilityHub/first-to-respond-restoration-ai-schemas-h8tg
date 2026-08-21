@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-a-business-address-a-sewage-backup",
+  "name": "How quickly should a business address a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should a business address a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A business should address a sewage backup immediately, ideally within 24-48 hours. Sewage is classified as Category 3 water, containing harmful pathogens and toxins that can quickly spread and cause severe health risks, extensive property damage, and pervasive odors. The longer sewage sits, the deeper it penetrates porous materials like drywall, flooring, and insulation, increasing the scope and cost of the cleanup. Prompt action helps mitigate damage, reduces mold growth potential, and speeds up the restoration process, allowing your business to reopen sooner.",
+        "@type": "Answer",
+        "description": "A sewage backup should be addressed immediately, within 24-48 hours, to prevent rapid spread of contaminants, extensive damage, and increased cleanup costs."
+      }
+    }
+  ],
+  "description": "A sewage backup should be addressed immediately, within 24-48 hours, to prevent rapid spread of contaminants, extensive damage, and increased cleanup costs."
+}

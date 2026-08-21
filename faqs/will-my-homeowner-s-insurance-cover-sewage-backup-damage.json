@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-sewage-backup-damage",
+  "name": "Will my homeowner's insurance cover sewage backup damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover sewage backup damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for sewage backup damage varies by policy. Standard policies often exclude damage from sewer backups unless you have specific endorsement or riders, sometimes called 'water backup and sump pump overflow' coverage. It's crucial to review your policy documents or contact your insurance provider directly to understand your coverage limits and deductibles. A professional restoration company can often assist with documentation for your insurance claim.",
+        "@type": "Answer",
+        "description": "Coverage depends on your specific homeowner's insurance policy; standard policies may exclude it unless you have a specific 'water backup' endorsement. Check your policy or contact your insurer."
+      }
+    }
+  ],
+  "description": "Coverage depends on your specific homeowner's insurance policy; standard policies may exclude it unless you have a specific 'water backup' endorsement. Check yo"
+}

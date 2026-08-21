@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-of-sewage-cleanup-in-a-crawl-space",
+  "name": "What is the cost of sewage cleanup in a crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of sewage cleanup in a crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewage cleanup in a crawl space can vary significantly, typically ranging from a few thousand dollars to upwards of $10,000 or more, depending on the severity of the contamination, the size of the affected area, and the extent of material removal and replacement needed. Factors include sewage volume, required structural repairs, insulation replacement, and specialized disposal. Obtaining a professional inspection and detailed estimate is crucial for an accurate cost assessment.",
+        "@type": "Answer",
+        "description": "Costs for sewage cleanup can range from a few thousand dollars to over $10,000, depending on severity and needed repairs."
+      }
+    }
+  ],
+  "description": "Costs for sewage cleanup can range from a few thousand dollars to over $10,000, depending on severity and needed repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-sewage-coming-up-my-shower-drain",
+  "name": "Why is sewage coming up my shower drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is sewage coming up my shower drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backing up into your shower drain usually indicates a significant blockage in your main sewer line. This blockage prevents wastewater from flowing out to the municipal sewer system, causing it to seek the path of least resistance, which is often the lowest drain in your home. Common culprits include tree root intrusion, grease buildup, flushed non-biodegradable items, or a collapsed pipe. Identifying the exact cause requires professional inspection, as addressing it promptly is crucial to prevent further damage and health risks.",
+        "@type": "Answer",
+        "description": "Sewage backing up into your shower drain typically means there's a blockage in your main sewer line, forcing wastewater to overflow at the lowest drain."
+      }
+    }
+  ],
+  "description": "Sewage backing up into your shower drain typically means there's a blockage in your main sewer line, forcing wastewater to overflow at the lowest drain."
+}

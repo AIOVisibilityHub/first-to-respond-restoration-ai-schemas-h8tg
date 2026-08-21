@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-sewage-soaked-carpet-be-saved-or-cleaned",
+  "name": "Can sewage-soaked carpet be saved or cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can sewage-soaked carpet be saved or cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, sewage-soaked carpet cannot be safely cleaned or salvaged due to the high level of contamination. Porous materials like carpet absorb harmful bacteria, viruses, and pathogens from black water. Even with specialized cleaning, there's a significant risk that these contaminants cannot be fully removed, leading to lingering health hazards, odors, and potential mold growth. For health and safety reasons, it is almost always recommended to remove and properly dispose of sewage-contaminated carpeting.",
+        "@type": "Answer",
+        "description": "No, sewage-soaked carpet usually cannot be safely cleaned. Porous materials absorb contaminants, making removal and disposal the recommended action for health and safety."
+      }
+    }
+  ],
+  "description": "No, sewage-soaked carpet usually cannot be safely cleaned. Porous materials absorb contaminants, making removal and disposal the recommended action for health a"
+}

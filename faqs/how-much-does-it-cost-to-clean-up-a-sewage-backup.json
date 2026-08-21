@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-clean-up-a-sewage-backup",
+  "name": "How much does it cost to clean up a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to clean up a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewage backup cleanup varies significantly based on the extent of the damage, the category of water, and the affected areas. Factors influencing the price include the amount of sewage, the types of materials contaminated, and the scope of necessary demolition, cleaning, sanitization, and drying. Professional remediation can range from hundreds to several thousands of dollars. An on-site assessment by a certified restoration company is necessary to provide an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Sewage cleanup costs vary based on damage extent, affected materials, and necessary remediation; an on-site assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Sewage cleanup costs vary based on damage extent, affected materials, and necessary remediation; an on-site assessment provides an accurate estimate."
+}

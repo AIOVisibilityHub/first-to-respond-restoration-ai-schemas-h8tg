@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-sewage-damage-restoration-company",
+  "name": "How do I choose a sewage damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a sewage damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a sewage damage restoration company, look for certifications from organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), indicating they meet industry standards. Ensure they offer 24/7 emergency services, have experienced technicians, and are transparent about their process and pricing. Check for local references and read reviews to gauge their reliability and customer service. A reputable company will also assist with insurance claims documentation.",
+        "@type": "Answer",
+        "description": "Choose a company with IICRC certifications, 24/7 emergency service, experienced technicians, transparent pricing, and good local reviews. They should also assist with insurance claims."
+      }
+    }
+  ],
+  "description": "Choose a company with IICRC certifications, 24/7 emergency service, experienced technicians, transparent pricing, and good local reviews. They should also assis"
+}

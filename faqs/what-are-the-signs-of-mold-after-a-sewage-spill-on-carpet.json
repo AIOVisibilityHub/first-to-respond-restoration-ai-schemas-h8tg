@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-mold-after-a-sewage-spill-on-carpet",
+  "name": "What are the signs of mold after a sewage spill on carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of mold after a sewage spill on carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a sewage spill, mold can develop quickly, often within 24-48 hours, especially if the area remains damp. Visible signs include discoloration on walls, baseboards, or remnants of carpet, appearing as fuzzy patches of green, black, white, or gray. A distinct musty, earthy odor is also a strong indicator of hidden mold growth, even if not visible. If you notice any of these signs, it's crucial to have the area professionally inspected, as mold can pose significant health risks and compromise indoor air quality.",
+        "@type": "Answer",
+        "description": "Signs of mold after a sewage spill include visible discoloration (green, black, white, gray fuzzy patches) and a strong musty odor. Mold can appear within 24-48 hours."
+      }
+    }
+  ],
+  "description": "Signs of mold after a sewage spill include visible discoloration (green, black, white, gray fuzzy patches) and a strong musty odor. Mold can appear within 24-48"
+}

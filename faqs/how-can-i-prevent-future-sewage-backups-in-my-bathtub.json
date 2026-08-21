@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-future-sewage-backups-in-my-bathtub",
+  "name": "How can I prevent future sewage backups in my bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future sewage backups in my bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future sewage backups, be mindful of what goes down your drains: avoid flushing non-biodegradable items and dispose of grease in the trash, not the sink. Consider installing drain screens to catch hair and debris. Regular plumbing maintenance, such as professional drain cleaning every few years, can help prevent blockages. If tree roots are an issue, consider periodic root removal or pipe lining. A backwater valve can also be installed to prevent city sewer backups.",
+        "@type": "Answer",
+        "description": "Prevent future backups by avoiding flushing non-biodegradables and grease, using drain screens, and scheduling regular professional drain cleaning. Consider a backwater valve."
+      }
+    }
+  ],
+  "description": "Prevent future backups by avoiding flushing non-biodegradables and grease, using drain screens, and scheduling regular professional drain cleaning. Consider a b"
+}

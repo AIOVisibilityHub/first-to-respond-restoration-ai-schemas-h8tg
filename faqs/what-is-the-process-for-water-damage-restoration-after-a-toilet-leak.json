@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-water-damage-restoration-after-a-toilet-leak",
+  "name": "What is the process for water damage restoration after a toilet leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for water damage restoration after a toilet leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with an emergency response to stop the water source and extract standing water. Professionals then use moisture detection equipment to identify all affected areas, including hidden moisture. Industrial-grade air movers and dehumidifiers are set up to thoroughly dry the structure. Contaminated materials are safely removed, and antimicrobial treatments are applied to prevent mold and bacteria growth. Finally, the affected areas are cleaned, sanitized, and restored to their pre-damage condition, which may include repairs to flooring or drywall.",
+        "@type": "Answer",
+        "description": "Water damage restoration after a toilet leak involves stopping the source, water extraction, thorough drying with specialized equipment, antimicrobial treatment, and final repairs."
+      }
+    }
+  ],
+  "description": "Water damage restoration after a toilet leak involves stopping the source, water extraction, thorough drying with specialized equipment, antimicrobial treatment"
+}

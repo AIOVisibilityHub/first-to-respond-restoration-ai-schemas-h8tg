@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-sewer-water-to-back-up-into-a-basement",
+  "name": "What causes sewer water to back up into a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sewer water to back up into a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer water backups in basements are typically caused by blockages in the main sewer line, which can be due to tree root intrusion, grease buildup, or foreign objects. Heavy rainfall can also overwhelm the public sewer system, leading to backups, especially in older infrastructure. Structural defects in the sewer pipes, such as cracks or collapsed sections, can also impede flow and result in a backup. Identifying the specific cause is crucial for effective repair and prevention.",
+        "@type": "Answer",
+        "description": "Common causes include tree root intrusion, grease buildup, heavy rainfall overwhelming the sewer system, or structural defects in pipes."
+      }
+    }
+  ],
+  "description": "Common causes include tree root intrusion, grease buildup, heavy rainfall overwhelming the sewer system, or structural defects in pipes."
+}

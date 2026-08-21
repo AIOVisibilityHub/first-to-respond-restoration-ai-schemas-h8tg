@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-sewage-damage-restoration",
+  "name": "What areas do you serve for sewage damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for sewage damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide comprehensive sewage damage restoration services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to respond quickly to emergencies in these communities, ensuring timely and effective cleanup and restoration. If you are located in one of these areas and are experiencing a sewage backup or spill, contact us immediately for professional assistance.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for sewage damage restoration services."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for sewage damage restoration services."
+}

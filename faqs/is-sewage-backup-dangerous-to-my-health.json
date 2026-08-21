@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-sewage-backup-dangerous-to-my-health",
+  "name": "Is sewage backup dangerous to my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewage backup dangerous to my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sewage backup is considered a biohazard and poses significant health risks. Raw sewage contains bacteria, viruses, and parasites that can cause serious illnesses, including E. coli, Salmonella, and Hepatitis. Direct contact can lead to infections, and airborne contaminants can cause respiratory issues. It's crucial to avoid contact with the contaminated water and immediately contact professionals for safe cleanup and disinfection to prevent health complications.",
+        "@type": "Answer",
+        "description": "Yes, sewage backup is dangerous due to bacteria, viruses, and parasites that cause illness. Avoid contact and call professionals for safe cleanup."
+      }
+    }
+  ],
+  "description": "Yes, sewage backup is dangerous due to bacteria, viruses, and parasites that cause illness. Avoid contact and call professionals for safe cleanup."
+}

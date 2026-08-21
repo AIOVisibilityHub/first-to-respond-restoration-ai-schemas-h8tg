@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-clean-up-sewer-water-in-a-basement",
+  "name": "How do professionals clean up sewer water in a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals clean up sewer water in a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional cleanup involves several steps. Technicians first remove all standing sewer water using specialized pumps. Contaminated porous materials, such as drywall, carpet, and insulation, are typically removed and disposed of properly. The affected areas are then thoroughly cleaned, disinfected, and sanitized using industrial-grade agents to eliminate bacteria, viruses, and mold. Finally, the area is dried using powerful air movers and dehumidifiers to prevent mold growth and further structural damage.",
+        "@type": "Answer",
+        "description": "Professionals remove standing water, dispose of contaminated materials, clean and disinfect affected areas, and thoroughly dry the basement."
+      }
+    }
+  ],
+  "description": "Professionals remove standing water, dispose of contaminated materials, clean and disinfect affected areas, and thoroughly dry the basement."
+}

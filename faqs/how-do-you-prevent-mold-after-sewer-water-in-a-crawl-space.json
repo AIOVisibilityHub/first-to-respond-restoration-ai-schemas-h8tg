@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-prevent-mold-after-sewer-water-in-a-crawl-space",
+  "name": "How do you prevent mold after sewer water in a crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prevent mold after sewer water in a crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing mold after sewer water intrusion requires thorough drying and disinfection. All contaminated porous materials must be removed. After extraction and cleaning, powerful dehumidifiers and air movers are used to rapidly dry the entire crawl space, reducing humidity levels to prevent mold spores from activating and growing. Anti-microbial treatments are also applied to further inhibit mold.",
+        "@type": "Answer",
+        "description": "Mold prevention involves removing contaminated materials, thorough disinfection, and rapid drying with dehumidifiers and air movers. Anti-microbial treatments also help."
+      }
+    }
+  ],
+  "description": "Mold prevention involves removing contaminated materials, thorough disinfection, and rapid drying with dehumidifiers and air movers. Anti-microbial treatments a"
+}

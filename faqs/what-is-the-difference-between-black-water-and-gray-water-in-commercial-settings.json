@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-black-water-and-gray-water-in-commercial-settings",
+  "name": "What is the difference between black water and gray water in commercial settings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between black water and gray water in commercial settings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In commercial settings, water damage is categorized to determine the necessary cleanup protocols. Black water is Category 3 water, highly contaminated with human waste, pathogens, and other toxic substances, posing severe health risks. It originates from sewage backups, toilet overflows containing feces, or floodwaters that have contacted ground contaminants. Gray water, or Category 2 water, is contaminated but not as hazardous as black water. It comes from sources like washing machine overflows, dishwasher discharge, or clean toilet overflows without feces. Black water requires immediate and specialized professional cleanup due to its extreme health hazards.",
+        "@type": "Answer",
+        "description": "Black water is highly contaminated with human waste and pathogens (Category 3), posing severe health risks, while gray water is contaminated but less hazardous (Category 2) from sources like washing machines."
+      }
+    }
+  ],
+  "description": "Black water is highly contaminated with human waste and pathogens (Category 3), posing severe health risks, while gray water is contaminated but less hazardous"
+}

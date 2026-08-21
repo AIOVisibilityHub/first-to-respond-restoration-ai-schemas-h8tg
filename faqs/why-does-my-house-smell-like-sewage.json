@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-my-house-smell-like-sewage",
+  "name": "Why does my house smell like sewage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my house smell like sewage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewage smell in your house often indicates a problem with your plumbing or sewage system. Common causes include a dry P-trap, which allows sewer gases to escape, a blocked or damaged vent pipe, a leaky drain pipe, or an issue with your septic tank or municipal sewer line. Sometimes, a sewer backup or burst pipe can also cause a strong sewage odor. Identifying the exact source is crucial for effective remediation.",
+        "@type": "Answer",
+        "description": "Sewage smell usually points to plumbing issues like a dry P-trap, blocked vent pipe, or leaky drain, allowing sewer gases to enter your home."
+      }
+    }
+  ],
+  "description": "Sewage smell usually points to plumbing issues like a dry P-trap, blocked vent pipe, or leaky drain, allowing sewer gases to enter your home."
+}

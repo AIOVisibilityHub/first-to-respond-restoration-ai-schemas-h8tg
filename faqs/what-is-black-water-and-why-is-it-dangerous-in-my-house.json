@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-black-water-and-why-is-it-dangerous-in-my-house",
+  "name": "What is 'black water' and why is it dangerous in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'black water' and why is it dangerous in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black water refers to severely contaminated water that has come into contact with sewage, chemicals, or other hazardous waste. It contains harmful bacteria, viruses, and other pathogens that can cause serious illness, infections, or even death if ingested or if it comes into contact with open wounds. It can also contain chemicals and debris. It's crucial to treat black water as a biohazard and avoid any direct contact. Professional remediation is required to safely remove the water and disinfect affected areas.",
+        "@type": "Answer",
+        "description": "Black water is highly contaminated water containing harmful pathogens from sewage or other hazardous sources, posing severe health risks. It requires professional cleanup to avoid illness."
+      }
+    }
+  ],
+  "description": "Black water is highly contaminated water containing harmful pathogens from sewage or other hazardous sources, posing severe health risks. It requires profession"
+}

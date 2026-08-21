@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-dirty-water-from-backing-up-into-my-drains-again",
+  "name": "How can I prevent dirty water from backing up into my drains again?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent dirty water from backing up into my drains again?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future dirty water backups involves regular maintenance and careful waste disposal. Avoid pouring grease, oil, or food scraps down kitchen drains. Use drain strainers to catch hair and soap scum in showers and sinks. Be mindful of what gets flushed down toilets, limiting it to human waste and toilet paper. Consider having your main sewer line inspected every few years, especially if you have older pipes or large trees on your property, to catch potential root intrusion early. Regular professional drain cleaning can also help prevent blockages.",
+        "@type": "Answer",
+        "description": "Prevent backups by avoiding grease and hair down drains, using strainers, and flushing only appropriate items. Regular sewer line inspections and professional drain cleaning can also help."
+      }
+    }
+  ],
+  "description": "Prevent backups by avoiding grease and hair down drains, using strainers, and flushing only appropriate items. Regular sewer line inspections and professional d"
+}

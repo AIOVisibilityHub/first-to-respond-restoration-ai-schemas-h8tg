@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-detect-the-source-of-a-sewer-smell",
+  "name": "How do professionals detect the source of a sewer smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals detect the source of a sewer smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use several methods to pinpoint the source of a sewer smell. They often start with a thorough inspection of visible plumbing fixtures, including P-traps, toilets, and floor drains. For hidden issues, they might use smoke testing, where non-toxic smoke is introduced into the plumbing system to reveal leaks in pipes or vent stacks. Video camera inspections are employed for sewer lines to identify cracks, blockages, or disconnections. Additionally, specialized gas detectors can help locate areas where sewer gases are escaping. This systematic approach ensures accurate diagnosis.",
+        "@type": "Answer",
+        "description": "Professionals detect sewer smell sources using visual inspections, smoke testing, video camera inspections of sewer lines, and gas detectors."
+      }
+    }
+  ],
+  "description": "Professionals detect sewer smell sources using visual inspections, smoke testing, video camera inspections of sewer lines, and gas detectors."
+}

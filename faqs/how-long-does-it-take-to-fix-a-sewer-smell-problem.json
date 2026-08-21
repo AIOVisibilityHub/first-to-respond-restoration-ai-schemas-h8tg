@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-fix-a-sewer-smell-problem",
+  "name": "How long does it take to fix a sewer smell problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix a sewer smell problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to fix a sewer smell problem depends entirely on the cause. Simple issues like a dry P-trap can be resolved in minutes. Clearing a minor drain clog might take an hour or two. More complex problems, such as repairing a cracked vent pipe, could take a few hours to a full day, potentially requiring wall access. Major sewer line repairs involving excavation or extensive pipe replacement can take several days to a week or more. A professional diagnosis will provide a more accurate timeline for your specific situation.",
+        "@type": "Answer",
+        "description": "Fixing sewer smells can take minutes for simple issues like dry P-traps, or several days for major sewer line repairs."
+      }
+    }
+  ],
+  "description": "Fixing sewer smells can take minutes for simple issues like dry P-traps, or several days for major sewer line repairs."
+}

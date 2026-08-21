@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-fix-water-damage-from-a-toilet-overflow",
+  "name": "How much does it cost to fix water damage from a toilet overflow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix water damage from a toilet overflow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix water damage from a toilet overflow varies widely depending on the extent of the damage, the type of flooring, and whether mold remediation is needed. Minor issues might involve just drying and sanitizing, while extensive damage could require removing and replacing flooring, subflooring, drywall, and baseboards. Factors like the size of the affected area, the duration of water exposure, and the materials involved all influence the final cost. A professional assessment is necessary for an accurate estimate.",
+        "@type": "Answer",
+        "description": "The cost to fix water damage from a toilet overflow varies significantly based on the extent of damage, affected materials, and if mold remediation is required."
+      }
+    }
+  ],
+  "description": "The cost to fix water damage from a toilet overflow varies significantly based on the extent of damage, affected materials, and if mold remediation is required."
+}

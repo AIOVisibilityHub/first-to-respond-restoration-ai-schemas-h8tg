@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-professionals-for-black-water-cleanup",
+  "name": "When should I call professionals for black water cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call professionals for black water cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact professionals immediately if you discover black water in your property. This type of water damage requires urgent attention due to its health risks. DIY cleanup is not recommended as it can spread contamination and expose you to dangerous pathogens. A quick response from certified experts helps contain the damage, prevents further contamination, and ensures a thorough and safe restoration process. Delaying cleanup can lead to more extensive damage and increased remediation costs.",
+        "@type": "Answer",
+        "description": "Call professionals immediately for black water cleanup due to severe health risks. DIY cleanup is not advised, as rapid response prevents further contamination and ensures safe restoration."
+      }
+    }
+  ],
+  "description": "Call professionals immediately for black water cleanup due to severe health risks. DIY cleanup is not advised, as rapid response prevents further contamination"
+}

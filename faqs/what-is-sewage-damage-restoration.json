@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-sewage-damage-restoration",
+  "name": "What is sewage damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is sewage damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage damage restoration is the process of safely and thoroughly cleaning, sanitizing, and repairing properties affected by sewage spills. This involves removing contaminated materials, drying affected areas, and disinfecting to eliminate harmful bacteria and pathogens. Due to the health risks associated with raw sewage, specialized equipment and protective gear are essential to ensure the environment is safe for occupancy again. Professional restoration prevents mold growth and further structural damage.",
+        "@type": "Answer",
+        "description": "Sewage damage restoration is the process of safely cleaning, sanitizing, and repairing properties affected by sewage spills to eliminate health risks and prevent further damage."
+      }
+    }
+  ],
+  "description": "Sewage damage restoration is the process of safely cleaning, sanitizing, and repairing properties affected by sewage spills to eliminate health risks and preven"
+}

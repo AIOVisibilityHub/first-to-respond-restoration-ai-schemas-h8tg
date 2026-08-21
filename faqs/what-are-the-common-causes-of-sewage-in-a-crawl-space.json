@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-causes-of-sewage-in-a-crawl-space",
+  "name": "What are the common causes of sewage in a crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of sewage in a crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage in a crawl space often results from common plumbing issues such as a clogged or broken main sewer line, burst pipes due to freezing temperatures or age, or a malfunctioning septic system. Tree root intrusion into sewer pipes is also a frequent culprit, as roots can crack and block lines, leading to sewage backups. Additionally, heavy rainfall can sometimes overwhelm drainage systems, causing sewage to overflow into lower areas like crawl spaces.",
+        "@type": "Answer",
+        "description": "Common causes include clogged or broken sewer lines, burst pipes, septic system malfunctions, and tree root intrusion."
+      }
+    }
+  ],
+  "description": "Common causes include clogged or broken sewer lines, burst pipes, septic system malfunctions, and tree root intrusion."
+}

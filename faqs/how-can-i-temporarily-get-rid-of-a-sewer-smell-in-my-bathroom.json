@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-temporarily-get-rid-of-a-sewer-smell-in-my-bathroom",
+  "name": "How can I temporarily get rid of a sewer smell in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I temporarily get rid of a sewer smell in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To temporarily mitigate a sewer smell, first ensure all drains, including those in showers, tubs, and floor drains, have water in their P-traps by running water for a minute. For rarely used drains, pour a cup of water down them weekly. You can also try pouring a mixture of baking soda and vinegar, followed by hot water, down the drains to help clear minor clogs and neutralize odors. Make sure the toilet bowl is full of water. If the smell persists, it indicates a more significant problem.",
+        "@type": "Answer",
+        "description": "Temporarily reduce sewer smell by running water in all drains to fill P-traps, especially for rarely used ones. A baking soda and vinegar mixture can also help clear minor clogs."
+      }
+    }
+  ],
+  "description": "Temporarily reduce sewer smell by running water in all drains to fill P-traps, especially for rarely used ones. A baking soda and vinegar mixture can also help"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-damage-can-dirty-water-backup-cause-to-my-home",
+  "name": "What kind of damage can dirty water backup cause to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can dirty water backup cause to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dirty water backup can cause extensive damage beyond just surface mess. It can saturate carpets, flooring (wood, laminate, tile grout), drywall, baseboards, and insulation, leading to structural integrity issues. Personal belongings, furniture, and electronics can be ruined by contamination. The prolonged presence of moisture from black water creates an ideal environment for rapid mold and mildew growth, which can further damage materials and pose health risks. Odor issues are also common and can be difficult to remove without professional intervention.",
+        "@type": "Answer",
+        "description": "Dirty water can damage flooring, drywall, insulation, and personal items. It also leads to mold growth and lingering odors, impacting health and structural integrity."
+      }
+    }
+  ],
+  "description": "Dirty water can damage flooring, drywall, insulation, and personal items. It also leads to mold growth and lingering odors, impacting health and structural inte"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-fix-a-sewage-smell-in-my-house",
+  "name": "How much does it cost to fix a sewage smell in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a sewage smell in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a sewage smell varies widely depending on the underlying cause. Simple fixes, like refilling a dry P-trap, cost nothing. Minor plumbing repairs, such as sealing a small leak, might range from $100 to $300. More complex issues, like repairing a cracked sewer line or a blocked vent pipe, could cost several hundred to a few thousand dollars, especially if excavation or extensive pipe replacement is required. A professional diagnosis is essential for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary from free for a dry P-trap to hundreds or thousands for complex repairs like sewer line issues, depending on the problem's severity."
+      }
+    }
+  ],
+  "description": "Costs vary from free for a dry P-trap to hundreds or thousands for complex repairs like sewer line issues, depending on the problem's severity."
+}

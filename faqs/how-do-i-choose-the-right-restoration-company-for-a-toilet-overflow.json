@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-restoration-company-for-a-toilet-overflow",
+  "name": "How do I choose the right restoration company for a toilet overflow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right restoration company for a toilet overflow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a restoration company, look for one that is licensed, insured, and experienced in water damage and sewage cleanup. Check for certifications from organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), which indicates a high level of training and adherence to industry standards. Prioritize companies that offer 24/7 emergency services and have a quick response time, as timely intervention is crucial. Read customer reviews and ask for references. Ensure they provide a clear scope of work and transparent pricing.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and IICRC-certified company with 24/7 emergency service and quick response times. Check reviews and ensure transparent pricing."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and IICRC-certified company with 24/7 emergency service and quick response times. Check reviews and ensure transparent pricing."
+}

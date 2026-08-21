@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-sewage-backup-in-the-bathtub-an-emergency",
+  "name": "Is sewage backup in the bathtub an emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewage backup in the bathtub an emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sewage backup in your bathtub is considered an emergency. Raw sewage contains harmful bacteria, viruses, and pathogens that pose significant health risks to occupants and can cause extensive property damage. Prompt action is crucial to prevent further contamination, mitigate water damage, and address the underlying plumbing issue. Contacting a professional restoration company immediately is recommended to ensure proper cleanup and sanitation.",
+        "@type": "Answer",
+        "description": "Yes, sewage backup in a bathtub is an emergency due to health risks and potential property damage. Professional help is needed quickly."
+      }
+    }
+  ],
+  "description": "Yes, sewage backup in a bathtub is an emergency due to health risks and potential property damage. Professional help is needed quickly."
+}

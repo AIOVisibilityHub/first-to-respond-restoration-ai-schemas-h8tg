@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-the-sewage-cleanup-process",
+  "name": "What is involved in the sewage cleanup process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the sewage cleanup process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sewage cleanup process typically involves several stages. First, our team extracts all standing sewage and contaminated water. Next, affected porous materials like drywall, carpet, and insulation are removed. We then thoroughly clean and disinfect all salvageable surfaces using professional-grade antimicrobial solutions. Finally, the area is dried and deodorized to prevent mold and eliminate odors. Our goal is to restore your property to a safe and sanitary condition.",
+        "@type": "Answer",
+        "description": "The process includes sewage extraction, removal of damaged materials, thorough cleaning and disinfection, and final drying and deodorization."
+      }
+    }
+  ],
+  "description": "The process includes sewage extraction, removal of damaged materials, thorough cleaning and disinfection, and final drying and deodorization."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-sewage-smell",
+  "name": "When should I call a professional for a sewage smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a sewage smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the sewage smell is strong, persistent, or if you cannot identify the source after basic checks like running water in drains. Professionals are equipped to diagnose complex issues such as vent pipe blockages, broken sewer lines, or main sewer system problems that require specialized tools and expertise. Early intervention can prevent further damage, health risks, and more extensive repairs.",
+        "@type": "Answer",
+        "description": "Call a professional if the sewage smell is strong, persistent, or if you can't find the source. They can diagnose complex issues and prevent further damage."
+      }
+    }
+  ],
+  "description": "Call a professional if the sewage smell is strong, persistent, or if you can't find the source. They can diagnose complex issues and prevent further damage."
+}

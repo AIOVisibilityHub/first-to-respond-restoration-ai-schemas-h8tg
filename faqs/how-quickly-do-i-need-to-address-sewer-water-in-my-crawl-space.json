@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-sewer-water-in-my-crawl-space",
+  "name": "How quickly do I need to address sewer water in my crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address sewer water in my crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing sewer water in your crawl space is an emergency that requires immediate attention. Within 24-48 hours, standing water can lead to mold growth, structural damage to wood, and increased contamination. The longer the water remains, the more extensive and costly the damage and remediation process become. Contacting a restoration company promptly is essential.",
+        "@type": "Answer",
+        "description": "You need to address sewer water immediately. Delays can lead to mold growth, structural damage, and increased health risks within 24-48 hours, making remediation more costly."
+      }
+    }
+  ],
+  "description": "You need to address sewer water immediately. Delays can lead to mold growth, structural damage, and increased health risks within 24-48 hours, making remediatio"
+}

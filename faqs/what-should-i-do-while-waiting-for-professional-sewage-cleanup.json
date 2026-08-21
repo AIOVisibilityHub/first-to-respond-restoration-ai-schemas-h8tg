@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-while-waiting-for-professional-sewage-cleanup",
+  "name": "What should I do while waiting for professional sewage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do while waiting for professional sewage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While waiting for professionals to arrive, prioritize safety. Avoid entering the contaminated area without proper protective gear like boots, gloves, and a mask. Turn off any electricity in the affected zone if safe to do so. Do not attempt to clean up the sewage yourself, as this can increase health risks and spread contamination. You can try to contain the water flow if the source is apparent and safe to access, but your primary action should be to keep people and pets away from the affected area.",
+        "@type": "Answer",
+        "description": "While waiting for professional sewage cleanup, prioritize safety by avoiding the contaminated area, turning off electricity if safe, and keeping people and pets away."
+      }
+    }
+  ],
+  "description": "While waiting for professional sewage cleanup, prioritize safety by avoiding the contaminated area, turning off electricity if safe, and keeping people and pets"
+}

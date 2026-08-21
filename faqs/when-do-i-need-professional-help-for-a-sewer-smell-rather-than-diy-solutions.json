@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-help-for-a-sewer-smell-rather-than-diy-solutions",
+  "name": "When do I need professional help for a sewer smell, rather than DIY solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional help for a sewer smell, rather than DIY solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should seek professional help if the sewer smell persists despite trying simple DIY solutions like pouring water down dry drains or cleaning accessible traps. If you suspect a deeper issue, such as a clogged main sewer line, a cracked vent pipe, or a damaged sewer pipe under your foundation, professional intervention is necessary. These problems require specialized equipment, expertise, and often involve invasive repairs that are beyond the scope of typical home maintenance. Prompt professional assessment can prevent further damage and health risks.",
+        "@type": "Answer",
+        "description": "Call a professional if the sewer smell persists after basic DIY attempts, or if you suspect major issues like sewer line damage or vent pipe cracks."
+      }
+    }
+  ],
+  "description": "Call a professional if the sewer smell persists after basic DIY attempts, or if you suspect major issues like sewer line damage or vent pipe cracks."
+}

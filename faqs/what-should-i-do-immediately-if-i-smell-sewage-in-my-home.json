@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-smell-sewage-in-my-home",
+  "name": "What should I do immediately if I smell sewage in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I smell sewage in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you detect a sewage smell, open windows to ventilate the area and prevent gas buildup. Check frequently used drains, like sinks or showers, to ensure their P-traps aren't dry; run water for a minute to refill them. Inspect visible pipes for leaks or standing water. If the smell persists or is very strong, especially after checking drains, it's advisable to contact a professional for a thorough inspection to identify and resolve the issue safely.",
+        "@type": "Answer",
+        "description": "Ventilate the area, run water in drains to refill P-traps, and inspect for leaks. If the smell persists, contact a professional."
+      }
+    }
+  ],
+  "description": "Ventilate the area, run water in drains to refill P-traps, and inspect for leaks. If the smell persists, contact a professional."
+}

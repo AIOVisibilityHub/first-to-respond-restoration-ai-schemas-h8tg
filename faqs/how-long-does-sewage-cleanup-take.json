@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-sewage-cleanup-take",
+  "name": "How long does sewage cleanup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sewage cleanup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of sewage cleanup depends on the extent of the damage, the size of the affected area, and the type of materials contaminated. Generally, the initial extraction and hazardous material removal can take a day or two. Drying the structure thoroughly typically requires 3-5 days, though this can vary. Total restoration, including repairs and reconstruction, will extend this timeline. A professional assessment can provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Cleanup duration varies by damage extent, but initial work takes 1-2 days, and drying 3-5 days. Total restoration takes longer."
+      }
+    }
+  ],
+  "description": "Cleanup duration varies by damage extent, but initial work takes 1-2 days, and drying 3-5 days. Total restoration takes longer."
+}

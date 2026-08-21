@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-leave-my-home-during-the-cleanup-of-a-dirty-water-backup",
+  "name": "Do I need to leave my home during the cleanup of a dirty water backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during the cleanup of a dirty water backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to vacate your home during cleanup depends on the severity of the backup, the extent of contamination, and the affected areas. If the backup is extensive, involves hazardous sewage, or affects critical living spaces like bedrooms and kitchens, temporary relocation may be necessary for your health and safety. Professional restoration companies will assess the situation and advise you on the safest course of action, especially during drying and sanitization processes where specialized equipment is used and strong cleaning agents may be present. Your safety is paramount.",
+        "@type": "Answer",
+        "description": "You may need to leave your home during severe dirty water cleanup, especially with extensive contamination or in critical living spaces. Professionals will advise on safety."
+      }
+    }
+  ],
+  "description": "You may need to leave your home during severe dirty water cleanup, especially with extensive contamination or in critical living spaces. Professionals will advi"
+}

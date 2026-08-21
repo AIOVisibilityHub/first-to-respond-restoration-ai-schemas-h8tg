@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-clean-and-restore-a-home-after-a-sewage-backup",
+  "name": "How do professionals clean and restore a home after a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals clean and restore a home after a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional sewage cleanup involves several critical steps. First, technicians extract standing sewage and remove unsalvageable porous materials like carpet and drywall. Next, they clean, disinfect, and sanitize all affected hard surfaces to eliminate bacteria and pathogens. High-powered air movers and dehumidifiers are then used to thoroughly dry the structure. Finally, moisture meters and thermal imaging ensure complete drying to prevent mold growth, and any necessary structural repairs or rebuilds are performed to restore the property to its pre-damage condition.",
+        "@type": "Answer",
+        "description": "Professionals extract sewage, remove damaged materials, clean and disinfect surfaces, thoroughly dry the area, and then restore the property."
+      }
+    }
+  ],
+  "description": "Professionals extract sewage, remove damaged materials, clean and disinfect surfaces, thoroughly dry the area, and then restore the property."
+}

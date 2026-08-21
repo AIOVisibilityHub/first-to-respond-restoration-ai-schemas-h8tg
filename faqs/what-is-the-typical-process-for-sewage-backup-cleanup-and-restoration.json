@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-sewage-backup-cleanup-and-restoration",
+  "name": "What is the typical process for sewage backup cleanup and restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for sewage backup cleanup and restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically involves emergency water extraction, removal of contaminated materials like drywall and flooring, thorough cleaning and disinfection of affected areas, and drying using industrial-grade equipment. Once dry, reconstruction and repairs are performed. Air quality testing may also be conducted to ensure safety. Professionals ensure complete sanitization and restoration of your property.",
+        "@type": "Answer",
+        "description": "The process includes water extraction, contaminated material removal, cleaning, disinfection, drying, and reconstruction. Air quality testing may also be done."
+      }
+    }
+  ],
+  "description": "The process includes water extraction, contaminated material removal, cleaning, disinfection, drying, and reconstruction. Air quality testing may also be done."
+}

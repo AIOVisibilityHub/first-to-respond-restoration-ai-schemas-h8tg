@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-clean-water-and-black-water-overflows",
+  "name": "What is the difference between clean water and black water overflows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between clean water and black water overflows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Clean water overflows originate from a source like a leaky pipe and pose minimal health risks. Gray water, often from washing machines or dishwashers, contains some contaminants but is not as hazardous as black water. Black water, from toilet overflows containing human waste or sewage backups, is highly contaminated and poses significant health risks due to bacteria, viruses, and pathogens. Handling black water requires specialized protective equipment and thorough sanitization protocols to prevent illness and further contamination.",
+        "@type": "Answer",
+        "description": "Clean water is minimally contaminated; black water, from sewage, contains pathogens and poses severe health risks, requiring specialized handling and sanitization."
+      }
+    }
+  ],
+  "description": "Clean water is minimally contaminated; black water, from sewage, contains pathogens and poses severe health risks, requiring specialized handling and sanitizati"
+}

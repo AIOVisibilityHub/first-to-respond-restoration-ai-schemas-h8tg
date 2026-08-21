@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-company-to-fix-sewer-smells-in-encino-or-tarzana",
+  "name": "How do I choose the right company to fix sewer smells in Encino or Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right company to fix sewer smells in Encino or Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company in areas like Encino or Tarzana to address sewer smells, look for one with local experience and a strong reputation in plumbing or restoration services. Ensure they are licensed and insured. Inquire about their diagnostic methods, such as smoke tests or camera inspections, and ask for transparent pricing. Check online reviews and ask for references. A reputable company will provide a clear explanation of the problem and proposed solutions before beginning work.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured company with local experience, transparent pricing, and good reviews in Encino or Tarzana. Ask about their diagnostic methods."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured company with local experience, transparent pricing, and good reviews in Encino or Tarzana. Ask about their diagnostic methods."
+}

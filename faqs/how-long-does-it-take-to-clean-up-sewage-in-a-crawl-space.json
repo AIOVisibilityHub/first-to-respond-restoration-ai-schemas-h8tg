@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-clean-up-sewage-in-a-crawl-space",
+  "name": "How long does it take to clean up sewage in a crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clean up sewage in a crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of sewage cleanup in a crawl space varies depending on the extent of the contamination, the size of the crawl space, and the amount of structural damage. A small, contained leak might be resolved in 1-3 days, while extensive contamination or structural repairs could take a week or longer. This includes time for sewage extraction, disinfection, drying, and any necessary material replacement. A professional assessment can provide a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Cleanup time varies from 1-3 days for small issues to over a week for extensive contamination, depending on the damage."
+      }
+    }
+  ],
+  "description": "Cleanup time varies from 1-3 days for small issues to over a week for extensive contamination, depending on the damage."
+}

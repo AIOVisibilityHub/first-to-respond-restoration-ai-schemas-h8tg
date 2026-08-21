@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-do-my-drains-smell-like-sewage",
+  "name": "Why do my drains smell like sewage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do my drains smell like sewage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer smells from drains are commonly caused by a dry P-trap, which is the U-shaped pipe under sinks and in floor drains. The water in this trap creates a seal that prevents sewer gases from entering your home. If the water evaporates or is siphoned out, the gases can escape. Other causes include a damaged or improperly vented drain line, a clogged drain, or issues with your home's main sewer line. Identifying the specific source is crucial for effective remediation.",
+        "@type": "Answer",
+        "description": "Sewer smells usually stem from a dry P-trap, which allows sewer gases to escape. Other causes include drain clogs, pipe damage, or venting issues."
+      }
+    }
+  ],
+  "description": "Sewer smells usually stem from a dry P-trap, which allows sewer gases to escape. Other causes include drain clogs, pipe damage, or venting issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-business-insurance-cover-commercial-sewage-cleanup-costs",
+  "name": "Will my business insurance cover commercial sewage cleanup costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my business insurance cover commercial sewage cleanup costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial property insurance policies often cover water damage, but coverage for sewage backups can vary. Typically, if the backup is caused by an issue *within* your property's plumbing system (e.g., a burst pipe), it may be covered. However, if the backup originates from the municipal sewer system, it often requires a specific sewer backup endorsement or rider to your policy. It's essential to review your specific policy or contact your insurance provider to understand the extent of your coverage for sewage-related incidents and potential deductibles.",
+        "@type": "Answer",
+        "description": "Coverage for commercial sewage cleanup depends on your specific insurance policy; some instances may be covered, but municipal sewer backups often require a special endorsement."
+      }
+    }
+  ],
+  "description": "Coverage for commercial sewage cleanup depends on your specific insurance policy; some instances may be covered, but municipal sewer backups often require a spe"
+}

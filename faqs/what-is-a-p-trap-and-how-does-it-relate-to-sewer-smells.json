@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-a-p-trap-and-how-does-it-relate-to-sewer-smells",
+  "name": "What is a P-trap and how does it relate to sewer smells?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a P-trap and how does it relate to sewer smells?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A P-trap is the U-shaped section of pipe found under sinks, showers, and other plumbing fixtures. Its design allows it to hold a small amount of water, creating a seal that prevents noxious sewer gases from rising out of the drain and entering your home. If a P-trap dries out from lack of use, or if there's an issue with the plumbing vent system, this water seal can be compromised. When the seal is broken, sewer gases like hydrogen sulfide can escape, leading to an unpleasant odor.",
+        "@type": "Answer",
+        "description": "A P-trap is a U-shaped pipe that holds water to create a seal, blocking sewer gases from entering your home. A dry P-trap allows these gases to escape, causing odors."
+      }
+    }
+  ],
+  "description": "A P-trap is a U-shaped pipe that holds water to create a seal, blocking sewer gases from entering your home. A dry P-trap allows these gases to escape, causing"
+}

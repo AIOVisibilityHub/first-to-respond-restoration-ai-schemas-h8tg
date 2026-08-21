@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-shower-sewage-backup-instead-of-cleaning",
+  "name": "When should I call a professional for a shower sewage backup instead of cleaning it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a shower sewage backup instead of cleaning it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always call a professional for any sewage backup, regardless of its size. Sewage, or blackwater, contains highly dangerous bacteria, viruses, and fungi that pose severe health risks. DIY cleanup attempts can expose you to these pathogens and often fail to thoroughly decontaminate the area, leading to lingering odors, mold growth, and continued health hazards. Professionals have specialized equipment, training, and protective gear to safely and effectively handle sewage cleanup and sanitization.",
+        "@type": "Answer",
+        "description": "Always call a professional for sewage backups. Blackwater is dangerous, and DIY cleaning risks health and incomplete decontamination."
+      }
+    }
+  ],
+  "description": "Always call a professional for sewage backups. Blackwater is dangerous, and DIY cleaning risks health and incomplete decontamination."
+}

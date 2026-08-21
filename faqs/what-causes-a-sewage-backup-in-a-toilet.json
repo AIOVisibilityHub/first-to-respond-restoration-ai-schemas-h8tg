@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-sewage-backup-in-a-toilet",
+  "name": "What causes a sewage backup in a toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a sewage backup in a toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backups in toilets often stem from blockages in the main sewer line, either on your property or in the municipal system. Common culprits include tree roots invading pipes, flushing non-flushable items like wipes or feminine hygiene products, grease buildup, and structural pipe damage such as cracks or collapses. Heavy rainfall can also overwhelm the public sewer system, leading to backups into homes, especially if your property's drainage is compromised.",
+        "@type": "Answer",
+        "description": "Common causes include blocked sewer lines from tree roots, non-flushable items, grease buildup, structural pipe damage, or an overwhelmed municipal sewer system during heavy rain."
+      }
+    }
+  ],
+  "description": "Common causes include blocked sewer lines from tree roots, non-flushable items, grease buildup, structural pipe damage, or an overwhelmed municipal sewer system"
+}

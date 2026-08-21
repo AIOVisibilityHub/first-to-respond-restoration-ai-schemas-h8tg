@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-find-the-source-of-a-sewer-gas-smell",
+  "name": "How do professionals find the source of a sewer gas smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals find the source of a sewer gas smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use several methods to pinpoint the source of a sewer gas smell. They typically start with a thorough inspection of your home's plumbing system, including drains, traps, and vents. They may use smoke tests, introducing non-toxic smoke into the plumbing system to identify leaks in vent pipes or drains. Video camera inspections can be performed to examine the inside of sewer lines for cracks, blockages, or disconnections. Sometimes, specialized gas detectors are used to locate areas of high gas concentration.",
+        "@type": "Answer",
+        "description": "Professionals find sewer gas sources using visual inspections, smoke tests to detect leaks, video camera inspections of sewer lines, and gas detectors."
+      }
+    }
+  ],
+  "description": "Professionals find sewer gas sources using visual inspections, smoke tests to detect leaks, video camera inspections of sewer lines, and gas detectors."
+}

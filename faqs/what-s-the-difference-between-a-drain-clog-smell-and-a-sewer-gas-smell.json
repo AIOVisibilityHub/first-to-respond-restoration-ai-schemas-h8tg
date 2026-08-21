@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-a-drain-clog-smell-and-a-sewer-gas-smell",
+  "name": "What's the difference between a drain clog smell and a sewer gas smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a drain clog smell and a sewer gas smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both can be unpleasant, a drain clog smell typically originates from decaying organic matter trapped within a specific drain, such as hair, food particles, or soap scum. This smell is often localized to that particular drain and might be described as rotten or musty. A sewer gas smell, conversely, is caused by gases from the municipal sewer system entering your home. It often smells like rotten eggs (hydrogen sulfide) and can be more pervasive, spreading throughout an area or even the entire house, not just from a single drain.",
+        "@type": "Answer",
+        "description": "Drain clog smells are localized to decaying matter in a drain; sewer gas smells are pervasive rotten-egg odors from the sewer system."
+      }
+    }
+  ],
+  "description": "Drain clog smells are localized to decaying matter in a drain; sewer gas smells are pervasive rotten-egg odors from the sewer system."
+}

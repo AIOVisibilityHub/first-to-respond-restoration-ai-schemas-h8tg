@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-clean-water-grey-water-and-black-water-damage",
+  "name": "What is the difference between clean water, grey water, and black water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between clean water, grey water, and black water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage is categorized by contamination level. Category 1 (clean water) originates from a sanitary source, like a burst pipe, posing no immediate health threat. Category 2 (grey water) contains significant contamination, such as washing machine or dishwasher overflow, which can cause illness if ingested. Category 3 (black water) is grossly unsanitary, containing pathogenic agents from sources like sewage backups or toilet overflows with feces, posing severe health risks. Black water requires specialized handling and immediate professional remediation.",
+        "@type": "Answer",
+        "description": "Clean water is from sanitary sources, grey water contains significant contaminants, and black water (sewage) is highly unsanitary and dangerous."
+      }
+    }
+  ],
+  "description": "Clean water is from sanitary sources, grey water contains significant contaminants, and black water (sewage) is highly unsanitary and dangerous."
+}

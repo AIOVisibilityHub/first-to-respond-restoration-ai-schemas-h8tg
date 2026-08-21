@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-sewage-damage-restoration",
+  "name": "Will my insurance cover sewage damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover sewage damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies may cover sewage damage restoration if the cause is sudden and accidental, such as a burst pipe or backed-up sewer line. However, coverage can vary depending on your specific policy and the cause of the backup. It's important to review your policy details or contact your insurance provider directly to understand your coverage limitations and requirements. Our team can help document the damage for your claim.",
+        "@type": "Answer",
+        "description": "Insurance coverage for sewage damage typically depends on your policy and the cause of the backup. Review your policy or contact your provider to confirm."
+      }
+    }
+  ],
+  "description": "Insurance coverage for sewage damage typically depends on your policy and the cause of the backup. Review your policy or contact your provider to confirm."
+}

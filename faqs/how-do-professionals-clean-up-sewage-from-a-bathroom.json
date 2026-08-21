@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-clean-up-sewage-from-a-bathroom",
+  "name": "How do professionals clean up sewage from a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals clean up sewage from a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional sewage cleanup involves several critical steps. First, technicians extract all standing water and remove contaminated porous materials like drywall, flooring, and insulation. Next, the affected areas are thoroughly cleaned, disinfected, and sanitized using specialized equipment and EPA-approved antimicrobial agents to eliminate bacteria, viruses, and mold spores. Industrial-strength dehumidifiers and air movers are then used to dry the structure completely, preventing secondary damage. Finally, contents are cleaned and deodorized, and the area is prepped for any necessary repairs.",
+        "@type": "Answer",
+        "description": "Professionals extract water, remove contaminated materials, thoroughly clean and disinfect, dry the structure, and then clean and deodorize contents."
+      }
+    }
+  ],
+  "description": "Professionals extract water, remove contaminated materials, thoroughly clean and disinfect, dry the structure, and then clean and deodorize contents."
+}

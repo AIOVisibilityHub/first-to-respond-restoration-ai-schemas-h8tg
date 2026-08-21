@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-sewage-to-back-up-into-my-drains",
+  "name": "What causes sewage to back up into my drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sewage to back up into my drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backups are typically caused by blockages in the main sewer line, either on your property or in the municipal system. Common culprits include tree roots growing into pipes, grease buildup, foreign objects flushed down toilets, or structural damage to the pipes. Heavy rainfall can also overwhelm the public sewer system, leading to backflow into connected homes.",
+        "@type": "Answer",
+        "description": "Sewage backups are usually caused by blockages in sewer lines from tree roots, grease, foreign objects, or pipe damage. Heavy rain can also overwhelm the public sewer system."
+      }
+    }
+  ],
+  "description": "Sewage backups are usually caused by blockages in sewer lines from tree roots, grease, foreign objects, or pipe damage. Heavy rain can also overwhelm the public"
+}

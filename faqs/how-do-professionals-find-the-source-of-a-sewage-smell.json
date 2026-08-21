@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-find-the-source-of-a-sewage-smell",
+  "name": "How do professionals find the source of a sewage smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals find the source of a sewage smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use various methods to locate the source of a sewage smell. They may perform smoke tests, introducing non-toxic smoke into the drain system to reveal leaks or breaks where smoke escapes. Video camera inspections are used to examine the interior of sewer lines for cracks, blockages, or disconnections. They also check vent pipes, cleanouts, and P-traps for proper function and potential issues. Odor detectors can also pinpoint specific gas leaks.",
+        "@type": "Answer",
+        "description": "Professionals use smoke tests, video camera inspections, and odor detectors to pinpoint leaks, blockages, or breaks in your plumbing and sewer lines."
+      }
+    }
+  ],
+  "description": "Professionals use smoke tests, video camera inspections, and odor detectors to pinpoint leaks, blockages, or breaks in your plumbing and sewer lines."
+}

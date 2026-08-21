@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-sewage-is-coming-up-my-bathtub-drain",
+  "name": "What should I do immediately if sewage is coming up my bathtub drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if sewage is coming up my bathtub drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If sewage is backing up into your bathtub, stop using all water fixtures in your home (toilets, sinks, showers, washing machine) immediately to prevent more sewage from entering the tub. Avoid direct contact with the sewage and keep children and pets away from the affected area. Ventilate the area if possible, and contact a professional restoration company or plumber as soon as possible. Do not attempt to clean it yourself without proper protective gear.",
+        "@type": "Answer",
+        "description": "Immediately stop using all water, avoid contact with sewage, ventilate the area, and call a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately stop using all water, avoid contact with sewage, ventilate the area, and call a professional restoration company."
+}

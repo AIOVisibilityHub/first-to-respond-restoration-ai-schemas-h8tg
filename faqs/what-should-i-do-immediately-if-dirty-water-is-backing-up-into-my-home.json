@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-dirty-water-is-backing-up-into-my-home",
+  "name": "What should I do immediately if dirty water is backing up into my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if dirty water is backing up into my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If dirty water is backing up, stop using all water sources in your home immediately, including toilets, sinks, washing machines, and showers. This prevents more water from entering the clogged system and worsening the backup. Try to identify the source of the backup – is it just one drain or all of them? If multiple fixtures are affected, it's likely a main sewer line issue. Contact a professional restoration or plumbing service promptly. Avoid using chemical drain cleaners, as they can damage pipes and aren't effective for severe clogs.",
+        "@type": "Answer",
+        "description": "Stop using all water sources immediately. Identify if it's a single drain or multiple. Contact a professional plumbing or restoration service right away."
+      }
+    }
+  ],
+  "description": "Stop using all water sources immediately. Identify if it's a single drain or multiple. Contact a professional plumbing or restoration service right away."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-sewage-backup-cleanup",
+  "name": "Does homeowner's insurance cover sewage backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover sewage backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies typically cover sudden and accidental sewage backups if the cause is within your home's plumbing system or an issue outside your control, such as a municipal sewer problem. However, coverage can vary, and some policies require a specific 'water backup and sump pump overflow' endorsement. It's crucial to review your policy details or contact your insurance provider directly to understand your specific coverage limits and any deductibles that may apply.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers sudden, accidental sewage backups, but specific 'water backup' endorsements might be needed. Check your policy or contact your provider."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers sudden, accidental sewage backups, but specific 'water backup' endorsements might be needed. Check your policy or contact your"
+}

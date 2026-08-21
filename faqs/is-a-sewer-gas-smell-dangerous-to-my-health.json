@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-sewer-gas-smell-dangerous-to-my-health",
+  "name": "Is a sewer gas smell dangerous to my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a sewer gas smell dangerous to my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While sewer gas is primarily methane, which is not highly toxic in small amounts, it often contains other gases like hydrogen sulfide, ammonia, and carbon dioxide. Prolonged exposure to high concentrations of hydrogen sulfide can cause symptoms such as headaches, nausea, dizziness, and fatigue. In extreme cases, it can be life-threatening. Additionally, these gases can pose a fire or explosion hazard if they accumulate in confined spaces. It's best to address sewer gas odors promptly to ensure a safe living environment.",
+        "@type": "Answer",
+        "description": "Sewer gas can contain harmful components like hydrogen sulfide, which can cause health issues with prolonged exposure and poses a fire hazard."
+      }
+    }
+  ],
+  "description": "Sewer gas can contain harmful components like hydrogen sulfide, which can cause health issues with prolonged exposure and poses a fire hazard."
+}

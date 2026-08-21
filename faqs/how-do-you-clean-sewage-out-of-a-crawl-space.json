@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-clean-sewage-out-of-a-crawl-space",
+  "name": "How do you clean sewage out of a crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you clean sewage out of a crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning sewage from a crawl space involves several critical steps. First, the source of the leak must be stopped and the area secured. Then, standing sewage and contaminated materials are removed. The space is thoroughly cleaned, disinfected, and sanitized using specialized equipment and cleaning agents to eliminate pathogens. Finally, the area is dried completely to prevent mold growth, and any damaged structural components or insulation are repaired or replaced.",
+        "@type": "Answer",
+        "description": "Cleaning involves stopping the source, removing sewage and contaminated materials, disinfecting, drying, and repairing damage."
+      }
+    }
+  ],
+  "description": "Cleaning involves stopping the source, removing sewage and contaminated materials, disinfecting, drying, and repairing damage."
+}

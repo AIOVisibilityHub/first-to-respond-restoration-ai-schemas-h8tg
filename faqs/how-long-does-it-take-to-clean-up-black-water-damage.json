@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-clean-up-black-water-damage",
+  "name": "How long does it take to clean up black water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clean up black water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of black water cleanup and restoration depends heavily on the severity and scope of the damage. Initial mitigation, which includes water extraction, removal of contaminated materials, and initial disinfection, can take a few days. The drying and dehumidification process typically takes 3-5 days. If structural repairs or significant reconstruction are necessary, the entire project could extend for several weeks. A restoration specialist can provide a more accurate timeline after assessing your specific situation.",
+        "@type": "Answer",
+        "description": "Black water cleanup time varies; initial mitigation and drying can take about a week. Extensive structural repairs could prolong the process to several weeks."
+      }
+    }
+  ],
+  "description": "Black water cleanup time varies; initial mitigation and drying can take about a week. Extensive structural repairs could prolong the process to several weeks."
+}

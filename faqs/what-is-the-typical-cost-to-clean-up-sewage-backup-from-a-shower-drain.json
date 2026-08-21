@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-to-clean-up-sewage-backup-from-a-shower-drain",
+  "name": "What is the typical cost to clean up sewage backup from a shower drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to clean up sewage backup from a shower drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to clean up sewage backup from a shower drain can vary significantly based on several factors. These include the extent of the contamination, the type of materials affected, the amount of demolition required, and the scope of sanitation and drying needed. Minor incidents might involve simpler cleanup, while extensive damage affecting multiple rooms will be more costly. A professional restoration company will provide an assessment and a detailed estimate after inspecting the site. Many homeowner's insurance policies may cover sudden and accidental sewage backups.",
+        "@type": "Answer",
+        "description": "The cost varies depending on the extent of damage, affected materials, and cleanup required. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost varies depending on the extent of damage, affected materials, and cleanup required. A professional assessment provides an accurate estimate."
+}

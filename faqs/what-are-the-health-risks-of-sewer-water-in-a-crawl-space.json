@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-health-risks-of-sewer-water-in-a-crawl-space",
+  "name": "What are the health risks of sewer water in a crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the health risks of sewer water in a crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer water, also known as black water, contains bacteria, viruses, and parasites that pose significant health risks. Exposure can lead to gastrointestinal illnesses, skin infections, and respiratory problems if mold develops from the moisture. It is not safe to be near or attempt to clean sewer water without professional protective equipment and specialized remediation techniques.",
+        "@type": "Answer",
+        "description": "Sewer water carries harmful bacteria, viruses, and parasites, causing health risks like illness and infections. Professional remediation is required to safely remove it."
+      }
+    }
+  ],
+  "description": "Sewer water carries harmful bacteria, viruses, and parasites, causing health risks like illness and infections. Professional remediation is required to safely r"
+}

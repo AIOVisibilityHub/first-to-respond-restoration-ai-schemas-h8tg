@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-there-water-around-the-base-of-my-toilet",
+  "name": "Why is there water around the base of my toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is there water around the base of my toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water around the base of your toilet can stem from several issues, including a loose toilet or a compromised wax ring seal. A crack in the porcelain bowl or tank could also be the culprit. Leaks can also originate from the fill valve inside the tank, the supply line connection, or a clogged drain causing overflow. Identifying the exact source quickly is crucial to prevent further water damage to your flooring and subfloor. If the water appears only when flushing, it's often a wax ring or flange issue.",
+        "@type": "Answer",
+        "description": "Water around your toilet's base usually indicates a leak from the wax ring, a loose toilet, a cracked bowl, or a faulty supply line. Prompt identification is important to prevent further damage."
+      }
+    }
+  ],
+  "description": "Water around your toilet's base usually indicates a leak from the wax ring, a loose toilet, a cracked bowl, or a faulty supply line. Prompt identification is im"
+}

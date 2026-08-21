@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-clean-up-a-sewage-backup",
+  "name": "How do professionals clean up a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals clean up a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional sewage cleanup involves several critical steps. First, technicians safely extract all contaminated water and remove affected porous materials like drywall, carpet, and upholstery. Next, the area is thoroughly cleaned, disinfected, and sanitized using specialized antimicrobial agents to eliminate bacteria, viruses, and mold spores. Industrial-grade drying equipment is then used to ensure all moisture is removed, preventing further microbial growth. Finally, air scrubbers purify the air, and any necessary repairs or reconstruction are performed to restore the property.",
+        "@type": "Answer",
+        "description": "Professionals extract contaminated water, remove damaged materials, clean and disinfect the area, dry thoroughly with specialized equipment, and purify the air to prevent further contamination and growth."
+      }
+    }
+  ],
+  "description": "Professionals extract contaminated water, remove damaged materials, clean and disinfect the area, dry thoroughly with specialized equipment, and purify the air"
+}

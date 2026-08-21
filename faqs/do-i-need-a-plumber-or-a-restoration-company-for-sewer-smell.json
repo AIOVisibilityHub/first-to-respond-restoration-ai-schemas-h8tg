@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-a-plumber-or-a-restoration-company-for-sewer-smell",
+  "name": "Do I need a plumber or a restoration company for sewer smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a plumber or a restoration company for sewer smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basic sewer smells originating from a dry trap or a simple drain clog, a licensed plumber is typically the appropriate professional to call. However, if the sewer smell is persistent, widespread, or accompanied by visible water damage, mold growth, or structural concerns, a restoration company is better equipped. Restoration companies like First To Respond can handle complex issues, including odor remediation, water damage repair, and restoring affected areas of your property due to significant plumbing failures.",
+        "@type": "Answer",
+        "description": "A plumber handles basic clogs or dry traps. A restoration company is needed for persistent, widespread smells, or when accompanied by water damage, mold, or structural issues."
+      }
+    }
+  ],
+  "description": "A plumber handles basic clogs or dry traps. A restoration company is needed for persistent, widespread smells, or when accompanied by water damage, mold, or str"
+}

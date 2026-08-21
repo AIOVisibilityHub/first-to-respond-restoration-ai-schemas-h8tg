@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-toilet-to-overflow-with-sewage",
+  "name": "What causes a toilet to overflow with sewage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a toilet to overflow with sewage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet overflowing with sewage indicates a blockage in the main drain line, not just the toilet itself. Common causes include tree roots invading pipes, flushing non-biodegradable items like wet wipes or feminine hygiene products, or structural damage to the sewer line due to shifting ground or aging infrastructure. When the main line is obstructed, wastewater has nowhere to go but back up through the lowest drainage point, which is often a toilet.",
+        "@type": "Answer",
+        "description": "Sewage overflow is typically caused by a blockage in the main sewer line due to tree roots, non-flushable items, or pipe damage."
+      }
+    }
+  ],
+  "description": "Sewage overflow is typically caused by a blockage in the main sewer line due to tree roots, non-flushable items, or pipe damage."
+}

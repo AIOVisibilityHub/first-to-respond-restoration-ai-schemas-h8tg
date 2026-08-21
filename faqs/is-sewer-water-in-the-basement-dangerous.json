@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-sewer-water-in-the-basement-dangerous",
+  "name": "Is sewer water in the basement dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewer water in the basement dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sewer water contains harmful bacteria, viruses, and other pathogens that can cause serious health risks, including gastrointestinal illnesses, skin infections, and respiratory problems. It can also harbor mold spores, which will proliferate quickly in damp environments, leading to additional health concerns and structural damage. Direct contact should be avoided, and professional remediation is essential to ensure thorough cleaning and disinfection of the affected areas to protect health and property.",
+        "@type": "Answer",
+        "description": "Sewer water is dangerous due to harmful bacteria, viruses, and mold spores that pose significant health risks."
+      }
+    }
+  ],
+  "description": "Sewer water is dangerous due to harmful bacteria, viruses, and mold spores that pose significant health risks."
+}

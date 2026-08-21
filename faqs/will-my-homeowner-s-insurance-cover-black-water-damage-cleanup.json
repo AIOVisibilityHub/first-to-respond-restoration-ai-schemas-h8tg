@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-black-water-damage-cleanup",
+  "name": "Will my homeowner's insurance cover black water damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover black water damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies do cover black water damage, especially if it results from a sudden and accidental event like a burst pipe causing a sewage backup. However, coverage can vary. Some policies may require a specific endorsement for sewer backup coverage. Damage from neglected maintenance or gradual leaks might not be covered. It's essential to review your specific policy details or contact your insurance provider directly. A professional restoration company can help document the damage for your claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers black water damage from sudden events like sewage backups, but check your policy for specific endorsements. Neglect-related damage may not be covered."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers black water damage from sudden events like sewage backups, but check your policy for specific endorsements. Neglect-related d"
+}

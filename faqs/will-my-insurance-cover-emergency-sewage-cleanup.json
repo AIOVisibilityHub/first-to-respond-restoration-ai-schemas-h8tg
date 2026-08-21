@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-emergency-sewage-cleanup",
+  "name": "Will my insurance cover emergency sewage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover emergency sewage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies cover sudden and accidental sewage backups, but coverage can vary. It often depends on the cause of the backup and your specific policy details. We recommend contacting your insurance provider directly to understand your coverage. First To Respond Restoration can assist with documenting the damage and providing necessary information for your insurance claim, streamlining the process for you.",
+        "@type": "Answer",
+        "description": "Insurance coverage for sewage cleanup often depends on your policy and the cause of the backup; check with your provider."
+      }
+    }
+  ],
+  "description": "Insurance coverage for sewage cleanup often depends on your policy and the cause of the backup; check with your provider."
+}

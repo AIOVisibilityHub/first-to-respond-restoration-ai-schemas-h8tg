@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-sewage-backup-in-the-shower-dangerous",
+  "name": "Is sewage backup in the shower dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewage backup in the shower dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sewage backup is considered a biohazard and is dangerous. Blackwater, which is wastewater contaminated with human waste, contains bacteria, viruses, and other pathogens that can cause severe illness. Contact with skin, ingestion, or inhalation of airborne particles can lead to infections, respiratory problems, and other health issues. It can also cause significant property damage if not addressed quickly. Therefore, it's essential to avoid contact and call professionals immediately for safe cleanup and remediation.",
+        "@type": "Answer",
+        "description": "Yes, sewage backup is a dangerous biohazard containing harmful bacteria and pathogens that can cause illness and significant property damage."
+      }
+    }
+  ],
+  "description": "Yes, sewage backup is a dangerous biohazard containing harmful bacteria and pathogens that can cause illness and significant property damage."
+}

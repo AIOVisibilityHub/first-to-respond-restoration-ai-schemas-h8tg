@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-black-water-and-why-is-it-dangerous",
+  "name": "What is black water and why is it dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is black water and why is it dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black water is highly contaminated water that has come into contact with sewage, floodwaters from rivers or oceans, or contains toxic substances. It can contain harmful bacteria, viruses, and other pathogens that pose serious health risks. Exposure can lead to severe illnesses, making professional cleanup essential to ensure the safety of your property and its occupants. It's crucial to avoid direct contact and immediately call professionals for assessment and remediation.",
+        "@type": "Answer",
+        "description": "Black water is contaminated water from sources like sewage or floodwaters, containing harmful pathogens that cause serious health risks. Professional cleanup is required for safe remediation."
+      }
+    }
+  ],
+  "description": "Black water is contaminated water from sources like sewage or floodwaters, containing harmful pathogens that cause serious health risks. Professional cleanup is"
+}

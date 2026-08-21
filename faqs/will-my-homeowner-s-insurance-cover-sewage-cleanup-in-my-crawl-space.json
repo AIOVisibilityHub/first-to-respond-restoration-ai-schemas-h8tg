@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-sewage-cleanup-in-my-crawl-space",
+  "name": "Will my homeowner's insurance cover sewage cleanup in my crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover sewage cleanup in my crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for sewage cleanup typically depends on the cause of the backup and your specific policy. Many standard policies cover sudden and accidental pipe bursts. However, damage from sewer backups originating outside your property or caused by neglected maintenance may require a specific sewer backup endorsement. It is essential to review your policy documents or contact your insurance provider directly to understand your coverage.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the cause of the backup; a specific sewer backup endorsement may be needed."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the cause of the backup; a specific sewer backup endorsement may be needed."
+}

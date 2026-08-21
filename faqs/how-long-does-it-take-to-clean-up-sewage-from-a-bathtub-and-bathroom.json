@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-clean-up-sewage-from-a-bathtub-and-bathroom",
+  "name": "How long does it take to clean up sewage from a bathtub and bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clean up sewage from a bathtub and bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of sewage cleanup depends on the severity of the backup, the size of the contaminated area, and the extent of materials affected. Initial removal and disinfection can often take a few hours to a full day. However, thorough drying, which is crucial for preventing mold and further damage, can take an additional 3-5 days using professional drying equipment. Extensive damage requiring reconstruction will extend the timeline further.",
+        "@type": "Answer",
+        "description": "Initial cleanup takes hours to a day, but thorough drying to prevent mold can take 3-5 days. Reconstruction extends the total time."
+      }
+    }
+  ],
+  "description": "Initial cleanup takes hours to a day, but thorough drying to prevent mold can take 3-5 days. Reconstruction extends the total time."
+}

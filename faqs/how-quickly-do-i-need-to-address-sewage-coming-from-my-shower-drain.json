@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-sewage-coming-from-my-shower-drain",
+  "name": "How quickly do I need to address sewage coming from my shower drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address sewage coming from my shower drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing sewage coming from your shower drain is an emergency that requires immediate attention. The longer sewage sits, the more it saturates building materials, increasing the risk of structural damage and mold growth. Furthermore, the health hazards posed by contaminated water intensify over time. Prompt intervention by a professional restoration team minimizes exposure to pathogens, reduces the extent of property damage, and helps ensure a faster, more effective cleanup and restoration process.",
+        "@type": "Answer",
+        "description": "You need to address sewage backup immediately because delays increase property damage, mold risk, and health hazards."
+      }
+    }
+  ],
+  "description": "You need to address sewage backup immediately because delays increase property damage, mold risk, and health hazards."
+}

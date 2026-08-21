@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-sewage-backup-cleanup-take",
+  "name": "How long does sewage backup cleanup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sewage backup cleanup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of sewage backup cleanup depends on the extent of the damage, the size of the affected area, and the materials involved. Minor backups in a small area might be resolved within 1-3 days. More severe cases involving extensive contamination, structural damage, or multiple affected rooms can take several days to a week or even longer for complete remediation, including drying and disinfection. Professional assessment provides a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Cleanup time varies based on damage extent, from 1-3 days for minor cases to a week or more for severe contamination requiring structural work."
+      }
+    }
+  ],
+  "description": "Cleanup time varies based on damage extent, from 1-3 days for minor cases to a week or more for severe contamination requiring structural work."
+}

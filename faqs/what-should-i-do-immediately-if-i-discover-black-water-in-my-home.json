@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-discover-black-water-in-my-home",
+  "name": "What should I do immediately if I discover black water in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover black water in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your first priority is safety. Immediately evacuate people and pets from the affected area. Avoid all contact with the water. Do not attempt to clean it yourself. If safe to do so, turn off your home's main water supply and electricity to prevent further damage or electrocution risks. Contact a professional restoration company experienced in hazardous material cleanup. They have the necessary equipment, training, and protective gear to safely handle black water remediation.",
+        "@type": "Answer",
+        "description": "Evacuate the area, avoid contact with the water, turn off utilities if safe, and immediately call a professional restoration company for hazardous material cleanup."
+      }
+    }
+  ],
+  "description": "Evacuate the area, avoid contact with the water, turn off utilities if safe, and immediately call a professional restoration company for hazardous material clea"
+}

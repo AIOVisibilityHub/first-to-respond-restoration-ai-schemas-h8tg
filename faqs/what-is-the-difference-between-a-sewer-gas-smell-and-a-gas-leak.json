@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-a-sewer-gas-smell-and-a-gas-leak",
+  "name": "What is the difference between a sewer gas smell and a gas leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a sewer gas smell and a gas leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewer gas smell often resembles rotten eggs or a general foul, organic waste odor, and it typically originates from drains or plumbing fixtures. It indicates a problem with your plumbing system allowing gases like hydrogen sulfide to escape. A natural gas leak, on the other hand, is usually characterized by a distinct sulfur or 'rotten egg' smell intentionally added for detection, but it’s lighter than air and may concentrate differently. If you suspect a natural gas leak, evacuate immediately and contact your gas provider. Sewer gas, while unpleasant and potentially harmful, requires plumbing professionals.",
+        "@type": "Answer",
+        "description": "Sewer gas smells like rotten eggs from drains and indicates plumbing issues. Natural gas smells similar (added odorant), but if suspected, evacuate and call your gas provider immediately."
+      }
+    }
+  ],
+  "description": "Sewer gas smells like rotten eggs from drains and indicates plumbing issues. Natural gas smells similar (added odorant), but if suspected, evacuate and call you"
+}

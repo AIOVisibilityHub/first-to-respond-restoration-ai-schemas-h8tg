@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-toilet-sewage-backup-dangerous",
+  "name": "Is a toilet sewage backup dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a toilet sewage backup dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a sewage backup is dangerous. Black water from a sewage backup contains harmful bacteria, viruses, and other pathogens that can cause severe illness if ingested or if it comes into contact with open wounds. It can also harbor mold and mildew growth, which poses respiratory risks. Professional cleanup is crucial to ensure thorough disinfection and to protect the health of occupants. Avoid direct contact with sewage water and keep children and pets away from the affected area.",
+        "@type": "Answer",
+        "description": "Yes, sewage contains harmful bacteria and pathogens that can cause illness. It also promotes mold growth. Professional cleanup is essential for safety."
+      }
+    }
+  ],
+  "description": "Yes, sewage contains harmful bacteria and pathogens that can cause illness. It also promotes mold growth. Professional cleanup is essential for safety."
+}

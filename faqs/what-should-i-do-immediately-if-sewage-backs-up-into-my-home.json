@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-sewage-backs-up-into-my-home",
+  "name": "What should I do immediately if sewage backs up into my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if sewage backs up into my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If sewage backs up, prioritize safety. Avoid contact with the water, as it contains hazardous contaminants. Turn off your home's water supply and electricity in affected areas if safe to do so. Do not use toilets or drains. Contact a professional restoration company immediately. They can assess the situation, extract the sewage, disinfect the area, and begin the drying process to prevent further damage and mold growth. Prompt action minimizes health risks and property damage.",
+        "@type": "Answer",
+        "description": "Immediately avoid contact with sewage, turn off water and electricity if safe, and contact a professional restoration company for cleanup and assessment."
+      }
+    }
+  ],
+  "description": "Immediately avoid contact with sewage, turn off water and electricity if safe, and contact a professional restoration company for cleanup and assessment."
+}

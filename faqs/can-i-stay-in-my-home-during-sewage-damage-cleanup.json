@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-stay-in-my-home-during-sewage-damage-cleanup",
+  "name": "Can I stay in my home during sewage damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during sewage damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is strongly advised to evacuate your home during professional sewage damage cleanup, especially from affected areas. Raw sewage contains biohazards that can cause serious illness, and the cleaning process involves strong disinfectants and specialized equipment that may emit fumes. For your safety and the effectiveness of the restoration, temporary relocation is often necessary until the property is thoroughly cleaned, sanitized, and declared safe for re-entry by the restoration professionals.",
+        "@type": "Answer",
+        "description": "No, it is strongly advised to evacuate your home during sewage cleanup due to health risks from biohazards and cleaning chemicals."
+      }
+    }
+  ],
+  "description": "No, it is strongly advised to evacuate your home during sewage cleanup due to health risks from biohazards and cleaning chemicals."
+}

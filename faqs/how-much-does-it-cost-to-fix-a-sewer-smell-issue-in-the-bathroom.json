@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-fix-a-sewer-smell-issue-in-the-bathroom",
+  "name": "How much does it cost to fix a sewer smell issue in the bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a sewer smell issue in the bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a sewer smell in your bathroom varies significantly based on the cause and extent of the problem. Simple fixes like refilling a dry P-trap or sealing a minor leak might incur minimal costs. However, repairs involving a cracked sewer vent pipe, replacing a damaged wax ring, or addressing a main sewer line blockage can range from several hundred to over a thousand dollars, especially if excavation or extensive plumbing work is required. A professional inspection is necessary to provide an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs to fix a sewer smell vary widely. Simple fixes are inexpensive, but extensive repairs like vent pipe or main sewer line issues can cost hundreds to thousands. An inspection is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs to fix a sewer smell vary widely. Simple fixes are inexpensive, but extensive repairs like vent pipe or main sewer line issues can cost hundreds to thousa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-sewage-soaked-carpet",
+  "name": "How quickly do I need to address sewage-soaked carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address sewage-soaked carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is critical to address sewage-soaked carpet immediately, ideally within 24-48 hours. The longer sewage remains, the higher the risk of microbial growth, including dangerous bacteria and mold, which can spread rapidly. Delayed cleanup also increases structural damage to your property, as moisture seeps into subflooring and walls. Prompt professional intervention minimizes health risks, reduces the extent of damage, and can significantly lower overall restoration costs by preventing secondary issues.",
+        "@type": "Answer",
+        "description": "Address sewage-soaked carpet immediately, within 24-48 hours. Delayed cleanup increases health risks from microbial growth and structural damage, leading to higher restoration costs."
+      }
+    }
+  ],
+  "description": "Address sewage-soaked carpet immediately, within 24-48 hours. Delayed cleanup increases health risks from microbial growth and structural damage, leading to hig"
+}

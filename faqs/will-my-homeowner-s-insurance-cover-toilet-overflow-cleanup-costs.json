@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-toilet-overflow-cleanup-costs",
+  "name": "Will my homeowner's insurance cover toilet overflow cleanup costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover toilet overflow cleanup costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental water damage, which often includes toilet overflows. However, coverage can vary based on your specific policy and the cause of the overflow. Damage resulting from negligence or a lack of maintenance (e.g., a long-term, unaddressed leak) might not be covered. It's essential to review your policy details and contact your insurance provider immediately after an incident to understand your coverage, deductible, and claims process. We can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance typically covers sudden toilet overflows, but check your policy for specifics and exclusions. Negligence-related damage might not be covered."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance typically covers sudden toilet overflows, but check your policy for specifics and exclusions. Negligence-related damage might not be cover"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-while-waiting-for-sewer-backup-cleanup-professionals",
+  "name": "What should I do while waiting for sewer backup cleanup professionals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do while waiting for sewer backup cleanup professionals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While waiting for professionals, it's important to take safety precautions. Avoid contact with the sewage water. Turn off your HVAC system to prevent contaminants from spreading through the air ducts. If safe, turn off the main water supply to your property. Keep children and pets away from the affected area. Do not attempt to use household cleaning products, as they are often insufficient for biohazard remediation.",
+        "@type": "Answer",
+        "description": "Avoid contact with sewage, turn off HVAC, if safe, turn off water, and keep people and pets away from the affected area."
+      }
+    }
+  ],
+  "description": "Avoid contact with sewage, turn off HVAC, if safe, turn off water, and keep people and pets away from the affected area."
+}

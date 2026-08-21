@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-smell-sewer-gas",
+  "name": "What should I do immediately if I smell sewer gas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I smell sewer gas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you detect a sewer gas smell, the first step is to ventilate the area by opening windows and doors. Check if any seldom-used drains, like in a guest bathroom, have dry P-traps and pour a gallon of water down them. Also, ensure toilet bowls are full of water. If the smell persists, avoid using the affected drains and contact a professional plumber or restoration company. They can diagnose the source of the smell, which might range from minor plumbing issues to a serious sewer line problem, and advise on the next steps.",
+        "@type": "Answer",
+        "description": "Immediately ventilate the area, check for dry P-traps, and if the smell persists, contact a professional."
+      }
+    }
+  ],
+  "description": "Immediately ventilate the area, check for dry P-traps, and if the smell persists, contact a professional."
+}

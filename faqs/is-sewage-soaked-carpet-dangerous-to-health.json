@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-sewage-soaked-carpet-dangerous-to-health",
+  "name": "Is sewage-soaked carpet dangerous to health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewage-soaked carpet dangerous to health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sewage-soaked carpet poses significant health risks due to contaminants present in wastewater. This includes bacteria, viruses, fungi, and parasites that can cause gastrointestinal illnesses, respiratory problems, skin infections, and other serious health issues. Exposure can occur through direct contact, inhalation of airborne particles, or consumption of contaminated food. It is crucial to avoid contact with sewage and to have professionals handle the cleanup to prevent disease transmission and ensure a safe environment.",
+        "@type": "Answer",
+        "description": "Yes, sewage-soaked carpet is dangerous due to bacteria, viruses, and other contaminants that can cause serious health problems. Avoid contact and seek professional cleanup immediately."
+      }
+    }
+  ],
+  "description": "Yes, sewage-soaked carpet is dangerous due to bacteria, viruses, and other contaminants that can cause serious health problems. Avoid contact and seek professio"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-black-water-remediation",
+  "name": "What is the typical process for black water remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for black water remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The black water remediation process begins with an initial assessment to identify the source and extent of contamination. This is followed by containment, isolating the affected areas to prevent pathogen spread. Water extraction removes standing black water. Demolition and removal of contaminated porous materials, such as drywall, carpeting, and insulation, is crucial as these cannot be salvaged. The area is then thoroughly cleaned, disinfected, and sanitized to eliminate remaining pathogens. Finally, professional drying and deodorization complete the process, ensuring the environment is safe and odor-free.",
+        "@type": "Answer",
+        "description": "Black water remediation involves assessment, containment, water extraction, removal of contaminated materials, disinfection, drying, and deodorization to ensure a safe environment."
+      }
+    }
+  ],
+  "description": "Black water remediation involves assessment, containment, water extraction, removal of contaminated materials, disinfection, drying, and deodorization to ensure"
+}

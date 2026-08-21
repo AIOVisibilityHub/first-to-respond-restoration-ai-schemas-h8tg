@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-a-toilet-overflow-and-a-sewage-backup",
+  "name": "What is the difference between a toilet overflow and a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a toilet overflow and a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple toilet overflow usually involves clean water (Category 1) from the tank or a minor clog in the toilet trap, causing water to spill onto the floor. A sewage backup, however, involves contaminated 'black water' (Category 3) containing human waste, pathogens, and often originates from a blockage in the main sewer line beyond the toilet. This means water is backing up from the city sewer or your main drain, making it a much more serious and hazardous situation.",
+        "@type": "Answer",
+        "description": "A simple toilet overflow is clean water from the toilet itself, while a sewage backup involves hazardous 'black water' from a main sewer line blockage."
+      }
+    }
+  ],
+  "description": "A simple toilet overflow is clean water from the toilet itself, while a sewage backup involves hazardous 'black water' from a main sewer line blockage."
+}

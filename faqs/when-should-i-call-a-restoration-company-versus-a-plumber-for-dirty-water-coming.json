@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-restoration-company-versus-a-plumber-for-dirty-water-coming",
+  "name": "When should I call a restoration company versus a plumber for dirty water coming up my drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a restoration company versus a plumber for dirty water coming up my drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Call a plumber primarily when you suspect the issue is limited to a pipe blockage or damage requiring direct plumbing repair, and the water has not caused significant overflow or contamination. However, if dirty water has already backed up into your home, causing water damage, particularly if it's sewage (black water), a restoration company is essential. Restoration companies specialize in hazardous material cleanup, structural drying, sanitization, and mold prevention, which goes beyond a plumber's scope. Often, both professionals may be needed, with restoration addressing the damage and a plumber fixing the root cause.",
+        "@type": "Answer",
+        "description": "Call a plumber for pipe issues without significant overflow. Call a restoration company if dirty water has caused property damage and requires hazardous cleanup, drying, and sanitization."
+      }
+    }
+  ],
+  "description": "Call a plumber for pipe issues without significant overflow. Call a restoration company if dirty water has caused property damage and requires hazardous cleanup"
+}
