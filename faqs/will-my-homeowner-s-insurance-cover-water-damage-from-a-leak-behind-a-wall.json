@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-water-damage-from-a-leak-behind-a-wall",
+  "name": "Will my homeowner's insurance cover water damage from a leak behind a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water damage from a leak behind a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, such as a burst pipe behind a wall. However, damage caused by neglected maintenance, gradual leaks that could have been prevented, or floodwater is often not covered. It's crucial to review your specific policy details or contact your insurance provider to understand your coverage. We can also help document the damage for your claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers sudden, accidental water damage, but not issues from neglect or floods. Check your policy or contact your insurer."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers sudden, accidental water damage, but not issues from neglect or floods. Check your policy or contact your insurer."
+}

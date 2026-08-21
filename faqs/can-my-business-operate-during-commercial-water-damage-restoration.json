@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-my-business-operate-during-commercial-water-damage-restoration",
+  "name": "Can my business operate during commercial water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my business operate during commercial water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether your business can remain open depends on the extent and location of the water damage. For minor, localized damage, it might be possible to section off the affected area and continue operations in other parts of the building. However, extensive damage, compromised structural integrity, or the need for specialized equipment might necessitate temporary closure for safety and efficiency. We work to minimize downtime and develop a restoration plan that best suits your business needs.",
+        "@type": "Answer",
+        "description": "It depends on damage extent. Minor issues might allow continued operation, but extensive damage may require temporary closure."
+      }
+    }
+  ],
+  "description": "It depends on damage extent. Minor issues might allow continued operation, but extensive damage may require temporary closure."
+}

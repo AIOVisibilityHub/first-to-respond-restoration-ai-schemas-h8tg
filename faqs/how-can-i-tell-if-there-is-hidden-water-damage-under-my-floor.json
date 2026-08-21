@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-tell-if-there-is-hidden-water-damage-under-my-floor",
+  "name": "How can I tell if there is hidden water damage under my floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if there is hidden water damage under my floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden water damage under your floor might not be immediately visible but can be detected by certain signs. Look for unexplained musty odors, which often indicate mold or mildew growth. Discoloration, stains, or bulging on baseboards, walls, or the floor itself near the affected area can also be indicators. Soft spots or sponginess when walking on certain areas of the floor suggest compromised subflooring. If you notice any of these signs after a known or suspected leak, it's best to have a professional restoration company inspect with specialized moisture detection equipment.",
+        "@type": "Answer",
+        "description": "Hidden damage can be identified by musty odors, discoloration or bulging on baseboards/walls, or soft/spongy floor spots."
+      }
+    }
+  ],
+  "description": "Hidden damage can be identified by musty odors, discoloration or bulging on baseboards/walls, or soft/spongy floor spots."
+}

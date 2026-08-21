@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-does-a-restoration-company-handle-water-leaking-from-a-wall",
+  "name": "How does a restoration company handle water leaking from a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a restoration company handle water leaking from a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A restoration company follows a structured process to address water leaking from a wall. First, they conduct a thorough inspection to locate the leak source and assess the full extent of water penetration using moisture meters and thermal imaging. Next, they stop the leak and extract standing water. Demolition of saturated materials may occur. Then, industrial-grade drying equipment is deployed. Finally, they perform mold remediation if necessary, followed by repair and restoration of the damaged areas, ensuring your property is returned to its pre-damage condition.",
+        "@type": "Answer",
+        "description": "A restoration company inspects, locates the leak, extracts water, dries the area, performs mold remediation, and repairs damaged materials."
+      }
+    }
+  ],
+  "description": "A restoration company inspects, locates the leak, extracts water, dries the area, performs mold remediation, and repairs damaged materials."
+}

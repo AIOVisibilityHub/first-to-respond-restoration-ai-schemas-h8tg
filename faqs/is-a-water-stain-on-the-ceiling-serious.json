@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-water-stain-on-the-ceiling-serious",
+  "name": "Is a water stain on the ceiling serious?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a water stain on the ceiling serious?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a water stain on the ceiling should be taken seriously. It indicates an active or past water leak, which can lead to structural damage, rot, and the growth of hazardous mold. Ignoring it can result in more extensive and costly repairs down the line. It's best to have it inspected by professionals to assess the extent of the damage.",
+        "@type": "Answer",
+        "description": "A water stain on the ceiling indicates a leak and can lead to structural damage and mold. Professional inspection is recommended to assess severity."
+      }
+    }
+  ],
+  "description": "A water stain on the ceiling indicates a leak and can lead to structural damage and mold. Professional inspection is recommended to assess severity."
+}

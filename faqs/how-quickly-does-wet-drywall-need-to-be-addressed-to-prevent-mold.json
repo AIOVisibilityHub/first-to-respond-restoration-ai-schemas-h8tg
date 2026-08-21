@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-does-wet-drywall-need-to-be-addressed-to-prevent-mold",
+  "name": "How quickly does wet drywall need to be addressed to prevent mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly does wet drywall need to be addressed to prevent mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wet drywall should be addressed as quickly as possible, ideally within 24 to 48 hours. Mold can begin to grow on damp surfaces within this timeframe, especially in warm and humid conditions. Delaying action significantly increases the risk of mold proliferation, which can lead to further structural damage and potential health concerns. Prompt drying and remediation are essential.",
+        "@type": "Answer",
+        "description": "Wet drywall needs to be addressed within 24-48 hours to prevent mold growth, which can start quickly in damp conditions."
+      }
+    }
+  ],
+  "description": "Wet drywall needs to be addressed within 24-48 hours to prevent mold growth, which can start quickly in damp conditions."
+}

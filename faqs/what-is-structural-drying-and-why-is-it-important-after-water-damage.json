@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-structural-drying-and-why-is-it-important-after-water-damage",
+  "name": "What is structural drying and why is it important after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is structural drying and why is it important after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural drying is the process of removing moisture from the building materials of your property, such as walls, floors, and ceilings, after water intrusion. It goes beyond simply cleaning up standing water. Proper structural drying is crucial to prevent secondary damage like mold growth, wood rot, and weakening of building components. This specialized process uses professional-grade equipment like dehumidifiers and air movers to thoroughly dry affected areas, ensuring the structural integrity of your home or business in Encino, North Hollywood, or other service areas.",
+        "@type": "Answer",
+        "description": "Structural drying removes hidden moisture from building materials after water damage to prevent mold and structural issues."
+      }
+    }
+  ],
+  "description": "Structural drying removes hidden moisture from building materials after water damage to prevent mold and structural issues."
+}

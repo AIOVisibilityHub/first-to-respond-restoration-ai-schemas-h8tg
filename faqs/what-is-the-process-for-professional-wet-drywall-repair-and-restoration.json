@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-wet-drywall-repair-and-restoration",
+  "name": "What is the process for professional wet drywall repair and restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional wet drywall repair and restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The professional restoration process typically begins with an assessment to identify the water source and extent of damage. Then, water extraction removes standing water. This is followed by specialized drying techniques using air movers and dehumidifiers to remove moisture from affected materials, including drywall. Once dry, damaged drywall is removed and replaced, and the area is cleaned and sanitized to prevent mold, completing the restoration.",
+        "@type": "Answer",
+        "description": "Professional wet drywall repair involves assessment, water extraction, specialized drying, removal of damaged materials, replacement, and sanitization."
+      }
+    }
+  ],
+  "description": "Professional wet drywall repair involves assessment, water extraction, specialized drying, removal of damaged materials, replacement, and sanitization."
+}

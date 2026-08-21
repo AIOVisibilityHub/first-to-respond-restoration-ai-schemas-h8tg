@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-water-to-leak-through-a-ceiling",
+  "name": "What causes water to leak through a ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water to leak through a ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water leaks through a ceiling can stem from various issues, including roof damage like missing shingles or cracks, plumbing leaks from pipes within walls or above the ceiling, or overflowing bathtubs/toilets on an upper floor. HVAC condensation drain line blockages or appliance malfunctions, such as a water heater or washing machine, can also lead to leaks. Heavy rain, especially combined with poor drainage, can exacerbate these problems and cause water to penetrate the structure.",
+        "@type": "Answer",
+        "description": "Common causes include roof damage, plumbing leaks from pipes or fixtures, HVAC issues, and overflowing appliances. Heavy rain can worsen existing problems."
+      }
+    }
+  ],
+  "description": "Common causes include roof damage, plumbing leaks from pipes or fixtures, HVAC issues, and overflowing appliances. Heavy rain can worsen existing problems."
+}

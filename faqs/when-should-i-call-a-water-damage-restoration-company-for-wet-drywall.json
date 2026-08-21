@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-water-damage-restoration-company-for-wet-drywall",
+  "name": "When should I call a water damage restoration company for wet drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a water damage restoration company for wet drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a water damage restoration company immediately if you discover significant wet drywall, especially if the water source is ongoing, the affected area is large, or if the water is unsanitary (e.g., sewage backup). Early intervention by professionals in areas like North Hollywood or Studio City can minimize damage, prevent mold growth, and ensure a safe and effective restoration, reducing overall repair costs and time.",
+        "@type": "Answer",
+        "description": "Call a restoration company immediately for significant wet drywall, ongoing water sources, large affected areas, or unsanitary water to minimize damage and prevent mold."
+      }
+    }
+  ],
+  "description": "Call a restoration company immediately for significant wet drywall, ongoing water sources, large affected areas, or unsanitary water to minimize damage and prev"
+}

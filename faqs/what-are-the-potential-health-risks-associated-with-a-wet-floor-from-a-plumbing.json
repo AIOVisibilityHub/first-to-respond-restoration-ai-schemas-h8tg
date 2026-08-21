@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-potential-health-risks-associated-with-a-wet-floor-from-a-plumbing",
+  "name": "What are the potential health risks associated with a wet floor from a plumbing leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential health risks associated with a wet floor from a plumbing leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wet floor from a plumbing leak can pose several health risks. The most common is mold growth, which can cause respiratory issues, allergic reactions, and other health problems, especially for sensitive individuals. Standing water can also be a slipping hazard. If the water is contaminated (e.g., from a sewage backup), it can introduce bacteria, viruses, and other pathogens, posing serious health threats if not handled properly. Prompt and thorough remediation minimizes these risks.",
+        "@type": "Answer",
+        "description": "Health risks include mold growth causing respiratory issues, slipping hazards, and potential exposure to bacteria or viruses if the water is contaminated."
+      }
+    }
+  ],
+  "description": "Health risks include mold growth causing respiratory issues, slipping hazards, and potential exposure to bacteria or viruses if the water is contaminated."
+}

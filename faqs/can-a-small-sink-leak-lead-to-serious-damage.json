@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-a-small-sink-leak-lead-to-serious-damage",
+  "name": "Can a small sink leak lead to serious damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a small sink leak lead to serious damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even a seemingly small or slow sink leak can lead to significant damage over time. Constant moisture can saturate cabinets, flooring, and walls, compromising their structural integrity. It also creates an ideal environment for mold and mildew growth, which can spread quickly and affect indoor air quality. Untreated leaks can also attract pests. Early detection and repair are essential to prevent minor issues from becoming costly and extensive restoration projects.",
+        "@type": "Answer",
+        "description": "Yes, even small leaks can cause significant water damage to cabinets and floors, lead to mold growth, and attract pests over time."
+      }
+    }
+  ],
+  "description": "Yes, even small leaks can cause significant water damage to cabinets and floors, lead to mold growth, and attract pests over time."
+}

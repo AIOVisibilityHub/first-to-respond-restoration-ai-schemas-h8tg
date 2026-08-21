@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-repair-water-damage-from-a-sink-leak",
+  "name": "How long does it take to repair water damage from a sink leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair water damage from a sink leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for repairing water damage from a sink leak depends on the extent of the damage. Minor issues, like drying out a small area and replacing a single cabinet panel, might take a few days. However, if the leak has penetrated subflooring, walls, or led to significant mold growth, the process can take longer. This involves water extraction, thorough drying, mold remediation if necessary, and then rebuilding damaged structures. A detailed assessment provides a more accurate time estimate.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage extent. Minor issues might take days, while extensive damage involving subfloors or mold could take longer."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage extent. Minor issues might take days, while extensive damage involving subfloors or mold could take longer."
+}

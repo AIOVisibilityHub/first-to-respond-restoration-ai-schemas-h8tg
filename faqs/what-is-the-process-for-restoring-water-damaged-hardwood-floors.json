@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-restoring-water-damaged-hardwood-floors",
+  "name": "What is the process for restoring water-damaged hardwood floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for restoring water-damaged hardwood floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with water extraction, followed by thorough drying using industrial air movers and dehumidifiers to remove all embedded moisture from the floors and subfloor. After drying, professionals assess the damage for repairs, which might include sanding, refinishing, or replacing severely damaged planks. Mold prevention treatments are applied if necessary. The final steps involve cleaning and restoring the floor's original appearance. Monitoring moisture levels throughout is crucial for a successful restoration.",
+        "@type": "Answer",
+        "description": "Restoration involves water extraction, thorough drying with specialized equipment, damage assessment, repairs (sanding, refinishing, replacement), and mold prevention. Moisture levels are monitored throughout the process."
+      }
+    }
+  ],
+  "description": "Restoration involves water extraction, thorough drying with specialized equipment, damage assessment, repairs (sanding, refinishing, replacement), and mold prev"
+}

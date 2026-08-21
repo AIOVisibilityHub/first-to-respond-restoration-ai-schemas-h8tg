@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-water-damaged-laminate-flooring-be-repaired-or-does-it-always-need-replaceme",
+  "name": "Can water damaged laminate flooring be repaired or does it always need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water damaged laminate flooring be repaired or does it always need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor water damage might sometimes be repairable if caught immediately, often involving drying and dehumidification to prevent further swelling and mold growth. However, if the planks have significantly swollen, buckled, or delaminated, repair is typically not feasible, and replacement is necessary. Attempting to repair severely damaged laminate usually leads to recurring issues. A professional assessment can determine the best course of action.",
+        "@type": "Answer",
+        "description": "Minor damage may be repairable if addressed quickly; however, significant swelling or buckling usually requires full replacement."
+      }
+    }
+  ],
+  "description": "Minor damage may be repairable if addressed quickly; however, significant swelling or buckling usually requires full replacement."
+}

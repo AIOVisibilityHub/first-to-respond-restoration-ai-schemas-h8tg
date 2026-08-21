@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-repairing-wet-ceiling-drywall",
+  "name": "What is the process for repairing wet ceiling drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing wet ceiling drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process for wet ceiling drywall involves several steps. First, the water source must be identified and stopped. Next, damaged drywall is removed to prevent mold and allow drying. The area is then thoroughly dried using specialized equipment. Once dry, new drywall is installed, taped, mudded, sanded, and painted to match the existing ceiling. This process ensures a complete and lasting repair.",
+        "@type": "Answer",
+        "description": "Repairing wet ceiling drywall involves stopping the leak, removing damaged sections, drying the area, then installing and finishing new drywall."
+      }
+    }
+  ],
+  "description": "Repairing wet ceiling drywall involves stopping the leak, removing damaged sections, drying the area, then installing and finishing new drywall."
+}

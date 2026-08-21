@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-to-repair-water-damaged-wood-floors",
+  "name": "What is the typical cost to repair water damaged wood floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repair water damaged wood floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair water damaged wood floors varies significantly based on the extent of the damage, the type of wood, and whether repair or replacement is needed. Minor drying and refinishing could be less expensive, while extensive damage requiring subfloor repair and floorboard replacement will incur higher costs. Location also plays a role; restoration services in areas like Encino or Tarzana might have different pricing structures. Most reputable restoration companies provide a detailed estimate after an on-site inspection, which typically includes water extraction, drying, mold prevention, and structural repairs or replacements.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, wood type, and whether repair or replacement is needed. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, wood type, and whether repair or replacement is needed. A professional assessment provides an accurate estimate."
+}

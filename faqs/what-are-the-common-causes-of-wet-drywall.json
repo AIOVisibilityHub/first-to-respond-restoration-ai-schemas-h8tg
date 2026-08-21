@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-causes-of-wet-drywall",
+  "name": "What are the common causes of wet drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of wet drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wet drywall can result from various water sources. Common causes include plumbing leaks from pipes or fixtures, roof leaks due to damaged shingles or flashing, overflowing bathtubs or sinks, appliance malfunctions like burst washing machine hoses or leaky refrigerators, and foundation issues that allow water to seep into walls. Identifying the source quickly is crucial for effective remediation and preventing further damage.",
+        "@type": "Answer",
+        "description": "Common causes of wet drywall include plumbing leaks, roof leaks, overflowing fixtures, appliance malfunctions, and foundation issues."
+      }
+    }
+  ],
+  "description": "Common causes of wet drywall include plumbing leaks, roof leaks, overflowing fixtures, appliance malfunctions, and foundation issues."
+}

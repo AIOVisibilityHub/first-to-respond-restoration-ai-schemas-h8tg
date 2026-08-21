@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-structural-drying-take",
+  "name": "How long does structural drying take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does structural drying take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of structural drying varies depending on several factors, including the extent of the water damage, the type of materials affected, the humidity levels, and the category of water involved. Typically, the process can take anywhere from three to five days, but more severe cases might require a week or longer. Our technicians monitor moisture levels daily to ensure all affected areas are thoroughly dry before concluding the process, minimizing potential long-term problems for your property in San Fernando or Studio City.",
+        "@type": "Answer",
+        "description": "Structural drying usually takes 3-5 days, but can be longer depending on the severity of the water damage and materials affected."
+      }
+    }
+  ],
+  "description": "Structural drying usually takes 3-5 days, but can be longer depending on the severity of the water damage and materials affected."
+}

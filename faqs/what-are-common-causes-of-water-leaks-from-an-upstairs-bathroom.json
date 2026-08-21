@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-causes-of-water-leaks-from-an-upstairs-bathroom",
+  "name": "What are common causes of water leaks from an upstairs bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of water leaks from an upstairs bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water leaks from an upstairs bathroom often stem from common plumbing issues. These can include a faulty toilet seal, cracked or loose tile grout around the shower or tub, leaky pipes within the walls or floor, or a failing wax ring under the toilet. Clogged drains that lead to overflow can also cause significant damage. Identifying the exact source quickly is crucial to prevent further structural damage and mold growth. Professional inspection can pinpoint the cause and determine the necessary repairs.",
+        "@type": "Answer",
+        "description": "Common causes include faulty toilet seals, cracked grout, leaky pipes, or clogged drains leading to overflows. Professional inspection helps identify the exact source."
+      }
+    }
+  ],
+  "description": "Common causes include faulty toilet seals, cracked grout, leaky pipes, or clogged drains leading to overflows. Professional inspection helps identify the exact"
+}

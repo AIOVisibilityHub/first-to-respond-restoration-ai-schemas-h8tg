@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/my-carpet-is-soaked-with-water-what-should-i-do-first",
+  "name": "My carpet is soaked with water. What should I do first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My carpet is soaked with water. What should I do first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately address the source of the water if possible, such as turning off a leaking pipe or stopping a spill. Then, remove any standing water and move furniture off the wet carpet to prevent further damage and staining. Good ventilation is crucial; open windows and use fans to start the drying process. For extensive water damage, especially if the water has been present for more than 24-48 hours or is from a contaminated source, it's vital to contact a professional water damage restoration service to prevent mold growth and ensure proper drying and sanitization.",
+        "@type": "Answer",
+        "description": "First, stop the water source, remove standing water, and move furniture. For extensive damage or prolonged wetness, contact a professional restoration service."
+      }
+    }
+  ],
+  "description": "First, stop the water source, remove standing water, and move furniture. For extensive damage or prolonged wetness, contact a professional restoration service."
+}

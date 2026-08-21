@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-restore-water-damaged-carpet",
+  "name": "How much does it cost to restore water-damaged carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to restore water-damaged carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damage carpet restoration varies significantly depending on several factors. These include the size of the affected area, the extent of water penetration into the padding and subfloor, the type of water (clean, gray, or black water), and how quickly the damage was addressed. Additional costs might arise if mold remediation is necessary. A professional assessment provides a detailed estimate tailored to your specific situation, often covered by homeowner's insurance.",
+        "@type": "Answer",
+        "description": "Restoration costs depend on the damaged area size, water penetration, water type, and the need for mold remediation. A professional assessment provides an estimate."
+      }
+    }
+  ],
+  "description": "Restoration costs depend on the damaged area size, water penetration, water type, and the need for mold remediation. A professional assessment provides an estim"
+}

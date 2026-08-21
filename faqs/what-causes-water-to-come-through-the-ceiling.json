@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-water-to-come-through-the-ceiling",
+  "name": "What causes water to come through the ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water to come through the ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water coming through your ceiling is typically caused by a plumbing leak from pipes in the attic or floor above, a roof leak, or overflowing fixtures like a toilet or bathtub. Other sources can include HVAC condensation issues, appliance malfunctions on an upper floor, or even issues with exterior siding allowing water infiltration during heavy rain. Identifying the exact source quickly is crucial to prevent further damage.",
+        "@type": "Answer",
+        "description": "Common causes include plumbing leaks, roof leaks, overflowing fixtures, or HVAC issues."
+      }
+    }
+  ],
+  "description": "Common causes include plumbing leaks, roof leaks, overflowing fixtures, or HVAC issues."
+}

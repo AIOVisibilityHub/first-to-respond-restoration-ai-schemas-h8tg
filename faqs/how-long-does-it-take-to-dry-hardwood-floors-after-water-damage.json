@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-dry-hardwood-floors-after-water-damage",
+  "name": "How long does it take to dry hardwood floors after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to dry hardwood floors after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drying time for hardwood floors after water damage typically ranges from a few days to several weeks. This duration depends on factors such as the amount of water, the humidity levels, the type of wood, and the effectiveness of the drying equipment used. Professional restoration companies use specialized dehumidifiers and air movers to accelerate the process and monitor moisture levels closely to ensure complete drying, preventing secondary issues like mold growth and further structural damage.",
+        "@type": "Answer",
+        "description": "Drying hardwood floors can take days to weeks, depending on water volume, humidity, wood type, and drying equipment. Professionals use specialized equipment to accelerate and monitor the process."
+      }
+    }
+  ],
+  "description": "Drying hardwood floors can take days to weeks, depending on water volume, humidity, wood type, and drying equipment. Professionals use specialized equipment to"
+}

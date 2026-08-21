@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-repair-water-damage-from-a-wall-leak",
+  "name": "How long does it take to repair water damage from a wall leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair water damage from a wall leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage repair from a wall leak depends on the extent of the damage, the source of the leak, and how quickly remediation begins. Minor leaks might be resolved in a few days of drying and repair. More extensive damage involving mold growth, structural repairs, or significant demolition can take several weeks. A professional restoration company will provide an estimated timeline after a thorough assessment of your specific situation.",
+        "@type": "Answer",
+        "description": "Repair time varies from days for minor leaks to several weeks for extensive damage, depending on severity and promptness of action."
+      }
+    }
+  ],
+  "description": "Repair time varies from days for minor leaks to several weeks for extensive damage, depending on severity and promptness of action."
+}

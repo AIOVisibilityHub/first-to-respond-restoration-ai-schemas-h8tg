@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-water-damaged-wood-floors-be-repaired-or-do-they-always-need-to-be-replaced",
+  "name": "Can water damaged wood floors be repaired, or do they always need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water damaged wood floors be repaired, or do they always need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether water damaged wood floors can be repaired or require replacement depends on the extent of the damage. Minor water exposure, if addressed quickly, might only require drying, sanding, and refinishing. However, prolonged exposure or significant water intrusion can lead to warping, cupping, buckling, and subfloor damage, often necessitating partial or complete replacement. A professional assessment by a company serving North Hollywood or Studio City can determine the feasibility of repair versus replacement, considering factors like the type of wood, duration of water exposure, and severity of moisture saturation.",
+        "@type": "Answer",
+        "description": "It depends on the extent of the damage. Minor issues might be repairable with drying and refinishing, while severe damage often requires replacement. A professional assessment is needed."
+      }
+    }
+  ],
+  "description": "It depends on the extent of the damage. Minor issues might be repairable with drying and refinishing, while severe damage often requires replacement. A professi"
+}

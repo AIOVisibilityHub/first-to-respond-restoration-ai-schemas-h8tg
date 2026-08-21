@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-paint-over-a-water-stain-on-my-ceiling",
+  "name": "Can I paint over a water stain on my ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over a water stain on my ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Simply painting over a water stain without addressing the underlying issue is not recommended. The leak source must be repaired first, and the area thoroughly dried. If not, the stain will likely reappear, and undetected moisture can lead to mold growth and further structural damage. After remediation, special stain-blocking primers are used before painting.",
+        "@type": "Answer",
+        "description": "Do not paint over a water stain without fixing the leak and drying the area first. The stain will reappear, and mold can grow. Use stain-blocking primer after repairs."
+      }
+    }
+  ],
+  "description": "Do not paint over a water stain without fixing the leak and drying the area first. The stain will reappear, and mold can grow. Use stain-blocking primer after r"
+}

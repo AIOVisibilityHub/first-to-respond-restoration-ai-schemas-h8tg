@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-dry-out-a-floor-after-a-water-leak",
+  "name": "How long does it take to dry out a floor after a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to dry out a floor after a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for drying out a floor after a water leak varies significantly based on the amount of water, the types of materials affected, and the humidity levels. Typically, with professional equipment like industrial-strength air movers and dehumidifiers, the drying process can take anywhere from three to five days. More severe leaks involving extensive saturation or difficult-to-dry materials such as hardwood or concrete may require longer. Professionals use moisture meters to ensure all hidden moisture is removed, preventing future issues like mold.",
+        "@type": "Answer",
+        "description": "Drying time varies but usually takes 3-5 days with professional equipment, depending on the extent of the leak and materials affected."
+      }
+    }
+  ],
+  "description": "Drying time varies but usually takes 3-5 days with professional equipment, depending on the extent of the leak and materials affected."
+}

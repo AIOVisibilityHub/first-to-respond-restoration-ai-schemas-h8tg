@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-should-i-choose-a-professional-restoration-company-for-water-coming-through",
+  "name": "Why should I choose a professional restoration company for water coming through my floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a professional restoration company for water coming through my floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional restoration company has the expertise, specialized equipment, and certifications to properly extract water, thoroughly dry affected areas, prevent mold growth, and identify hidden moisture. We ensure your home is restored safely and efficiently, minimizing long-term damage and potential health hazards. Attempting to dry it yourself often leads to incomplete drying, which can result in mold and structural issues later.",
+        "@type": "Answer",
+        "description": "Professionals have the expertise and equipment to thoroughly dry, prevent mold, and restore your home safely, avoiding long-term issues."
+      }
+    }
+  ],
+  "description": "Professionals have the expertise and equipment to thoroughly dry, prevent mold, and restore your home safely, avoiding long-term issues."
+}

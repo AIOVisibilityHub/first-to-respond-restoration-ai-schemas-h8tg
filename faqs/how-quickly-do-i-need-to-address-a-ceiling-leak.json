@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-a-ceiling-leak",
+  "name": "How quickly do I need to address a ceiling leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address a ceiling leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A ceiling leak should be addressed as quickly as possible, ideally within 24-48 hours. Water damage can escalate rapidly, leading to more extensive and costly problems if not mitigated promptly. Prolonged moisture can weaken structural components, promote mold growth within 24 to 48 hours, and cause permanent damage to drywall, insulation, and flooring. Swift action helps prevent secondary damage, reduces the risk of mold contamination, and can significantly lower repair expenses.",
+        "@type": "Answer",
+        "description": "Address a ceiling leak within 24-48 hours. Rapid action prevents extensive damage, mold growth, and higher repair costs."
+      }
+    }
+  ],
+  "description": "Address a ceiling leak within 24-48 hours. Rapid action prevents extensive damage, mold growth, and higher repair costs."
+}

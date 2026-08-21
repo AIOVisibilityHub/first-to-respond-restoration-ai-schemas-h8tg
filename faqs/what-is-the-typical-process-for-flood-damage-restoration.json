@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-flood-damage-restoration",
+  "name": "What is the typical process for flood damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for flood damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process usually begins with an initial assessment to determine the extent of the damage. This is followed by water extraction using powerful pumps and vacuums. Next, affected areas are dried and dehumidified using specialized equipment. Cleaning, sanitizing, and deodorizing are performed to address contamination. Finally, damaged materials are repaired or replaced to restore the property to its original condition. Throughout the process, continuous monitoring ensures effective results.",
+        "@type": "Answer",
+        "description": "The process includes assessment, water extraction, drying, cleaning/sanitizing, and then repairing or replacing damaged materials."
+      }
+    }
+  ],
+  "description": "The process includes assessment, water extraction, drying, cleaning/sanitizing, and then repairing or replacing damaged materials."
+}

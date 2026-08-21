@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-repairing-water-damaged-drywall",
+  "name": "What is the typical process for repairing water damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing water damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical repair process for water damaged drywall begins with containing the affected area and identifying the source of water to prevent further damage. Next, all saturated drywall and insulation are carefully removed to prevent mold growth. Industrial-grade dehumidifiers and air movers are used for thorough drying. Once dry, new drywall is installed, taped, mudded, sanded, and primed, matching the existing wall texture, ensuring a seamless finish. This comprehensive approach restores structural integrity and appearance.",
+        "@type": "Answer",
+        "description": "The process involves containing the area, removing damaged material, drying, and then installing new drywall with a matching finish."
+      }
+    }
+  ],
+  "description": "The process involves containing the area, removing damaged material, drying, and then installing new drywall with a matching finish."
+}

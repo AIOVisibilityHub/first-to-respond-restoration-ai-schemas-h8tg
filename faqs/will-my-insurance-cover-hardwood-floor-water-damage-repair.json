@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-hardwood-floor-water-damage-repair",
+  "name": "Will my insurance cover hardwood floor water damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover hardwood floor water damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental water damage, such as a burst pipe or an overflowing appliance. However, damage from neglected maintenance, gradual leaks, or flood damage (which requires a separate flood insurance policy) is typically not covered. It's essential to review your specific policy details and contact your insurance provider immediately after discovering the damage. A professional restoration company can often assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers sudden water damage, like burst pipes. Neglected maintenance or flood damage is typically not covered. Check your policy and contact your provider promptly."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers sudden water damage, like burst pipes. Neglected maintenance or flood damage is typically not covered. Check your policy and c"
+}

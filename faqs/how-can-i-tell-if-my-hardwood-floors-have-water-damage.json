@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-tell-if-my-hardwood-floors-have-water-damage",
+  "name": "How can I tell if my hardwood floors have water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my hardwood floors have water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of water damage on hardwood floors include visible discoloration like dark spots or stains, cupping (edges of boards lifting), crowning (centers of boards rising), buckling (boards detaching from the subfloor and rising), or warping. You might also notice a musty odor, indicating mold or mildew growth beneath the surface. Soft or spongy spots when walked upon are another critical indicator. Addressing these signs promptly can prevent further deterioration and more extensive repairs.",
+        "@type": "Answer",
+        "description": "Look for discoloration, cupping, crowning, buckling, or warping of boards. A musty smell or soft spots are also indicators of water damage."
+      }
+    }
+  ],
+  "description": "Look for discoloration, cupping, crowning, buckling, or warping of boards. A musty smell or soft spots are also indicators of water damage."
+}

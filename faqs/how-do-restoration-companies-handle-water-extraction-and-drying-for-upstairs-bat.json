@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-restoration-companies-handle-water-extraction-and-drying-for-upstairs-bat",
+  "name": "How do restoration companies handle water extraction and drying for upstairs bathroom leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do restoration companies handle water extraction and drying for upstairs bathroom leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration companies typically follow a multi-step process for water extraction and drying. First, they use powerful pumps and extractors to remove standing water. Next, they employ industrial-grade air movers and dehumidifiers to thoroughly dry out affected structural materials, including subfloors, walls, and ceilings. Moisture meters and thermal imaging cameras are used to detect hidden moisture pockets. This meticulous approach ensures that all moisture is removed, preventing secondary damage like mold growth and structural weakening. The process is monitored until safe moisture levels are achieved.",
+        "@type": "Answer",
+        "description": "Restoration companies use pumps for water extraction, then industrial air movers and dehumidifiers for thorough drying. They monitor moisture levels with specialized equipment to prevent secondary damage."
+      }
+    }
+  ],
+  "description": "Restoration companies use pumps for water extraction, then industrial air movers and dehumidifiers for thorough drying. They monitor moisture levels with specia"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-hardwood-floor-water-damage",
+  "name": "When should I call a professional for hardwood floor water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for hardwood floor water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for hardwood floor water damage as soon as you discover it, especially if the water source was significant, the water was unsanitary (e.g., sewage), or the damage has been present for more than 24-48 hours. Professionals can quickly assess the extent of the damage, extract water, thoroughly dry the area, prevent mold growth, and advise on the best repair or restoration strategy. Prompt action minimizes long-term damage and costs.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if water damage is significant, from an unsanitary source, or has been present for over 24-48 hours. Prompt action helps minimize damage and costs."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if water damage is significant, from an unsanitary source, or has been present for over 24-48 hours. Prompt action helps minimiz"
+}

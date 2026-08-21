@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-act-if-my-laminate-flooring-gets-wet",
+  "name": "How quickly should I act if my laminate flooring gets wet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I act if my laminate flooring gets wet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediate action is crucial. The longer water sits on or under laminate flooring, the greater the likelihood of irreversible damage and mold growth. Ideally, water extraction and drying should begin within 24-48 hours of the incident. Prompt response significantly increases the chance of salvaging portions of the flooring and prevents secondary issues like structural damage or widespread mold contamination.",
+        "@type": "Answer",
+        "description": "Act immediately, ideally within 24-48 hours, to prevent extensive damage and mold growth in wet laminate flooring."
+      }
+    }
+  ],
+  "description": "Act immediately, ideally within 24-48 hours, to prevent extensive damage and mold growth in wet laminate flooring."
+}

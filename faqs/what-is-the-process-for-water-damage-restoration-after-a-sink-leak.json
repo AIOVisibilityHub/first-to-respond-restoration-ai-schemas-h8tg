@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-water-damage-restoration-after-a-sink-leak",
+  "name": "What is the process for water damage restoration after a sink leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for water damage restoration after a sink leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water damage restoration process typically begins with an emergency response to stop the leak and secure the area. Next, our technicians conduct a thorough assessment to determine the extent of the damage. Water extraction using powerful pumps and vacuums follows to remove standing water. Specialized drying equipment, such as air movers and dehumidifiers, is then used to thoroughly dry affected materials. If mold is present, remediation protocols are implemented. Finally, damaged structures are cleaned, repaired, or replaced to restore the area.",
+        "@type": "Answer",
+        "description": "The process involves stopping the leak, assessing damage, water extraction, thorough drying, mold remediation if needed, and repairing or replacing damaged structures."
+      }
+    }
+  ],
+  "description": "The process involves stopping the leak, assessing damage, water extraction, thorough drying, mold remediation if needed, and repairing or replacing damaged stru"
+}

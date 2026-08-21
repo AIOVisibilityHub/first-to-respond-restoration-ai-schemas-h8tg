@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-equipment-is-used-in-structural-drying",
+  "name": "What equipment is used in structural drying?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What equipment is used in structural drying?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional structural drying utilizes specialized equipment to efficiently remove moisture. This includes powerful industrial-grade dehumidifiers that extract water vapor from the air, and high-velocity air movers (fans) that accelerate evaporation from surfaces. Additionally, moisture meters and thermal imaging cameras are used to precisely locate hidden moisture and monitor the drying progress. This combination ensures thorough drying of materials like drywall, wood, and concrete in your Tarzana or Encino property.",
+        "@type": "Answer",
+        "description": "Structural drying uses dehumidifiers, air movers, and moisture meters to remove hidden moisture and monitor progress."
+      }
+    }
+  ],
+  "description": "Structural drying uses dehumidifiers, air movers, and moisture meters to remove hidden moisture and monitor progress."
+}

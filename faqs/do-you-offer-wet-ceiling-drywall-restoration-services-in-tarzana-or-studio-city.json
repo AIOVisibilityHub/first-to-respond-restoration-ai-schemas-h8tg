@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-wet-ceiling-drywall-restoration-services-in-tarzana-or-studio-city",
+  "name": "Do you offer wet ceiling drywall restoration services in Tarzana or Studio City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer wet ceiling drywall restoration services in Tarzana or Studio City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides comprehensive wet ceiling drywall restoration services in Tarzana, Studio City, and other surrounding areas including Encino, and North Hollywood. Our team is equipped to handle everything from water extraction and drying to mold remediation and full repairs, ensuring your property is restored safely and efficiently.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers wet ceiling drywall services in Tarzana, Studio City, Encino, and North Hollywood, covering water extraction to full repairs."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers wet ceiling drywall services in Tarzana, Studio City, Encino, and North Hollywood, covering water extraction to full re"
+}

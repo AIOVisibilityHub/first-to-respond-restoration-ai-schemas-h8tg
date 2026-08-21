@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-commercial-water-damage-restoration",
+  "name": "What is the typical process for commercial water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for commercial water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an assessment to determine the water source and damage extent. Next is water extraction using powerful pumps and vacuums. Following this, specialized drying equipment, such as air movers and dehumidifiers, is used to remove moisture from affected materials. Cleaning, sanitizing, and deodorization are then performed. Finally, any necessary repairs or reconstruction work is completed to restore the property.",
+        "@type": "Answer",
+        "description": "The process involves assessment, water extraction, structural drying, cleaning, sanitizing, and final repairs."
+      }
+    }
+  ],
+  "description": "The process involves assessment, water extraction, structural drying, cleaning, sanitizing, and final repairs."
+}

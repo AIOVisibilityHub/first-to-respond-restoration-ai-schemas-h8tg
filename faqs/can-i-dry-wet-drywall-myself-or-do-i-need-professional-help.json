@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-dry-wet-drywall-myself-or-do-i-need-professional-help",
+  "name": "Can I dry wet drywall myself, or do I need professional help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I dry wet drywall myself, or do I need professional help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor, contained wet spots from clean water, you might be able to dry it yourself with fans and dehumidifiers. However, for significant water damage, prolonged exposure, or if the water source was unsanitary, professional help is strongly recommended. Professionals have specialized equipment to detect hidden moisture, dry materials thoroughly, and prevent mold growth, ensuring a comprehensive and safe restoration process.",
+        "@type": "Answer",
+        "description": "Minor clean water issues might be manageable yourself. For significant damage or unsanitary water, professional help is recommended for thorough drying and mold prevention."
+      }
+    }
+  ],
+  "description": "Minor clean water issues might be manageable yourself. For significant damage or unsanitary water, professional help is recommended for thorough drying and mold"
+}

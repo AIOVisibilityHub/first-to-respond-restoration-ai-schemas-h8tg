@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-hidden-water-damage-in-a-ceiling",
+  "name": "What are the signs of hidden water damage in a ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of hidden water damage in a ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond visible dripping, hidden water damage in a ceiling can manifest in several ways. Look for discoloration or water stains, such as brown or yellow rings, on the ceiling surface. You might also notice bubbling, peeling, or sagging drywall. A musty or damp odor, even without visible water, is a strong indicator of hidden moisture and potential mold growth. Soft spots or changes in the ceiling's texture can also signal underlying water damage that needs immediate attention.",
+        "@type": "Answer",
+        "description": "Signs of hidden ceiling water damage include discoloration, bubbling or sagging drywall, musty odors, and soft spots on the ceiling."
+      }
+    }
+  ],
+  "description": "Signs of hidden ceiling water damage include discoloration, bubbling or sagging drywall, musty odors, and soft spots on the ceiling."
+}

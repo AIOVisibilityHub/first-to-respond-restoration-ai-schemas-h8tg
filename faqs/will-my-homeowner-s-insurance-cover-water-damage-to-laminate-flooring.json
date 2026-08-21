@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-water-damage-to-laminate-flooring",
+  "name": "Will my homeowner's insurance cover water damage to laminate flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water damage to laminate flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental water damage, such as a burst pipe or appliance malfunction. However, damage from neglected maintenance, ongoing leaks, or floods (if not covered by a separate flood insurance policy) is typically excluded. Reviewing your specific policy or contacting your insurance provider is the best way to understand your coverage. A professional restorer can help document the damage for claims.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden water damage, but not issues from neglect or floods (unless separately insured). Check your policy for specifics."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden water damage, but not issues from neglect or floods (unless separately insured). Check your policy for specifics."
+}

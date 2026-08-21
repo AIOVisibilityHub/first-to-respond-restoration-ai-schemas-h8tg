@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-repair-or-replace-water-damaged-laminate-flooring",
+  "name": "How much does it cost to repair or replace water damaged laminate flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair or replace water damaged laminate flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost varies significantly based on the extent of the damage, the area affected, and whether repair or full replacement is needed. Minor drying and repair could be less expensive than replacing an entire room. Factors like the type of laminate, subfloor damage, and the need for mold remediation also influence the total cost. Most restoration companies provide an estimate after a thorough on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs vary widely depending on damage extent, affected area size, and whether repair or full replacement is necessary. An on-site estimate is recommended."
+      }
+    }
+  ],
+  "description": "Costs vary widely depending on damage extent, affected area size, and whether repair or full replacement is necessary. An on-site estimate is recommended."
+}

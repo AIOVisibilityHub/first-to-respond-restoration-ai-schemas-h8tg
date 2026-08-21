@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-repair-a-water-damaged-ceiling",
+  "name": "How much does it cost to repair a water-damaged ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a water-damaged ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a water-damaged ceiling varies significantly based on the size of the stain, the extent of underlying damage, the cause of the leak, and whether mold remediation is required. Minor repairs might be less costly, but extensive water damage involving structural elements or widespread mold will incur higher expenses. We provide detailed estimates after an inspection.",
+        "@type": "Answer",
+        "description": "The cost to repair a water-damaged ceiling depends on the stain size, damage extent, leak source, and mold presence. Estimates are provided after inspection."
+      }
+    }
+  ],
+  "description": "The cost to repair a water-damaged ceiling depends on the stain size, damage extent, leak source, and mold presence. Estimates are provided after inspection."
+}

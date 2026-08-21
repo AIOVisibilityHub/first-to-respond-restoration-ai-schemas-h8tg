@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-wet-drywall-and-water-damaged-drywall",
+  "name": "What is the difference between wet drywall and water-damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between wet drywall and water-damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wet drywall refers to drywall that has come into contact with water and is still damp. It may or may not show signs of significant structural compromise yet. Water-damaged drywall, however, typically implies that the drywall has sustained more extensive and often irreversible damage from prolonged exposure to water. This damage can include structural weakening, warping, swelling, crumbling, and mold growth, requiring removal and replacement rather than just drying.",
+        "@type": "Answer",
+        "description": "Wet drywall is damp but might be salvageable. Water-damaged drywall shows extensive, often irreversible harm like warping, crumbling, or mold, usually requiring replacement."
+      }
+    }
+  ],
+  "description": "Wet drywall is damp but might be salvageable. Water-damaged drywall shows extensive, often irreversible harm like warping, crumbling, or mold, usually requiring"
+}

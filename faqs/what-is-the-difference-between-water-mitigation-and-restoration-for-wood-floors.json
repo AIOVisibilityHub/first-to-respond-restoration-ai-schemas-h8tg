@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-water-mitigation-and-restoration-for-wood-floors",
+  "name": "What is the difference between water mitigation and restoration for wood floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water mitigation and restoration for wood floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water mitigation focuses on preventing further damage and stabilizing the property after a water event. For wood floors, this includes immediate water extraction, structural drying, dehumidification, and mold prevention to limit the spread of damage. Water restoration, on the other hand, involves the process of repairing or replacing the damaged wood floors and any affected subfloor or structural components to bring the property back to its pre-loss condition. Mitigation is the urgent first step, while restoration is the subsequent repair phase. Companies in areas like Northridge or Lake Balboa typically offer both services.",
+        "@type": "Answer",
+        "description": "Mitigation stops further damage and dries the area; restoration involves repairing or replacing the damaged wood floors and returning them to pre-loss condition."
+      }
+    }
+  ],
+  "description": "Mitigation stops further damage and dries the area; restoration involves repairing or replacing the damaged wood floors and returning them to pre-loss condition"
+}

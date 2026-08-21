@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-to-repair-water-damage-from-a-wall-leak",
+  "name": "What is the typical cost to repair water damage from a wall leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repair water damage from a wall leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair water damage from a wall leak varies significantly based on the source of the leak, the extent of the water intrusion, the materials damaged (e.g., drywall, insulation, flooring), and any mold remediation required. Minor repairs might cost a few hundred dollars, while extensive damage requiring structural work and mold removal can range from thousands to tens of thousands of dollars. A professional assessment is necessary to provide an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Cost varies widely, from hundreds for minor damage to thousands for extensive structural work or mold. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost varies widely, from hundreds for minor damage to thousands for extensive structural work or mold. A professional assessment provides an accurate estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-discover-water-leaking-from-an-upstairs-bathro",
+  "name": "What should I do immediately if I discover water leaking from an upstairs bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover water leaking from an upstairs bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a water leak from an upstairs bathroom, your immediate priority is to stop the water flow. Turn off the main water supply to your home, or locate and shut off the specific water supply valve to the leaking fixture if possible. Next, try to contain the water with buckets and towels to minimize spreading. Document the damage with photos or videos for insurance purposes. Contact a professional restoration company or plumber promptly to assess the damage and begin repairs.",
+        "@type": "Answer",
+        "description": "Immediately turn off the water supply, contain the leak with buckets, and document the damage. Then, contact a restoration professional."
+      }
+    }
+  ],
+  "description": "Immediately turn off the water supply, contain the leak with buckets, and document the damage. Then, contact a restoration professional."
+}

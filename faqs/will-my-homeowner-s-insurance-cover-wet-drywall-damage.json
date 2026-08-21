@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-wet-drywall-damage",
+  "name": "Will my homeowner's insurance cover wet drywall damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover wet drywall damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental water damage, such as a burst pipe or overflowing appliance. However, damage from neglected maintenance, slow leaks, or floods (unless you have separate flood insurance) is often not covered. It's crucial to review your specific policy or contact your insurance provider to understand your coverage details and potential deductibles.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance typically covers sudden water damage, but not issues from neglect or floods. Check your specific policy for details."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance typically covers sudden water damage, but not issues from neglect or floods. Check your specific policy for details."
+}

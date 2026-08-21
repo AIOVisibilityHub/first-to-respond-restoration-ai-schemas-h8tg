@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-emergency-ceiling-water-damage-services-in-tarzana",
+  "name": "Do you offer emergency ceiling water damage services in Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency ceiling water damage services in Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides emergency ceiling water damage services in Tarzana and surrounding areas. We understand that water damage can occur at any time, requiring immediate attention to prevent further deterioration and secondary issues like mold. Our team is available 24/7 to respond quickly, assess the damage, extract water, thoroughly dry affected areas, and begin the restoration process to secure your property.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers 24/7 emergency ceiling water damage services in Tarzana and surrounding communities."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers 24/7 emergency ceiling water damage services in Tarzana and surrounding communities."
+}

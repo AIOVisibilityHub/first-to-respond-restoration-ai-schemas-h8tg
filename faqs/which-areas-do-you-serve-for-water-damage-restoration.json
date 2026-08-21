@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/which-areas-do-you-serve-for-water-damage-restoration",
+  "name": "Which areas do you serve for water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas do you serve for water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides water damage restoration services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our emergency teams are equipped to respond quickly to water leak incidents and ceiling stains in these communities, offering immediate assessment and comprehensive repair solutions to protect your property.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water damage restoration, providing rapid response and comprehensive repair."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water damage restoration, providing rapid response and comprehensive repair."
+}

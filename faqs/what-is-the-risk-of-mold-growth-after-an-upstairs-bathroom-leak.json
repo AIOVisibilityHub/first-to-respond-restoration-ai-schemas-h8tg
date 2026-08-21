@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-risk-of-mold-growth-after-an-upstairs-bathroom-leak",
+  "name": "What is the risk of mold growth after an upstairs bathroom leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the risk of mold growth after an upstairs bathroom leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold can begin to grow within 24-48 hours after water damage occurs, especially in damp, dark, and poorly ventilated areas like those affected by an upstairs bathroom leak. Water seeping into ceilings, walls, and flooring creates ideal conditions for mold spores to proliferate. Untreated mold can cause structural damage to your home and may impact indoor air quality. Professional water damage restoration includes thorough drying and, if necessary, mold remediation to prevent or eliminate growth.",
+        "@type": "Answer",
+        "description": "Mold can grow within 24-48 hours after a leak, especially in damp areas like ceilings and walls. Professional restoration helps prevent and address mold growth."
+      }
+    }
+  ],
+  "description": "Mold can grow within 24-48 hours after a leak, especially in damp areas like ceilings and walls. Professional restoration helps prevent and address mold growth."
+}

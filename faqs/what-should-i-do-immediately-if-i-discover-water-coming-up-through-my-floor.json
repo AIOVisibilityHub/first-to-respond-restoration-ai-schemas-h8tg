@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-discover-water-coming-up-through-my-floor",
+  "name": "What should I do immediately if I discover water coming up through my floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover water coming up through my floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, ensure your safety by turning off the main water supply to your home and, if safe, cutting power to affected areas to prevent electrical hazards. Then, contact a professional restoration company immediately. Avoid walking through standing water unnecessarily. Do not attempt to use a wet/dry vacuum or other equipment near live electricity. Quick action can significantly reduce damage and mold growth.",
+        "@type": "Answer",
+        "description": "Turn off your main water supply and power to affected areas, then call a professional restoration company immediately."
+      }
+    }
+  ],
+  "description": "Turn off your main water supply and power to affected areas, then call a professional restoration company immediately."
+}

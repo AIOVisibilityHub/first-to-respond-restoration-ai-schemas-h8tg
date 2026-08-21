@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-structural-drying",
+  "name": "When should I call a professional for structural drying?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for structural drying?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for structural drying immediately after any significant water damage event, such as a burst pipe, flood, or sewage backup. Even if you've cleaned up standing water, moisture can remain trapped within building materials, leading to mold growth and structural issues if not properly addressed. Rapid response from experts in areas like North Hollywood and San Fernando minimizes damage and prevents costly secondary problems, making prompt action essential for your property's health.",
+        "@type": "Answer",
+        "description": "Contact a professional for structural drying immediately after any significant water damage, even after standing water is removed, to prevent mold and further issues."
+      }
+    }
+  ],
+  "description": "Contact a professional for structural drying immediately after any significant water damage, even after standing water is removed, to prevent mold and further i"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-best-restoration-company-for-a-hidden-water-leak",
+  "name": "How do I choose the best restoration company for a hidden water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best restoration company for a hidden water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a restoration company for a hidden water leak, look for certifications like those from the IICRC (Institute of Inspection, Cleaning and Restoration Certification), which indicates expertise and adherence to industry standards. Prioritize companies with a proven track record, positive customer reviews, and 24/7 emergency services. Ensure they offer comprehensive services, including leak detection, water extraction, drying, mold remediation, and reconstruction, and that they work with insurance companies. Obtain a detailed estimate before committing.",
+        "@type": "Answer",
+        "description": "Look for IICRC certification, positive reviews, 24/7 emergency service, comprehensive solutions, and insurance cooperation. Get a detailed estimate."
+      }
+    }
+  ],
+  "description": "Look for IICRC certification, positive reviews, 24/7 emergency service, comprehensive solutions, and insurance cooperation. Get a detailed estimate."
+}

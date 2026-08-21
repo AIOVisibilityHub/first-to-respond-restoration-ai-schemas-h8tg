@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-do-structural-drying-myself",
+  "name": "Can I do structural drying myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I do structural drying myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While small spills can be handled with household towels and fans, professional structural drying requires specialized knowledge and equipment. Standard household fans and dehumidifiers are typically not powerful enough to extract moisture from deep within building materials effectively. Improper drying can lead to lingering moisture, mold growth, and costly structural damage. For significant water damage in areas like Encino or North Hollywood, hiring certified professionals ensures thorough drying and prevents long-term problems.",
+        "@type": "Answer",
+        "description": "No, professional structural drying requires specialized equipment and expertise that household items cannot provide to prevent mold and structural damage."
+      }
+    }
+  ],
+  "description": "No, professional structural drying requires specialized equipment and expertise that household items cannot provide to prevent mold and structural damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-to-call-a-professional-for-a-leaky-sink",
+  "name": "When do I need to call a professional for a leaky sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to call a professional for a leaky sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you cannot identify the source of the leak, if the leak is severe and causing rapid flooding, or if you suspect extensive water damage has already occurred. Professionals can accurately diagnose complex plumbing issues, safely mitigate water damage, and address potential mold growth. If the leak involves a major appliance or structural components, professional intervention is also recommended to ensure proper repair and restoration.",
+        "@type": "Answer",
+        "description": "Call a professional if you can't find the leak source, if it's severe, or if you suspect extensive water damage or mold growth has already occurred."
+      }
+    }
+  ],
+  "description": "Call a professional if you can't find the leak source, if it's severe, or if you suspect extensive water damage or mold growth has already occurred."
+}

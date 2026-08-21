@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-wood-floors-are-most-susceptible-to-water-damage",
+  "name": "What kind of wood floors are most susceptible to water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of wood floors are most susceptible to water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "All wood floors are susceptible to water damage to some degree, but certain types are more vulnerable. Engineered wood floors with a thin veneer may delaminate or swell if the core gets wet. Solid hardwood can cup, warp, or buckle with significant moisture. Softer woods are generally more porous and can absorb water more quickly than denser hardwoods. Laminate flooring, though often advertised as water-resistant, is highly susceptible to swelling and irreparable damage once water penetrates the core. Regardless of the type, quick response is key. Our experts in Studio City and Tarzana handle all wood floor types.",
+        "@type": "Answer",
+        "description": "Engineered wood, solid hardwood, and laminate floors are all susceptible. Softer woods and laminates are particularly vulnerable to swelling and damage."
+      }
+    }
+  ],
+  "description": "Engineered wood, solid hardwood, and laminate floors are all susceptible. Softer woods and laminates are particularly vulnerable to swelling and damage."
+}

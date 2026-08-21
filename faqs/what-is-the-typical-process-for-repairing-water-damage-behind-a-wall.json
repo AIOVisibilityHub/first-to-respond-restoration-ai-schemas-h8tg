@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-repairing-water-damage-behind-a-wall",
+  "name": "What is the typical process for repairing water damage behind a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing water damage behind a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process for water damage behind a wall usually starts with a thorough inspection to locate the leak source and assess the extent of damage. After stopping the leak, affected materials like drywall, insulation, and flooring are removed. Industrial-grade drying equipment, such as air movers and dehumidifiers, is then used to thoroughly dry the area. Once dry, mold remediation is performed if necessary, followed by structural repairs and reconstruction to restore the affected area.",
+        "@type": "Answer",
+        "description": "The process involves leak detection, water extraction, removal of damaged materials, thorough drying, mold remediation, and finally, repair and reconstruction."
+      }
+    }
+  ],
+  "description": "The process involves leak detection, water extraction, removal of damaged materials, thorough drying, mold remediation, and finally, repair and reconstruction."
+}

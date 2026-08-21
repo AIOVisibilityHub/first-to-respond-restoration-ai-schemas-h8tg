@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-good-structural-drying-company-in-my-area",
+  "name": "How do I choose a good structural drying company in my area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a good structural drying company in my area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a structural drying company in areas like Encino, North Hollywood, or San Fernando, look for one that is IICRC certified, which indicates they meet high industry standards for water damage restoration. Verify they have experience with similar types of water damage and offer 24/7 emergency services. Check customer reviews and ask for references. A reputable company will provide a clear estimate, explain their process, and use professional-grade equipment to ensure thorough and effective drying.",
+        "@type": "Answer",
+        "description": "Choose an IICRC-certified company with experience, 24/7 service, good reviews, and transparent pricing for structural drying in your area."
+      }
+    }
+  ],
+  "description": "Choose an IICRC-certified company with experience, 24/7 service, good reviews, and transparent pricing for structural drying in your area."
+}

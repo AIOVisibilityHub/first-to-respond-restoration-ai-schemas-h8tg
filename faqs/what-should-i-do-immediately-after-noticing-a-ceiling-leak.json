@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-noticing-a-ceiling-leak",
+  "name": "What should I do immediately after noticing a ceiling leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after noticing a ceiling leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering a ceiling leak, your immediate actions can minimize damage. First, contain the water by placing buckets or containers under the leak. If the leak is severe, move furniture and valuables away from the affected area. If safe to do so, try to identify the source of the leak, such as a running toilet or overflowing tub, and shut off the water supply to that fixture or the main water supply to your home. Avoid touching any electrical fixtures near the leak. Contacting a professional restoration company promptly is recommended to assess the damage and begin mitigation.",
+        "@type": "Answer",
+        "description": "Immediately place containers under the leak, move valuables, and if safe, shut off the water source. Contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately place containers under the leak, move valuables, and if safe, shut off the water source. Contact a professional restoration company."
+}

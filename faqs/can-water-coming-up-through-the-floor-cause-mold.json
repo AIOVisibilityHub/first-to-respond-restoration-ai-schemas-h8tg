@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-water-coming-up-through-the-floor-cause-mold",
+  "name": "Can water coming up through the floor cause mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water coming up through the floor cause mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, water coming up through the floor creates an ideal environment for mold growth, especially if not addressed quickly and thoroughly. Mold can begin to develop within 24 to 48 hours of water exposure. It can spread quickly and pose health risks. Professional water damage restoration includes thorough drying, dehumidification, and often antimicrobial treatments to prevent mold and ensure a safe environment.",
+        "@type": "Answer",
+        "description": "Yes, water coming through the floor can cause mold to grow within 24-48 hours if not properly dried, posing health risks."
+      }
+    }
+  ],
+  "description": "Yes, water coming through the floor can cause mold to grow within 24-48 hours if not properly dried, posing health risks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-find-the-source-of-water-coming-up-through-a-concrete-slab",
+  "name": "How do you find the source of water coming up through a concrete slab?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you find the source of water coming up through a concrete slab?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Locating the source of water under a concrete slab typically involves specialized tools and techniques. We use thermal imaging cameras, acoustic leak detection equipment, and moisture meters to pinpoint where water is entering or originating. This non-invasive approach helps identify burst pipes, compromised sewer lines, or issues with the foundation without unnecessary demolition, ensuring precise and efficient repairs.",
+        "@type": "Answer",
+        "description": "We use thermal imaging, acoustic leak detection, and moisture meters to non-invasively find the source of water under a concrete slab."
+      }
+    }
+  ],
+  "description": "We use thermal imaging, acoustic leak detection, and moisture meters to non-invasively find the source of water under a concrete slab."
+}

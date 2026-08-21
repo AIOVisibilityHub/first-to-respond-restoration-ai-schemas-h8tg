@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-fix-a-leaky-sink",
+  "name": "How much does it cost to fix a leaky sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a leaky sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a leaky sink varies widely depending on the cause and extent of the damage. A simple repair, like tightening a loose connection or replacing a basic P-trap, might be less costly. However, if the leak has caused significant water damage to the cabinet, flooring, or drywall, restoration costs will be higher. These costs can include drying, mold remediation, and structural repairs. We offer inspections to provide an accurate estimate based on the specific situation.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the leak's cause and the extent of water damage. Simple fixes are less expensive than repairs involving cabinet or floor restoration."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the leak's cause and the extent of water damage. Simple fixes are less expensive than repairs involving cabinet or floor restoration."
+}

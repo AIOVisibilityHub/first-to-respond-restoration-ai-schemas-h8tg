@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-water-damage-from-an-upstairs-bathroom-leak",
+  "name": "Will my homeowner's insurance cover water damage from an upstairs bathroom leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water damage from an upstairs bathroom leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies typically cover sudden and accidental water damage, such as a burst pipe or an overflowing toilet. However, damage resulting from neglect, lack of maintenance, or prolonged leaks that could have been prevented might not be covered. It's crucial to review your specific policy and contact your insurance provider immediately after discovering the leak. They will advise on coverage, deductible, and the claims process. Documenting the damage thoroughly will assist your claim.",
+        "@type": "Answer",
+        "description": "Insurance usually covers sudden, accidental water damage, but not damage from neglect or prolonged leaks. Check your policy and contact your provider immediately for claim guidance."
+      }
+    }
+  ],
+  "description": "Insurance usually covers sudden, accidental water damage, but not damage from neglect or prolonged leaks. Check your policy and contact your provider immediatel"
+}

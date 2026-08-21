@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-water-damage-and-flood-damage-restoration",
+  "name": "What's the difference between water damage and flood damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between water damage and flood damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, 'water damage' generally refers to issues from internal sources like leaks or burst pipes, which are usually covered by standard homeowner's insurance. 'Flood damage' specifically denotes damage from external sources, such as overflowing rivers, heavy rainfall, or storm surges, and typically requires a separate flood insurance policy. The restoration processes are similar but may differ in terms of contamination levels and insurance claim procedures.",
+        "@type": "Answer",
+        "description": "Water damage is internal (e.g., leaks), while flood damage is external (e.g., river overflow); insurance coverage also differs."
+      }
+    }
+  ],
+  "description": "Water damage is internal (e.g., leaks), while flood damage is external (e.g., river overflow); insurance coverage also differs."
+}

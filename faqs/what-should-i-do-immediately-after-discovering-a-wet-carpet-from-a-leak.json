@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-wet-carpet-from-a-leak",
+  "name": "What should I do immediately after discovering a wet carpet from a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a wet carpet from a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering a wet carpet due to a leak, the first step is to identify and stop the water source if possible. Next, ensure the area is safe by turning off electricity if water is near outlets or appliances. Move furniture off the wet carpet to prevent staining and further damage. Blot up as much standing water as you can using towels or a wet/dry vacuum. Increasing air circulation with fans or opening windows can also help, but contact a professional water damage restoration company promptly. Acting quickly reduces the risk of mold growth and permanent damage to your flooring and subfloor.",
+        "@type": "Answer",
+        "description": "Immediately stop the water source, ensure safety by turning off electricity if needed, remove furniture, and blot excess water. Contact a professional restoration company quickly to prevent further damage and mold."
+      }
+    }
+  ],
+  "description": "Immediately stop the water source, ensure safety by turning off electricity if needed, remove furniture, and blot excess water. Contact a professional restorati"
+}

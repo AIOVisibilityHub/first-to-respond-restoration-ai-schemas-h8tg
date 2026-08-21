@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-does-mold-start-to-grow-on-water-damaged-wood-floors",
+  "name": "How quickly does mold start to grow on water damaged wood floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly does mold start to grow on water damaged wood floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold can begin to grow on water damaged wood floors within 24 to 48 hours if moisture is not properly removed and dried. Dark, damp, and warm conditions create an ideal environment for mold spores to activate and spread. Once mold takes hold, it can cause further deterioration of the wood and potentially impact indoor air quality. This emphasizes the importance of rapid response and thorough drying by restoration specialists in areas like Van Nuys or Woodland Hills to mitigate mold growth risks.",
+        "@type": "Answer",
+        "description": "Mold can start growing on water damaged wood floors within 24 to 48 hours if moisture is not quickly and properly removed."
+      }
+    }
+  ],
+  "description": "Mold can start growing on water damaged wood floors within 24 to 48 hours if moisture is not quickly and properly removed."
+}

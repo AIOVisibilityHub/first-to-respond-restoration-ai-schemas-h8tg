@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-water-damage-can-a-sink-leak-cause",
+  "name": "What kind of water damage can a sink leak cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of water damage can a sink leak cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sink leak can cause various types of water damage, depending on its duration and severity. This includes saturation and swelling of wooden cabinets and flooring, delamination of particleboard, and degradation of drywall. It can also lead to staining and discoloration of surfaces. More critically, prolonged moisture promotes mold and mildew growth, which can spread behind walls and under floors. Electrical hazards may also arise if water reaches outlets or wiring.",
+        "@type": "Answer",
+        "description": "Sink leaks can cause cabinet and floor swelling, drywall damage, staining, mold growth, and potential electrical hazards."
+      }
+    }
+  ],
+  "description": "Sink leaks can cause cabinet and floor swelling, drywall damage, staining, mold growth, and potential electrical hazards."
+}

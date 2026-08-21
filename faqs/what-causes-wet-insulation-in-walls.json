@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-wet-insulation-in-walls",
+  "name": "What causes wet insulation in walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes wet insulation in walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wet insulation in walls is typically caused by water intrusion from various sources. Common culprits include plumbing leaks, roof leaks, foundation cracks allowing groundwater seepage, condensation due to poor ventilation or humidity, and exterior wall damage that permits rain to enter. Issues like overflowing gutters or improperly graded landscapes can also direct water towards the foundation and into wall cavities, leading to saturated insulation. Identifying and addressing the source of the water is crucial for effective remediation.",
+        "@type": "Answer",
+        "description": "Wet insulation usually results from plumbing leaks, roof leaks, foundation issues, or condensation from humidity and poor ventilation."
+      }
+    }
+  ],
+  "description": "Wet insulation usually results from plumbing leaks, roof leaks, foundation issues, or condensation from humidity and poor ventilation."
+}

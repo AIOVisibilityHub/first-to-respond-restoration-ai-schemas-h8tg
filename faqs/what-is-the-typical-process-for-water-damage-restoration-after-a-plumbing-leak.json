@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-water-damage-restoration-after-a-plumbing-leak",
+  "name": "What is the typical process for water damage restoration after a plumbing leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water damage restoration after a plumbing leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water damage restoration process usually begins with an inspection and assessment of the damage. This is followed by water extraction, using powerful pumps and vacuums to remove standing water. Specialized drying equipment, such as air movers and dehumidifiers, is then deployed to dry out the affected areas. Throughout the process, moisture levels are monitored. Cleaning, sanitizing, and deodorizing are performed as needed, and finally, any necessary repairs or reconstruction are completed to restore the property to its pre-damage condition.",
+        "@type": "Answer",
+        "description": "The restoration process involves inspection, water extraction, drying with specialized equipment, monitoring moisture, and then cleaning, sanitizing, and repairs."
+      }
+    }
+  ],
+  "description": "The restoration process involves inspection, water extraction, drying with specialized equipment, monitoring moisture, and then cleaning, sanitizing, and repair"
+}

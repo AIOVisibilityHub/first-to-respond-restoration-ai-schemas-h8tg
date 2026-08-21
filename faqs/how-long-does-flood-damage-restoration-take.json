@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-flood-damage-restoration-take",
+  "name": "How long does flood damage restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does flood damage restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of flood damage restoration varies significantly depending on the extent of the damage, the type of water involved, and the size of the affected area. Minor incidents might take a few days for drying and cleaning, while severe flooding affecting structural components could extend to several weeks for complete restoration and rebuilding. We provide a detailed timeline after our initial assessment.",
+        "@type": "Answer",
+        "description": "Restoration time varies based on damage severity, water type, and affected area, ranging from a few days to several weeks."
+      }
+    }
+  ],
+  "description": "Restoration time varies based on damage severity, water type, and affected area, ranging from a few days to several weeks."
+}

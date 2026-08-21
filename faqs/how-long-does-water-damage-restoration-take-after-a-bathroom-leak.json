@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-water-damage-restoration-take-after-a-bathroom-leak",
+  "name": "How long does water damage restoration take after a bathroom leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damage restoration take after a bathroom leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage restoration depends on the severity and scope of the leak. Initial assessment and water extraction can often be completed within hours. Drying, which involves specialized equipment, typically takes 3-5 days but can extend longer for severe saturation. Repair work, such as replacing drywall, flooring, or repainting, will add more time. A professional restoration company can provide a more precise timeline after assessing your specific situation, aiming to restore your property efficiently and thoroughly.",
+        "@type": "Answer",
+        "description": "Restoration time varies, with assessment and extraction taking hours, and drying typically 3-5 days. Repair work adds additional time, depending on damage severity."
+      }
+    }
+  ],
+  "description": "Restoration time varies, with assessment and extraction taking hours, and drying typically 3-5 days. Repair work adds additional time, depending on damage sever"
+}

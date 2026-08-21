@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-of-ceiling-water-damage",
+  "name": "What are common signs of ceiling water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of ceiling water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of ceiling water damage include discolored spots or stains, often yellow or brown. You might also notice bubbling, peeling, or flaking paint on the ceiling. Another indicator is a sagging or bowing ceiling, which suggests structural compromise. A musty or damp odor, even without visible signs, can also point to hidden moisture issues. Early detection helps prevent more extensive damage and costly repairs.",
+        "@type": "Answer",
+        "description": "Common signs of ceiling water damage include discolored stains, peeling paint, sagging, or musty odors."
+      }
+    }
+  ],
+  "description": "Common signs of ceiling water damage include discolored stains, peeling paint, sagging, or musty odors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-discover-my-floor-is-wet-due-to-a-plumbing-lea",
+  "name": "What should I do immediately if I discover my floor is wet due to a plumbing leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover my floor is wet due to a plumbing leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you find your floor wet from a plumbing leak, first prioritize safety. Turn off the main water supply to prevent further damage. If the leak is near electrical outlets or appliances, turn off the power to that area. Move any furniture, rugs, or personal items away from the wet area to prevent secondary damage and allow for better access. Contact a professional restoration company promptly to assess the extent of the water damage and begin the drying process to prevent mold growth.",
+        "@type": "Answer",
+        "description": "Immediately turn off the water supply and any affected electrical power. Move items away from the wet area, then contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately turn off the water supply and any affected electrical power. Move items away from the wet area, then contact a professional restoration company."
+}

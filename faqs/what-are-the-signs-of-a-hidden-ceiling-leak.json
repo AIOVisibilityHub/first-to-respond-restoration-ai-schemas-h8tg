@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-a-hidden-ceiling-leak",
+  "name": "What are the signs of a hidden ceiling leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of a hidden ceiling leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden ceiling leaks can be subtle but often leave tell-tale signs. Look for discoloration or water stains on your ceiling, which might appear as yellowish or brownish rings or patches. Peeling paint or bubbling drywall on the ceiling can indicate moisture intrusion behind the surface. A musty or damp odor, even without visible water, is a strong indicator of hidden moisture and potential mold growth. Additionally, if the ceiling feels soft or spongy to the touch in certain areas, it suggests water saturation and structural weakening. Address these signs promptly to prevent further damage.",
+        "@type": "Answer",
+        "description": "Signs of a hidden leak include ceiling discoloration, peeling paint, bubbling drywall, musty odors, or soft/spongy ceiling spots."
+      }
+    }
+  ],
+  "description": "Signs of a hidden leak include ceiling discoloration, peeling paint, bubbling drywall, musty odors, or soft/spongy ceiling spots."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-water-damaged-drywall",
+  "name": "What are the common signs of water damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of water damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damaged drywall often presents with visual cues like discoloration, swelling, or bubbling paint. You might also notice a soft, spongy texture when pressing on the wall. A musty odor, indicating mold growth, is another strong indicator. These signs typically appear when water has penetrated the drywall, whether from a leaky pipe, roof issue, or flood, and early detection is key to preventing further structural damage and mold spread.",
+        "@type": "Answer",
+        "description": "Common signs include discoloration, swelling, bubbling paint, a soft texture, or a musty odor."
+      }
+    }
+  ],
+  "description": "Common signs include discoloration, swelling, bubbling paint, a soft texture, or a musty odor."
+}

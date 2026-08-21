@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-remove-the-carpet-padding-if-my-carpet-gets-wet",
+  "name": "Do I need to remove the carpet padding if my carpet gets wet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove the carpet padding if my carpet gets wet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, if your carpet is significantly wet, the padding beneath it will also be saturated. Carpet padding is very absorbent and holds moisture, making it a prime environment for mold growth if not dried properly and quickly. For extensive water damage, especially from contaminated sources, removing and replacing the padding is often recommended or necessary to ensure complete drying and prevent future problems. Professionals can assess whether the padding can be salvaged.",
+        "@type": "Answer",
+        "description": "Yes, usually. Saturated carpet padding holds moisture and can lead to mold. For significant water damage, removing and replacing it is often necessary."
+      }
+    }
+  ],
+  "description": "Yes, usually. Saturated carpet padding holds moisture and can lead to mold. For significant water damage, removing and replacing it is often necessary."
+}

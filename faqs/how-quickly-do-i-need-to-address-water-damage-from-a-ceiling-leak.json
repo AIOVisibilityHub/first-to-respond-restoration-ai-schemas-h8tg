@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-water-damage-from-a-ceiling-leak",
+  "name": "How quickly do I need to address water damage from a ceiling leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address water damage from a ceiling leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage from a ceiling leak should be addressed as quickly as possible, ideally within 24-48 hours. Within this timeframe, materials are more likely to be salvaged and mold growth can often be prevented. Delaying action significantly increases the risk of extensive structural damage, wood rot, electrical hazards, and pervasive mold issues, leading to more complex and costly repairs.",
+        "@type": "Answer",
+        "description": "Address water damage within 24-48 hours to prevent mold growth, structural damage, and increased repair costs."
+      }
+    }
+  ],
+  "description": "Address water damage within 24-48 hours to prevent mold growth, structural damage, and increased repair costs."
+}

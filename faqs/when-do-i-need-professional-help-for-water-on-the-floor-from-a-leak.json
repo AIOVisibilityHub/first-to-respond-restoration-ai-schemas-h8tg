@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-help-for-water-on-the-floor-from-a-leak",
+  "name": "When do I need professional help for water on the floor from a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional help for water on the floor from a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional help is needed when the water covers a large area, the source of the leak is unknown, the water has been present for more than 24-48 hours, or if you suspect hidden moisture or structural damage. Extensive water intrusion can lead to mold growth, compromise building materials, and create health hazards. A professional restoration company has specialized equipment to detect hidden moisture, dry affected areas thoroughly, and prevent secondary damage that DIY methods often miss. Early intervention minimizes long-term costs and damage.",
+        "@type": "Answer",
+        "description": "Seek professional help if the area is large, the source is unknown, water has been present over 24-48 hours, or if you suspect hidden damage or mold."
+      }
+    }
+  ],
+  "description": "Seek professional help if the area is large, the source is unknown, water has been present over 24-48 hours, or if you suspect hidden damage or mold."
+}

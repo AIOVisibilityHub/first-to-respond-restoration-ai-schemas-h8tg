@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-water-damage-from-a-floor-leak",
+  "name": "Will my homeowner's insurance cover water damage from a floor leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water damage from a floor leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, such as a burst pipe or an appliance malfunction. However, damage caused by neglected maintenance, pre-existing conditions, or flooding from external sources (like rivers overflowing) is generally not covered. It's crucial to review your specific policy details to understand your coverage. After discovering a leak, documenting the damage and contacting your insurance provider promptly is essential for filing a claim. A professional restoration company can often assist with the documentation process.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden, accidental water damage but not damage from neglect or external floods. Check your policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden, accidental water damage but not damage from neglect or external floods. Check your policy."
+}

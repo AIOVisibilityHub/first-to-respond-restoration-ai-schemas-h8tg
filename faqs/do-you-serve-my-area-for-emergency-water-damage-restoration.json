@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-serve-my-area-for-emergency-water-damage-restoration",
+  "name": "Do you serve my area for emergency water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you serve my area for emergency water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides emergency water damage restoration services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. We understand the urgency of water damage and are prepared to respond quickly to these communities to mitigate damage and begin the restoration process immediately. Please contact us to confirm service availability for your specific address within these areas.",
+        "@type": "Answer",
+        "description": "Yes, we serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for emergency water damage restoration. We respond quickly to these communities."
+      }
+    }
+  ],
+  "description": "Yes, we serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for emergency water damage restoration. We respond quickly to these communities."
+}

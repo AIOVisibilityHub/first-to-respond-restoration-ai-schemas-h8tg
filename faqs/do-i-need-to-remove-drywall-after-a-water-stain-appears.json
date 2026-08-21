@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-remove-drywall-after-a-water-stain-appears",
+  "name": "Do I need to remove drywall after a water stain appears?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove drywall after a water stain appears?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether drywall needs to be removed depends on the extent of water saturation and potential mold growth. If the drywall is extensively wet, crumbling, or has visible mold, removal is typically necessary to ensure proper drying and prevent further issues. Minor, superficial dampness might only require drying and treatment. A professional assessment will determine the best course of action.",
+        "@type": "Answer",
+        "description": "Drywall removal depends on saturation and mold. If extensively wet, crumbling, or molded, removal is often necessary. Professionals assess the best action."
+      }
+    }
+  ],
+  "description": "Drywall removal depends on saturation and mold. If extensively wet, crumbling, or molded, removal is often necessary. Professionals assess the best action."
+}

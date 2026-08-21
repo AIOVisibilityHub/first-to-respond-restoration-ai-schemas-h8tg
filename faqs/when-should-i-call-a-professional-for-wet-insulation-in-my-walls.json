@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-wet-insulation-in-my-walls",
+  "name": "When should I call a professional for wet insulation in my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for wet insulation in my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company immediately if you discover wet insulation in your walls, especially if the source of water is unknown, the area is large, or you suspect mold growth. Prompt action is crucial to prevent further damage, mitigate health risks, and reduce overall restoration costs. Professionals can quickly identify the source of the moisture, safely remove compromised materials, thoroughly dry the affected areas, and perform necessary remediation to protect your property and health.",
+        "@type": "Answer",
+        "description": "Call a professional immediately for wet insulation if the water source is unknown, damage is extensive, or you suspect mold, to prevent further issues."
+      }
+    }
+  ],
+  "description": "Call a professional immediately for wet insulation if the water source is unknown, damage is extensive, or you suspect mold, to prevent further issues."
+}

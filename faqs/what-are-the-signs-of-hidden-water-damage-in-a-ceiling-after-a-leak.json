@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-hidden-water-damage-in-a-ceiling-after-a-leak",
+  "name": "What are the signs of hidden water damage in a ceiling after a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of hidden water damage in a ceiling after a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even if the immediate area seems dry, hidden water damage can manifest as discolored or sagging drywall, peeling paint, or a musty odor indicating mold growth. You might also notice bubbling or cracking paint, or soft spots when gently pressing on the ceiling. These signs suggest moisture is still present and requires professional assessment to prevent further issues.",
+        "@type": "Answer",
+        "description": "Signs include discolored or sagging drywall, peeling paint, musty odors, and soft spots on the ceiling."
+      }
+    }
+  ],
+  "description": "Signs include discolored or sagging drywall, peeling paint, musty odors, and soft spots on the ceiling."
+}

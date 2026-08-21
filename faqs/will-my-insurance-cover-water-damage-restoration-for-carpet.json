@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-water-damage-restoration-for-carpet",
+  "name": "Will my insurance cover water damage restoration for carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover water damage restoration for carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental water damage, such as a burst pipe or an appliance malfunction. However, damage caused by neglected maintenance, floods (unless you have separate flood insurance), or sewer backups may have specific exclusions or require additional riders. It's essential to review your specific policy or contact your insurance provider directly to understand your coverage for water damage restoration. Professional restoration companies can often assist with the insurance claim process.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers sudden water damage, but exclusions exist for neglect or floods. Check your policy or contact your provider for specifics."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers sudden water damage, but exclusions exist for neglect or floods. Check your policy or contact your provider for specifics."
+}

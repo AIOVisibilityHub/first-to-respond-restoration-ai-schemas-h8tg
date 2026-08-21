@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-ceiling-water-damage",
+  "name": "Does homeowner's insurance cover ceiling water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover ceiling water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers ceiling water damage if the cause is sudden and accidental, such as a burst pipe or a sudden roof leak. However, damage resulting from negligence or lack of maintenance, like a long-standing leak that you failed to address, is generally not covered. It's important to review your specific policy details and contact your insurance provider promptly to understand your coverage and initiate a claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden, accidental ceiling water damage but often excludes damage due to negligence or poor maintenance."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden, accidental ceiling water damage but often excludes damage due to negligence or poor maintenance."
+}

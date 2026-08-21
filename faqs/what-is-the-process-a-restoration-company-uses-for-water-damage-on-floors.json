@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-a-restoration-company-uses-for-water-damage-on-floors",
+  "name": "What is the process a restoration company uses for water damage on floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process a restoration company uses for water damage on floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional restoration company follows a structured process for water damage. First, they assess the extent of the damage, identify the water source, and categorize the water (e.g., clean, gray, black). Next, they extract standing water using powerful pumps and vacuums. Specialized drying equipment, including industrial air movers and dehumidifiers, is then strategically placed to dry the affected areas thoroughly, including hidden moisture in subfloors and walls. Monitoring equipment tracks moisture levels until everything is completely dry. Finally, they clean, sanitize, and restore or repair damaged materials.",
+        "@type": "Answer",
+        "description": "Restoration involves assessment, water extraction, professional drying with specialized equipment, moisture monitoring, and final cleaning and restoration."
+      }
+    }
+  ],
+  "description": "Restoration involves assessment, water extraction, professional drying with specialized equipment, moisture monitoring, and final cleaning and restoration."
+}

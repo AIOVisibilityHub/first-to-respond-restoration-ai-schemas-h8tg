@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-water-to-come-up-through-the-floor",
+  "name": "What causes water to come up through the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water to come up through the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water coming up through your floor can be caused by several issues, including a burst pipe underneath the slab, a compromised foundation drain, or a high water table pushing moisture up through cracks in the concrete. Sewer line backups or heavy rain leading to saturated ground can also contribute. Identifying the exact cause requires professional assessment to ensure the correct repair and restoration approach.",
+        "@type": "Answer",
+        "description": "Common causes include burst pipes under the slab, compromised foundation drains, high water tables, or sewer line backups."
+      }
+    }
+  ],
+  "description": "Common causes include burst pipes under the slab, compromised foundation drains, high water tables, or sewer line backups."
+}

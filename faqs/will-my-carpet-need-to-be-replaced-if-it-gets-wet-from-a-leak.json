@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-carpet-need-to-be-replaced-if-it-gets-wet-from-a-leak",
+  "name": "Will my carpet need to be replaced if it gets wet from a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my carpet need to be replaced if it gets wet from a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether your carpet needs replacement depends on several factors, including the extent of water damage, the type of water source, and the duration of exposure. If the water is clean and extracted quickly, and professional drying methods are used, the carpet and padding can often be salvaged. However, if the water is from a contaminated source (like sewage), if mold has begun to grow, or if the carpet has delaminated or sustained structural damage, replacement may be necessary. A restoration specialist can assess the damage and advise on the best course of action.",
+        "@type": "Answer",
+        "description": "It depends on the extent of damage, water source, and exposure time. Clean water and quick professional drying often allow salvage. Contaminated water, mold, or structural damage usually necessitates replacement."
+      }
+    }
+  ],
+  "description": "It depends on the extent of damage, water source, and exposure time. Clean water and quick professional drying often allow salvage. Contaminated water, mold, or"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-water-damage-restoration-from-an-upstairs-bathroom",
+  "name": "What is the typical cost for water damage restoration from an upstairs bathroom leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for water damage restoration from an upstairs bathroom leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damage restoration varies significantly based on the extent of the damage, the type of water (clean, gray, or black), and the size of the affected area. Factors include demolition, drying equipment rental, mold remediation if present, and structural repairs. A professional restoration company will conduct an assessment to provide an accurate estimate. Insurance coverage often plays a role, so contacting your provider early is beneficial. It's important to get a detailed quote to understand all involved expenses.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on damage extent, water type, and affected area size, including demolition, drying, and potential mold remediation. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on damage extent, water type, and affected area size, including demolition, drying, and potential mold remediation. A professional asses"
+}

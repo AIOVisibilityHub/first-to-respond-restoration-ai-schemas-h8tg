@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-flood-damage-restoration-company",
+  "name": "How do I choose the right flood damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right flood damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a flood damage restoration company, look for one that is licensed, insured, and certified by industry organizations like the IICRC. Prioritize companies with a proven track record, positive customer reviews, and local experience in your area, such as North Hollywood or Studio City. A reputable company will offer 24/7 emergency services, provide clear communication, and assist with the insurance claims process, ensuring a thorough and efficient restoration.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, IICRC-certified company with local experience, good reviews, 24/7 service, and insurance claim assistance."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, IICRC-certified company with local experience, good reviews, 24/7 service, and insurance claim assistance."
+}

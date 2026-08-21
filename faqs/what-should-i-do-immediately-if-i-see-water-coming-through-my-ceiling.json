@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-see-water-coming-through-my-ceiling",
+  "name": "What should I do immediately if I see water coming through my ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I see water coming through my ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, ensure safety by turning off electricity in the affected area if possible, especially if water is near light fixtures. Contain the water by placing buckets or towels to minimize spread. If safe to do so, try to identify the source and temporarily stop it, such as turning off the main water supply if it's a plumbing leak. Then, contact a professional restoration company immediately to assess the damage and begin mitigation.",
+        "@type": "Answer",
+        "description": "Turn off electricity, contain the water with buckets, and contact a professional restoration company immediately."
+      }
+    }
+  ],
+  "description": "Turn off electricity, contain the water with buckets, and contact a professional restoration company immediately."
+}

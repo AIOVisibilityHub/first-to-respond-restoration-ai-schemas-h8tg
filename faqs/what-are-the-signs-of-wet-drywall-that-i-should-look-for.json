@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-wet-drywall-that-i-should-look-for",
+  "name": "What are the signs of wet drywall that I should look for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of wet drywall that I should look for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of wet drywall can include visible water stains or discoloration, a musty odor indicating mold or mildew, bulging or sagging in the drywall panels, softening or crumbling texture, and paint bubbling or peeling. In some cases, you might also hear dripping sounds within walls or notice a sudden increase in your water bill without an obvious reason. Always investigate these signs promptly.",
+        "@type": "Answer",
+        "description": "Look for water stains, musty odors, bulging or sagging, soft texture, and bubbling paint. These are common indicators of wet drywall."
+      }
+    }
+  ],
+  "description": "Look for water stains, musty odors, bulging or sagging, soft texture, and bubbling paint. These are common indicators of wet drywall."
+}

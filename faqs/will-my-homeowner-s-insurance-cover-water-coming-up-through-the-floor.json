@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-water-coming-up-through-the-floor",
+  "name": "Will my homeowner's insurance cover water coming up through the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water coming up through the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, such as a burst pipe under the slab. However, it usually does not cover damage caused by gradual leaks, neglected maintenance, or groundwater intrusion (like a high water table or floodwater). Reviewing your specific policy or speaking with your insurance provider is essential to understand your coverage. We can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Coverage depends on the cause; sudden incidents like burst pipes are often covered, but gradual leaks or ground water may not be."
+      }
+    }
+  ],
+  "description": "Coverage depends on the cause; sudden incidents like burst pipes are often covered, but gradual leaks or ground water may not be."
+}

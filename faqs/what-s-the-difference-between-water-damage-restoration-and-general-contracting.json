@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-water-damage-restoration-and-general-contracting",
+  "name": "What's the difference between water damage restoration and general contracting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between water damage restoration and general contracting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage restoration specifically focuses on the immediate mitigation and cleanup of water-related incidents. This includes water extraction, drying, dehumidification, and often mold prevention or remediation. General contracting, on the other hand, typically involves broader construction, repair, or remodeling projects, often after the immediate water damage issues have been resolved. Restoration companies like First To Respond specialize in the urgent, specialized processes needed to safely and effectively address water intrusions before reconstruction begins.",
+        "@type": "Answer",
+        "description": "Water damage restoration handles immediate cleanup, drying, and mold prevention from water incidents. General contracting focuses on broader construction and repairs after mitigation."
+      }
+    }
+  ],
+  "description": "Water damage restoration handles immediate cleanup, drying, and mold prevention from water incidents. General contracting focuses on broader construction and re"
+}

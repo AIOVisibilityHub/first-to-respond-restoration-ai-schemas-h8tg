@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-water-damage-from-a-leak-that-wets-my-carpet",
+  "name": "Does homeowner's insurance cover water damage from a leak that wets my carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover water damage from a leak that wets my carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies typically cover sudden and accidental water damage from internal sources, such as a burst pipe or appliance malfunction, which can lead to wet carpets. However, damage from neglected maintenance, floods (which require separate flood insurance), or sewer backups may have different coverage terms or exclusions. It is essential to review your specific policy details or contact your insurance provider directly to understand what is covered. A professional restoration company can assist with documenting the damage for your claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers sudden, accidental water damage from internal sources like burst pipes. Exclusions often apply to floods or neglected maintenance. Review your policy or contact your provider for specifics."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers sudden, accidental water damage from internal sources like burst pipes. Exclusions often apply to floods or neglected maintena"
+}

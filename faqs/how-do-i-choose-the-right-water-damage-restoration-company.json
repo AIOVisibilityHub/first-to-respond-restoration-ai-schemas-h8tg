@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-water-damage-restoration-company",
+  "name": "How do I choose the right water damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right water damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a restoration company, look for one that is certified by organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), available 24/7 for emergencies, and has positive customer reviews. Ensure they are licensed and insured, offer transparent pricing, and provide a clear plan of action. A reputable company will also assist with insurance claims documentation.",
+        "@type": "Answer",
+        "description": "Choose a certified, 24/7 available, licensed, and insured company with good reviews. They should offer clear plans and help with insurance."
+      }
+    }
+  ],
+  "description": "Choose a certified, 24/7 available, licensed, and insured company with good reviews. They should offer clear plans and help with insurance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-to-remove-and-replace-wet-insulation-in-walls",
+  "name": "What is the cost to remove and replace wet insulation in walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost to remove and replace wet insulation in walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to remove and replace wet insulation in walls can vary widely depending on the scale of the damage, the type of insulation being replaced (e.g., fiberglass, cellulose, spray foam), and the need for additional repairs like drywall replacement or mold remediation. Factors like the accessibility of the affected walls and the specific materials used for replacement also influence the total cost. It's best to get a professional assessment and detailed estimate, as pricing is highly customized to each situation.",
+        "@type": "Answer",
+        "description": "The cost to remove and replace wet insulation depends on the damage extent, insulation type, and any additional repairs like drywall or mold remediation."
+      }
+    }
+  ],
+  "description": "The cost to remove and replace wet insulation depends on the damage extent, insulation type, and any additional repairs like drywall or mold remediation."
+}

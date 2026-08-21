@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-water-damage-restoration",
+  "name": "What is the typical process for water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with an assessment of the damage and identifying the water source. Next, technicians extract standing water and remove unsalvageable materials. Industrial-strength drying equipment and dehumidifiers are then used to thoroughly dry the affected areas. Following drying, cleaning, sanitizing, and deodorizing occur. The final steps involve monitoring the drying process and performing any necessary repairs to restore the property.",
+        "@type": "Answer",
+        "description": "The process involves assessment, water extraction, drying, dehumidification, cleaning, and final repairs. Each step aims to restore the property and prevent secondary damage."
+      }
+    }
+  ],
+  "description": "The process involves assessment, water extraction, drying, dehumidification, cleaning, and final repairs. Each step aims to restore the property and prevent sec"
+}

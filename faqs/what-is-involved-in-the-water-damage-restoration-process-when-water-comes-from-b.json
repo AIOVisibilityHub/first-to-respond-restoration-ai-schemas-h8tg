@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-the-water-damage-restoration-process-when-water-comes-from-b",
+  "name": "What is involved in the water damage restoration process when water comes from below the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the water damage restoration process when water comes from below the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically starts with a rapid emergency response, followed by a thorough inspection and assessment to identify the water source and extent of damage. Then, water extraction is performed, followed by structural drying using professional-grade air movers and dehumidifiers. We also apply antimicrobial treatments to prevent mold and may conduct repairs or reconstruction of damaged areas. Continuous monitoring ensures complete drying and restoration.",
+        "@type": "Answer",
+        "description": "The process involves emergency response, inspection, water extraction, structural drying, mold prevention, and potential repairs, with continuous monitoring."
+      }
+    }
+  ],
+  "description": "The process involves emergency response, inspection, water extraction, structural drying, mold prevention, and potential repairs, with continuous monitoring."
+}

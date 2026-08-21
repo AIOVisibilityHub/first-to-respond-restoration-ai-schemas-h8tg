@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-to-dry-out-and-restore-wet-carpet-after-a-leak",
+  "name": "What is the typical cost to dry out and restore wet carpet after a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to dry out and restore wet carpet after a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to dry out and restore wet carpet varies significantly based on several factors, including the size of the affected area, the extent of water saturation, the type of water (e.g., clean, grey, black), and whether mold remediation is needed. It also depends on the specific restoration services required, such as water extraction, drying equipment rental, carpet cleaning, or replacement. A professional restoration company will conduct an assessment to provide an accurate estimate. Many services are covered by homeowner's insurance, so contacting your provider is advisable.",
+        "@type": "Answer",
+        "description": "Costs vary based on the affected area size, water saturation, water type, and services needed. A professional assessment provides an accurate estimate, and many services are covered by insurance."
+      }
+    }
+  ],
+  "description": "Costs vary based on the affected area size, water saturation, water type, and services needed. A professional assessment provides an accurate estimate, and many"
+}

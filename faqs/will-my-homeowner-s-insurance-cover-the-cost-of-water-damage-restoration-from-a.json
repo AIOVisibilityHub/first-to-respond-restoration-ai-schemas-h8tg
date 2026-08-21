@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-the-cost-of-water-damage-restoration-from-a",
+  "name": "Will my homeowner's insurance cover the cost of water damage restoration from a plumbing leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover the cost of water damage restoration from a plumbing leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies typically cover sudden and accidental water damage from plumbing leaks. However, coverage can vary depending on your specific policy and the cause of the leak. For instance, damage resulting from long-term neglect or maintenance issues might not be covered. It's crucial to review your policy documents or contact your insurance provider directly to understand your coverage limits, deductibles, and the claims process. A restoration company can often help document the damage for your claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden plumbing leak damage, but policies vary. Check with your insurer for specific coverage details regarding your claim."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden plumbing leak damage, but policies vary. Check with your insurer for specific coverage details regarding your claim."
+}

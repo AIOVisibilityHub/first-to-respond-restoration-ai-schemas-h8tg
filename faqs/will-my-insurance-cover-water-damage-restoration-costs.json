@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-water-damage-restoration-costs",
+  "name": "Will my insurance cover water damage restoration costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover water damage restoration costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies cover sudden and accidental water damage, such as from a burst pipe or appliance malfunction. However, coverage often excludes damage from floods (which requires a separate flood insurance policy) or negligence, like prolonged leaks. It's essential to review your specific policy and contact your insurance provider as soon as damage occurs to understand your coverage and initiate a claim.",
+        "@type": "Answer",
+        "description": "Most insurance covers sudden water damage but excludes floods or negligence. Review your policy and contact your provider promptly for claim details."
+      }
+    }
+  ],
+  "description": "Most insurance covers sudden water damage but excludes floods or negligence. Review your policy and contact your provider promptly for claim details."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-flood-damage-restoration-costs",
+  "name": "Will my homeowner's insurance cover flood damage restoration costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover flood damage restoration costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies often cover water damage resulting from sudden and accidental incidents, such as burst pipes or appliance malfunctions. However, damage specifically caused by external flooding (e.g., river overflow, storm surge) typically requires a separate flood insurance policy. It's essential to review your specific policy details or consult with your insurance provider to understand your coverage. We can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance may cover some water damage, but external flood damage usually requires a separate flood insurance policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance may cover some water damage, but external flood damage usually requires a separate flood insurance policy."
+}

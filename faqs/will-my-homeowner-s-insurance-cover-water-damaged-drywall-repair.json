@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-water-damaged-drywall-repair",
+  "name": "Will my homeowner's insurance cover water damaged drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water damaged drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers water damage if it's sudden and accidental, such as a burst pipe, appliance leak, or storm damage. However, damage from neglected maintenance, slow leaks, or floods (unless you have separate flood insurance) is usually not covered. It's essential to review your specific policy details or contact your insurance provider immediately after discovering damage. A professional restoration company can often assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the cause; sudden accidental damage is often covered, but not neglected maintenance or floods."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the cause; sudden accidental damage is often covered, but not neglected maintenance or floods."
+}

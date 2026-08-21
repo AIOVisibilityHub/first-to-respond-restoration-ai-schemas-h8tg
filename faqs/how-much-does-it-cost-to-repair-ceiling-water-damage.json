@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-repair-ceiling-water-damage",
+  "name": "How much does it cost to repair ceiling water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair ceiling water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair ceiling water damage varies significantly based on the severity and extent of the damage, the size of the affected area, and the type of materials involved. Factors like mold remediation needs, the source of the leak, and whether structural repairs are required also influence the total cost. Minor cosmetic repairs might be a few hundred dollars, while extensive damage requiring demolition, drying, and reconstruction can range from thousands to tens of thousands of dollars. An on-site assessment is needed for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Ceiling water damage repair costs vary widely based on damage severity, size of the area, material type, and whether mold or structural repairs are needed."
+      }
+    }
+  ],
+  "description": "Ceiling water damage repair costs vary widely based on damage severity, size of the area, material type, and whether mold or structural repairs are needed."
+}

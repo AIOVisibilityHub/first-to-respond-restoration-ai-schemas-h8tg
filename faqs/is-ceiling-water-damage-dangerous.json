@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-ceiling-water-damage-dangerous",
+  "name": "Is ceiling water damage dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is ceiling water damage dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, ceiling water damage can pose several dangers. Beyond cosmetic issues, prolonged moisture can compromise the structural integrity of your ceiling and roof, potentially leading to collapse. Water damage also creates an ideal environment for mold growth, which can cause respiratory problems and allergic reactions. Additionally, if water comes into contact with electrical wiring or fixtures, it creates a serious electrocution and fire hazard.",
+        "@type": "Answer",
+        "description": "Yes, ceiling water damage can be dangerous due to potential structural collapse, mold growth, and electrical hazards."
+      }
+    }
+  ],
+  "description": "Yes, ceiling water damage can be dangerous due to potential structural collapse, mold growth, and electrical hazards."
+}

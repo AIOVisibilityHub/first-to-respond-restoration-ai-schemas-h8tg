@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-mold-grow-under-water-damaged-laminate-flooring",
+  "name": "Can mold grow under water damaged laminate flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can mold grow under water damaged laminate flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, mold is a common and serious consequence of water damage under laminate flooring. The dark, damp environment created by trapped moisture is ideal for mold growth. It can begin to grow within 24-48 hours and may not be immediately visible. Mold can spread to the subfloor and structural elements, posing health risks and requiring professional remediation. Early drying is essential to prevent it.",
+        "@type": "Answer",
+        "description": "Yes, mold commonly grows under water-damaged laminate within 24-48 hours due to trapped moisture, posing health risks and requiring remediation."
+      }
+    }
+  ],
+  "description": "Yes, mold commonly grows under water-damaged laminate within 24-48 hours due to trapped moisture, posing health risks and requiring remediation."
+}

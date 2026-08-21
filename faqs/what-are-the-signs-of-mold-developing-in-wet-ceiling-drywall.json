@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-mold-developing-in-wet-ceiling-drywall",
+  "name": "What are the signs of mold developing in wet ceiling drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of mold developing in wet ceiling drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of mold developing in wet ceiling drywall include a musty or earthy odor, visible discoloration (often black, green, or white fuzzy patches), and worsening respiratory symptoms in occupants. Even if mold isn't visible, a persistent damp smell after drying may indicate hidden growth within walls or ceilings. Professional mold inspection may be needed to confirm and address it.",
+        "@type": "Answer",
+        "description": "Mold in wet ceiling drywall shows as musty odors, visible discoloration, or worsening respiratory issues, requiring inspection if suspected."
+      }
+    }
+  ],
+  "description": "Mold in wet ceiling drywall shows as musty odors, visible discoloration, or worsening respiratory issues, requiring inspection if suspected."
+}

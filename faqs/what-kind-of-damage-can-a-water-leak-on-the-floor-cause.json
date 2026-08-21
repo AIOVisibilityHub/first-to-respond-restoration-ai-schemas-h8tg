@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-damage-can-a-water-leak-on-the-floor-cause",
+  "name": "What kind of damage can a water leak on the floor cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can a water leak on the floor cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water leak on the floor can cause various types of damage. It can saturate carpets, flooring materials like hardwood or laminate, and subflooring, leading to warping, buckling, or rot. Walls, baseboards, and insulation can absorb water, becoming weakened and susceptible to mold growth within 24-48 hours. Electrical systems can be compromised, posing a safety risk. Additionally, personal belongings, furniture, and structural components of your home can suffer permanent damage, necessitating costly repairs or replacements if not dried promptly and properly.",
+        "@type": "Answer",
+        "description": "Water leaks can damage flooring, walls, insulation, and personal property, leading to warping, rot, electrical issues, and mold growth."
+      }
+    }
+  ],
+  "description": "Water leaks can damage flooring, walls, insulation, and personal property, leading to warping, rot, electrical issues, and mold growth."
+}

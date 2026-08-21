@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-water-to-drip-from-the-ceiling",
+  "name": "What causes water to drip from the ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water to drip from the ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water dripping from the ceiling is typically a sign of a hidden leak. Common causes include leaky pipes in the ceiling or floor above, a damaged roof, overflowing gutters, issues with HVAC condensation lines, or problems with appliances like washing machines or water heaters on an upper floor. Identifying the exact source quickly is crucial to prevent further damage and mold growth. A professional inspection can pinpoint the cause and determine the best course of action for repair.",
+        "@type": "Answer",
+        "description": "Common causes of water dripping from the ceiling include leaky pipes, roof damage, HVAC issues, or problems with upstairs appliances."
+      }
+    }
+  ],
+  "description": "Common causes of water dripping from the ceiling include leaky pipes, roof damage, HVAC issues, or problems with upstairs appliances."
+}

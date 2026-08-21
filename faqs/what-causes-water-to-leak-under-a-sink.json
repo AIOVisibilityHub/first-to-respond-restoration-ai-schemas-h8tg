@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-water-to-leak-under-a-sink",
+  "name": "What causes water to leak under a sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water to leak under a sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water leaks under a sink can stem from several common issues. Loose connections in the plumbing lines, a worn-out P-trap seal, or a corroded drain pipe are frequent culprits. Faulty faucet components, such as a dripping cartridge or O-rings, can also allow water to escape. Additionally, a damaged garbage disposal or issues with the dishwasher connection can contribute to leaks. Identifying the exact source is crucial for effective repair and preventing further water damage.",
+        "@type": "Answer",
+        "description": "Common causes include loose plumbing connections, worn P-trap seals, corroded drain pipes, faulty faucet components, or issues with a garbage disposal."
+      }
+    }
+  ],
+  "description": "Common causes include loose plumbing connections, worn P-trap seals, corroded drain pipes, faulty faucet components, or issues with a garbage disposal."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-water-extraction-and-carpet-cleaning-after-a-leak",
+  "name": "What is the difference between water extraction and carpet cleaning after a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water extraction and carpet cleaning after a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water extraction is the process of removing bulk water from saturated carpet and padding using powerful vacuum systems. Its primary goal is to mitigate damage by quickly eliminating standing water and excess moisture. Carpet cleaning, on the other hand, is a more detailed process focused on removing dirt, stains, and odors from the carpet fibers once the area is dry. While some basic cleaning may occur during extraction, a comprehensive post-restoration cleaning is often recommended to restore the carpet's appearance and hygiene after it has been thoroughly dried and repaired.",
+        "@type": "Answer",
+        "description": "Water extraction removes bulk water to prevent damage. Carpet cleaning focuses on removing dirt, stains, and odors after the carpet is dry. They are distinct processes."
+      }
+    }
+  ],
+  "description": "Water extraction removes bulk water to prevent damage. Carpet cleaning focuses on removing dirt, stains, and odors after the carpet is dry. They are distinct pr"
+}

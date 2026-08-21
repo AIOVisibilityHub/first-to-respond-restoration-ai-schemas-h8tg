@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-ceiling-water-damage",
+  "name": "What causes ceiling water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes ceiling water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceiling water damage is typically caused by issues originating from above the ceiling. Common culprits include roof leaks, plumbing leaks from pipes or fixtures on an upper floor, or overflowing bathtubs and sinks. HVAC condensation line backups or leaks can also lead to ceiling damage. In some cases, exterior problems like compromised flashing around windows or poorly maintained gutters can direct water into your home's structure, eventually affecting the ceiling below.",
+        "@type": "Answer",
+        "description": "Ceiling water damage often results from roof leaks, plumbing issues, HVAC condensation, or exterior structural problems."
+      }
+    }
+  ],
+  "description": "Ceiling water damage often results from roof leaks, plumbing issues, HVAC condensation, or exterior structural problems."
+}

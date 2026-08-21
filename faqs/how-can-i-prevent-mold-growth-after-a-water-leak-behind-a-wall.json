@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-mold-growth-after-a-water-leak-behind-a-wall",
+  "name": "How can I prevent mold growth after a water leak behind a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent mold growth after a water leak behind a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing mold growth after a water leak behind a wall is critical and requires thorough drying and remediation. All wet materials must be completely dried within 24-48 hours. If materials like drywall or insulation have been saturated, they often need to be removed and replaced. Professional restoration services use specialized equipment to ensure complete moisture removal and can apply antimicrobial treatments to inhibit mold development, preventing future health issues and structural damage.",
+        "@type": "Answer",
+        "description": "Thoroughly dry all wet materials within 24-48 hours. Remove and replace saturated materials. Professional services use specialized equipment and antimicrobial treatments to prevent mold."
+      }
+    }
+  ],
+  "description": "Thoroughly dry all wet materials within 24-48 hours. Remove and replace saturated materials. Professional services use specialized equipment and antimicrobial t"
+}

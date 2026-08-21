@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-wet-insulation-dangerous-to-my-home-or-health",
+  "name": "Is wet insulation dangerous to my home or health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is wet insulation dangerous to my home or health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, wet insulation can pose significant risks. Moisture in wall cavities creates an ideal environment for mold and mildew growth, which can lead to poor indoor air quality and trigger respiratory issues or allergies in occupants. Additionally, saturated insulation loses its thermal efficiency, leading to higher energy bills. Prolonged moisture can also compromise the structural integrity of your home by rotting wood framing, rusting metal components, and attracting pests. Prompt removal and drying are essential to mitigate these dangers.",
+        "@type": "Answer",
+        "description": "Wet insulation is dangerous as it promotes mold growth, increases energy costs, and can cause structural damage to your home."
+      }
+    }
+  ],
+  "description": "Wet insulation is dangerous as it promotes mold growth, increases energy costs, and can cause structural damage to your home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-laminate-flooring-to-swell-after-water-exposure",
+  "name": "What causes laminate flooring to swell after water exposure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes laminate flooring to swell after water exposure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Laminate flooring is constructed with a fiberboard core, which is highly susceptible to water absorption. When water penetrates the surface, it causes the core material to swell and delaminate. This swelling leads to buckling, warping, and separation of planks. Even small amounts of water, if left unaddressed, can cause significant damage over time. Quick drying and removal of moisture are crucial to minimizing this type of damage.",
+        "@type": "Answer",
+        "description": "Water causes the fiberboard core of laminate flooring to absorb moisture, leading to swelling, buckling, and delamination."
+      }
+    }
+  ],
+  "description": "Water causes the fiberboard core of laminate flooring to absorb moisture, leading to swelling, buckling, and delamination."
+}

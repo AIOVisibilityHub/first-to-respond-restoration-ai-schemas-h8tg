@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-look-for-in-a-company-to-restore-my-water-damaged-laminate-floorin",
+  "name": "What should I look for in a company to restore my water damaged laminate flooring in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a company to restore my water damaged laminate flooring in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a restoration company in Encino, look for one that is licensed, insured, and has certifications in water damage restoration (e.g., IICRC). They should offer 24/7 emergency services and have experience specifically with laminate flooring. Check for positive customer reviews and ensure they provide clear, detailed estimates. Proximity and a track record in areas like Encino, North Hollywood, or Tarzana are also beneficial for quick response.",
+        "@type": "Answer",
+        "description": "Look for a licensed, insured, and certified company with 24/7 service, laminate experience, good reviews, and local presence in Encino or nearby areas."
+      }
+    }
+  ],
+  "description": "Look for a licensed, insured, and certified company with 24/7 service, laminate experience, good reviews, and local presence in Encino or nearby areas."
+}

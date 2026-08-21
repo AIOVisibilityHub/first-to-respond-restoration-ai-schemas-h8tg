@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-water-damage-restoration-for-carpet",
+  "name": "What is the process for water damage restoration for carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for water damage restoration for carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with an assessment to determine the water source, contamination level, and extent of damage. Next, standing water is extracted using powerful pumps. Industrial-grade air movers and dehumidifiers are then strategically placed to thoroughly dry the carpet, padding, and subfloor. Antimicrobial treatments may be applied to prevent mold and mildew. Finally, the area is monitored for moisture levels until it's completely dry, and any necessary repairs or cleaning are completed.",
+        "@type": "Answer",
+        "description": "The process involves assessment, water extraction, industrial drying and dehumidification, antimicrobial treatment, and final moisture monitoring."
+      }
+    }
+  ],
+  "description": "The process involves assessment, water extraction, industrial drying and dehumidification, antimicrobial treatment, and final moisture monitoring."
+}

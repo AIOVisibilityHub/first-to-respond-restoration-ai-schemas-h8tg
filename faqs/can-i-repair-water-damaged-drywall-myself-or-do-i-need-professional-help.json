@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-repair-water-damaged-drywall-myself-or-do-i-need-professional-help",
+  "name": "Can I repair water damaged drywall myself, or do I need professional help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair water damaged drywall myself, or do I need professional help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor water damage, such as a small stain with no structural compromise or mold, might be repairable by a homeowner. This usually involves cutting out the damaged section, replacing it with a new piece, and finishing. However, significant damage, large areas affected, or any suspicion of mold growth requires professional intervention. Professionals have specialized equipment to accurately assess the extent of damage, properly dry the area, and safely remediate mold, ensuring the problem is fully resolved and preventing future issues.",
+        "@type": "Answer",
+        "description": "Minor damage might be DIY, but significant damage or mold requires professional assessment and remediation to prevent further issues."
+      }
+    }
+  ],
+  "description": "Minor damage might be DIY, but significant damage or mold requires professional assessment and remediation to prevent further issues."
+}

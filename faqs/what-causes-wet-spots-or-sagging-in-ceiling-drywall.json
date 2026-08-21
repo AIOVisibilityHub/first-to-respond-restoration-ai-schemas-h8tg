@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-wet-spots-or-sagging-in-ceiling-drywall",
+  "name": "What causes wet spots or sagging in ceiling drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes wet spots or sagging in ceiling drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wet spots or sagging in ceiling drywall typically indicate a water leak. Common causes include plumbing leaks from pipes or fixtures on the floor above, roof leaks, or condensation issues. Identifying the source quickly is crucial to prevent further damage and potential mold growth. A professional inspection can pinpoint the exact cause.",
+        "@type": "Answer",
+        "description": "Wet spots or sagging in ceiling drywall are usually caused by water leaks from plumbing, the roof, or condensation, requiring prompt investigation."
+      }
+    }
+  ],
+  "description": "Wet spots or sagging in ceiling drywall are usually caused by water leaks from plumbing, the roof, or condensation, requiring prompt investigation."
+}

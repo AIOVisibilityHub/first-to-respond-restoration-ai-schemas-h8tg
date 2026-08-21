@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-for-emergency-water-damage-restoration-services",
+  "name": "When should I call for emergency water damage restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call for emergency water damage restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call for emergency water damage restoration services immediately after discovering any significant water intrusion, such as from a burst pipe, flood, or sewage backup. Prompt action within 24-48 hours is crucial to prevent secondary damage like mold growth, extensive structural issues, and damage to contents. Delaying could lead to more costly and complex repairs, as well as potential health risks.",
+        "@type": "Answer",
+        "description": "Call immediately after significant water intrusion to prevent mold, structural issues, and higher repair costs. Prompt action within 24-48 hours is critical."
+      }
+    }
+  ],
+  "description": "Call immediately after significant water intrusion to prevent mold, structural issues, and higher repair costs. Prompt action within 24-48 hours is critical."
+}

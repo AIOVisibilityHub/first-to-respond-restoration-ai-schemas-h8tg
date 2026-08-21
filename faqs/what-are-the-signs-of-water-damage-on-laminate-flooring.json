@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-water-damage-on-laminate-flooring",
+  "name": "What are the signs of water damage on laminate flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of water damage on laminate flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs of water damage on laminate flooring include visible swelling, cupping, or buckling of the planks. You might also notice discolored spots, dark stains, or a hazy appearance on the surface. Another indicator is a soft, spongy feel when walking on the floor, or a musty odor indicating potential mold growth beneath. Gaps appearing between planks where there were none before also suggest moisture intrusion.",
+        "@type": "Answer",
+        "description": "Signs include swelling, buckling, discoloration, a spongy feel, gaps between planks, and musty odors."
+      }
+    }
+  ],
+  "description": "Signs include swelling, buckling, discoloration, a spongy feel, gaps between planks, and musty odors."
+}

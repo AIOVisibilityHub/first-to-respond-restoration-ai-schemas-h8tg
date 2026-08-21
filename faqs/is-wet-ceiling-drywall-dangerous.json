@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-wet-ceiling-drywall-dangerous",
+  "name": "Is wet ceiling drywall dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is wet ceiling drywall dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, wet ceiling drywall can be dangerous. Beyond structural weakening and the risk of collapse, prolonged moisture creates an ideal environment for mold and mildew growth, which can lead to indoor air quality problems and health issues. Electrical hazards can also arise if water comes into contact with wiring or fixtures. Prompt action is essential for safety.",
+        "@type": "Answer",
+        "description": "Wet ceiling drywall is dangerous due to potential collapse, mold growth, and electrical hazards."
+      }
+    }
+  ],
+  "description": "Wet ceiling drywall is dangerous due to potential collapse, mold growth, and electrical hazards."
+}

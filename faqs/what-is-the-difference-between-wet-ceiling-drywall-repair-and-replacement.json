@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-wet-ceiling-drywall-repair-and-replacement",
+  "name": "What is the difference between wet ceiling drywall repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between wet ceiling drywall repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair involves cutting out and replacing only the damaged sections of drywall, suitable for smaller, localized areas where the surrounding material is intact. Replacement means removing and installing entirely new drywall for a larger section or the entire ceiling, typically needed when damage is widespread, severe, or compromised structurally. The choice depends on the extent of the water damage and structural integrity.",
+        "@type": "Answer",
+        "description": "Repair means replacing only damaged sections of drywall, while replacement involves removing and installing entirely new drywall for larger or severely compromised areas."
+      }
+    }
+  ],
+  "description": "Repair means replacing only damaged sections of drywall, while replacement involves removing and installing entirely new drywall for larger or severely compromi"
+}

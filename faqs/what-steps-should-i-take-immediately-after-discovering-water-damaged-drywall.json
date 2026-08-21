@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-i-take-immediately-after-discovering-water-damaged-drywall",
+  "name": "What steps should I take immediately after discovering water damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take immediately after discovering water damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering water damaged drywall, first, identify and stop the water source to prevent further saturation. Next, if safe to do so, turn off electricity to the affected area. Ventilate the space by opening windows or using fans to aid drying. Remove any wet belongings to prevent secondary damage. Then, contact a professional water damage restoration company promptly. Early action minimizes damage, prevents mold, and streamlines the restoration process.",
+        "@type": "Answer",
+        "description": "Immediately stop the water source, turn off electricity, ventilate, remove wet items, and contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately stop the water source, turn off electricity, ventilate, remove wet items, and contact a professional restoration company."
+}

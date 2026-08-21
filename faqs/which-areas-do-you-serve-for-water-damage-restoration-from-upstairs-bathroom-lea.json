@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/which-areas-do-you-serve-for-water-damage-restoration-from-upstairs-bathroom-lea",
+  "name": "Which areas do you serve for water damage restoration from upstairs bathroom leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas do you serve for water damage restoration from upstairs bathroom leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides comprehensive water damage restoration services for residential and commercial properties. We primarily serve the areas of Encino, North Hollywood, San Fernando, Studio City, and Tarzana. If you are experiencing a water leak from an upstairs bathroom in one of these locations, our emergency response teams are available to assess the damage, mitigate the leak, and begin the restoration process promptly to protect your property.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water damage restoration from upstairs bathroom leaks."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water damage restoration from upstairs bathroom leaks."
+}

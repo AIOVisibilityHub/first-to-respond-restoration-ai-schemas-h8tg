@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-wet-insulation-in-walls",
+  "name": "What are the signs of wet insulation in walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of wet insulation in walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying wet insulation early can prevent extensive damage. Common signs include a persistent musty or damp odor, especially noticeable near walls. You might also observe water stains, discoloration, or peeling paint or wallpaper on affected wall surfaces. Soft spots or bulging in drywall can indicate moisture behind the wall. Elevated humidity levels indoors, unexplained increases in utility bills (due to compromised insulation efficiency), or visible mold growth are also strong indicators that your wall insulation may be wet.",
+        "@type": "Answer",
+        "description": "Signs of wet insulation include musty odors, water stains, peeling paint, soft drywall, or visible mold growth on walls."
+      }
+    }
+  ],
+  "description": "Signs of wet insulation include musty odors, water stains, peeling paint, soft drywall, or visible mold growth on walls."
+}

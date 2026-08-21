@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-property-smell-after-structural-drying-is-complete",
+  "name": "Will my property smell after structural drying is complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my property smell after structural drying is complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When structural drying is performed correctly, your property should not have a persistent musty or damp odor. Our goal is to remove all moisture and dry the affected materials completely. If odors are present before drying, specialized odor removal techniques may be integrated into the process. However, if any musty smells linger after the drying equipment is removed, it could indicate that some moisture remains or that mold growth had already begun. A professional restoration company will address these concerns for your property in Studio City or Tarzana.",
+        "@type": "Answer",
+        "description": "No, a properly dried property should not smell musty. If odors persist, it may indicate remaining moisture or mold."
+      }
+    }
+  ],
+  "description": "No, a properly dried property should not smell musty. If odors persist, it may indicate remaining moisture or mold."
+}

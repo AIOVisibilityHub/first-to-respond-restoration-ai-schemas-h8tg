@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-restoration-companies-fix-water-damage-in-a-ceiling",
+  "name": "How do restoration companies fix water damage in a ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do restoration companies fix water damage in a ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration companies follow a structured process to address ceiling water damage. First, they locate and stop the source of the leak. Next, they assess the extent of the damage using specialized moisture detection equipment. Affected materials like wet drywall and insulation are often removed to prevent mold and facilitate drying. Industrial-grade dehumidifiers and air movers are then used to thoroughly dry the structure. Finally, the damaged areas are repaired and restored, which can include patching drywall, painting, and replacing insulation, returning your ceiling to its pre-damage condition.",
+        "@type": "Answer",
+        "description": "Restoration companies stop the leak, assess damage, remove wet materials, dry the structure with specialized equipment, and then repair and restore the ceiling."
+      }
+    }
+  ],
+  "description": "Restoration companies stop the leak, assess damage, remove wet materials, dry the structure with specialized equipment, and then repair and restore the ceiling."
+}

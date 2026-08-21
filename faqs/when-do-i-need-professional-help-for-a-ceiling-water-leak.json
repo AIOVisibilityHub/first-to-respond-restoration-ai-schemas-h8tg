@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-help-for-a-ceiling-water-leak",
+  "name": "When do I need professional help for a ceiling water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional help for a ceiling water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional help for a ceiling water leak whenever the leak is significant, ongoing, or has caused visible damage to your ceiling, walls, or flooring. Even small leaks can lead to hidden mold growth and structural issues if not properly addressed and dried. A restoration company can accurately identify the source, extract water, thoroughly dry affected areas, and perform necessary repairs to prevent long-term problems and ensure your home's safety and integrity.",
+        "@type": "Answer",
+        "description": "Professional help is needed for significant or ongoing leaks, or when visible damage occurs. Even small leaks can cause hidden mold or structural issues if not dried properly."
+      }
+    }
+  ],
+  "description": "Professional help is needed for significant or ongoing leaks, or when visible damage occurs. Even small leaks can cause hidden mold or structural issues if not"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-discover-water-leaking-from-a-wall",
+  "name": "What should I do immediately if I discover water leaking from a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover water leaking from a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover water leaking from a wall, your first step should be to stop the water source if possible. This might involve turning off the main water supply to your home. Next, disconnect any electrical appliances near the leak to prevent hazards. Try to contain the water with buckets or towels to minimize spread. Document the damage with photos or videos. Then, contact a professional restoration company promptly to assess the situation, identify the source, and begin the drying and repair process.",
+        "@type": "Answer",
+        "description": "Immediately stop the water source, disconnect nearby electrical items, contain the leak, document the damage, and contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately stop the water source, disconnect nearby electrical items, contain the leak, document the damage, and contact a professional restoration company."
+}

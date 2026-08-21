@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-a-plumber-and-a-water-damage-restoration-company-f",
+  "name": "What's the difference between a plumber and a water damage restoration company for a ceiling leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a plumber and a water damage restoration company for a ceiling leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumber primarily focuses on fixing the source of the leak, especially if it originates from pipes or plumbing fixtures. Their expertise lies in diagnosing and repairing plumbing systems. A water damage restoration company, like First To Respond Restoration, specializes in the comprehensive cleanup, drying, and repair of all materials damaged by water. They handle everything from moisture extraction and mold prevention to structural drying and rebuilding affected areas of the ceiling and surrounding structures, ensuring your home is fully restored after the leak has been stopped.",
+        "@type": "Answer",
+        "description": "A plumber fixes the leak source (e.g., pipes), while a water damage restoration company handles the complete cleanup, drying, and repair of all water-damaged materials and structures."
+      }
+    }
+  ],
+  "description": "A plumber fixes the leak source (e.g., pipes), while a water damage restoration company handles the complete cleanup, drying, and repair of all water-damaged ma"
+}

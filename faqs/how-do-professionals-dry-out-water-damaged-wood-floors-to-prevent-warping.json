@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-dry-out-water-damaged-wood-floors-to-prevent-warping",
+  "name": "How do professionals dry out water damaged wood floors to prevent warping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals dry out water damaged wood floors to prevent warping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use a multi-step approach to dry water damaged wood floors and minimize warping. First, all standing water is extracted. Then, specialized drying equipment such as high-volume air movers are strategically placed to create powerful airflow across and through the affected areas, alongside industrial-grade dehumidifiers to remove moisture from the air. This controlled drying process gradually reduces the moisture content in the wood, helping to prevent rapid drying that can cause cracking or excessive warping. Moisture meters are used continuously to monitor progress. Our teams in Van Nuys and Granada Hills are skilled in this process.",
+        "@type": "Answer",
+        "description": "Professionals use specialized equipment like air movers and industrial dehumidifiers for controlled drying, gradually removing moisture to prevent warping."
+      }
+    }
+  ],
+  "description": "Professionals use specialized equipment like air movers and industrial dehumidifiers for controlled drying, gradually removing moisture to prevent warping."
+}

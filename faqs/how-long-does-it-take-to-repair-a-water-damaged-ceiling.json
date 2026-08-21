@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-repair-a-water-damaged-ceiling",
+  "name": "How long does it take to repair a water-damaged ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a water-damaged ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for repairing a water-damaged ceiling depends on the severity of the leak and the extent of the damage. Minor repairs, like patching and painting, might take a few days. However, if water penetration is extensive, requiring water extraction, structural drying, mold remediation, and drywall replacement, the process can take several days to a few weeks. The drying phase itself can take 3-5 days. Our team aims to work efficiently to restore your property quickly and effectively.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few days for minor issues to several weeks for extensive damage, including drying and remediation. The drying process alone takes 3-5 days."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few days for minor issues to several weeks for extensive damage, including drying and remediation. The drying process alone takes 3-5"
+}

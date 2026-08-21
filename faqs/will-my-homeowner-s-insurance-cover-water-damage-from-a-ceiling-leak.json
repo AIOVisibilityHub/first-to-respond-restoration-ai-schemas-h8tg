@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-water-damage-from-a-ceiling-leak",
+  "name": "Will my homeowner's insurance cover water damage from a ceiling leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water damage from a ceiling leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, such as a burst pipe or a storm-related roof leak. However, policies usually do not cover damage resulting from neglected maintenance, gradual leaks, or flood events. It's essential to review your specific policy and contact your insurance provider to understand your coverage and initiate a claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers sudden water damage, but not issues from neglect or gradual leaks. Check your policy."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers sudden water damage, but not issues from neglect or gradual leaks. Check your policy."
+}

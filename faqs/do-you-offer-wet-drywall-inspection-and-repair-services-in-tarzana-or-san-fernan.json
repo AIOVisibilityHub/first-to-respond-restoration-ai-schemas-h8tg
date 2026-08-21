@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-wet-drywall-inspection-and-repair-services-in-tarzana-or-san-fernan",
+  "name": "Do you offer wet drywall inspection and repair services in Tarzana or San Fernando?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer wet drywall inspection and repair services in Tarzana or San Fernando?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration offers comprehensive wet drywall inspection and repair services to homes and businesses in Tarzana, San Fernando, and the surrounding communities. Our team is equipped to quickly assess the extent of water damage, identify the source, thoroughly dry affected areas, remove and replace damaged drywall, and ensure your property is restored safely and efficiently. Contact us for prompt assistance.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration provides wet drywall inspection and repair services in Tarzana and San Fernando, ensuring comprehensive restoration."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration provides wet drywall inspection and repair services in Tarzana and San Fernando, ensuring comprehensive restoration."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-sink-leak",
+  "name": "What should I do immediately after discovering a sink leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a sink leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering a sink leak, the first step is to turn off the water supply to the sink, usually by rotating the shut-off valves located directly under the sink. If no local shut-off is available, turn off the main water supply to your home. Next, disconnect any electrical appliances nearby, like a garbage disposal or dishwasher, to prevent electrical hazards. Use towels or a bucket to contain the water and prevent it from spreading. Once the immediate flow is stopped, you can begin to assess the source or call a professional.",
+        "@type": "Answer",
+        "description": "Immediately turn off the water supply to the sink or your home, disconnect nearby electrical appliances, and contain the water with towels or buckets."
+      }
+    }
+  ],
+  "description": "Immediately turn off the water supply to the sink or your home, disconnect nearby electrical appliances, and contain the water with towels or buckets."
+}

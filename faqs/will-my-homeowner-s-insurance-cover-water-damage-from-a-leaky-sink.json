@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-water-damage-from-a-leaky-sink",
+  "name": "Will my homeowner's insurance cover water damage from a leaky sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water damage from a leaky sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies often cover sudden and accidental water damage, which can include leaks from plumbing or appliances. However, damage resulting from long-term neglect, such as a slow, unnoticed leak that caused gradual deterioration, might not be covered. It's important to review your specific policy details or contact your insurance provider directly to understand your coverage. We can help document the damage for your claim process.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance typically covers sudden, accidental water damage from leaks, but usually not damage from long-term neglect. Review your policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance typically covers sudden, accidental water damage from leaks, but usually not damage from long-term neglect. Review your policy."
+}

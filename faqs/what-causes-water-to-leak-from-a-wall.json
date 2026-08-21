@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-water-to-leak-from-a-wall",
+  "name": "What causes water to leak from a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water to leak from a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water leaking from a wall can be caused by various issues, including burst or leaky pipes within the wall, roof leaks allowing water to seep down, foundation cracks, or plumbing fixture failures in adjacent rooms. External factors such as heavy rain, compromised exterior siding, or issues with gutters and downspouts can also lead to water penetration. Identifying the precise source is crucial for effective repair and preventing further damage to your property's structure and contents.",
+        "@type": "Answer",
+        "description": "Common causes include leaky pipes, roof leaks, foundation cracks, or exterior water penetration from rain or gutters."
+      }
+    }
+  ],
+  "description": "Common causes include leaky pipes, roof leaks, foundation cracks, or exterior water penetration from rain or gutters."
+}

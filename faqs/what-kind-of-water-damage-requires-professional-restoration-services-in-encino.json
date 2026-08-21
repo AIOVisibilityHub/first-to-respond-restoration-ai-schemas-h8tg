@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-water-damage-requires-professional-restoration-services-in-encino",
+  "name": "What kind of water damage requires professional restoration services in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of water damage requires professional restoration services in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Any significant water intrusion where the carpet is heavily soaked, the water source is contaminated (like sewage overflow), or if the water has been present for more than 24-48 hours should prompt a call to professional restoration services in Encino. This includes burst pipes, sewage backups, major appliance leaks, or floodwater. Professionals have the necessary equipment and expertise to safely and effectively mitigate damage, prevent mold, and restore your property in areas like Encino, North Hollywood, or Tarzana.",
+        "@type": "Answer",
+        "description": "Significant water damage, contaminated water, or water present for over 24-48 hours requires professional restoration services in Encino and surrounding areas."
+      }
+    }
+  ],
+  "description": "Significant water damage, contaminated water, or water present for over 24-48 hours requires professional restoration services in Encino and surrounding areas."
+}

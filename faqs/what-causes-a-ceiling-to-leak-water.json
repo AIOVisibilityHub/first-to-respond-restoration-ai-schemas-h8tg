@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-ceiling-to-leak-water",
+  "name": "What causes a ceiling to leak water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a ceiling to leak water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceiling leaks can stem from various sources within a property. Common causes include damaged roofs, such as missing shingles or cracked flashing, which allow rainwater to penetrate. Plumbing issues, like burst pipes, leaky pipe joints, or overflowing toilets and sinks on an upper floor, are also frequent culprits. Additionally, HVAC condensation line blockages, appliance malfunctions (e.g., washing machines or water heaters), or even foundation cracks can lead to water intrusion that manifests as a ceiling leak. Identifying the source is crucial for effective repair and preventing further damage.",
+        "@type": "Answer",
+        "description": "Ceiling leaks are commonly caused by roof damage, plumbing issues, HVAC problems, or appliance malfunctions. Pinpointing the source is key for repair."
+      }
+    }
+  ],
+  "description": "Ceiling leaks are commonly caused by roof damage, plumbing issues, HVAC problems, or appliance malfunctions. Pinpointing the source is key for repair."
+}

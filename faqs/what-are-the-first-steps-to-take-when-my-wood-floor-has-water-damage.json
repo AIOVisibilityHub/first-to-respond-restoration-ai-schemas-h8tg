@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-first-steps-to-take-when-my-wood-floor-has-water-damage",
+  "name": "What are the first steps to take when my wood floor has water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to take when my wood floor has water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately address the source of the water to prevent further damage. Then, safely remove as much standing water as possible using towels, mops, or a wet vacuum. Increase air circulation by opening windows and doors, and turn on fans or dehumidifiers if available. Avoid walking on the damaged area to prevent additional stress or splintering. Contacting a professional restoration company promptly, especially in areas like Encino or Tarzana, is crucial for proper assessment and effective mitigation to prevent mold growth and further structural issues.",
+        "@type": "Answer",
+        "description": "Stop the water source, remove standing water, increase air circulation, and contact a professional restoration company immediately."
+      }
+    }
+  ],
+  "description": "Stop the water source, remove standing water, increase air circulation, and contact a professional restoration company immediately."
+}

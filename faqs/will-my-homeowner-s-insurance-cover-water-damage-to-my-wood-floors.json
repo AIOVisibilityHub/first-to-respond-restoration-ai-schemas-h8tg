@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-water-damage-to-my-wood-floors",
+  "name": "Will my homeowner's insurance cover water damage to my wood floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water damage to my wood floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies typically cover sudden and accidental water damage to wood floors, such as burst pipes, appliance leaks, or storm-related flooding. However, damage caused by neglected maintenance, gradual leaks, or flood damage in areas not covered by specific flood insurance policies is often excluded. It's essential to review your specific policy details or contact your insurance provider to understand your coverage. A professional restoration company serving areas like Chatsworth or Porter Ranch can assist with documentation and direct billing to help streamline the claims process.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden and accidental water damage, but typically excludes damage from neglect or gradual leaks. Check your policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden and accidental water damage, but typically excludes damage from neglect or gradual leaks. Check your policy."
+}

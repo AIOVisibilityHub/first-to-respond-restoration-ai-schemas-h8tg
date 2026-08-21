@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-prevent-mold-after-my-carpet-gets-wet",
+  "name": "How do I prevent mold after my carpet gets wet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prevent mold after my carpet gets wet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent mold after your carpet gets wet, immediate and thorough drying is critical. Extract as much water as possible, use fans and dehumidifiers, and ensure good air circulation. If the water damage is extensive or the carpet remains wet for over 24 hours, professional restoration is highly recommended. They use specialized drying equipment and can apply antimicrobial treatments to inhibit mold growth. Addressing the water source and maintaining low indoor humidity levels long-term are also key preventative measures.",
+        "@type": "Answer",
+        "description": "To prevent mold, ensure immediate and thorough drying using fans and dehumidifiers. For extensive damage, professional restoration and antimicrobial treatment are crucial."
+      }
+    }
+  ],
+  "description": "To prevent mold, ensure immediate and thorough drying using fans and dehumidifiers. For extensive damage, professional restoration and antimicrobial treatment a"
+}

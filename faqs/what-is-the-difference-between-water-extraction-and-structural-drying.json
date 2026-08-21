@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-water-extraction-and-structural-drying",
+  "name": "What is the difference between water extraction and structural drying?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water extraction and structural drying?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water extraction involves removing visible standing water from surfaces using powerful pumps and wet vacuums. It's the first step in water damage restoration. Structural drying, on the other hand, focuses on eliminating hidden moisture that has absorbed into building materials like drywall, subfloors, and insulation. After extraction, specialized equipment like dehumidifiers and air movers are used to thoroughly dry these materials, preventing secondary damage like mold and preserving the structural integrity of your property in San Fernando or Studio City.",
+        "@type": "Answer",
+        "description": "Water extraction removes standing water, while structural drying eliminates hidden moisture from building materials to prevent further damage."
+      }
+    }
+  ],
+  "description": "Water extraction removes standing water, while structural drying eliminates hidden moisture from building materials to prevent further damage."
+}

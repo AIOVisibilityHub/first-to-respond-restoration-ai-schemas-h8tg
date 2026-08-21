@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-tools-do-professionals-use-to-detect-hidden-water-leaks",
+  "name": "What tools do professionals use to detect hidden water leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What tools do professionals use to detect hidden water leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use a variety of specialized tools to detect hidden water leaks behind walls without extensive demolition. These include thermal imaging cameras that detect temperature differences caused by moisture, moisture meters that measure the moisture content in materials, acoustic leak detectors that listen for the sound of running water, and borescope cameras for visual inspection through small openings. These tools help pinpoint the exact source of the leak efficiently.",
+        "@type": "Answer",
+        "description": "Professionals use thermal imaging cameras, moisture meters, acoustic leak detectors, and borescope cameras to detect hidden water leaks."
+      }
+    }
+  ],
+  "description": "Professionals use thermal imaging cameras, moisture meters, acoustic leak detectors, and borescope cameras to detect hidden water leaks."
+}

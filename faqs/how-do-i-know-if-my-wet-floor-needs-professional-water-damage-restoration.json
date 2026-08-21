@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-know-if-my-wet-floor-needs-professional-water-damage-restoration",
+  "name": "How do I know if my wet floor needs professional water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my wet floor needs professional water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely need professional water damage restoration if the wet area is larger than a small spill, if the water has been present for more than a few hours, or if porous materials like carpets, drywall, or wood flooring are saturated. Professionals have specialized equipment to detect hidden moisture, thoroughly dry materials, and prevent mold growth that DIY methods often miss. Ignoring significant water damage can lead to structural problems and health hazards.",
+        "@type": "Answer",
+        "description": "Professional restoration is needed for large wet areas, prolonged water exposure, or saturated porous materials, as they can prevent hidden moisture and mold effectively."
+      }
+    }
+  ],
+  "description": "Professional restoration is needed for large wet areas, prolonged water exposure, or saturated porous materials, as they can prevent hidden moisture and mold ef"
+}

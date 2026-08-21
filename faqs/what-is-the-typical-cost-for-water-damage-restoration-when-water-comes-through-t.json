@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-water-damage-restoration-when-water-comes-through-t",
+  "name": "What is the typical cost for water damage restoration when water comes through the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for water damage restoration when water comes through the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for water damage restoration when water comes through the floor varies significantly based on the source of the water, the extent of the damage, the materials affected, and the duration the water has been present. It includes services like water extraction, structural drying, sanitization, and potential repairs. A detailed assessment is necessary to provide an accurate estimate. Many insurance policies cover sudden and accidental water damage.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, water source, and affected materials. A professional assessment is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, water source, and affected materials. A professional assessment is needed for an accurate estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-remove-my-belongings-before-restoration-begins",
+  "name": "Do I need to remove my belongings before restoration begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my belongings before restoration begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the initial assessment, our team will advise on which belongings need to be moved or removed. For heavily damaged or contaminated items, professional content cleaning and storage may be necessary. We can assist with carefully packing out salvageable items and transporting them to a secure facility for cleaning and storage, ensuring they are protected during the restoration work on your property. This helps to prevent further damage to your possessions.",
+        "@type": "Answer",
+        "description": "Our team will advise on moving or removing belongings; we can also provide professional content cleaning and secure storage for salvageable items."
+      }
+    }
+  ],
+  "description": "Our team will advise on moving or removing belongings; we can also provide professional content cleaning and secure storage for salvageable items."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-dry-out-walls-with-wet-insulation",
+  "name": "How do professionals dry out walls with wet insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals dry out walls with wet insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional drying involves a multi-step process. First, the source of water is stopped. Then, moisture detection tools are used to map the extent of the damage. Depending on the severity and type of insulation, wet materials may be removed. High-powered dehumidifiers and air movers are strategically placed to circulate dry air and extract moisture from wall cavities and structural components. Thermal imaging may be used to monitor the drying process and ensure all hidden moisture is addressed. The area is also cleaned and sanitized to prevent mold.",
+        "@type": "Answer",
+        "description": "Professionals stop the water source, assess moisture, remove saturated materials if needed, and use industrial dehumidifiers and air movers to dry wall cavities."
+      }
+    }
+  ],
+  "description": "Professionals stop the water source, assess moisture, remove saturated materials if needed, and use industrial dehumidifiers and air movers to dry wall cavities"
+}

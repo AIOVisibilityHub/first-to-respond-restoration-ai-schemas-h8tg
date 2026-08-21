@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-repair-wet-ceiling-drywall",
+  "name": "How much does it cost to repair wet ceiling drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair wet ceiling drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair wet ceiling drywall varies widely depending on several factors: the size of the damaged area, the extent of water intrusion, whether mold remediation is needed, and the cost of accessing and repairing the underlying leak. A minor patch might be inexpensive, but extensive damage requiring structural drying and reconstruction will be significantly more. A professional assessment can provide an accurate estimate.",
+        "@type": "Answer",
+        "description": "Cost to repair wet ceiling drywall depends on damage size, water extent, mold presence, and leak repair, requiring a professional assessment for an estimate."
+      }
+    }
+  ],
+  "description": "Cost to repair wet ceiling drywall depends on damage size, water extent, mold presence, and leak repair, requiring a professional assessment for an estimate."
+}

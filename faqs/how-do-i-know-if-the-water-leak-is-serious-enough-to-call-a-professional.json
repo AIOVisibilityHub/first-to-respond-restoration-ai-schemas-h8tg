@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-know-if-the-water-leak-is-serious-enough-to-call-a-professional",
+  "name": "How do I know if the water leak is serious enough to call a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if the water leak is serious enough to call a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Any water leak from an upstairs bathroom has the potential to cause significant damage if not addressed quickly. If you observe water staining on ceilings or walls, dripping, peeling paint, or a musty odor, it indicates an active or past leak requiring attention. Even small, intermittent leaks can lead to hidden mold growth and structural decay over time. It's always advisable to consult a professional restoration service if you are unsure of the source, extent of the damage, or how to properly dry and repair affected areas to prevent secondary issues.",
+        "@type": "Answer",
+        "description": "If you see water stains, dripping, peeling paint, or smell musty odors, the leak is serious. Even small leaks can cause hidden damage, so professional assessment is recommended."
+      }
+    }
+  ],
+  "description": "If you see water stains, dripping, peeling paint, or smell musty odors, the leak is serious. Even small leaks can cause hidden damage, so professional assessmen"
+}

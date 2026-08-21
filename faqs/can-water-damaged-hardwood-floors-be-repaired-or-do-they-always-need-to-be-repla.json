@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-water-damaged-hardwood-floors-be-repaired-or-do-they-always-need-to-be-repla",
+  "name": "Can water-damaged hardwood floors be repaired, or do they always need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged hardwood floors be repaired, or do they always need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The possibility of repairing water-damaged hardwood floors depends on the extent and severity of the damage. Minor water exposure might only require drying, sanding, and refinishing. However, if the damage is significant, such as severe buckling, widespread mold growth, or structural compromise of the wood, replacement of affected sections or the entire floor may be necessary. A professional assessment can determine the most effective and cost-efficient solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Minor water damage might allow for repair, drying, sanding, and refinishing. Severe damage, like buckling or mold, often requires replacement. A professional assessment is recommended."
+      }
+    }
+  ],
+  "description": "Minor water damage might allow for repair, drying, sanding, and refinishing. Severe damage, like buckling or mold, often requires replacement. A professional as"
+}

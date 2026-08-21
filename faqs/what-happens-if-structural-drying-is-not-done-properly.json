@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-happens-if-structural-drying-is-not-done-properly",
+  "name": "What happens if structural drying is not done properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if structural drying is not done properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If structural drying is not performed correctly or thoroughly, several serious issues can arise. Lingering moisture creates an ideal environment for mold and mildew growth, which can cause health problems and further damage materials. It can also lead to foul odors, warping of wood, delamination of flooring, and weakened structural components of your property. Improper drying significantly increases the risk of needing more extensive and costly repairs down the line for properties in Tarzana, Encino, or beyond.",
+        "@type": "Answer",
+        "description": "Improper structural drying leads to mold growth, persistent odors, material damage, and potentially weakened structures, requiring costlier future repairs."
+      }
+    }
+  ],
+  "description": "Improper structural drying leads to mold growth, persistent odors, material damage, and potentially weakened structures, requiring costlier future repairs."
+}

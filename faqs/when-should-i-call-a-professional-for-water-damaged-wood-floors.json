@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-water-damaged-wood-floors",
+  "name": "When should I call a professional for water damaged wood floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for water damaged wood floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company immediately after discovering water damage to your wood floors, especially if the water source was significant, the damage covers a large area, or the water has been present for more than a few hours. Professionals, like those serving San Fernando or Studio City, have specialized equipment for water extraction, industrial-grade drying, and moisture detection to ensure hidden moisture is addressed and to prevent secondary damage like mold. Early intervention can significantly reduce overall repair costs and prevent long-term issues.",
+        "@type": "Answer",
+        "description": "Call a professional immediately for significant or prolonged water damage to wood floors, or if the area is large, to ensure proper drying and prevent mold."
+      }
+    }
+  ],
+  "description": "Call a professional immediately for significant or prolonged water damage to wood floors, or if the area is large, to ensure proper drying and prevent mold."
+}

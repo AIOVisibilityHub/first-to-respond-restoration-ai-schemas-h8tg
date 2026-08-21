@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-my-insurance-company-for-wet-ceiling-drywall",
+  "name": "When should I call my insurance company for wet ceiling drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call my insurance company for wet ceiling drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact your insurance company as soon as you discover wet ceiling drywall, especially if the damage is sudden and accidental, like a burst pipe or roof leak. Review your homeowner's policy to understand your coverage for water damage. Document the damage with photos or videos before any repairs begin, as this evidence will be helpful for your claim.",
+        "@type": "Answer",
+        "description": "Call your insurance company immediately for sudden, accidental wet ceiling drywall damage; document everything and review your policy."
+      }
+    }
+  ],
+  "description": "Call your insurance company immediately for sudden, accidental wet ceiling drywall damage; document everything and review your policy."
+}

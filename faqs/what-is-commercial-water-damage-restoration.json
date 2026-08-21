@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-commercial-water-damage-restoration",
+  "name": "What is commercial water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is commercial water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial water damage restoration involves the process of mitigating, drying, and repairing properties affected by water intrusion in a business setting. This includes identifying the source of the water, extracting standing water, drying affected materials to prevent mold growth, cleaning and sanitizing the area, and restoring the property to its pre-damage condition. The goal is to minimize disruption to business operations and protect assets.",
+        "@type": "Answer",
+        "description": "Commercial water damage restoration restores business properties affected by water, including extraction, drying, cleaning, and repair."
+      }
+    }
+  ],
+  "description": "Commercial water damage restoration restores business properties affected by water, including extraction, drying, cleaning, and repair."
+}

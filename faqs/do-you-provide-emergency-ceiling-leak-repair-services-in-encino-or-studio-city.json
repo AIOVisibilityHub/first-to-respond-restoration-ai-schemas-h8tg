@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-provide-emergency-ceiling-leak-repair-services-in-encino-or-studio-city",
+  "name": "Do you provide emergency ceiling leak repair services in Encino or Studio City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you provide emergency ceiling leak repair services in Encino or Studio City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration offers emergency ceiling leak repair and water damage restoration services in Encino, Studio City, and other surrounding areas including North Hollywood, San Fernando, and Tarzana. Our team is equipped to respond quickly to water emergencies to assess the damage, mitigate the leak, and begin the restoration process promptly. We understand the urgency of ceiling leaks and are available to help protect your property from further damage.",
+        "@type": "Answer",
+        "description": "Yes, we provide emergency ceiling leak repair and water damage restoration services in Encino, Studio City, North Hollywood, San Fernando, and Tarzana."
+      }
+    }
+  ],
+  "description": "Yes, we provide emergency ceiling leak repair and water damage restoration services in Encino, Studio City, North Hollywood, San Fernando, and Tarzana."
+}

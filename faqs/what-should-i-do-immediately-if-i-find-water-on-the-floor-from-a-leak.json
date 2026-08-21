@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-find-water-on-the-floor-from-a-leak",
+  "name": "What should I do immediately if I find water on the floor from a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I find water on the floor from a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover water on the floor from a leak, first prioritize safety by turning off the water supply to the affected area or your entire home. If the leak is near electrical outlets or appliances, turn off the power to that section of your home at the breaker box. Remove any valuable items from the wet area to prevent further damage. Begin removing standing water by mopping or using towels. Contact a professional restoration company promptly, as hidden moisture can lead to significant structural damage and mold growth if not addressed quickly.",
+        "@type": "Answer",
+        "description": "Immediately turn off the water supply and power to the affected area. Remove valuables, begin removing standing water, and contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately turn off the water supply and power to the affected area. Remove valuables, begin removing standing water, and contact a professional restoration co"
+}

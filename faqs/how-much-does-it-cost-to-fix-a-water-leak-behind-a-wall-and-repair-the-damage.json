@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-fix-a-water-leak-behind-a-wall-and-repair-the-damage",
+  "name": "How much does it cost to fix a water leak behind a wall and repair the damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a water leak behind a wall and repair the damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a water leak and repair the damage behind a wall varies widely. Factors influencing the cost include the leak's severity, the type of water (clean, gray, or black), the extent of material damage (drywall, insulation, flooring), potential mold growth, and the size of the affected area. A detailed assessment by a professional restoration company is necessary to provide an accurate estimate, as costs can range significantly depending on the scope of work required.",
+        "@type": "Answer",
+        "description": "Costs vary based on the leak's severity, water type, extent of damage, and presence of mold. A professional assessment is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on the leak's severity, water type, extent of damage, and presence of mold. A professional assessment is needed for an accurate estimate."
+}

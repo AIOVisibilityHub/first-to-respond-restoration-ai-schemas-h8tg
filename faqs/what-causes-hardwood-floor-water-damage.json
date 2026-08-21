@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-hardwood-floor-water-damage",
+  "name": "What causes hardwood floor water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes hardwood floor water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hardwood floor water damage can stem from various sources, including sudden events like burst pipes, appliance leaks, or overflowing toilets. It can also result from prolonged exposure to moisture, such as high indoor humidity, leaks from roofs or windows, or even spills that aren't cleaned promptly. The severity of the damage depends on the water source, the duration of exposure, and the type of wood and finish. Understanding the cause is crucial for effective repair and prevention.",
+        "@type": "Answer",
+        "description": "Hardwood floor water damage is typically caused by burst pipes, appliance leaks, overflowing toilets, or prolonged moisture exposure from sources like roof leaks or high humidity."
+      }
+    }
+  ],
+  "description": "Hardwood floor water damage is typically caused by burst pipes, appliance leaks, overflowing toilets, or prolonged moisture exposure from sources like roof leak"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-repair-water-damaged-drywall",
+  "name": "How much does it cost to repair water damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair water damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair water damaged drywall varies significantly based on several factors. These include the extent of the damage, the size of the affected area, whether mold remediation is necessary, and the type of finish required. Costs can also be influenced by the source of the water damage and if plumbing or structural repairs are needed. A professional assessment provides the most accurate estimate tailored to your specific situation, helping you understand the full scope of work and associated expenses.",
+        "@type": "Answer",
+        "description": "Repair costs vary based on damage extent, affected area size, mold presence, and finish type. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Repair costs vary based on damage extent, affected area size, mold presence, and finish type. A professional assessment provides an accurate estimate."
+}

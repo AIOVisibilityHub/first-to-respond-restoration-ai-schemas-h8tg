@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-structural-drying-cost",
+  "name": "How much does structural drying cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does structural drying cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of structural drying varies widely based on the size of the affected area, the extent of the water damage, the type of materials involved, and the duration of the drying process. While it's difficult to provide an exact figure without an assessment, most reputable restoration companies provide a detailed estimate after an initial inspection. Many insurance policies cover water damage mitigation, including structural drying. We work with insurance companies to streamline the process for properties in Studio City, Tarzana, and surrounding areas.",
+        "@type": "Answer",
+        "description": "The cost of structural drying depends on the damage extent and area size; estimates are provided after inspection, and insurance often covers it."
+      }
+    }
+  ],
+  "description": "The cost of structural drying depends on the damage extent and area size; estimates are provided after inspection, and insurance often covers it."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/which-areas-do-you-serve-for-water-damage-restoration-from-floor-leaks",
+  "name": "Which areas do you serve for water damage restoration from floor leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas do you serve for water damage restoration from floor leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides comprehensive water damage restoration services for floor leaks in various locations. Our primary service areas include Encino, North Hollywood, San Fernando, Studio City, and Tarzana. We are equipped to respond rapidly to emergencies in these communities, offering thorough assessment, water extraction, drying, and restoration to help residents and businesses recover quickly from water-related incidents. Contact us for immediate assistance if you are in any of these areas.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water damage restoration from floor leaks."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water damage restoration from floor leaks."
+}

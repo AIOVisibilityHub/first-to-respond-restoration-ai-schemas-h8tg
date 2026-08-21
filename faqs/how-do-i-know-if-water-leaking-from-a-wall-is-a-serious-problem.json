@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-know-if-water-leaking-from-a-wall-is-a-serious-problem",
+  "name": "How do I know if water leaking from a wall is a serious problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if water leaking from a wall is a serious problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Any water leaking from a wall should be considered a serious problem, as it can lead to significant structural damage, mold growth, and compromised indoor air quality. Signs that indicate a serious issue include a strong musty odor, visible mold spots, warped or discolored drywall, peeling paint, or a significant increase in your water bill. Even a small, slow leak can cause extensive hidden damage over time, making prompt professional assessment essential to prevent escalation.",
+        "@type": "Answer",
+        "description": "Any wall leak is serious. Signs like musty odors, mold, warped drywall, or a high water bill indicate significant issues requiring immediate professional attention."
+      }
+    }
+  ],
+  "description": "Any wall leak is serious. Signs like musty odors, mold, warped drywall, or a high water bill indicate significant issues requiring immediate professional attent"
+}

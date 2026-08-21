@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-dry-out-a-home-after-water-comes-up-through-the-floor",
+  "name": "How long does it take to dry out a home after water comes up through the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to dry out a home after water comes up through the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drying time for a home after water comes up through the floor depends on factors like the amount of water, the types of materials affected (e.g., concrete, wood, carpet), humidity levels, and the effectiveness of the drying equipment. On average, structural drying can take between three to five days, but severe cases may require longer. Our technicians monitor moisture levels daily to ensure thorough drying.",
+        "@type": "Answer",
+        "description": "Drying time typically ranges from three to five days, varying based on water volume, affected materials, and environmental conditions."
+      }
+    }
+  ],
+  "description": "Drying time typically ranges from three to five days, varying based on water volume, affected materials, and environmental conditions."
+}

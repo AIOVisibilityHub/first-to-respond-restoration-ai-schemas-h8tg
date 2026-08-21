@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-see-water-dripping-from-my-ceiling",
+  "name": "What should I do immediately if I see water dripping from my ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I see water dripping from my ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you notice water dripping from your ceiling, your first step should be to contain the water to minimize damage. Place buckets or containers under the drip and clear any valuable items from the area. If safe to do so, try to identify the source of the leak and turn off the water supply to that area or the main water supply to your home. It's also important to shut off electricity to the affected area to prevent electrical hazards. Contact a professional restoration company or plumber promptly for assessment and repair.",
+        "@type": "Answer",
+        "description": "Immediately contain the water with buckets, clear valuables, turn off the water supply if possible, and shut off electricity to the affected area. Then, contact a professional."
+      }
+    }
+  ],
+  "description": "Immediately contain the water with buckets, clear valuables, turn off the water supply if possible, and shut off electricity to the affected area. Then, contact"
+}

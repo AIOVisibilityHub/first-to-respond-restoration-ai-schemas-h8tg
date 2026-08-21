@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-choose-a-local-restoration-company-for-water-damage-in-encino-or-north-holly",
+  "name": "Why choose a local restoration company for water damage in Encino or North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose a local restoration company for water damage in Encino or North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local restoration company like First To Respond Restoration for water damage in areas like Encino or North Hollywood offers several advantages. Local companies typically have a faster response time, which is critical in preventing further damage and mold growth. They are familiar with local building codes and insurance claim processes, often having established relationships with local adjusters. Their proximity means quicker access to your property for ongoing monitoring and adjustments during the drying process, providing more personalized and efficient service.",
+        "@type": "Answer",
+        "description": "Local restoration companies offer faster response times, familiarity with local codes and insurance, and personalized service, which is crucial for quick and effective water damage repair."
+      }
+    }
+  ],
+  "description": "Local restoration companies offer faster response times, familiarity with local codes and insurance, and personalized service, which is crucial for quick and ef"
+}

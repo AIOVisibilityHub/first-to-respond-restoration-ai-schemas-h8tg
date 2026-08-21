@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-emergency-water-damage-restoration",
+  "name": "What is emergency water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is emergency water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency water damage restoration is the process of mitigating and repairing damage caused by water intrusion. This includes immediate actions like water extraction, drying, dehumidification, and cleaning to prevent further damage such as mold growth and structural issues. The goal is to restore the affected property to its pre-damage condition as quickly and efficiently as possible, minimizing loss and ensuring a safe environment.",
+        "@type": "Answer",
+        "description": "Emergency water damage restoration involves promptly addressing water intrusion through extraction, drying, and cleaning to prevent further damage and restore a property."
+      }
+    }
+  ],
+  "description": "Emergency water damage restoration involves promptly addressing water intrusion through extraction, drying, and cleaning to prevent further damage and restore a"
+}
