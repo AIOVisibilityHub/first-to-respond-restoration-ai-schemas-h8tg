@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-myself",
+  "name": "Can I remove mold myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For very small areas of mold (less than 10 square feet, roughly 3 feet by 3 feet) on non-porous surfaces, homeowners may be able to clean it themselves using appropriate protective gear and cleaning solutions. However, if the mold is extensive, covers porous materials, is due to sewage or contaminated water, or if anyone in the household has mold-related health concerns, professional remediation is strongly recommended. Attempting to clean large infestations without proper containment can spread spores and worsen the problem.",
+        "@type": "Answer",
+        "description": "You can clean small mold patches on non-porous surfaces, but professional help is advised for larger areas or health concerns."
+      }
+    }
+  ],
+  "description": "You can clean small mold patches on non-porous surfaces, but professional help is advised for larger areas or health concerns."
+}

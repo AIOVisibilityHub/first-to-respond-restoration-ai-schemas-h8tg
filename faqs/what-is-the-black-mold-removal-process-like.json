@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-black-mold-removal-process-like",
+  "name": "What is the black mold removal process like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the black mold removal process like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional black mold removal begins with containment to prevent spores from spreading to unaffected areas, often involving plastic sheeting and negative air pressure. Technicians then identify and fix the moisture source. Affected porous materials like drywall or insulation are typically removed and disposed of. Non-porous surfaces are cleaned and disinfected. High-efficiency particulate air (HEPA) vacuums and air scrubbers are used to remove airborne mold spores. Finally, the area is dried thoroughly and restored, sometimes with anti-microbial treatments.",
+        "@type": "Answer",
+        "description": "The process involves containment, fixing moisture sources, removing affected materials, cleaning surfaces, air filtration, and thorough drying to prevent re-growth."
+      }
+    }
+  ],
+  "description": "The process involves containment, fixing moisture sources, removing affected materials, cleaning surfaces, air filtration, and thorough drying to prevent re-gro"
+}

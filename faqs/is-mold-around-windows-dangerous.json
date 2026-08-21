@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-around-windows-dangerous",
+  "name": "Is mold around windows dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold around windows dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all mold is toxic, mold around windows can pose health risks, especially for individuals with allergies, asthma, or compromised immune systems. Exposure can lead to respiratory issues, skin irritation, headaches, and other symptoms. Black mold, specifically Stachybotrys chartarum, is particularly concerning. Prompt removal is crucial to prevent health problems and further spread of the mold throughout your property.",
+        "@type": "Answer",
+        "description": "Mold around windows can pose health risks, particularly for sensitive individuals, causing respiratory issues and other symptoms. Prompt removal is important."
+      }
+    }
+  ],
+  "description": "Mold around windows can pose health risks, particularly for sensitive individuals, causing respiratory issues and other symptoms. Prompt removal is important."
+}

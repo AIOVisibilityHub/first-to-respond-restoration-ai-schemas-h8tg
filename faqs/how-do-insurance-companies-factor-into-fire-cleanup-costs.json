@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-insurance-companies-factor-into-fire-cleanup-costs",
+  "name": "How do insurance companies factor into fire cleanup costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do insurance companies factor into fire cleanup costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies include coverage for fire damage, which typically extends to professional fire cleanup and restoration services. After reporting the fire, your insurance adjuster will assess the damage and determine the scope of coverage. Restoration companies often work directly with insurance providers, assisting with documentation and billing to streamline the claims process for you. While you are responsible for any deductible, the insurance payout covers the majority of the restoration expenses, helping to alleviate the financial burden of rebuilding and cleaning.",
+        "@type": "Answer",
+        "description": "Insurance companies typically cover fire cleanup costs under homeowner's policies, and restoration companies often work with adjusters to manage claims."
+      }
+    }
+  ],
+  "description": "Insurance companies typically cover fire cleanup costs under homeowner's policies, and restoration companies often work with adjusters to manage claims."
+}

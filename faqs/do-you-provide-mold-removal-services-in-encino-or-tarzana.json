@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-provide-mold-removal-services-in-encino-or-tarzana",
+  "name": "Do you provide mold removal services in Encino or Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you provide mold removal services in Encino or Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration proudly offers comprehensive mold removal and remediation services throughout our service areas, including Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our certified technicians are equipped to handle mold under flooring, walls, ceilings, and other affected areas. We understand the urgency of mold issues and are available to provide prompt, effective solutions to protect your property and health. Contact us for an inspection and to learn more about how we can assist you in these specific locations.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration provides mold removal services in Encino, Tarzana, and other listed service areas."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration provides mold removal services in Encino, Tarzana, and other listed service areas."
+}

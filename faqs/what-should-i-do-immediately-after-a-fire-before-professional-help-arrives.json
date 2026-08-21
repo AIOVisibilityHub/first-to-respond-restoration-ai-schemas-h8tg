@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-fire-before-professional-help-arrives",
+  "name": "What should I do immediately after a fire, before professional help arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a fire, before professional help arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring everyone's safety and the fire department has cleared the property, contact your insurance company to report the damage. You can also contact a professional restoration service immediately. Avoid entering the property unless it's deemed safe. Do not attempt to clean up any soot or smoke residue yourself, as improper methods can cause further damage. Do not turn on any utilities, particularly electricity, until they have been inspected. If possible, open windows to help with ventilation, but only if it's safe to do so without compromising security.",
+        "@type": "Answer",
+        "description": "Immediately after a fire, contact your insurance and a restoration service. Do not enter unsafe areas, attempt cleanup, or use utilities until inspected."
+      }
+    }
+  ],
+  "description": "Immediately after a fire, contact your insurance and a restoration service. Do not enter unsafe areas, attempt cleanup, or use utilities until inspected."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-professional-bathroom-mold-remediation-cost",
+  "name": "How much does professional bathroom mold remediation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional bathroom mold remediation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional bathroom mold remediation varies significantly based on several factors. These include the size of the affected area, the extent of the mold growth, the type of materials contaminated, and the complexity of the removal process. Accessibility to the mold and whether repairs are needed after remediation also influence the final price. Minor, isolated mold issues might be less costly, while extensive growth requiring demolition and reconstruction will be more significant. We offer inspections to provide a precise estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "The cost of professional bathroom mold remediation depends on the mold's size, severity, type of materials affected, and necessary repairs. An inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost of professional bathroom mold remediation depends on the mold's size, severity, type of materials affected, and necessary repairs. An inspection provid"
+}

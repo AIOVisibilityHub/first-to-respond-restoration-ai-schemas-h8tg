@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-professional-mold-remediation-for-a-small-water-leak",
+  "name": "Do I need professional mold remediation for a small water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need professional mold remediation for a small water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even a small water leak can lead to significant mold growth, especially if the water penetrates porous materials and remains undiscovered for several days. While you might be able to clean a very small, surface mold issue (less than 10 square feet) yourself with proper safety precautions, larger or hidden mold infestations, or those resulting from contaminated water, generally require professional remediation. Professionals have the equipment to detect hidden mold, contain spores, and safely remove contaminated materials, preventing recurrence.",
+        "@type": "Answer",
+        "description": "Professional mold remediation is recommended for most water leaks, especially if the mold covers more than 10 square feet, is hidden, or if the water was contaminated. Small surface mold might be manageable yourself."
+      }
+    }
+  ],
+  "description": "Professional mold remediation is recommended for most water leaks, especially if the mold covers more than 10 square feet, is hidden, or if the water was contam"
+}

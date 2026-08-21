@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-remove-mold-safely-and-effectively",
+  "name": "How do professionals remove mold safely and effectively?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals remove mold safely and effectively?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold removal involves a multi-step process to ensure safe and effective remediation. First, the affected area is contained to prevent mold spores from spreading to other parts of your property. Next, specialized equipment like HEPA vacuums and air scrubbers are used to remove mold colonies and clean the air. Contaminated materials that cannot be salvaged are safely removed and disposed of. Finally, the area is thoroughly dried and treated with antimicrobial agents to deter future growth, followed by a final cleaning and, if necessary, structural repairs.",
+        "@type": "Answer",
+        "description": "Professionals contain the area, use specialized equipment to remove mold and contaminated materials, then dry and treat surfaces to prevent re-growth."
+      }
+    }
+  ],
+  "description": "Professionals contain the area, use specialized equipment to remove mold and contaminated materials, then dry and treat surfaces to prevent re-growth."
+}

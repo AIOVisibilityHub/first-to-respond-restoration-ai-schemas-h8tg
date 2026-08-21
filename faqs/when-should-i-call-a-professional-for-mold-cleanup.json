@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-cleanup",
+  "name": "When should I call a professional for mold cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for mold cleanup if the affected area is larger than 10 square feet, if you suspect mold is growing behind walls, or if you or your family members are experiencing health issues potentially related to mold exposure. Additionally, if the mold growth is due to water damage from a sewage leak or a contaminated water source, professional remediation is essential. Professionals have the necessary equipment and expertise to safely contain and remove mold, preventing its return.",
+        "@type": "Answer",
+        "description": "Call a professional if mold covers more than 10 square feet, is hidden, or if you have health concerns. Professionals ensure safe and complete removal."
+      }
+    }
+  ],
+  "description": "Call a professional if mold covers more than 10 square feet, is hidden, or if you have health concerns. Professionals ensure safe and complete removal."
+}

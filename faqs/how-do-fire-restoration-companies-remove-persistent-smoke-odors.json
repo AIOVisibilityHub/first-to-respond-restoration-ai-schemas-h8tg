@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-fire-restoration-companies-remove-persistent-smoke-odors",
+  "name": "How do fire restoration companies remove persistent smoke odors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do fire restoration companies remove persistent smoke odors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing persistent smoke odors is a specialized process that goes beyond surface cleaning. Restoration companies use a combination of techniques, including thorough cleaning of all affected surfaces to remove soot particles that trap odors. They may then employ professional-grade air scrubbers, ozone generators (used in uninhabited areas), thermal foggers, and hydroxyl generators to neutralize odor molecules at a molecular level. These methods penetrate porous materials and the air to eliminate, not just mask, the smell of smoke.",
+        "@type": "Answer",
+        "description": "Fire restoration companies remove smoke odors using specialized cleaning, air scrubbers, ozone, thermal foggers, and hydroxyl generators to neutralize odor molecules at a molecular level."
+      }
+    }
+  ],
+  "description": "Fire restoration companies remove smoke odors using specialized cleaning, air scrubbers, ozone, thermal foggers, and hydroxyl generators to neutralize odor mole"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-a-hidden-mold-detection-inspection-take",
+  "name": "How long does a hidden mold detection inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a hidden mold detection inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a hidden mold detection inspection typically depends on the size and accessibility of the property, as well as the suspected extent of the mold issue. A standard inspection for a residential home might take anywhere from 1 to 3 hours. More complex cases, such as those involving multiple areas of concern, extensive water damage, or larger commercial properties, could require several hours or even a full day. Our technicians work efficiently while ensuring a thorough investigation to accurately identify any hidden mold.",
+        "@type": "Answer",
+        "description": "A typical hidden mold inspection takes 1 to 3 hours, but complex or larger properties may require more time for thorough investigation."
+      }
+    }
+  ],
+  "description": "A typical hidden mold inspection takes 1 to 3 hours, but complex or larger properties may require more time for thorough investigation."
+}

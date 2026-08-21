@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-black-mold-and-how-does-it-get-into-my-home",
+  "name": "What is black mold and how does it get into my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is black mold and how does it get into my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black mold, scientifically known as Stachybotrys chartarum, is a type of mold that appears dark green or black and often has a slimy texture. It thrives in damp, humid conditions with a steady supply of moisture, such as leaks, floods, or high humidity. Mold spores are naturally present in the air and enter homes through open doorways, windows, or HVAC systems. When these spores land on a wet surface with an organic food source like drywall or wood, they can begin to grow and spread, potentially leading to a black mold infestation.",
+        "@type": "Answer",
+        "description": "Black mold is a dark-colored mold that grows in damp areas with moisture, like leaks. Spores enter homes through air and grow on wet organic materials."
+      }
+    }
+  ],
+  "description": "Black mold is a dark-colored mold that grows in damp areas with moisture, like leaks. Spores enter homes through air and grow on wet organic materials."
+}

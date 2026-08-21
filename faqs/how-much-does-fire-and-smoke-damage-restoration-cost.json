@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-fire-and-smoke-damage-restoration-cost",
+  "name": "How much does fire and smoke damage restoration cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does fire and smoke damage restoration cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of fire and smoke damage restoration varies significantly depending on the extent of the damage, the size of the affected area, and the materials involved. Factors like structural damage, water damage from firefighting efforts, and the type of smoke residue all influence the total cost. Most homeowners' insurance policies cover fire damage restoration. First To Respond Restoration can provide a detailed estimate after a thorough assessment, working with your insurance provider to streamline the claims process.",
+        "@type": "Answer",
+        "description": "Restoration costs depend on damage severity and property size; most are covered by homeowner's insurance. We provide estimates."
+      }
+    }
+  ],
+  "description": "Restoration costs depend on damage severity and property size; most are covered by homeowner's insurance. We provide estimates."
+}

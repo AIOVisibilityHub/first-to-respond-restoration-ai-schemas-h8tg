@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-mold-restoration-cost-in-areas-like-encino-or-tarzana",
+  "name": "How much does mold restoration cost in areas like Encino or Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does mold restoration cost in areas like Encino or Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold restoration in areas such as Encino or Tarzana is highly variable, depending on the extent of mold growth, the type of materials affected, and the necessary remediation techniques. Small, localized mold issues might be less costly, while large-scale infestations requiring extensive demolition and reconstruction will incur higher expenses. A professional inspection is essential to get an accurate estimate tailored to your specific situation, as pricing is determined by the scope of work.",
+        "@type": "Answer",
+        "description": "Mold restoration costs vary significantly based on the mold's extent and affected materials. A professional inspection provides an accurate estimate for areas like Encino or Tarzana."
+      }
+    }
+  ],
+  "description": "Mold restoration costs vary significantly based on the mold's extent and affected materials. A professional inspection provides an accurate estimate for areas l"
+}

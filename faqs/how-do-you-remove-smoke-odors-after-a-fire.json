@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-remove-smoke-odors-after-a-fire",
+  "name": "How do you remove smoke odors after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you remove smoke odors after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing smoke odors after a fire requires a multi-step approach using specialized equipment and techniques. First, all soot and residue must be thoroughly cleaned from surfaces, as these are primary sources of odor. Then, air scrubbers with HEPA and activated carbon filters are used to clean the air. Thermal fogging or ozone generators may be employed to neutralize odor molecules at a molecular level, penetrating porous materials. Deodorizing sealants can also be applied to affected surfaces to encapsulate any remaining odors.",
+        "@type": "Answer",
+        "description": "Smoke odors are removed by thorough cleaning, air scrubbing, and advanced techniques like thermal fogging or ozone generation to neutralize odor molecules."
+      }
+    }
+  ],
+  "description": "Smoke odors are removed by thorough cleaning, air scrubbing, and advanced techniques like thermal fogging or ozone generation to neutralize odor molecules."
+}

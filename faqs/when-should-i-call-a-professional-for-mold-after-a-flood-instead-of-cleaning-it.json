@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-after-a-flood-instead-of-cleaning-it",
+  "name": "When should I call a professional for mold after a flood instead of cleaning it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold after a flood instead of cleaning it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for mold remediation if the affected area is larger than 10 square feet, if the mold is in HVAC systems, or if you suspect hidden mold behind walls. Additionally, if you have health concerns, or if the water damage involved sewage or other contaminated water, professional intervention is crucial. DIY efforts might spread spores or fail to address the root cause, leading to recurrence.",
+        "@type": "Answer",
+        "description": "Call a professional for mold larger than 10 sq ft, in HVAC, suspected hidden mold, or if you have health concerns."
+      }
+    }
+  ],
+  "description": "Call a professional for mold larger than 10 sq ft, in HVAC, suspected hidden mold, or if you have health concerns."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-black-mold-removal",
+  "name": "When should I call a professional for black mold removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for black mold removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional for black mold removal if the affected area is larger than roughly 10 square feet (about 3 feet by 3 feet), if the mold growth is due to contaminated water (e.g., sewage backup), or if you experience persistent health symptoms that you suspect are mold-related. Professionals have the necessary equipment and expertise to safely contain and remove mold, prevent its spread, and address underlying moisture issues effectively, particularly in hard-to-reach areas.",
+        "@type": "Answer",
+        "description": "Call a professional for black mold removal if the affected area is large (over 10 sq ft), if water was contaminated, or if you have mold-related health concerns."
+      }
+    }
+  ],
+  "description": "Call a professional for black mold removal if the affected area is large (over 10 sq ft), if water was contaminated, or if you have mold-related health concerns"
+}

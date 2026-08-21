@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-mold-to-grow-around-an-air-conditioner",
+  "name": "What causes mold to grow around an air conditioner?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes mold to grow around an air conditioner?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold growth around an air conditioner is typically caused by excess moisture. AC units condense water during operation, and if this moisture isn't properly drained or if there's high humidity in the surrounding environment, it creates ideal conditions for mold spores to thrive. Factors like clogged condensate drain lines, leaky ductwork, poor insulation, or infrequent maintenance can contribute to the accumulation of moisture, leading to mold development on or near the unit, vents, or drip pans.",
+        "@type": "Answer",
+        "description": "Mold around an AC unit is usually caused by excess moisture from condensation, clogged drain lines, or high humidity."
+      }
+    }
+  ],
+  "description": "Mold around an AC unit is usually caused by excess moisture from condensation, clogged drain lines, or high humidity."
+}

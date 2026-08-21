@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-detect-hidden-mold",
+  "name": "How do professionals detect hidden mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals detect hidden mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals use specialized tools and techniques to detect hidden mold without causing unnecessary damage. This often involves using moisture meters to identify elevated moisture levels within building materials, thermal imaging cameras to pinpoint temperature differences that can indicate moisture, and bore scopes to look inside wall cavities through small access holes. Air sampling or surface sampling may also be conducted to identify mold types and spore counts. This comprehensive approach helps confirm the presence of mold, determine its extent, and plan for effective remediation.",
+        "@type": "Answer",
+        "description": "Professionals detect hidden mold using moisture meters, thermal cameras, bore scopes, and air/surface sampling to identify unseen mold and its extent."
+      }
+    }
+  ],
+  "description": "Professionals detect hidden mold using moisture meters, thermal cameras, bore scopes, and air/surface sampling to identify unseen mold and its extent."
+}

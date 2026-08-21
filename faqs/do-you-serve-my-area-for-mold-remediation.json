@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-serve-my-area-for-mold-remediation",
+  "name": "Do you serve my area for mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you serve my area for mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides professional mold remediation services in several areas. We proudly serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana, among other surrounding communities. If you are experiencing mold issues in any of these locations, our certified technicians are ready to assist with rapid response and effective remediation solutions. Contact us to schedule an inspection and receive a detailed assessment for your property.",
+        "@type": "Answer",
+        "description": "Yes, we provide mold remediation services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana."
+      }
+    }
+  ],
+  "description": "Yes, we provide mold remediation services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana."
+}

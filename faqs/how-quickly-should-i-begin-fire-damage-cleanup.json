@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-begin-fire-damage-cleanup",
+  "name": "How quickly should I begin fire damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I begin fire damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should begin fire damage cleanup as soon as the fire department deems the property safe to enter. Soot and smoke residue are acidic and can cause corrosion and permanent discoloration to surfaces and contents if left untreated for too long. Odors also become more deeply embedded over time. Prompt action helps mitigate secondary damage, increases the chances of salvaging personal belongings, and can reduce overall restoration costs. Contacting a restoration company immediately after the fire is extinguished is highly recommended.",
+        "@type": "Answer",
+        "description": "Begin fire damage cleanup as soon as the property is declared safe to prevent further damage from soot and smoke."
+      }
+    }
+  ],
+  "description": "Begin fire damage cleanup as soon as the property is declared safe to prevent further damage from soot and smoke."
+}

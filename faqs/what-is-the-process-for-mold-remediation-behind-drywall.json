@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-mold-remediation-behind-drywall",
+  "name": "What is the process for mold remediation behind drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for mold remediation behind drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The mold remediation process typically begins with inspection and assessment to determine the mold's extent and source. Next, containment measures are established to prevent spores from spreading to unaffected areas. Affected drywall and other materials are then carefully removed and safely disposed of. The area is cleaned, disinfected, and thoroughly dried using specialized equipment. Finally, an air filtration process removes airborne mold spores, and post-remediation testing may be conducted to confirm the air quality is safe before reconstruction.",
+        "@type": "Answer",
+        "description": "The process involves inspection, containment, removal of contaminated materials, thorough cleaning and drying, air filtration, and often post-remediation testing."
+      }
+    }
+  ],
+  "description": "The process involves inspection, containment, removal of contaminated materials, thorough cleaning and drying, air filtration, and often post-remediation testin"
+}

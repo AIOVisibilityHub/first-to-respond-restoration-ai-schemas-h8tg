@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-of-mold-in-a-bathroom",
+  "name": "What are common signs of mold in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of mold in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold in a bathroom include a musty odor, visible spots or patches (which can be black, green, brown, or white), and peeling paint or wallpaper. You might also notice discoloration on walls, ceilings, or grout lines. If you experience persistent allergy-like symptoms when in the bathroom, such as sneezing, coughing, or itchy eyes, it could also indicate hidden mold growth, especially if there's no visible evidence. Checking less visible areas like under sinks, behind toilets, or around shower edges can also reveal hidden mold.",
+        "@type": "Answer",
+        "description": "Signs of bathroom mold include a musty smell, visible spots, peeling paint, or persistent allergy-like symptoms when in the bathroom."
+      }
+    }
+  ],
+  "description": "Signs of bathroom mold include a musty smell, visible spots, peeling paint, or persistent allergy-like symptoms when in the bathroom."
+}

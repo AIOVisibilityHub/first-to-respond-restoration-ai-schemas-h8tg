@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-cleaning-mold-and-mold-remediation",
+  "name": "What's the difference between cleaning mold and mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between cleaning mold and mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning mold typically refers to addressing small, superficial mold growth on non-porous surfaces using household cleaners. Mold remediation, on the other hand, is a more comprehensive process handled by professionals. It involves identifying the moisture source, containing the affected area to prevent spread, safely removing mold from all contaminated materials (including porous ones), treating the area to prevent regrowth, and ensuring proper drying and air filtration. Remediation is necessary for significant or recurring mold issues.",
+        "@type": "Answer",
+        "description": "Cleaning mold is for small surface issues, while mold remediation is a professional process involving containment, removal from all materials, and addressing the source for significant growth."
+      }
+    }
+  ],
+  "description": "Cleaning mold is for small surface issues, while mold remediation is a professional process involving containment, removal from all materials, and addressing th"
+}

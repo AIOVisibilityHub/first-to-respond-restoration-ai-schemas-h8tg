@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-from-my-bathroom-myself",
+  "name": "Can I remove mold from my bathroom myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold from my bathroom myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can typically remove small patches of surface mold in your bathroom yourself if it covers an area less than 10 square feet and is on non-porous surfaces like tile or fiberglass. Use appropriate safety gear, such as gloves and a mask, and a scrubbing brush with a mold-killing solution. However, if the mold covers a larger area, if you suspect it's hidden, or if you or family members have respiratory issues, it's safer and more effective to call a professional. DIY methods might not address the root cause or prevent future growth.",
+        "@type": "Answer",
+        "description": "You can remove small, surface mold patches yourself with precautions. For larger areas, hidden mold, or health concerns, professional help is recommended."
+      }
+    }
+  ],
+  "description": "You can remove small, surface mold patches yourself with precautions. For larger areas, hidden mold, or health concerns, professional help is recommended."
+}

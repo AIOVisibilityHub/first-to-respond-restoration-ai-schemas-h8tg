@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-fire-restoration-company",
+  "name": "When should I call a professional fire restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional fire restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional fire restoration company as soon as the fire department deems your property safe to enter. Timely intervention is crucial to prevent secondary damage, such as corrosion from acidic soot, mold growth from water used to extinguish the fire, and lingering smoke odors. Professional restorers can begin mitigation efforts immediately, including boarding up damaged areas, water extraction, and initial deodorization, which helps to preserve more of your property and contents. Delaying cleanup can lead to more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Call a professional fire restoration company immediately after the fire department declares the property safe to prevent secondary damage and begin mitigation."
+      }
+    }
+  ],
+  "description": "Call a professional fire restoration company immediately after the fire department declares the property safe to prevent secondary damage and begin mitigation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-mold-restoration-take",
+  "name": "How long does mold restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does mold restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold restoration varies depending on the severity of the mold infestation, the size of the affected area, and the type of materials involved. Minor cases might take a few days, while extensive mold problems requiring structural drying and material replacement could take a week or more. A professional assessment will provide a more accurate timeline. Factors like drying times and necessary repairs can also influence the overall project length.",
+        "@type": "Answer",
+        "description": "Mold restoration time depends on the infestation's severity and size, ranging from a few days for minor issues to over a week for extensive cases."
+      }
+    }
+  ],
+  "description": "Mold restoration time depends on the infestation's severity and size, ranging from a few days for minor issues to over a week for extensive cases."
+}

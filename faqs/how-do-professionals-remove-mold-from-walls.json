@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-remove-mold-from-walls",
+  "name": "How do professionals remove mold from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals remove mold from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold removal, or remediation, typically involves several steps. First, the area is contained to prevent spores from spreading. Technicians then identify and fix the moisture source. Affected porous materials, like drywall, are often removed and disposed of. Non-porous surfaces are cleaned with antimicrobial agents. The area is then dried thoroughly, and HEPA vacuums are used to remove airborne spores. Finally, affected areas are repaired and restored.",
+        "@type": "Answer",
+        "description": "Professionals contain the area, fix the moisture source, remove damaged materials, clean surfaces with antimicrobial agents, and dry thoroughly."
+      }
+    }
+  ],
+  "description": "Professionals contain the area, fix the moisture source, remove damaged materials, clean surfaces with antimicrobial agents, and dry thoroughly."
+}

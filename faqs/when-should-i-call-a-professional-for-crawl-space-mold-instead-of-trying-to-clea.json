@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-crawl-space-mold-instead-of-trying-to-clea",
+  "name": "When should I call a professional for crawl space mold instead of trying to clean it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for crawl space mold instead of trying to clean it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the mold covers an area larger than 10 square feet, if you suspect hidden mold behind walls or under flooring, or if you experience persistent health symptoms. Professionals have the necessary protective equipment, specialized cleaning agents, and expertise to safely remove mold and address its source, preventing recurrence and avoiding further contamination of your home. DIY attempts can often spread spores or miss the root cause.",
+        "@type": "Answer",
+        "description": "Call a professional if mold covers more than 10 square feet, if it's hidden, or if you have health symptoms. Professionals ensure safe and effective removal."
+      }
+    }
+  ],
+  "description": "Call a professional if mold covers more than 10 square feet, if it's hidden, or if you have health symptoms. Professionals ensure safe and effective removal."
+}

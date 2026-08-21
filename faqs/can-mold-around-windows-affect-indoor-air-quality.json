@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-mold-around-windows-affect-indoor-air-quality",
+  "name": "Can mold around windows affect indoor air quality?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can mold around windows affect indoor air quality?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, mold around windows can significantly affect indoor air quality. As mold grows, it releases spores and volatile organic compounds (VOCs) into the air. These airborne particles and gasses can be inhaled, leading to allergic reactions, respiratory problems, and irritation of the eyes, nose, and throat for sensitive individuals. Poor air quality due to mold can also contribute to a persistent musty odor throughout your home, indicating a need for professional assessment.",
+        "@type": "Answer",
+        "description": "Mold around windows releases spores and VOCs, which can reduce indoor air quality and cause respiratory issues, allergic reactions, and a musty odor."
+      }
+    }
+  ],
+  "description": "Mold around windows releases spores and VOCs, which can reduce indoor air quality and cause respiratory issues, allergic reactions, and a musty odor."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-while-waiting-for-professional-mold-cleanup",
+  "name": "What should I do while waiting for professional mold cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do while waiting for professional mold cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While waiting for professional mold cleanup, it's important to take steps to prevent further spread and protect your health. Isolate the affected area by closing doors and windows. Turn off HVAC systems to avoid circulating spores. Avoid disturbing the mold, such as scrubbing or painting over it, as this can release more spores. If possible, use a dehumidifier in the affected room to reduce moisture. Do not use fans, as they can also spread mold spores. Prioritize safety and avoid direct contact with the mold.",
+        "@type": "Answer",
+        "description": "Isolate the area, turn off HVAC, avoid disturbing mold, and use a dehumidifier. Do not use fans."
+      }
+    }
+  ],
+  "description": "Isolate the area, turn off HVAC, avoid disturbing mold, and use a dehumidifier. Do not use fans."
+}

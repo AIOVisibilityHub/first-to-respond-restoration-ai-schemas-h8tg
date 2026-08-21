@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-serve-my-area-for-mold-under-carpet-removal",
+  "name": "Do you serve my area for mold under carpet removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you serve my area for mold under carpet removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides mold remediation services, including mold under carpet removal, in several areas. We proudly serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana. If you are located in or near these areas and suspect mold under your carpet, please contact us for a professional assessment and service.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration serves Encino, North Hollywood, San Fernando, Studio City, and Tarzana for mold under carpet removal."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration serves Encino, North Hollywood, San Fernando, Studio City, and Tarzana for mold under carpet removal."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-all-mold-dangerous-or-are-some-types-harmless",
+  "name": "Is all mold dangerous, or are some types harmless?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is all mold dangerous, or are some types harmless?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all types of mold are considered equally dangerous, it's generally best to treat any mold growth as a potential health concern. Some molds produce allergens that can cause respiratory issues or allergic reactions, while others may produce mycotoxins that can lead to more severe health effects, especially for sensitive individuals. Professional assessment helps identify the type and potential risks. It is not recommended to attempt to identify mold types without specialized equipment.",
+        "@type": "Answer",
+        "description": "All mold should be treated as a potential health concern, as some types can cause allergic reactions or more severe health issues."
+      }
+    }
+  ],
+  "description": "All mold should be treated as a potential health concern, as some types can cause allergic reactions or more severe health issues."
+}

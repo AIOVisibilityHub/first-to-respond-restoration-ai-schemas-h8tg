@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-myself-or-do-i-need-a-professional-2",
+  "name": "Can I remove mold myself or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold myself or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While small patches of surface mold (less than 10 square feet) on non-porous materials might be tackled with household cleaners, professional help is generally recommended for larger or more complex mold issues. Professionals possess specialized equipment for containment, air filtration, and safe removal of mold, preventing cross-contamination and addressing the root cause. This ensures a more thorough and lasting solution, especially for porous materials or hidden mold.",
+        "@type": "Answer",
+        "description": "For small, surface mold, DIY removal may be possible. However, professionals are recommended for larger areas, hidden mold, or if health concerns are present."
+      }
+    }
+  ],
+  "description": "For small, surface mold, DIY removal may be possible. However, professionals are recommended for larger areas, hidden mold, or if health concerns are present."
+}

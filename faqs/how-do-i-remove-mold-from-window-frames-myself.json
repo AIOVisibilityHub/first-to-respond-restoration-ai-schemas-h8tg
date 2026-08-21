@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-remove-mold-from-window-frames-myself",
+  "name": "How do I remove mold from window frames myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I remove mold from window frames myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small, surface mold, you can often clean it yourself using a mixture of water and mild detergent, or a diluted bleach solution (1 part bleach to 10 parts water) on non-porous surfaces. Wear gloves, eye protection, and a mask. Scrub the affected area, then dry it thoroughly to prevent regrowth. However, if the mold covers a large area, has penetrated porous materials, or keeps returning, professional mold remediation is recommended to ensure complete removal and address underlying moisture issues.",
+        "@type": "Answer",
+        "description": "For small surface mold, use a detergent or diluted bleach solution and scrub the area. For extensive or recurring mold, professional remediation is recommended."
+      }
+    }
+  ],
+  "description": "For small surface mold, use a detergent or diluted bleach solution and scrub the area. For extensive or recurring mold, professional remediation is recommended."
+}

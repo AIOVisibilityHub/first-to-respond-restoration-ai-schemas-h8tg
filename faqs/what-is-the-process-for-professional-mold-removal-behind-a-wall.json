@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-mold-removal-behind-a-wall",
+  "name": "What is the process for professional mold removal behind a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional mold removal behind a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The professional mold removal process typically starts with a thorough inspection to locate the mold and identify the moisture source. Containment barriers are then set up to prevent spores from spreading. Air scrubbers and HEPA vacuums are used to clean the air. Affected materials, such as drywall or insulation, are carefully removed and disposed of. The area is cleaned with antimicrobial agents, and moisture is extracted using industrial dryers. Finally, the area is reconstructed, and post-remediation testing may be performed to ensure mold levels are normal.",
+        "@type": "Answer",
+        "description": "Professional mold removal involves inspection, containment, air purification, removal of affected materials, antimicrobial treatment, drying, and reconstruction."
+      }
+    }
+  ],
+  "description": "Professional mold removal involves inspection, containment, air purification, removal of affected materials, antimicrobial treatment, drying, and reconstruction"
+}

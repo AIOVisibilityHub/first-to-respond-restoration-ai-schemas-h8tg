@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-factors-influence-the-cost-of-mold-cleanup-services",
+  "name": "What factors influence the cost of mold cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of mold cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold cleanup services is influenced by several factors. The primary factors include the size of the affected area, the type of mold (though this typically impacts removal methods more than cost), the extent of water damage, the accessibility of the mold (e.g., behind walls or in crawl spaces), and the materials affected (e.g., drywall vs. concrete). Additional costs may arise from necessary demolition, drying equipment rental, and post-remediation repairs. We provide a detailed estimate after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Mold cleanup costs depend on the size of the affected area, extent of damage, accessibility, materials affected, and necessary repairs."
+      }
+    }
+  ],
+  "description": "Mold cleanup costs depend on the size of the affected area, extent of damage, accessibility, materials affected, and necessary repairs."
+}

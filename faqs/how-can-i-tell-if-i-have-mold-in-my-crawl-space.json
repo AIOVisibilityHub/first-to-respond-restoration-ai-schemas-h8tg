@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-tell-if-i-have-mold-in-my-crawl-space",
+  "name": "How can I tell if I have mold in my crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have mold in my crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold in a crawl space include a musty odor emanating from the area, visible discoloration (black, green, or white spots) on joists, subflooring, or insulation, and potential allergic reactions or respiratory issues experienced by occupants within the home. If you notice any of these indicators, it's advisable to inspect the crawl space or consult with a professional.",
+        "@type": "Answer",
+        "description": "Look for a musty odor, visible discoloration on surfaces, or unexplained allergic reactions indoors. These are key indicators of mold."
+      }
+    }
+  ],
+  "description": "Look for a musty odor, visible discoloration on surfaces, or unexplained allergic reactions indoors. These are key indicators of mold."
+}

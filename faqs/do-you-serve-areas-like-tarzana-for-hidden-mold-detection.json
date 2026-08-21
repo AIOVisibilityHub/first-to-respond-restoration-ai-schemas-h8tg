@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-serve-areas-like-tarzana-for-hidden-mold-detection",
+  "name": "Do you serve areas like Tarzana for hidden mold detection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you serve areas like Tarzana for hidden mold detection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration proudly serves Tarzana and surrounding communities for hidden mold detection and remediation services. Our team is equipped to respond quickly to properties throughout the listed service areas, including Tarzana, Encino, North Hollywood, and Studio City. If you suspect hidden mold in your Tarzana home or business, contact us for a professional assessment. We bring our expertise and specialized equipment directly to your location to accurately identify and address any mold concerns you may have.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration serves Tarzana and surrounding areas for hidden mold detection and remediation. Contact us for local service."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration serves Tarzana and surrounding areas for hidden mold detection and remediation. Contact us for local service."
+}

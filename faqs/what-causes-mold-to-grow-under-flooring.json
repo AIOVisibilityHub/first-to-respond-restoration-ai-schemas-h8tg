@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-mold-to-grow-under-flooring",
+  "name": "What causes mold to grow under flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes mold to grow under flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold growth under flooring typically results from prolonged moisture exposure. Common culprits include plumbing leaks, spills that seep through cracks, high humidity, or insufficient ventilation in crawl spaces. Water damage from events like floods or appliance overflows can also introduce enough moisture to foster mold. It's crucial to address any water intrusion promptly, as mold can begin to grow within 24-48 hours under ideal conditions. Identifying and eliminating the moisture source is the first step in effective mold remediation to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Mold under flooring is caused by persistent moisture from leaks, spills, high humidity, or water damage, creating a damp environment conducive to growth."
+      }
+    }
+  ],
+  "description": "Mold under flooring is caused by persistent moisture from leaks, spills, high humidity, or water damage, creating a damp environment conducive to growth."
+}

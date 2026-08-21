@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-mold-behind-a-wall",
+  "name": "What are the common signs of mold behind a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of mold behind a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold behind a wall include a persistent musty odor, especially after rain or a water leak. You might also notice discolored or stained wall surfaces, such as green, black, or brown patches, or peeling paint or wallpaper. Physical symptoms like unexplained allergies, respiratory issues, or skin irritation when in the affected area can also suggest hidden mold. A visible water stain on a wall without an obvious external cause is also a strong indicator that moisture has penetrated, creating an environment for mold growth.",
+        "@type": "Answer",
+        "description": "Signs include a persistent musty odor, discolored or peeling walls, and unexplained allergy-like symptoms. Visible water stains also suggest moisture behind the wall."
+      }
+    }
+  ],
+  "description": "Signs include a persistent musty odor, discolored or peeling walls, and unexplained allergy-like symptoms. Visible water stains also suggest moisture behind the"
+}

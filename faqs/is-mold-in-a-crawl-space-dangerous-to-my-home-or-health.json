@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-in-a-crawl-space-dangerous-to-my-home-or-health",
+  "name": "Is mold in a crawl space dangerous to my home or health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold in a crawl space dangerous to my home or health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold can pose risks to both your home's structure and the health of its occupants. Structurally, mold can deteriorate wood, insulation, and other materials over time, potentially compromising the integrity of your subfloor and joists. Health-wise, mold spores can trigger allergies, asthma attacks, skin irritation, and other respiratory problems, especially for sensitive individuals. Prompt removal is important to mitigate these risks.",
+        "@type": "Answer",
+        "description": "Yes, mold can damage your home's structure and cause health issues like allergies and respiratory problems. It should be addressed quickly."
+      }
+    }
+  ],
+  "description": "Yes, mold can damage your home's structure and cause health issues like allergies and respiratory problems. It should be addressed quickly."
+}

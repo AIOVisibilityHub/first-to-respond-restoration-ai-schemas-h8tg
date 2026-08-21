@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-on-walls-dangerous",
+  "name": "Is mold on walls dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold on walls dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all molds are equally harmful, mold on walls can potentially cause health issues for some individuals, especially those with allergies, asthma, or compromised immune systems. Symptoms may include respiratory problems, skin irritation, headaches, or fatigue. Beyond health concerns, mold can also cause significant structural damage to your home over time, deteriorating materials like drywall, wood, and insulation. Prompt remediation is important for both health and property integrity.",
+        "@type": "Answer",
+        "description": "Mold on walls can cause health issues for sensitive individuals and lead to significant structural damage to your home. Prompt removal is important."
+      }
+    }
+  ],
+  "description": "Mold on walls can cause health issues for sensitive individuals and lead to significant structural damage to your home. Prompt removal is important."
+}

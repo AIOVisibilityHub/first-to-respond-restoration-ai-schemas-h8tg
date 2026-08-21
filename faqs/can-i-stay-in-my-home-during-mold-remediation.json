@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-stay-in-my-home-during-mold-remediation",
+  "name": "Can I stay in my home during mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during mold remediation depends on the extent and location of the mold, as well as the remediation methods being used. For small, localized mold issues contained to one area, it might be possible to remain in your home, provided the affected area is properly sealed off. However, for larger infestations, especially those affecting HVAC systems or multiple rooms, it's generally recommended to evacuate your home. This helps protect occupants from exposure to mold spores during the removal process and ensures the remediation team can work safely and effectively.",
+        "@type": "Answer",
+        "description": "Staying home during mold remediation depends on the mold's extent and location; small, contained issues may allow it, but large infestations usually require temporary relocation for safety."
+      }
+    }
+  ],
+  "description": "Staying home during mold remediation depends on the mold's extent and location; small, contained issues may allow it, but large infestations usually require tem"
+}

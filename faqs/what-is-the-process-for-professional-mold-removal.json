@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-mold-removal",
+  "name": "What is the process for professional mold removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional mold removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold removal, also known as remediation, typically begins with an inspection to assess the extent of the growth. Containment measures are then put in place to prevent spores from spreading to unaffected areas. Technicians use specialized equipment to remove mold-infested materials, followed by thorough cleaning and disinfection of affected surfaces. Air scrubbers and HEPA vacuums are often used to capture airborne spores. Finally, the area is dried completely to prevent future growth, and restoration services may be required for damaged materials.",
+        "@type": "Answer",
+        "description": "Professional mold removal involves inspection, containment, removal of contaminated materials, thorough cleaning, and drying to prevent recurrence."
+      }
+    }
+  ],
+  "description": "Professional mold removal involves inspection, containment, removal of contaminated materials, thorough cleaning, and drying to prevent recurrence."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-commercial-property-insurance-cover-mold-remediation",
+  "name": "Does commercial property insurance cover mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does commercial property insurance cover mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether commercial property insurance covers mold remediation depends on the specific policy and the cause of the mold. Generally, if the mold resulted from a sudden and accidental event that is a covered peril, such as a burst pipe or sudden leak, coverage is more likely. However, mold caused by neglect, ongoing moisture problems, or floods (unless flood insurance is also in place) might not be covered. It's crucial to review your policy details and consult with your insurance provider to understand your specific coverage.",
+        "@type": "Answer",
+        "description": "Insurance coverage for mold remediation depends on your policy and the cause of the mold, typically covering damage from sudden, accidental perils."
+      }
+    }
+  ],
+  "description": "Insurance coverage for mold remediation depends on your policy and the cause of the mold, typically covering damage from sudden, accidental perils."
+}

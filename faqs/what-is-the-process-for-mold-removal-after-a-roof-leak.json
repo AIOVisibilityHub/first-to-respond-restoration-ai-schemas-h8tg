@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-mold-removal-after-a-roof-leak",
+  "name": "What is the process for mold removal after a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for mold removal after a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The mold removal process typically involves containment to prevent spread, identification and repair of the moisture source (the leak), removal of contaminated materials, thorough cleaning and disinfection of affected areas, and drying to prevent recurrence. Air filtration may be used to capture airborne spores. Post-remediation verification ensures the mold has been successfully removed.",
+        "@type": "Answer",
+        "description": "Mold removal involves containment, fixing the leak, removing contaminated materials, cleaning, drying, and post-remediation verification."
+      }
+    }
+  ],
+  "description": "Mold removal involves containment, fixing the leak, removing contaminated materials, cleaning, drying, and post-remediation verification."
+}

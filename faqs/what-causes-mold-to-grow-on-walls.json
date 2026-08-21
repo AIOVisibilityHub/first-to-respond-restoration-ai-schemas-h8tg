@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-mold-to-grow-on-walls",
+  "name": "What causes mold to grow on walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes mold to grow on walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold growth on walls is typically caused by excess moisture. This can result from water leaks from pipes or the roof, high humidity levels due to poor ventilation, condensation, or flooding. Mold spores are always present in the air; they only begin to grow when they land on a damp surface and have an organic food source, such as drywall or paint. Identifying and addressing the moisture source is crucial for effective mold remediation.",
+        "@type": "Answer",
+        "description": "Mold grows on walls due to excess moisture from leaks, high humidity, or condensation. Spores activate on damp surfaces with an organic food source."
+      }
+    }
+  ],
+  "description": "Mold grows on walls due to excess moisture from leaks, high humidity, or condensation. Spores activate on damp surfaces with an organic food source."
+}

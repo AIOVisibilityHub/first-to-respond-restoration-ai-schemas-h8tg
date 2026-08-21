@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-fire-damage-restoration-company-in-encino",
+  "name": "How do I choose the right fire damage restoration company in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right fire damage restoration company in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a fire damage restoration company in Encino, look for one that is licensed, insured, and has experience with fire and smoke damage. Check for certifications from organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), which indicates specialized training. Read customer reviews and ask for references. Ensure they offer a full range of services, including emergency response, water extraction, soot removal, odor control, and structural repairs. A reputable company should provide a detailed estimate and clearly communicate the restoration plan. First To Respond Restoration serves Encino and surrounding areas.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and IICRC-certified company with fire damage experience, good reviews, and comprehensive services, like First To Respond Restoration in Encino."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and IICRC-certified company with fire damage experience, good reviews, and comprehensive services, like First To Respond Restoration"
+}

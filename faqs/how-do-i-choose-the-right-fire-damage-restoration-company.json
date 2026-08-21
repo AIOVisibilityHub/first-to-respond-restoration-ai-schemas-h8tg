@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-fire-damage-restoration-company",
+  "name": "How do I choose the right fire damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right fire damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a fire damage restoration company, look for one that is certified by organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), ensuring their technicians are properly trained. Check for comprehensive insurance and bonding. Seek out companies with strong local reputations, positive customer reviews, and extensive experience in fire and smoke damage. A good company will offer a detailed estimate, communicate clearly throughout the process, and work directly with your insurance provider.",
+        "@type": "Answer",
+        "description": "Choose a fire damage restoration company that is IICRC certified, insured, bonded, has strong local reviews, extensive experience, and offers detailed estimates while working with your insurer."
+      }
+    }
+  ],
+  "description": "Choose a fire damage restoration company that is IICRC certified, insured, bonded, has strong local reviews, extensive experience, and offers detailed estimates"
+}

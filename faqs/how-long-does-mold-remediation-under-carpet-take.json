@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-mold-remediation-under-carpet-take",
+  "name": "How long does mold remediation under carpet take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does mold remediation under carpet take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold remediation under carpet depends on the severity and scope of the mold growth. Minor cases might be resolved in a few days, while extensive mold issues requiring structural drying and replacement of materials can take a week or more. This timeline includes containment, removal, cleaning, treatment, and thorough drying to prevent recurrence. A professional can provide a more precise timeline after assessment.",
+        "@type": "Answer",
+        "description": "Mold remediation duration varies by severity, from a few days for minor cases to over a week for extensive issues, including drying time."
+      }
+    }
+  ],
+  "description": "Mold remediation duration varies by severity, from a few days for minor cases to over a week for extensive issues, including drying time."
+}

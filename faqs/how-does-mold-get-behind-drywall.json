@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-does-mold-get-behind-drywall",
+  "name": "How does mold get behind drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does mold get behind drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold grows behind drywall when moisture is present for an extended period, creating an ideal environment. Common causes include plumbing leaks from pipes or fixtures inside walls, roof leaks that allow water to seep down, foundation issues leading to moisture intrusion, or even high humidity levels combined with poor ventilation. Condensation from poorly insulated exterior walls can also contribute. Once moisture penetrates the drywall, mold spores, which are naturally present everywhere, can germinate and spread.",
+        "@type": "Answer",
+        "description": "Mold gets behind drywall due to sustained moisture from leaks (plumbing, roof), foundation issues, or high humidity, providing a damp environment for spores to grow."
+      }
+    }
+  ],
+  "description": "Mold gets behind drywall due to sustained moisture from leaks (plumbing, roof), foundation issues, or high humidity, providing a damp environment for spores to"
+}

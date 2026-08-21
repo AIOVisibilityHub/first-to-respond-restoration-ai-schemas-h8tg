@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/which-areas-does-your-company-serve-for-mold-remediation-after-a-water-leak",
+  "name": "Which areas does your company serve for mold remediation after a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas does your company serve for mold remediation after a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides comprehensive mold remediation services following water leaks in several key areas. We are ready to assist residents and businesses in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to handle emergency water damage and subsequent mold growth quickly and efficiently within these communities, ensuring a swift response to protect your property and health.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for mold remediation after a water leak."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for mold remediation after a water leak."
+}

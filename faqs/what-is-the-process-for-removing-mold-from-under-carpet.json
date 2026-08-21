@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-removing-mold-from-under-carpet",
+  "name": "What is the process for removing mold from under carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for removing mold from under carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold removal from under carpet typically involves containing the affected area to prevent spore spread. The contaminated carpet and padding are carefully removed and disposed of. The subfloor and surrounding structures are then cleaned, disinfected, and treated with antimicrobial solutions. Finally, the area is thoroughly dried and dehumidified to prevent recurrence. This process should be handled by professionals to ensure proper remediation and safety.",
+        "@type": "Answer",
+        "description": "Mold removal involves containment, removal of affected carpet, cleaning and treating the subfloor, and thorough drying by professionals."
+      }
+    }
+  ],
+  "description": "Mold removal involves containment, removal of affected carpet, cleaning and treating the subfloor, and thorough drying by professionals."
+}

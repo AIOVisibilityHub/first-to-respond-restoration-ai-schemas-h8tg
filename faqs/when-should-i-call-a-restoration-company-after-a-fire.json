@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-restoration-company-after-a-fire",
+  "name": "When should I call a restoration company after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a restoration company after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional restoration company as soon as possible after the fire department has deemed your property safe to enter. Timely intervention is crucial to prevent secondary damage, such as mold growth from water used to extinguish the fire, or corrosion from smoke and soot residue. First To Respond Restoration offers emergency services to quickly assess the situation and mitigate further damage, helping to secure your property and start the cleanup process promptly.",
+        "@type": "Answer",
+        "description": "Call a restoration company immediately after the fire department clears your property to prevent further damage."
+      }
+    }
+  ],
+  "description": "Call a restoration company immediately after the fire department clears your property to prevent further damage."
+}

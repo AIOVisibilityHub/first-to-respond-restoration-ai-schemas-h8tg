@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-mold-under-my-floor",
+  "name": "What are the signs of mold under my floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of mold under my floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold under flooring include a persistent musty or earthy odor, even if no visible mold is present. You might also notice discolored or stained areas on your flooring, such as dark spots or patches. If your floorboards appear warped, buckled, or cupped, or if tiles are lifting, it could indicate moisture and potential mold beneath. Allergic reactions like sneezing, coughing, watery eyes, or respiratory issues that worsen when you are in a particular room can also suggest hidden mold. Professional inspection can confirm the presence and extent of mold.",
+        "@type": "Answer",
+        "description": "Look for a musty smell, discolored or warped flooring, and unexplained allergic reactions as signs of mold under your floor."
+      }
+    }
+  ],
+  "description": "Look for a musty smell, discolored or warped flooring, and unexplained allergic reactions as signs of mold under your floor."
+}

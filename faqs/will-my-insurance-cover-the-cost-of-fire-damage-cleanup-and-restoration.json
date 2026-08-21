@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-the-cost-of-fire-damage-cleanup-and-restoration",
+  "name": "Will my insurance cover the cost of fire damage cleanup and restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover the cost of fire damage cleanup and restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies provide coverage for fire damage, including the cost of cleanup, repairs, and reconstruction, up to your policy limits. Coverage typically includes damage to the structure of your home and your personal belongings. It's crucial to review your specific policy details or speak directly with your insurance adjuster to understand your coverage, deductibles, and the claims process. Restoration companies often assist with documentation for insurance claims.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers fire damage cleanup and restoration costs, but it's essential to review your specific policy and speak with your insurer to understand your coverage and deductibles."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers fire damage cleanup and restoration costs, but it's essential to review your specific policy and speak with your insurer to un"
+}

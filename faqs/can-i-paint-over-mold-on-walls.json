@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-paint-over-mold-on-walls",
+  "name": "Can I paint over mold on walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over mold on walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, painting over mold on walls is not an effective or recommended solution. Paint will not kill the mold; it will only temporarily hide it. The underlying mold will continue to grow, spread, and potentially cause further damage to your wall and pose health risks. Before painting, the mold must be completely removed, and the moisture source addressed to prevent recurrence. Any affected surfaces should be thoroughly cleaned, dried, and repaired.",
+        "@type": "Answer",
+        "description": "No, painting over mold only hides it and does not stop its growth or prevent damage. Mold must be completely removed and the moisture source fixed first."
+      }
+    }
+  ],
+  "description": "No, painting over mold only hides it and does not stop its growth or prevent damage. Mold must be completely removed and the moisture source fixed first."
+}

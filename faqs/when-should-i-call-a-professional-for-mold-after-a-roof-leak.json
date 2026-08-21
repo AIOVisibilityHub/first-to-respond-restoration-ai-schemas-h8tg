@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-after-a-roof-leak",
+  "name": "When should I call a professional for mold after a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold after a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the mold growth covers an area larger than roughly 10 square feet, if you suspect mold is hidden behind walls, or if you or occupants are experiencing health issues related to mold exposure. Professionals have the expertise and equipment to safely and effectively contain and remove mold, especially in hard-to-reach or extensive areas.",
+        "@type": "Answer",
+        "description": "Call a professional if mold covers a large area (over 10 sq ft), is hidden, or if occupants experience mold-related health issues."
+      }
+    }
+  ],
+  "description": "Call a professional if mold covers a large area (over 10 sq ft), is hidden, or if occupants experience mold-related health issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-should-i-choose-a-local-company-like-first-to-respond-restoration-for-mold-b",
+  "name": "Why should I choose a local company like First To Respond Restoration for mold behind a wall in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a local company like First To Respond Restoration for mold behind a wall in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local company like First To Respond Restoration for mold behind a wall in Encino means you benefit from faster response times, which is critical for preventing mold spread and further damage. Our team is familiar with common issues specific to the local climate and building structures in areas like Encino, North Hollywood, and Tarzana. We can quickly dispatch experienced technicians to assess and address your mold problem efficiently, minimizing disruption to your home or business. Our local presence ensures personalized service and accountability.",
+        "@type": "Answer",
+        "description": "A local company like First To Respond Restoration offers faster response, familiarity with local issues, and personalized service for mold behind walls in areas like Encino."
+      }
+    }
+  ],
+  "description": "A local company like First To Respond Restoration offers faster response, familiarity with local issues, and personalized service for mold behind walls in areas"
+}

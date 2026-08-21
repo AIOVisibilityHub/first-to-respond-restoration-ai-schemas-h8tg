@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-mold-after-a-water-leak",
+  "name": "What are the common signs of mold after a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of mold after a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold after a water leak include a musty, earthy odor, which is often the first indicator, even if the mold isn't visible. Visible discoloration or fuzzy growth on walls, ceilings, floors, or personal belongings can also point to mold. If you experience persistent allergic reactions like sneezing, coughing, or itchy eyes after a leak, it might be due to hidden mold growth. Soft, crumbling, or damp materials can also suggest underlying mold.",
+        "@type": "Answer",
+        "description": "Look for a musty odor, visible discolored or fuzzy growth on surfaces, or new allergy-like symptoms. Damp or crumbling materials can also indicate mold."
+      }
+    }
+  ],
+  "description": "Look for a musty odor, visible discolored or fuzzy growth on surfaces, or new allergy-like symptoms. Damp or crumbling materials can also indicate mold."
+}

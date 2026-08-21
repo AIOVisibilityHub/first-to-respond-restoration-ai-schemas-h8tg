@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-mold-removal-under-a-sink",
+  "name": "What is the process for professional mold removal under a sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional mold removal under a sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold removal typically begins with an inspection to identify the mold source and extent. Containment measures are then set up to prevent spore spread. Affected materials are carefully removed and disposed of. The area is cleaned with specialized equipment and antimicrobial agents. Finally, the area is dried thoroughly using industrial dehumidifiers and air movers. Post-remediation verification may be conducted to ensure the mold has been successfully eliminated.",
+        "@type": "Answer",
+        "description": "Professional mold removal involves inspection, containment, removal of contaminated materials, cleaning with antimicrobial agents, and thorough drying."
+      }
+    }
+  ],
+  "description": "Professional mold removal involves inspection, containment, removal of contaminated materials, cleaning with antimicrobial agents, and thorough drying."
+}

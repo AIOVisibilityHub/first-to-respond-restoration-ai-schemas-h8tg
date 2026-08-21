@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-mold-remediation",
+  "name": "What is mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold remediation is the process of identifying, containing, and removing mold growth from a property. It involves isolating the contaminated area, removing affected materials, thoroughly cleaning and sanitizing surfaces, and taking steps to prevent future mold growth. The goal is to return mold levels to normal, natural levels found in a healthy indoor environment, ensuring the safety and structural integrity of the building. This often includes addressing the moisture source that allowed the mold to flourish.",
+        "@type": "Answer",
+        "description": "Mold remediation is the process of safely removing mold from a property and addressing the underlying moisture issues to prevent its return."
+      }
+    }
+  ],
+  "description": "Mold remediation is the process of safely removing mold from a property and addressing the underlying moisture issues to prevent its return."
+}

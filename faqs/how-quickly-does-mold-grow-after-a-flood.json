@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-does-mold-grow-after-a-flood",
+  "name": "How quickly does mold grow after a flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly does mold grow after a flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold can begin to grow within 24 to 48 hours after water damage or a flood, especially if moisture remains and temperatures are favorable. This rapid growth emphasizes the urgency of professional water extraction and drying to prevent widespread contamination. Even if you can't see it, mold spores can settle on surfaces and start to colonize in hidden areas like behind walls or under flooring.",
+        "@type": "Answer",
+        "description": "Mold can start growing within 24 to 48 hours after a flood if moisture persists."
+      }
+    }
+  ],
+  "description": "Mold can start growing within 24 to 48 hours after a flood if moisture persists."
+}

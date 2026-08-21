@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-can-i-take-to-prevent-mold-growth-after-a-flood-until-professionals-a",
+  "name": "What steps can I take to prevent mold growth after a flood until professionals arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps can I take to prevent mold growth after a flood until professionals arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a flood, you can take immediate steps to reduce mold risk: remove standing water, increase ventilation by opening windows and using fans, remove wet carpets and porous materials that cannot be dried quickly, and begin drying out the affected areas with dehumidifiers if available. Avoid using bleach on porous surfaces, as it can be ineffective and spread moisture. These actions can help minimize mold spread while awaiting professional help.",
+        "@type": "Answer",
+        "description": "Remove standing water, ventilate, remove wet porous items, and use fans/dehumidifiers to reduce mold risk."
+      }
+    }
+  ],
+  "description": "Remove standing water, ventilate, remove wet porous items, and use fans/dehumidifiers to reduce mold risk."
+}

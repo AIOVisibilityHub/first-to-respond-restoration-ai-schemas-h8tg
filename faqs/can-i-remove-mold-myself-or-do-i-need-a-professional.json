@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-myself-or-do-i-need-a-professional",
+  "name": "Can I remove mold myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small areas of mold, generally less than 10 square feet, and if the mold is on non-porous surfaces, you might be able to handle it yourself using appropriate safety gear and cleaning agents. However, if the mold covers a larger area, is in HVAC systems, or is hidden, professional removal is strongly recommended. Professionals have specialized training, equipment, and containment protocols to safely and effectively remove mold, preventing further spread and ensuring proper drying to avoid recurrence.",
+        "@type": "Answer",
+        "description": "You might handle small, non-porous surface mold yourself, but larger, hidden, or HVAC mold requires professional removal for safety and effectiveness."
+      }
+    }
+  ],
+  "description": "You might handle small, non-porous surface mold yourself, but larger, hidden, or HVAC mold requires professional removal for safety and effectiveness."
+}

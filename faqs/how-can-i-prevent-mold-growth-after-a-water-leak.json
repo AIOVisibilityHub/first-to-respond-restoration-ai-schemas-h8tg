@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-mold-growth-after-a-water-leak",
+  "name": "How can I prevent mold growth after a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent mold growth after a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing mold growth after a water leak requires quick action. The most critical step is to dry out all affected areas and materials thoroughly within 24 to 48 hours. Remove standing water, use fans and dehumidifiers to circulate air and reduce humidity, and open windows if outdoor humidity is low. Discard porous materials that cannot be fully dried, such as soaked carpets or drywall. Repair the source of the leak immediately to prevent future moisture intrusion.",
+        "@type": "Answer",
+        "description": "Prevent mold by drying affected areas within 24-48 hours using fans and dehumidifiers, removing standing water, and repairing the leak source promptly."
+      }
+    }
+  ],
+  "description": "Prevent mold by drying affected areas within 24-48 hours using fans and dehumidifiers, removing standing water, and repairing the leak source promptly."
+}

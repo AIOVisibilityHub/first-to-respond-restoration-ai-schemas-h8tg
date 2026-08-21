@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-hidden-mold-and-why-is-it-a-problem",
+  "name": "What is hidden mold and why is it a problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hidden mold and why is it a problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden mold refers to mold growth that is not immediately visible, often found behind walls, under flooring, in attics, or within HVAC systems. It's a problem because mold spores can spread through the air, potentially impacting indoor air quality and leading to musty odors. While some mold is harmless, certain types can cause allergic reactions, respiratory issues, or other health concerns for sensitive individuals. Early detection is crucial to prevent extensive damage to your property's structure and contents, and to address potential health implications before they worsen. Professional hidden mold detection helps identify these unseen issues.",
+        "@type": "Answer",
+        "description": "Hidden mold is unseen mold growth, often behind surfaces, that can affect indoor air quality and property structure. It poses potential health risks and causes musty odors."
+      }
+    }
+  ],
+  "description": "Hidden mold is unseen mold growth, often behind surfaces, that can affect indoor air quality and property structure. It poses potential health risks and causes"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-behind-drywall",
+  "name": "When should I call a professional for mold behind drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold behind drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you suspect mold behind drywall due to a persistent musty odor, even without visible signs. Professional intervention is crucial if visible mold covers an area larger than 10 square feet, if you or family members experience unexplained health issues, or if the mold growth is due to water damage from contaminated sources (like sewage). Experts can safely identify the extent of the problem, contain spores, remove mold, and address the moisture source to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Call a professional if you smell mold but can't see it, if visible mold exceeds 10 square feet, if health issues arise, or if the mold resulted from contaminated water."
+      }
+    }
+  ],
+  "description": "Call a professional if you smell mold but can't see it, if visible mold exceeds 10 square feet, if health issues arise, or if the mold resulted from contaminate"
+}

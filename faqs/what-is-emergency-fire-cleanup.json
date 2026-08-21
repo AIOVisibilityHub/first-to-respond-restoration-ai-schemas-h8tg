@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-emergency-fire-cleanup",
+  "name": "What is emergency fire cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is emergency fire cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency fire cleanup involves professional services to restore a property after fire and smoke damage. This includes removing soot, debris, and damaged materials, as well as mitigating smoke odors. The process addresses structural integrity, air quality, and the salvageability of contents. Swift action is crucial to prevent secondary damage, such as corrosion from acidic soot, and to begin the rebuilding or restoration process effectively. Professionals use specialized equipment and techniques to ensure thorough cleaning and deodorization.",
+        "@type": "Answer",
+        "description": "Emergency fire cleanup restores properties damaged by fire and smoke, including debris removal, soot cleaning, and odor mitigation."
+      }
+    }
+  ],
+  "description": "Emergency fire cleanup restores properties damaged by fire and smoke, including debris removal, soot cleaning, and odor mitigation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-under-my-carpet",
+  "name": "When should I call a professional for mold under my carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold under my carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you suspect mold under your carpet, especially if the affected area is large (more than 10 square feet), if you or your family are experiencing health issues, or if the mold growth resulted from a significant water damage event. Professionals have the expertise to safely identify, contain, and remove mold, ensuring proper remediation and preventing future growth, which is crucial for health and property integrity.",
+        "@type": "Answer",
+        "description": "Call a professional if the mold area is large, if health issues arise, or after significant water damage. They ensure safe and complete remediation."
+      }
+    }
+  ],
+  "description": "Call a professional if the mold area is large, if health issues arise, or after significant water damage. They ensure safe and complete remediation."
+}

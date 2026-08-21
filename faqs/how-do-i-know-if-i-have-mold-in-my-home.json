@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-know-if-i-have-mold-in-my-home",
+  "name": "How do I know if I have mold in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have mold in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might suspect mold if you notice a musty odor, see visible discoloration or fuzzy growth on surfaces, or experience unexplained allergy-like symptoms. Mold often thrives in damp, dark areas like basements, bathrooms, or behind walls after water damage. If you suspect mold but can't see it, a professional inspection can help identify hidden growth and assess the extent of the problem, ensuring all affected areas are addressed.",
+        "@type": "Answer",
+        "description": "Signs of mold include a musty smell, visible growth, or unexplained allergy symptoms. A professional inspection can confirm its presence, especially if hidden."
+      }
+    }
+  ],
+  "description": "Signs of mold include a musty smell, visible growth, or unexplained allergy symptoms. A professional inspection can confirm its presence, especially if hidden."
+}

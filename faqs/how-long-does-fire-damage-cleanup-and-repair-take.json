@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-fire-damage-cleanup-and-repair-take",
+  "name": "How long does fire damage cleanup and repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does fire damage cleanup and repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of fire damage cleanup and repair varies greatly based on the severity of the fire, the size of the affected area, and the types of materials damaged. Minor smoke damage might take a few days, while extensive structural damage and rebuilding could take several weeks or even months. Factors like drying time for water damage and the availability of materials also play a role. After an initial assessment, First To Respond Restoration can provide a more accurate timeline for your specific situation.",
+        "@type": "Answer",
+        "description": "Cleanup time depends on damage severity, ranging from days for minor smoke to months for extensive structural repairs."
+      }
+    }
+  ],
+  "description": "Cleanup time depends on damage severity, ranging from days for minor smoke to months for extensive structural repairs."
+}

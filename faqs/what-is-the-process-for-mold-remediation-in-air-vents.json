@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-mold-remediation-in-air-vents",
+  "name": "What is the process for mold remediation in air vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for mold remediation in air vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The mold remediation process for air vents typically begins with a thorough inspection to identify the extent and source of the mold. Technicians will then isolate the affected areas to prevent cross-contamination. Specialized equipment, such as HEPA vacuums and negative air machines, are used to safely remove mold spores and contaminated materials from the ductwork. After cleaning, antimicrobial treatments may be applied. Finally, the system is tested and any underlying moisture issues are addressed to prevent future growth.",
+        "@type": "Answer",
+        "description": "Mold remediation in air vents involves inspection, containment, removal of mold using specialized equipment, antimicrobial treatment, and addressing moisture sources."
+      }
+    }
+  ],
+  "description": "Mold remediation in air vents involves inspection, containment, removal of mold using specialized equipment, antimicrobial treatment, and addressing moisture so"
+}

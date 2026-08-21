@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-removal",
+  "name": "When should I call a professional for mold removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for mold removal if the mold covers an area larger than 10 square feet, if it's growing in your HVAC system, or if you suspect hidden mold behind walls or under flooring. If you or family members are experiencing health issues that might be related to mold exposure, or if the mold growth is due to contaminated water (e.g., sewage), professional intervention is crucial. Professionals have the training, equipment, and safety measures to effectively contain and remove mold without spreading spores.",
+        "@type": "Answer",
+        "description": "Call a professional for mold removal if growth exceeds 10 square feet, is in HVAC, or if you suspect hidden mold or health issues."
+      }
+    }
+  ],
+  "description": "Call a professional for mold removal if growth exceeds 10 square feet, is in HVAC, or if you suspect hidden mold or health issues."
+}

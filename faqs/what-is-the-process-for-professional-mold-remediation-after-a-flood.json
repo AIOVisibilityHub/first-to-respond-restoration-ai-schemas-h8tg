@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-mold-remediation-after-a-flood",
+  "name": "What is the process for professional mold remediation after a flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional mold remediation after a flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold remediation typically involves several steps: initial assessment and containment to prevent spread, air filtration to capture spores, removal of affected materials, thorough cleaning and disinfection of salvageable items, and finally, drying and structural repairs. Specialized equipment like HEPA vacuums and air scrubbers are used to ensure spores are removed and not redistributed. The goal is to return the affected area to pre-loss condition.",
+        "@type": "Answer",
+        "description": "The process includes assessment, containment, material removal, cleaning, disinfection, and drying to eliminate mold."
+      }
+    }
+  ],
+  "description": "The process includes assessment, containment, material removal, cleaning, disinfection, and drying to eliminate mold."
+}

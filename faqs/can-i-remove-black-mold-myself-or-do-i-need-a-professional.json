@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-black-mold-myself-or-do-i-need-a-professional",
+  "name": "Can I remove black mold myself or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove black mold myself or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For very small areas of mold (less than about 10 square feet) on non-porous surfaces, you may be able to manage removal yourself using appropriate protective gear and cleaning solutions. However, if the mold is extensive, covers porous materials, is hidden behind walls, or if you have health concerns, professional removal is strongly recommended. Professionals ensure proper containment, use specialized equipment, and can identify and resolve the root cause of the moisture, preventing recurrence.",
+        "@type": "Answer",
+        "description": "You can remove very small amounts of mold on non-porous surfaces yourself. For larger, hidden, or porous mold, or if you have health issues, professional removal is advised."
+      }
+    }
+  ],
+  "description": "You can remove very small amounts of mold on non-porous surfaces yourself. For larger, hidden, or porous mold, or if you have health issues, professional remova"
+}

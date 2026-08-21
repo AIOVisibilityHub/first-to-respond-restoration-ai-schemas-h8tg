@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-hidden-mold-detection-in-encino",
+  "name": "What is the typical cost for hidden mold detection in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for hidden mold detection in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for hidden mold detection services in Encino can vary based on several factors, including the size of the property, the complexity of the suspected mold issue, and the specific diagnostic tools required. Basic visual inspections might be less, but comprehensive hidden mold detection involving specialized equipment like moisture meters, thermal imaging, and air quality testing will have a higher cost. It's best to contact us for a detailed assessment and a transparent quote tailored to your specific situation, as each property is unique.",
+        "@type": "Answer",
+        "description": "The cost varies by property size, complexity of the issue, and tools needed. Contact us for a detailed assessment and personalized quote."
+      }
+    }
+  ],
+  "description": "The cost varies by property size, complexity of the issue, and tools needed. Contact us for a detailed assessment and personalized quote."
+}

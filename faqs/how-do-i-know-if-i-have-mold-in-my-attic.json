@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-know-if-i-have-mold-in-my-attic",
+  "name": "How do I know if I have mold in my attic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have mold in my attic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of attic mold include a musty odor, visible discoloration on wood surfaces (often black, green, or white), and water staining. You might also notice symptoms in living areas if mold spores enter the home, such as allergic reactions. A professional inspection can confirm the presence of mold, identify the source of moisture, and determine the extent of the growth.",
+        "@type": "Answer",
+        "description": "Look for a musty smell, visible discoloration on wood, or water stains in your attic. A professional inspection can confirm mold and identify the source."
+      }
+    }
+  ],
+  "description": "Look for a musty smell, visible discoloration on wood, or water stains in your attic. A professional inspection can confirm mold and identify the source."
+}

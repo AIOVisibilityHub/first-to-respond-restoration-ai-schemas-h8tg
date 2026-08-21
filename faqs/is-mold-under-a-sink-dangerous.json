@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-under-a-sink-dangerous",
+  "name": "Is mold under a sink dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold under a sink dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all molds are toxic, any mold growth indoors can potentially impact indoor air quality and may lead to health issues for sensitive individuals. Symptoms can include respiratory problems, allergic reactions, skin irritation, or headaches. Prompt removal is advisable to prevent further spread and potential health concerns, especially for those with allergies, asthma, or compromised immune systems. It can also damage the cabinet structure.",
+        "@type": "Answer",
+        "description": "Mold under a sink can affect indoor air quality and may cause respiratory issues or allergic reactions in sensitive individuals. It's advisable to address it promptly."
+      }
+    }
+  ],
+  "description": "Mold under a sink can affect indoor air quality and may cause respiratory issues or allergic reactions in sensitive individuals. It's advisable to address it pr"
+}

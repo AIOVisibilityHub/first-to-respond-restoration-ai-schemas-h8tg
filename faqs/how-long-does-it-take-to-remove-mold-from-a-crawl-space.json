@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-mold-from-a-crawl-space",
+  "name": "How long does it take to remove mold from a crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove mold from a crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold removal from a crawl space varies depending on the extent of the infestation, the size of the crawl space, and the specific methods required. A small, localized issue might be resolved in 1-2 days, while extensive mold growth requiring significant material removal and moisture control solutions could take 3-5 days or longer. A professional assessment can provide a more accurate timeline.",
+        "@type": "Answer",
+        "description": "The time required for mold removal depends on the severity and size of the infestation, typically ranging from 1 to 5 days or more."
+      }
+    }
+  ],
+  "description": "The time required for mold removal depends on the severity and size of the infestation, typically ranging from 1 to 5 days or more."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-mold-restoration-and-why-is-it-important",
+  "name": "What is mold restoration and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is mold restoration and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold restoration involves identifying and addressing mold growth within a property, followed by remediation to remove contamination and prevent recurrence. It's crucial because mold can cause structural damage to your home and trigger health issues for occupants, especially those with allergies or respiratory conditions. Professional restoration ensures thorough removal, proper containment, and measures to control moisture sources, protecting both your property's integrity and your family's well-being.",
+        "@type": "Answer",
+        "description": "Mold restoration is the process of removing mold from a property and preventing its return. It's important to protect your health and the structural integrity of your home."
+      }
+    }
+  ],
+  "description": "Mold restoration is the process of removing mold from a property and preventing its return. It's important to protect your health and the structural integrity o"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-suspect-mold-behind-a-wall",
+  "name": "What should I do immediately if I suspect mold behind a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I suspect mold behind a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect mold behind a wall, the first immediate step is to identify and stop any active water leaks or moisture sources. Turn off water valves if it's a plumbing issue, or address roof leaks. Next, isolate the affected area to prevent potential spore spread, if possible. Avoid disturbing the mold or attempting to dry it with fans, as this can disseminate spores. Contact a professional mold remediation company promptly for an inspection and assessment. They can safely determine the extent of the problem and recommend the appropriate course of action.",
+        "@type": "Answer",
+        "description": "Immediately stop any water leaks and isolate the suspected area. Avoid disturbing the mold and contact a professional remediation company for assessment."
+      }
+    }
+  ],
+  "description": "Immediately stop any water leaks and isolate the suspected area. Avoid disturbing the mold and contact a professional remediation company for assessment."
+}

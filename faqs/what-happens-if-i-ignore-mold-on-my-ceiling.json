@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-happens-if-i-ignore-mold-on-my-ceiling",
+  "name": "What happens if I ignore mold on my ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I ignore mold on my ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring mold on your ceiling can lead to several negative consequences. The mold will likely continue to spread, potentially affecting a larger area and more materials, increasing the eventual remediation cost. It can also worsen indoor air quality, leading to persistent health issues for occupants. Additionally, untreated mold can cause structural damage over time, weakening materials like drywall and ceiling joists, which could lead to more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Ignoring ceiling mold allows it to spread, worsens air quality, causes health issues, and can lead to structural damage and higher repair costs."
+      }
+    }
+  ],
+  "description": "Ignoring ceiling mold allows it to spread, worsens air quality, causes health issues, and can lead to structural damage and higher repair costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-myself-or-do-i-always-need-a-professional",
+  "name": "Can I remove mold myself, or do I always need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold myself, or do I always need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can typically handle small areas of mold (less than 10 square feet) yourself, especially if it's on non-porous surfaces like tiles or glass, using appropriate safety gear and cleaning solutions. However, if the mold covers a large area, is deeply embedded in porous materials like drywall or carpeting, is widespread due to significant water damage, or if anyone in your household has health sensitivities, professional remediation is strongly recommended. Professionals ensure complete removal and prevent recurrence safely.",
+        "@type": "Answer",
+        "description": "Small, surface mold can be a DIY task. For large areas, hidden mold, or health concerns, professional mold removal is advised."
+      }
+    }
+  ],
+  "description": "Small, surface mold can be a DIY task. For large areas, hidden mold, or health concerns, professional mold removal is advised."
+}

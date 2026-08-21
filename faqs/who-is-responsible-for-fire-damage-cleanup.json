@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/who-is-responsible-for-fire-damage-cleanup",
+  "name": "Who is responsible for fire damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible for fire damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a fire, homeowners or property owners are primarily responsible for arranging the cleanup. Insurance companies typically cover the cost of professional fire restoration services, but the homeowner usually initiates the process. For rented properties, the landlord is generally responsible for the structural cleanup, while tenants may be responsible for their personal belongings. Engaging a professional restoration company ensures a thorough and safe cleanup, addressing smoke, soot, and water damage effectively. It's crucial to contact your insurance provider and a restoration company promptly.",
+        "@type": "Answer",
+        "description": "Homeowners or property owners are primarily responsible for arranging fire damage cleanup. Insurance typically covers professional services."
+      }
+    }
+  ],
+  "description": "Homeowners or property owners are primarily responsible for arranging fire damage cleanup. Insurance typically covers professional services."
+}

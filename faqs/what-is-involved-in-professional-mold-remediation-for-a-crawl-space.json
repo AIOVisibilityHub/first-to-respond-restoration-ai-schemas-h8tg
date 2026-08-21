@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-professional-mold-remediation-for-a-crawl-space",
+  "name": "What is involved in professional mold remediation for a crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in professional mold remediation for a crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold remediation typically begins with containment to prevent spores from spreading. Technicians then remove contaminated materials, clean affected surfaces with specialized agents, and apply antimicrobial treatments. This often includes addressing the moisture source, such as installing a vapor barrier or improving ventilation. Finally, the area is dried thoroughly and HEPA-filtered to ensure spore removal. The process is designed to safely and effectively eliminate mold and prevent its return.",
+        "@type": "Answer",
+        "description": "Mold remediation involves containment, removal of contaminated materials, cleaning, antimicrobial treatment, moisture source correction, and thorough drying."
+      }
+    }
+  ],
+  "description": "Mold remediation involves containment, removal of contaminated materials, cleaning, antimicrobial treatment, moisture source correction, and thorough drying."
+}

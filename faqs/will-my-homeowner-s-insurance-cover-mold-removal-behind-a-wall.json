@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-mold-removal-behind-a-wall",
+  "name": "Will my homeowner's insurance cover mold removal behind a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover mold removal behind a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for mold removal behind a wall typically depends on the cause of the mold. Most policies cover mold damage if it results from a sudden and accidental peril, such as a burst pipe or storm damage. However, mold caused by neglect, long-term leaks, or improper maintenance is often not covered. It's essential to review your specific policy details or contact your insurance provider directly. Many policies have exclusions or limits for mold, so understanding your coverage before any work begins is advisable.",
+        "@type": "Answer",
+        "description": "Insurance often covers mold if caused by a sudden, accidental event like a burst pipe, but usually not if due to neglect or long-term issues. Check your policy."
+      }
+    }
+  ],
+  "description": "Insurance often covers mold if caused by a sudden, accidental event like a burst pipe, but usually not if due to neglect or long-term issues. Check your policy."
+}

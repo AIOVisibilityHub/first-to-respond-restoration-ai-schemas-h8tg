@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-around-my-ac-unit-dangerous-for-my-health",
+  "name": "Is mold around my AC unit dangerous for my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold around my AC unit dangerous for my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, mold around your AC unit can be detrimental to health, especially for individuals with allergies, asthma, or compromised immune systems. As the AC operates, mold spores can become airborne and circulate throughout your home. Exposure to these spores can lead to respiratory issues, skin irritation, headaches, and other allergic reactions. Prompt identification and removal are crucial to prevent health problems and maintain indoor air quality.",
+        "@type": "Answer",
+        "description": "Yes, mold around your AC can spread spores, causing respiratory issues, allergies, and other health problems, especially for sensitive individuals."
+      }
+    }
+  ],
+  "description": "Yes, mold around your AC can spread spores, causing respiratory issues, allergies, and other health problems, especially for sensitive individuals."
+}

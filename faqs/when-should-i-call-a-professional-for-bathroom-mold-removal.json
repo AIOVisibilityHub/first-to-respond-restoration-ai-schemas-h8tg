@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-bathroom-mold-removal",
+  "name": "When should I call a professional for bathroom mold removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for bathroom mold removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for bathroom mold removal if the mold covers an area larger than 10 square feet, if you suspect hidden mold behind walls, or if anyone in your household has health issues that could be exacerbated by mold exposure. Professionals have the specialized equipment and training to safely contain and remove mold, preventing its spread and ensuring proper remediation. If the mold reoccurs after your attempts to clean it, that's another strong indicator to seek expert help.",
+        "@type": "Answer",
+        "description": "Call a professional for bathroom mold removal if the mold area is large, you suspect hidden mold, or if residents have health concerns. Also, if it reappears after cleaning."
+      }
+    }
+  ],
+  "description": "Call a professional for bathroom mold removal if the mold area is large, you suspect hidden mold, or if residents have health concerns. Also, if it reappears af"
+}

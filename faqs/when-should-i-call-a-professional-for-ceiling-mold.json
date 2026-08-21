@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-ceiling-mold",
+  "name": "When should I call a professional for ceiling mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for ceiling mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for ceiling mold if the affected area is larger than 10 square feet, if you suspect hidden mold behind walls or in the attic, if you or family members are experiencing mold-related health symptoms, or if the mold keeps recurring after your attempts to clean it. Professionals have the expertise and equipment to safely identify the source, contain the spread, and effectively remove all mold.",
+        "@type": "Answer",
+        "description": "Call a professional for ceiling mold if it's over 10 sq ft, hidden, causing health issues, or recurring. They ensure safe, effective removal."
+      }
+    }
+  ],
+  "description": "Call a professional for ceiling mold if it's over 10 sq ft, hidden, causing health issues, or recurring. They ensure safe, effective removal."
+}

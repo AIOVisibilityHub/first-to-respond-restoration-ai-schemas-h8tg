@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-mold-from-windows",
+  "name": "How long does it take to remove mold from windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove mold from windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold removal from windows depends on the severity and spread of the mold. A small, surface mold issue might be cleaned in a few hours. However, if the mold has penetrated behind drywall or into the window frame's structure, the process can take one to three days, including containment, removal, drying, and post-remediation cleaning. Larger or more complex cases requiring structural repairs may extend the timeline. We prioritize efficient and thorough service to minimize disruption.",
+        "@type": "Answer",
+        "description": "The time for mold removal from windows varies; small issues take hours, while extensive cases involving structural penetration can take one to three days or longer."
+      }
+    }
+  ],
+  "description": "The time for mold removal from windows varies; small issues take hours, while extensive cases involving structural penetration can take one to three days or lon"
+}

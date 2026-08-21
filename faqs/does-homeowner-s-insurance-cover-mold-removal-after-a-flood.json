@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-mold-removal-after-a-flood",
+  "name": "Does homeowner's insurance cover mold removal after a flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover mold removal after a flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for mold removal after a flood often depends on the cause of the water damage and your specific policy. Generally, if the flood damage was sudden and accidental (e.g., burst pipe), mold remediation might be covered. However, damage from external floods or neglected maintenance typically is not. Review your policy or consult with your insurance provider to understand your specific coverage limits and exclusions related to mold.",
+        "@type": "Answer",
+        "description": "Coverage depends on your specific policy and the cause of the flood; sudden damage is often covered, but not always."
+      }
+    }
+  ],
+  "description": "Coverage depends on your specific policy and the cause of the flood; sudden damage is often covered, but not always."
+}

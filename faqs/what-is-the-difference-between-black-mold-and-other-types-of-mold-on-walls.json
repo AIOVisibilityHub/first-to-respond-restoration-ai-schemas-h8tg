@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-black-mold-and-other-types-of-mold-on-walls",
+  "name": "What is the difference between black mold and other types of mold on walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between black mold and other types of mold on walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While 'black mold' often refers to Stachybotrys chartarum, which can appear dark green or black, many types of mold can be black or dark in color. It's impossible to identify the specific type of mold based on color alone. All molds should be treated with caution, as they can potentially cause health issues and structural damage. Professional testing may be required to identify the specific mold species, but the remediation process generally focuses on safe removal regardless of type.",
+        "@type": "Answer",
+        "description": "Many molds are black; 'black mold' is often Stachybotrys chartarum. Color alone can't identify mold type. Treat all molds with caution."
+      }
+    }
+  ],
+  "description": "Many molds are black; 'black mold' is often Stachybotrys chartarum. Color alone can't identify mold type. Treat all molds with caution."
+}

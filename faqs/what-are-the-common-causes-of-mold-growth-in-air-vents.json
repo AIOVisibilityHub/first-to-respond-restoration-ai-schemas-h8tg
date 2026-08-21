@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-causes-of-mold-growth-in-air-vents",
+  "name": "What are the common causes of mold growth in air vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of mold growth in air vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold typically grows in air vents due to excess moisture combined with organic material. Common causes include high indoor humidity, condensation forming within the ductwork, leaks in or near the HVAC system or ducts, and inadequate ventilation. Dust and debris inside the vents provide a food source for mold spores. If your home has experienced water damage, or if the HVAC system isn't properly maintained, these factors can significantly increase the risk of mold developing in the vents.",
+        "@type": "Answer",
+        "description": "Mold in air vents is caused by excess moisture from high humidity, condensation, or leaks, combined with dust and debris in the ducts."
+      }
+    }
+  ],
+  "description": "Mold in air vents is caused by excess moisture from high humidity, condensation, or leaks, combined with dust and debris in the ducts."
+}

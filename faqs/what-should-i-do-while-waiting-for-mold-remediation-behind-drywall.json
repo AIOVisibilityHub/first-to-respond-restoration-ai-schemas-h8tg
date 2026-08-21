@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-while-waiting-for-mold-remediation-behind-drywall",
+  "name": "What should I do while waiting for mold remediation behind drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do while waiting for mold remediation behind drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While waiting for professional mold remediation, try to isolate the affected area by closing doors and sealing off vents to minimize spore spread. Avoid disturbing the mold, as this can release more spores into the air. Do not attempt to dry the area with fans, as this can also spread spores. If possible, turn off any HVAC systems that draw air from the affected zone. The most crucial step is to stop the moisture source, if safely possible, to prevent further growth.",
+        "@type": "Answer",
+        "description": "Isolate the area, avoid disturbing the mold or using fans, turn off HVAC, and, if safe, stop the moisture source to prevent further growth."
+      }
+    }
+  ],
+  "description": "Isolate the area, avoid disturbing the mold or using fans, turn off HVAC, and, if safe, stop the moisture source to prevent further growth."
+}

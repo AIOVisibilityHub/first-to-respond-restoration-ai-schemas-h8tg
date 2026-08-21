@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-window-mold-remediation",
+  "name": "What areas do you serve for window mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for window mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides comprehensive window mold remediation services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to handle mold issues of any scale, offering swift and effective solutions to protect your property and health. If you are located in these areas and suspect mold around your windows, please contact us for an inspection and professional assistance.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for professional window mold remediation services."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for professional window mold remediation services."
+}

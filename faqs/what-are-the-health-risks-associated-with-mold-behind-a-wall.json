@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-health-risks-associated-with-mold-behind-a-wall",
+  "name": "What are the health risks associated with mold behind a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the health risks associated with mold behind a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exposure to mold behind a wall can lead to various health issues, especially for individuals with allergies, asthma, or compromised immune systems. Common symptoms include respiratory problems like wheezing, coughing, and shortness of breath, as well as nasal stuffiness, throat irritation, eye irritation, and skin rashes. In some cases, prolonged exposure can trigger asthma attacks or more severe allergic reactions. While not all mold is toxic, any mold growth can impact indoor air quality and should be addressed to safeguard occupant health.",
+        "@type": "Answer",
+        "description": "Mold exposure can cause respiratory issues, allergies, asthma attacks, and skin/eye irritation, especially in sensitive individuals. Any mold growth impacts air quality."
+      }
+    }
+  ],
+  "description": "Mold exposure can cause respiratory issues, allergies, asthma attacks, and skin/eye irritation, especially in sensitive individuals. Any mold growth impacts air"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-black-mold-in-a-property",
+  "name": "What are the common signs of black mold in a property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of black mold in a property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying black mold often involves visual cues and a distinct musty odor. You might see dark green or black spots or clusters on walls, ceilings, floors, or in damp areas like bathrooms and basements. Beyond visible growth, a strong, earthy, or musty smell is a key indicator, even if the mold isn't immediately visible. Other signs can include peeling paint or wallpaper, warped walls, and water stains on surfaces, all pointing to a moisture issue that could be supporting mold growth.",
+        "@type": "Answer",
+        "description": "Common signs of black mold include visible dark green or black spots, a strong musty odor, peeling paint, or water stains in damp areas."
+      }
+    }
+  ],
+  "description": "Common signs of black mold include visible dark green or black spots, a strong musty odor, peeling paint, or water stains in damp areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-first-steps-to-take-after-a-house-fire",
+  "name": "What are the first steps to take after a house fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to take after a house fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring everyone is safe and the fire department has declared the property secure, contact your insurance company immediately to report the fire and understand your policy coverage. Avoid entering the damaged home until professionals deem it safe. Document the damage thoroughly with photos and videos before any cleanup begins. Secure the property to prevent further damage or theft. A professional restoration company can help guide you through these initial stages and begin the assessment and mitigation process.",
+        "@type": "Answer",
+        "description": "After a house fire, ensure safety, contact your insurance company, and document all damage before starting cleanup. Avoid entering the property until it's declared safe by authorities."
+      }
+    }
+  ],
+  "description": "After a house fire, ensure safety, contact your insurance company, and document all damage before starting cleanup. Avoid entering the property until it's decla"
+}

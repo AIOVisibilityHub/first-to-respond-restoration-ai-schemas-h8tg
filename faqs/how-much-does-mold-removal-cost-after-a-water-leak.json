@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-mold-removal-cost-after-a-water-leak",
+  "name": "How much does mold removal cost after a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does mold removal cost after a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold removal after a water leak varies significantly based on the extent of the contamination, the type of mold, and the materials affected. Factors influencing cost include the size of the area, accessibility of the mold, and whether structural repairs are needed. A small, accessible area might be less costly, while extensive mold requiring demolition and reconstruction will be more expensive. Most restoration companies offer inspections and estimates to determine specific costs.",
+        "@type": "Answer",
+        "description": "Mold removal costs depend on the extent of the contamination, affected materials, and accessibility. A professional inspection is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Mold removal costs depend on the extent of the contamination, affected materials, and accessibility. A professional inspection is needed for an accurate estimat"
+}

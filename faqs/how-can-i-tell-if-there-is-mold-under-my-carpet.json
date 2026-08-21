@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-tell-if-there-is-mold-under-my-carpet",
+  "name": "How can I tell if there is mold under my carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if there is mold under my carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of mold under carpet often include a persistent musty or earthy odor, even after cleaning. You might also notice discoloration on the carpet surface, such as black, green, or white spots. Physical symptoms like unexplained allergies, respiratory issues, or skin irritation when in the affected area can also indicate hidden mold. If you suspect mold, a professional inspection can confirm its presence and extent.",
+        "@type": "Answer",
+        "description": "Look for a musty smell, discoloration on the carpet, or unexplained health symptoms. A professional inspection can confirm mold presence."
+      }
+    }
+  ],
+  "description": "Look for a musty smell, discoloration on the carpet, or unexplained health symptoms. A professional inspection can confirm mold presence."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-removal-covered-by-homeowner-s-insurance",
+  "name": "Is mold removal covered by homeowner's insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold removal covered by homeowner's insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether mold removal is covered by homeowner's insurance often depends on the cause of the mold. Generally, if the mold is a direct result of a sudden and accidental peril explicitly covered by your policy, such as a burst pipe, the remediation costs might be covered. However, mold resulting from ongoing issues like long-term leaks, humidity problems, or poor maintenance is typically not covered. Many policies also have specific exclusions or limitations for mold. It is essential to review your insurance policy and contact your provider to understand your specific coverage.",
+        "@type": "Answer",
+        "description": "Insurance coverage for mold removal depends on its cause; typically, sudden accidental perils are covered, but mold from ongoing issues like neglected leaks is not. Review your policy and contact your provider."
+      }
+    }
+  ],
+  "description": "Insurance coverage for mold removal depends on its cause; typically, sudden accidental perils are covered, but mold from ongoing issues like neglected leaks is"
+}

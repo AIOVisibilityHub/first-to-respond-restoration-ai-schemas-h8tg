@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-does-mold-grow-under-sinks",
+  "name": "Why does mold grow under sinks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does mold grow under sinks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold thrives in damp, dark environments with a food source, and under sinks often provides all three. Leaks from pipes, faucets, or drains create the necessary moisture. Condensation on cold water pipes can also contribute. Dust, dirt, and organic materials that collect in the cabinet provide food for mold spores. Poor ventilation under the sink traps humidity, creating an ideal breeding ground for mold.",
+        "@type": "Answer",
+        "description": "Mold grows under sinks due to persistent moisture from leaks or condensation, combined with darkness and organic debris that serve as a food source."
+      }
+    }
+  ],
+  "description": "Mold grows under sinks due to persistent moisture from leaks or condensation, combined with darkness and organic debris that serve as a food source."
+}

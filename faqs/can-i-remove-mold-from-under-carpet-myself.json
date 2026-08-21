@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-from-under-carpet-myself",
+  "name": "Can I remove mold from under carpet myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold from under carpet myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attempting to remove mold from under carpet yourself is generally not recommended, especially for areas larger than a few square feet or if you have health sensitivities. Without proper equipment and training, you risk spreading mold spores, exposing yourself to harmful irritants, and failing to completely eliminate the problem. Professional remediators have the tools and expertise to safely and effectively address mold growth.",
+        "@type": "Answer",
+        "description": "DIY mold removal under carpet is not recommended for significant growth due to risks of spore spread and incomplete remediation. Professionals ensure safety and effectiveness."
+      }
+    }
+  ],
+  "description": "DIY mold removal under carpet is not recommended for significant growth due to risks of spore spread and incomplete remediation. Professionals ensure safety and"
+}

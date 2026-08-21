@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-mold-remediation-process",
+  "name": "What is the mold remediation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the mold remediation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The mold remediation process typically involves several key steps. First, professionals assess the mold and identify its moisture source. Next, the affected area is contained to prevent spores from spreading to other parts of the property. Air filtration devices are often used during this stage. Contaminated materials are then safely removed and properly disposed of. After removal, the area is thoroughly cleaned, disinfected, and dried. Finally, post-remediation verification may be conducted to ensure the mold has been successfully eliminated.",
+        "@type": "Answer",
+        "description": "The mold remediation process includes assessment, containment, removal of contaminated materials, cleaning, drying, and final inspection."
+      }
+    }
+  ],
+  "description": "The mold remediation process includes assessment, containment, removal of contaminated materials, cleaning, drying, and final inspection."
+}

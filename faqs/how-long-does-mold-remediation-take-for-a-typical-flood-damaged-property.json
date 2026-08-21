@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-mold-remediation-take-for-a-typical-flood-damaged-property",
+  "name": "How long does mold remediation take for a typical flood-damaged property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does mold remediation take for a typical flood-damaged property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold remediation for a flood-damaged property varies significantly, but a typical project can take anywhere from a few days to several weeks. This timeline depends on factors like the size of the contaminated area, the extent of mold growth, the type of materials affected, and the necessary drying time. A thorough initial assessment helps determine a more precise timeline for your specific situation.",
+        "@type": "Answer",
+        "description": "Mold remediation can take from a few days to several weeks, depending on the damage extent and area size."
+      }
+    }
+  ],
+  "description": "Mold remediation can take from a few days to several weeks, depending on the damage extent and area size."
+}

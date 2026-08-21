@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-mold-remediation",
+  "name": "When do I need professional mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold remediation is typically recommended if the mold growth covers an area larger than 10 square feet, or if it's located in an HVAC system or sewage-contaminated water. You should also seek professional help if you or your family members are experiencing mold-related health issues, or if the mold returns after your own cleaning efforts. Specialists have the equipment and expertise to safely contain and remove mold, preventing its spread and ensuring thorough treatment.",
+        "@type": "Answer",
+        "description": "Professional mold remediation is needed for large mold infestations (over 10 sq ft), mold in HVAC systems, or if health issues are present."
+      }
+    }
+  ],
+  "description": "Professional mold remediation is needed for large mold infestations (over 10 sq ft), mold in HVAC systems, or if health issues are present."
+}

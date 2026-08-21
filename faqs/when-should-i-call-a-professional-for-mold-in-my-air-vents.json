@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-in-my-air-vents",
+  "name": "When should I call a professional for mold in my air vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold in my air vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for mold in air vents if you see visible mold growth, notice a persistent musty odor coming from your vents, or if someone in your household experiences unexplained health issues that seem to worsen when the HVAC system is running. Professional remediation is also recommended if the mold covers a large area, or if you suspect hidden mold within the ductwork, as specialized equipment and expertise are needed for safe and thorough removal.",
+        "@type": "Answer",
+        "description": "Call a professional for mold in air vents if you see visible mold, smell a persistent musty odor, or experience health issues linked to your HVAC system."
+      }
+    }
+  ],
+  "description": "Call a professional for mold in air vents if you see visible mold, smell a persistent musty odor, or experience health issues linked to your HVAC system."
+}

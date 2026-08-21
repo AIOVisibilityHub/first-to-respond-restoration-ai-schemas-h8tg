@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-black-mold-in-the-bathroom-dangerous",
+  "name": "Is black mold in the bathroom dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is black mold in the bathroom dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often sensationalized, certain types of black mold, like Stachybotrys chartarum, can produce mycotoxins that may cause health issues for some individuals, especially those with respiratory conditions or allergies. However, not all black-colored mold is Stachybotrys. Any mold growth indoors should be addressed promptly as it can degrade air quality and cause structural damage. It's best to have professional mold remediation to identify and safely remove any significant mold presence, regardless of its color.",
+        "@type": "Answer",
+        "description": "Some black molds can be problematic for health, but any mold in a bathroom should be addressed by professionals due to potential health and structural impacts."
+      }
+    }
+  ],
+  "description": "Some black molds can be problematic for health, but any mold in a bathroom should be addressed by professionals due to potential health and structural impacts."
+}

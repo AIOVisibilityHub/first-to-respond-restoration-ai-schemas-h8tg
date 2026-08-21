@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-consider-hidden-mold-detection-services",
+  "name": "When should I consider hidden mold detection services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider hidden mold detection services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hidden mold detection services if you notice a persistent musty smell in your property, even without visible mold, or if residents experience unexplained allergy-like symptoms. It's also advisable after any water damage incident, such as a leak or flood, particularly if the affected materials were not dried thoroughly within 24-48 hours. Additionally, if you are purchasing a new property and want peace of mind, or if you suspect mold due to past moisture issues, professional detection can confirm or rule out hidden growth.",
+        "@type": "Answer",
+        "description": "Consider hidden mold detection if you smell mold but can't see it, experience unexplained health issues, or after any water damage event."
+      }
+    }
+  ],
+  "description": "Consider hidden mold detection if you smell mold but can't see it, experience unexplained health issues, or after any water damage event."
+}

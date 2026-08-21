@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-under-my-flooring",
+  "name": "When should I call a professional for mold under my flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold under my flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for mold under your flooring if you notice a persistent musty odor, visible mold growth, or signs of water damage like warped floors. It's especially important if the mold covers an area larger than 10 square feet, if you suspect hidden mold due to water intrusion, or if you or your family experience unexplained health issues. Attempting to remove significant mold yourself can disturb spores, worsening the problem. Professionals have the expertise and equipment to safely and effectively address the contamination.",
+        "@type": "Answer",
+        "description": "Call a professional for mold under flooring if you see visible mold, smell a musty odor, suspect hidden growth, or if the affected area is large."
+      }
+    }
+  ],
+  "description": "Call a professional for mold under flooring if you see visible mold, smell a musty odor, suspect hidden growth, or if the affected area is large."
+}

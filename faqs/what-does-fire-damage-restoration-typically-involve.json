@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-fire-damage-restoration-typically-involve",
+  "name": "What does fire damage restoration typically involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does fire damage restoration typically involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fire damage restoration is a multi-step process. It usually begins with securing the property, water removal, and drying if water was used to extinguish the fire. This is followed by soot and smoke residue removal from all surfaces, often requiring specialized equipment and cleaning agents. Odor removal is critical, using techniques like ozone treatments or thermal fogging. Structural repairs, such as replacing damaged drywall, flooring, and roofing, are then undertaken. Finally, contents cleaning and restoration, including textiles and personal items, are performed to restore as much as possible.",
+        "@type": "Answer",
+        "description": "Fire damage restoration involves securing the property, water removal, soot and smoke cleanup, odor removal, structural repairs, and contents restoration."
+      }
+    }
+  ],
+  "description": "Fire damage restoration involves securing the property, water removal, soot and smoke cleanup, odor removal, structural repairs, and contents restoration."
+}

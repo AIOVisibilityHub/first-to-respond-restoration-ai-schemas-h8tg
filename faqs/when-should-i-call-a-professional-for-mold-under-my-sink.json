@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-under-my-sink",
+  "name": "When should I call a professional for mold under my sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold under my sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the mold covers an area larger than 10 square feet, if you suspect the mold is from contaminated water (like sewage), or if you experience persistent health symptoms. Professionals can identify the source of moisture, safely contain and remove the mold, and prevent its return. DIY methods might be insufficient for larger or hidden infestations, potentially leading to incomplete removal or cross-contamination.",
+        "@type": "Answer",
+        "description": "Call a professional for mold under your sink if the area is larger than 10 square feet, if it's from contaminated water, or if you have health concerns."
+      }
+    }
+  ],
+  "description": "Call a professional for mold under your sink if the area is larger than 10 square feet, if it's from contaminated water, or if you have health concerns."
+}

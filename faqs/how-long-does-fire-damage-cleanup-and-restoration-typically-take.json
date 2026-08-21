@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-fire-damage-cleanup-and-restoration-typically-take",
+  "name": "How long does fire damage cleanup and restoration typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does fire damage cleanup and restoration typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of fire damage cleanup and restoration varies significantly based on the extent of the damage, the size of the property, and the materials affected. Minor fires with localized smoke damage might take days to a week. Extensive structural damage and pervasive smoke odor throughout a property can extend the process to several weeks or even months. Factors like the availability of specialized materials and equipment also influence the timeline. A detailed assessment by a restoration company will provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Cleanup time varies greatly depending on the fire's severity, from a few days for minor smoke damage to several weeks or months for extensive structural damage. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cleanup time varies greatly depending on the fire's severity, from a few days for minor smoke damage to several weeks or months for extensive structural damage."
+}

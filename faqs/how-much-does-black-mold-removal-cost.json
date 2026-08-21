@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-black-mold-removal-cost",
+  "name": "How much does black mold removal cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does black mold removal cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of black mold removal is highly variable, depending on several factors. These include the size and location of the mold growth, the type of materials affected (e.g., drywall, wood, carpet), the extent of water damage, and the labor required. Small, localized mold issues might be less costly, while extensive infestations requiring demolition and reconstruction will be significantly more. A professional inspection is essential to provide an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "The cost of black mold removal varies widely based on the size, location, and type of affected materials. A professional inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost of black mold removal varies widely based on the size, location, and type of affected materials. A professional inspection provides an accurate estimat"
+}

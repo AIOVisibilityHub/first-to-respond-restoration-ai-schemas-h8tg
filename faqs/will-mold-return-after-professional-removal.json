@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-mold-return-after-professional-removal",
+  "name": "Will mold return after professional removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will mold return after professional removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold removal, when done correctly, aims to eliminate the existing mold and prevent its return. However, mold will only return if the underlying moisture problem that caused it is not addressed. A reputable mold remediation company will not only remove the mold but also identify and advise on fixing the moisture source. If the source of water or humidity is not resolved, mold is highly likely to reappear, regardless of how thoroughly it was removed initially.",
+        "@type": "Answer",
+        "description": "Mold will not return after professional removal if the underlying moisture source is identified and permanently fixed."
+      }
+    }
+  ],
+  "description": "Mold will not return after professional removal if the underlying moisture source is identified and permanently fixed."
+}

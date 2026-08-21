@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-mold-behind-drywall-in-encino",
+  "name": "How much does it cost to remove mold behind drywall in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove mold behind drywall in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold removal behind drywall in Encino can vary widely, as it depends on several factors. These include the size and accessibility of the mold infestation, the type of mold present, the extent of moisture damage, and the amount of drywall and other materials that need to be removed and replaced. A small, localized patch might be less costly than extensive, widespread growth requiring significant demolition and specialized equipment. A professional assessment is necessary to provide an accurate estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Costs for mold removal vary in Encino based on the infestation's size, accessibility, and the extent of material removal needed. A professional assessment offers the most accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs for mold removal vary in Encino based on the infestation's size, accessibility, and the extent of material removal needed. A professional assessment offer"
+}

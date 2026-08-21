@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-happens-after-hidden-mold-is-detected",
+  "name": "What happens after hidden mold is detected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after hidden mold is detected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once hidden mold is detected, our team will provide a detailed report outlining the findings, including the location, type, and estimated extent of the mold growth, along with its likely moisture source. Based on this assessment, we will develop a comprehensive remediation plan tailored to your specific situation. This plan will include containment strategies to prevent further spread, safe removal of contaminated materials, thorough cleaning and sanitization, and recommendations to address the underlying moisture problem to prevent recurrence. We'll explain each step before starting any work.",
+        "@type": "Answer",
+        "description": "After detection, we provide a detailed report and a tailored remediation plan, including containment, safe removal, cleaning, and moisture source resolution."
+      }
+    }
+  ],
+  "description": "After detection, we provide a detailed report and a tailored remediation plan, including containment, safe removal, cleaning, and moisture source resolution."
+}

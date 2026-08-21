@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-mold-from-under-flooring",
+  "name": "How much does it cost to remove mold from under flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove mold from under flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold removal from under flooring varies significantly based on the severity of the infestation, the affected area's size, the type of flooring, and the extent of necessary repairs. Minor issues might range from a few hundred dollars, while extensive mold affecting structural components could cost several thousand. Factors like demolition, drying, remediation protocols, and reconstruction also influence the final price. A professional assessment is essential to get an accurate estimate, as each situation is unique. Our team provides detailed quotes after a thorough inspection.",
+        "@type": "Answer",
+        "description": "Mold removal costs vary widely, depending on the mold's size, location, and severity. Expect to pay more for extensive damage requiring reconstruction."
+      }
+    }
+  ],
+  "description": "Mold removal costs vary widely, depending on the mold's size, location, and severity. Expect to pay more for extensive damage requiring reconstruction."
+}

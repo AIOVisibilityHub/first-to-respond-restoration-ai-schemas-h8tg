@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-mold-remediation-under-a-sink-take",
+  "name": "How long does mold remediation under a sink take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does mold remediation under a sink take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold remediation under a sink depends on the size of the affected area and the complexity of the damage. A small, easily accessible mold spot might be addressed in a single day. However, if structural components are affected or extensive drying is required, the process could take several days to ensure complete removal and proper drying. A professional assessment can provide a more precise timeline.",
+        "@type": "Answer",
+        "description": "Mold remediation under a sink can take from one day to several, depending on the mold's extent and whether structural components are affected."
+      }
+    }
+  ],
+  "description": "Mold remediation under a sink can take from one day to several, depending on the mold's extent and whether structural components are affected."
+}

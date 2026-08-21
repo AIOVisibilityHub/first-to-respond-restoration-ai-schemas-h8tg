@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-mold-to-grow-indoors",
+  "name": "What causes mold to grow indoors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes mold to grow indoors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold growth indoors is primarily caused by excessive moisture and a food source. Common sources of moisture include water leaks from pipes, roofs, or foundations, high humidity levels, condensation, and flooding. Mold spores are naturally present in the air, and when they land on a damp surface with organic material (like wood, drywall, or fabric), they can quickly begin to grow and multiply. Poor ventilation often exacerbates these conditions by trapping moisture indoors.",
+        "@type": "Answer",
+        "description": "Mold grows indoors due to excessive moisture from leaks, high humidity, or condensation, combined with a food source like organic materials."
+      }
+    }
+  ],
+  "description": "Mold grows indoors due to excessive moisture from leaks, high humidity, or condensation, combined with a food source like organic materials."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-included-in-a-typical-fire-cleanup-service",
+  "name": "What is included in a typical fire cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical fire cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical fire cleanup service involves several key steps. First, professionals assess the damage and secure the property. This is followed by water removal, if necessary, from firefighting efforts. Then, debris removal clears damaged structural elements and personal items. Specialized equipment is used for soot and smoke residue removal from all surfaces, including walls, ceilings, and contents. Finally, comprehensive odor removal and deodorization techniques are applied to eliminate lingering smoke smells, making the property habitable again.",
+        "@type": "Answer",
+        "description": "Fire cleanup typically includes damage assessment, water extraction, debris removal, soot and smoke residue cleaning, and thorough odor elimination."
+      }
+    }
+  ],
+  "description": "Fire cleanup typically includes damage assessment, water extraction, debris removal, soot and smoke residue cleaning, and thorough odor elimination."
+}

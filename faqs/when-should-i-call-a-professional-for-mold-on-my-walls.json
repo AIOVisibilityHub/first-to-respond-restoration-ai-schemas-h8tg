@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-on-my-walls",
+  "name": "When should I call a professional for mold on my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold on my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for mold on your walls if the affected area is larger than roughly 10 square feet, if you suspect hidden mold behind walls, or if the mold growth is due to contaminated water (e.g., sewage backup). Professionals can safely contain and remove mold, identify the source of moisture, and prevent its recurrence. DIY removal is generally only recommended for very small, superficial areas caused by clean water.",
+        "@type": "Answer",
+        "description": "Call a professional for mold on walls if the area is large (over 10 sq ft), if you suspect hidden mold, or if it's from contaminated water."
+      }
+    }
+  ],
+  "description": "Call a professional for mold on walls if the area is large (over 10 sq ft), if you suspect hidden mold, or if it's from contaminated water."
+}

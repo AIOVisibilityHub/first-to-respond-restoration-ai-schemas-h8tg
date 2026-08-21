@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-after-a-water-leak-covered-by-insurance",
+  "name": "Is mold after a water leak covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold after a water leak covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether mold damage from a water leak is covered by insurance depends on your specific policy and the cause of the leak. Most standard homeowner's insurance policies cover sudden and accidental water damage, like a burst pipe, and subsequent mold growth if it's directly related to the covered peril. However, mold resulting from long-term neglect, poor maintenance, or pre-existing conditions may not be covered. It's best to review your policy or contact your insurance provider directly.",
+        "@type": "Answer",
+        "description": "Mold coverage depends on your insurance policy and the water leak's cause. Sudden, accidental leaks are often covered, but mold from neglect may not be."
+      }
+    }
+  ],
+  "description": "Mold coverage depends on your insurance policy and the water leak's cause. Sudden, accidental leaks are often covered, but mold from neglect may not be."
+}

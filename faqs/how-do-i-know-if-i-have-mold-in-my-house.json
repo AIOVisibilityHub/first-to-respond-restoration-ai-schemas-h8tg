@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-know-if-i-have-mold-in-my-house",
+  "name": "How do I know if I have mold in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have mold in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of mold can include a musty or earthy odor, visible discoloration on walls, ceilings, floors, or belongings (often black, green, or white), or water stains. You might also notice symptoms in household members, such as persistent sneezing, coughing, or skin irritation, especially if these symptoms improve when away from home. Mold often grows in hidden areas like behind drywall, under flooring, or inside HVAC systems, so a professional inspection might be needed to confirm its presence and extent.",
+        "@type": "Answer",
+        "description": "Look for musty odors, visible spots (black, green, white), or unexplained allergic reactions. Hidden mold may require a professional inspection."
+      }
+    }
+  ],
+  "description": "Look for musty odors, visible spots (black, green, white), or unexplained allergic reactions. Hidden mold may require a professional inspection."
+}

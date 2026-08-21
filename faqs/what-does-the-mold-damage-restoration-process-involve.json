@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-the-mold-damage-restoration-process-involve",
+  "name": "What does the mold damage restoration process involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does the mold damage restoration process involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The mold damage restoration process typically begins with a thorough inspection to assess the extent of the mold growth and identify the moisture source. Next, containment measures are established to prevent mold spores from spreading to unaffected areas. Affected materials are then either cleaned or removed and safely disposed of. Air filtration systems are used to capture airborne mold spores. After removal, the area is cleaned and disinfected. The final step involves drying the affected areas completely to prevent recurrence and, if necessary, restoring damaged structural elements or contents.",
+        "@type": "Answer",
+        "description": "The process involves inspection, containment, removal of moldy materials, air filtration, cleaning, and thorough drying to prevent recurrence."
+      }
+    }
+  ],
+  "description": "The process involves inspection, containment, removal of moldy materials, air filtration, cleaning, and thorough drying to prevent recurrence."
+}

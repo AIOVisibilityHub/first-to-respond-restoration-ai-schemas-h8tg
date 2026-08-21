@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/are-there-health-risks-associated-with-mold-in-air-vents",
+  "name": "Are there health risks associated with mold in air vents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there health risks associated with mold in air vents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, mold in air vents can contribute to various health issues as spores are circulated throughout your home by the HVAC system. Exposure to mold can trigger allergic reactions such as sneezing, runny nose, red eyes, and skin rash. It can also exacerbate asthma symptoms in sensitive individuals. Some people may experience irritation of the eyes, skin, nose, throat, and lungs. If you notice persistent symptoms when your HVAC system is on, professional mold remediation may be necessary.",
+        "@type": "Answer",
+        "description": "Mold in air vents can cause allergic reactions, respiratory issues, and worsen asthma symptoms due to spores circulating in the air."
+      }
+    }
+  ],
+  "description": "Mold in air vents can cause allergic reactions, respiratory issues, and worsen asthma symptoms due to spores circulating in the air."
+}

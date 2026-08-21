@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-included-in-professional-fire-damage-restoration-services",
+  "name": "What is included in professional fire damage restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in professional fire damage restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional fire damage restoration services typically include comprehensive damage assessment, emergency board-up and roof tarping to secure the property, water removal and drying if firefighting efforts caused water damage, smoke and soot removal from all surfaces, odor neutralization, contents cleaning and restoration (e.g., furniture, documents), structural cleaning and repairs, and reconstruction services if necessary. The goal is to return your property to its pre-fire condition, addressing both visible and hidden damage.",
+        "@type": "Answer",
+        "description": "Professional fire damage restoration includes damage assessment, property securing, water extraction, smoke and soot removal, odor neutralization, contents cleaning, and structural repairs to restore the property."
+      }
+    }
+  ],
+  "description": "Professional fire damage restoration includes damage assessment, property securing, water extraction, smoke and soot removal, odor neutralization, contents clea"
+}

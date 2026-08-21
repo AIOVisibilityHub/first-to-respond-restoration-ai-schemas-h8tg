@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-tell-if-the-black-substance-around-my-air-conditioner-is-mold",
+  "name": "How can I tell if the black substance around my air conditioner is mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if the black substance around my air conditioner is mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black substances around your air conditioner are often mold, but can sometimes be dirt or dust accumulation. Mold typically has a fuzzy, slimy, or discolored appearance and may emit a musty odor. If you suspect mold, avoid touching it. Observe its texture and smell. If it's patchy, growing in moist areas, and has a distinct musty scent, it's highly likely to be mold. For confirmation and safe removal, it's best to consult with a professional.",
+        "@type": "Answer",
+        "description": "Black substances could be mold if they are fuzzy, slimy, discolored, and have a musty smell, especially in moist areas."
+      }
+    }
+  ],
+  "description": "Black substances could be mold if they are fuzzy, slimy, discolored, and have a musty smell, especially in moist areas."
+}

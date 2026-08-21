@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-mold-behind-drywall",
+  "name": "What are the common signs of mold behind drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of mold behind drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold behind drywall often presents with a musty odor, even if the mold itself isn't visible. Discoloration, stains, or peeling paint on the drywall can also indicate hidden mold growth. In some cases, warped or bowed drywall panels might signal significant moisture issues leading to mold. Individuals might also experience unexplained allergy-like symptoms, such as sneezing, coughing, or eye irritation, when in the affected area, which could point to hidden mold spores.",
+        "@type": "Answer",
+        "description": "Common signs include a persistent musty smell, visible discoloration or stains on drywall, peeling paint, or unexplained allergy-like symptoms."
+      }
+    }
+  ],
+  "description": "Common signs include a persistent musty smell, visible discoloration or stains on drywall, peeling paint, or unexplained allergy-like symptoms."
+}

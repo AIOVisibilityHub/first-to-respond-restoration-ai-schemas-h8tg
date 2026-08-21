@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-from-behind-drywall-myself",
+  "name": "Can I remove mold from behind drywall myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold from behind drywall myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small, surface-level mold patches (typically less than 10 square feet) on accessible drywall, homeowners might attempt removal with appropriate safety gear and precautions. However, if mold is suspected behind drywall, it likely indicates a larger, hidden problem that requires specialized tools and expertise for assessment and safe removal. Disturbing mold without proper containment can release spores into the air, potentially spreading the issue and causing health risks. Professional remediation ensures thorough removal and addresses the underlying moisture source.",
+        "@type": "Answer",
+        "description": "Small surface mold can sometimes be handled by homeowners. However, mold behind drywall often indicates a larger issue requiring professional assessment and removal to prevent spore spread and ensure complete remediation."
+      }
+    }
+  ],
+  "description": "Small surface mold can sometimes be handled by homeowners. However, mold behind drywall often indicates a larger issue requiring professional assessment and rem"
+}

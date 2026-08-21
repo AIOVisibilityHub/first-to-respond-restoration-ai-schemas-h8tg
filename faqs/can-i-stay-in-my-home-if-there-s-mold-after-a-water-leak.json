@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-stay-in-my-home-if-there-s-mold-after-a-water-leak",
+  "name": "Can I stay in my home if there's mold after a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home if there's mold after a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to stay in your home if there's mold after a water leak depends on the extent of the mold growth and individual health sensitivities. For small, localized mold, it might be safe to remain, especially if the area is contained. However, if the mold is widespread, producing strong odors, or if anyone in the household has respiratory issues, allergies, or compromised immune systems, it's generally safer to temporarily relocate until remediation is complete. A professional assessment can help determine the risk.",
+        "@type": "Answer",
+        "description": "Staying in your home with mold depends on the mold's extent and individual health. Widespread mold or health sensitivities may necessitate temporary relocation."
+      }
+    }
+  ],
+  "description": "Staying in your home with mold depends on the mold's extent and individual health. Widespread mold or health sensitivities may necessitate temporary relocation."
+}

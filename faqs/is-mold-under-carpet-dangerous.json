@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-under-carpet-dangerous",
+  "name": "Is mold under carpet dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold under carpet dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all mold is toxic, any mold growth indoors can potentially impact air quality and pose health risks, especially for individuals with allergies, asthma, or compromised immune systems. Symptoms can include coughing, sneezing, skin irritation, and respiratory problems. Prolonged exposure can worsen these conditions. It's best to address mold promptly to prevent health issues and further property damage.",
+        "@type": "Answer",
+        "description": "Mold under carpet can affect air quality and cause health issues like allergies or respiratory problems, especially for sensitive individuals."
+      }
+    }
+  ],
+  "description": "Mold under carpet can affect air quality and cause health issues like allergies or respiratory problems, especially for sensitive individuals."
+}

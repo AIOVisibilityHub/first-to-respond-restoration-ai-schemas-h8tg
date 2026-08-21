@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-under-my-flooring-myself",
+  "name": "Can I remove mold under my flooring myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold under my flooring myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small patches of surface mold (less than 10 square feet) on non-porous materials might be tackled by a homeowner using appropriate safety gear and cleaning solutions. However, mold under flooring is often more complex. It typically indicates a larger moisture issue and can penetrate porous subflooring, making complete removal challenging without specialized tools and techniques. Attempting DIY removal can disturb spores, potentially spreading the mold to other areas or exposing you to health risks. For thorough and safe remediation, especially with hidden mold or significant growth, professional help is recommended.",
+        "@type": "Answer",
+        "description": "DIY mold removal under flooring is generally not recommended, especially for areas larger than 10 square feet or if hidden, due to potential spread and health risks."
+      }
+    }
+  ],
+  "description": "DIY mold removal under flooring is generally not recommended, especially for areas larger than 10 square feet or if hidden, due to potential spread and health r"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-look-for-in-a-mold-remediation-company",
+  "name": "What should I look for in a mold remediation company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a mold remediation company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a mold remediation company, look for certifications from organizations like the Institute of Inspection, Cleaning and Restoration Certification (IICRC). Ensure they have comprehensive insurance, including liability and workers' compensation. Check for positive customer reviews and request references. A reputable company should also provide a detailed inspection report, a clear scope of work, and transparent pricing. Always ask about their containment and disposal procedures to ensure safety and compliance.",
+        "@type": "Answer",
+        "description": "Look for IICRC certification, insurance, good reviews, and detailed estimates when choosing a mold remediation company."
+      }
+    }
+  ],
+  "description": "Look for IICRC certification, insurance, good reviews, and detailed estimates when choosing a mold remediation company."
+}

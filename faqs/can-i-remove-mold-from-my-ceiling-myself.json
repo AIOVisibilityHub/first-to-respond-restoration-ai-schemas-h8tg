@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-remove-mold-from-my-ceiling-myself",
+  "name": "Can I remove mold from my ceiling myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove mold from my ceiling myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small, superficial mold patches (less than 10 square feet) on non-porous surfaces, you might be able to clean it yourself with appropriate safety gear and cleaning solutions. However, if the mold covers a large area, has penetrated porous materials like drywall, or you suspect a hidden moisture source, professional mold remediation is highly recommended. Improper removal can spread spores and lead to recurrence or hidden growth.",
+        "@type": "Answer",
+        "description": "You can clean small surface mold yourself, but larger areas or mold in porous materials require professional remediation to prevent spread and recurrence."
+      }
+    }
+  ],
+  "description": "You can clean small surface mold yourself, but larger areas or mold in porous materials require professional remediation to prevent spread and recurrence."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-mold-in-air-vents-look-like",
+  "name": "What does mold in air vents look like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does mold in air vents look like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold in air vents can appear as black, green, or white fuzzy or slimy patches. It might also look like dark stains or discoloration around the vent openings or on the vent grilles. Sometimes, mold isn't immediately visible within the ducts themselves but can be indicated by a musty odor emanating from the vents when the HVAC system is running. If you suspect mold, a professional inspection can confirm its presence and identify hidden growth within the ductwork.",
+        "@type": "Answer",
+        "description": "Mold in air vents often appears as black, green, or white fuzzy patches or dark stains around vent openings. A musty smell from the vents can also indicate hidden mold."
+      }
+    }
+  ],
+  "description": "Mold in air vents often appears as black, green, or white fuzzy patches or dark stains around vent openings. A musty smell from the vents can also indicate hidd"
+}

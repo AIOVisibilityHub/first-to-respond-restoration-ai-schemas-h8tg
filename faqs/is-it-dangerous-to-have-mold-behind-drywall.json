@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-it-dangerous-to-have-mold-behind-drywall",
+  "name": "Is it dangerous to have mold behind drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it dangerous to have mold behind drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, mold behind drywall can pose risks to property and health. Mold spores can irritate respiratory systems, leading to allergy-like symptoms, asthma flare-ups, and other health concerns, especially for sensitive individuals. Beyond health impacts, mold actively consumes organic materials like drywall and wood, compromising the structural integrity of your home over time. Addressing hidden mold promptly helps mitigate these potential health issues and prevents further damage to your property.",
+        "@type": "Answer",
+        "description": "Yes, hidden mold can cause respiratory issues for occupants and progressively damage your home's structure over time by deteriorating materials like drywall."
+      }
+    }
+  ],
+  "description": "Yes, hidden mold can cause respiratory issues for occupants and progressively damage your home's structure over time by deteriorating materials like drywall."
+}

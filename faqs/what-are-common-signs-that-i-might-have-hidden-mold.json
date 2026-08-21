@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-signs-that-i-might-have-hidden-mold",
+  "name": "What are common signs that I might have hidden mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I might have hidden mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of hidden mold include a persistent musty or earthy odor, even if you can't see any visible mold. You might also notice unexplained health symptoms like chronic allergies, coughing, sneezing, or irritated eyes, especially when you are in a particular area of your home or business. Peeling paint, bulging walls, or discolored patches on ceilings or walls that don't appear wet could also indicate underlying moisture issues fostering hidden mold growth. A history of water leaks, floods, or high humidity in an area also increases the likelihood of hidden mold.",
+        "@type": "Answer",
+        "description": "Signs of hidden mold include persistent musty odors, unexplained allergy-like symptoms, or physical signs like peeling paint or discolored walls without visible dampness."
+      }
+    }
+  ],
+  "description": "Signs of hidden mold include persistent musty odors, unexplained allergy-like symptoms, or physical signs like peeling paint or discolored walls without visible"
+}

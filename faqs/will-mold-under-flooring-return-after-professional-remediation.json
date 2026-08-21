@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-mold-under-flooring-return-after-professional-remediation",
+  "name": "Will mold under flooring return after professional remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will mold under flooring return after professional remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold remediation aims to not only remove existing mold but also to address the underlying moisture source that caused it. When the moisture problem is correctly identified and repaired, and the affected area is thoroughly cleaned, dried, and treated, the likelihood of mold returning is significantly reduced. However, if the original moisture issue is not fully resolved or if new water damage occurs, mold can potentially regrow. Our comprehensive approach focuses on both removal and prevention to minimize recurrence.",
+        "@type": "Answer",
+        "description": "Mold is unlikely to return after professional remediation if the underlying moisture source is fully resolved and new water damage is prevented."
+      }
+    }
+  ],
+  "description": "Mold is unlikely to return after professional remediation if the underlying moisture source is fully resolved and new water damage is prevented."
+}

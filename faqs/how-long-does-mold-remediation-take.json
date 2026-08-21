@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-mold-remediation-take",
+  "name": "How long does mold remediation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does mold remediation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold remediation depends on the severity and extent of the mold infestation. A minor mold issue in an easily accessible area might be resolved in a day or two. However, more extensive mold growth, especially if it's hidden behind walls or requires significant demolition and drying, can take several days to over a week to complete. This timeframe includes containment, removal, cleaning, drying, and final inspection. Your remediation specialist can provide a more accurate timeline after assessing your property.",
+        "@type": "Answer",
+        "description": "Mold remediation duration varies from a few days to over a week, depending on the mold's size, location, and the extent of damage."
+      }
+    }
+  ],
+  "description": "Mold remediation duration varies from a few days to over a week, depending on the mold's size, location, and the extent of damage."
+}

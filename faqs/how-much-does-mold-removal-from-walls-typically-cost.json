@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-mold-removal-from-walls-typically-cost",
+  "name": "How much does mold removal from walls typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does mold removal from walls typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mold removal from walls can vary widely depending on the size of the affected area, the extent of the mold growth, the type of mold, the accessibility of the mold (e.g., behind drywall), and the necessary repairs after remediation. Small, isolated areas might be less costly, while extensive growth requiring demolition and reconstruction will be more significant. A professional assessment is necessary to provide an accurate estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Mold removal costs vary based on the affected area's size, mold extent, accessibility, and necessary repairs. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Mold removal costs vary based on the affected area's size, mold extent, accessibility, and necessary repairs. A professional assessment provides an accurate est"
+}

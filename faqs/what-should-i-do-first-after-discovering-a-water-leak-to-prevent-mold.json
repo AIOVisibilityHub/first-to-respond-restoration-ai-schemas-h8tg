@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-first-after-discovering-a-water-leak-to-prevent-mold",
+  "name": "What should I do first after discovering a water leak to prevent mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first after discovering a water leak to prevent mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering a water leak, your first step should be to stop the water source immediately, if possible, to prevent further damage. Next, ensure electrical safety by turning off power to affected areas if water is near outlets or appliances. Then, begin removing standing water and moisture as quickly as you can. Ventilate the area with fans and open windows to aid in drying. Contact a professional water damage restoration company promptly, especially for significant leaks, to ensure proper drying and mold prevention.",
+        "@type": "Answer",
+        "description": "First, stop the water source, ensure electrical safety, then remove standing water and begin drying with fans and ventilation. Contact professionals for significant leaks."
+      }
+    }
+  ],
+  "description": "First, stop the water source, ensure electrical safety, then remove standing water and begin drying with fans and ventilation. Contact professionals for signifi"
+}

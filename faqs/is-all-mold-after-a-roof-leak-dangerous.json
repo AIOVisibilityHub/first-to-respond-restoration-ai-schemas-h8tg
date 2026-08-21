@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-all-mold-after-a-roof-leak-dangerous",
+  "name": "Is all mold after a roof leak dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is all mold after a roof leak dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all mold is toxic, but any mold growth indoors should be treated seriously. Certain types of mold can produce allergens and irritants that affect indoor air quality and may trigger health issues in sensitive individuals, including respiratory problems. Professional assessment and removal are recommended for any significant mold growth to ensure a healthy indoor environment.",
+        "@type": "Answer",
+        "description": "While not all mold is toxic, any indoor mold growth should be addressed professionally due to potential health impacts and structural damage."
+      }
+    }
+  ],
+  "description": "While not all mold is toxic, any indoor mold growth should be addressed professionally due to potential health impacts and structural damage."
+}

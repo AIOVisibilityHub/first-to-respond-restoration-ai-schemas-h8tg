@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-timeline-for-a-mold-cleanup-project",
+  "name": "What is the typical timeline for a mold cleanup project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a mold cleanup project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a mold cleanup project varies depending on the extent and location of the mold growth. A small, localized mold issue might be addressed in 1-3 days, including drying time. However, more extensive mold contamination involving hidden areas, structural damage, or large sections of a property can take anywhere from 3-7 days or even longer. This includes initial assessment, containment, removal, drying, and final cleaning. We will provide a detailed timeline after our initial inspection.",
+        "@type": "Answer",
+        "description": "Small mold issues can take 1-3 days, while extensive contamination might require 3-7 days or more, depending on the scope of work."
+      }
+    }
+  ],
+  "description": "Small mold issues can take 1-3 days, while extensive contamination might require 3-7 days or more, depending on the scope of work."
+}

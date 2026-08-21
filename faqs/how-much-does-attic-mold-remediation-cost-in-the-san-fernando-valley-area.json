@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-attic-mold-remediation-cost-in-the-san-fernando-valley-area",
+  "name": "How much does attic mold remediation cost in the San Fernando Valley area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does attic mold remediation cost in the San Fernando Valley area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of attic mold remediation varies significantly based on factors like the size of the affected area, the extent of mold growth, accessibility of the attic, the type of materials contaminated, and the underlying cause of moisture. Costs can range from hundreds to several thousands of dollars. A thorough inspection is necessary to provide an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Attic mold remediation costs vary based on the mold's extent, area size, and accessibility. A professional inspection is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Attic mold remediation costs vary based on the mold's extent, area size, and accessibility. A professional inspection is needed for an accurate estimate."
+}

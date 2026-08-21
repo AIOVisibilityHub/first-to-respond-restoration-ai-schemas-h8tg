@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-around-my-air-conditioner",
+  "name": "When should I call a professional for mold around my air conditioner?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold around my air conditioner?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for mold around your air conditioner if the mold growth is extensive, covering more than a small, easily cleanable area. If you suspect mold within the AC unit's internal components, such as the evaporator coils or ductwork, or if you experience persistent musty odors, professional intervention is necessary. Additionally, if you or family members are experiencing health symptoms related to mold exposure, it’s crucial to contact a remediation specialist quickly to ensure safe and thorough removal.",
+        "@type": "Answer",
+        "description": "Call a professional if mold growth is extensive, suspected inside the AC unit or ductwork, if musty odors persist, or if health symptoms related to mold exposure are present."
+      }
+    }
+  ],
+  "description": "Call a professional if mold growth is extensive, suspected inside the AC unit or ductwork, if musty odors persist, or if health symptoms related to mold exposur"
+}

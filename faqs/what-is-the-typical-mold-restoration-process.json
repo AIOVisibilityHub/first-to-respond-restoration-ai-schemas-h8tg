@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-mold-restoration-process",
+  "name": "What is the typical mold restoration process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical mold restoration process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The mold restoration process typically begins with a thorough inspection to identify the mold source and extent. This is followed by containment to prevent spores from spreading. Technicians then remove mold-infested materials, clean and disinfect affected surfaces, and use HEPA vacuums for air purification. Finally, moisture sources are addressed, and preventative measures are put in place. The goal is to safely and effectively eliminate mold and restore your property to a healthy condition.",
+        "@type": "Answer",
+        "description": "Mold restoration involves inspection, containment, removal of contaminated materials, cleaning, air purification, and addressing moisture sources to prevent future growth."
+      }
+    }
+  ],
+  "description": "Mold restoration involves inspection, containment, removal of contaminated materials, cleaning, air purification, and addressing moisture sources to prevent fut"
+}

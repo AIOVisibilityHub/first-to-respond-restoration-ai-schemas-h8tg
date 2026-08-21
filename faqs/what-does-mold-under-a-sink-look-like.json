@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-mold-under-a-sink-look-like",
+  "name": "What does mold under a sink look like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does mold under a sink look like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold under a sink can appear in various forms and colors, commonly fuzzy, slimy, or powdery patches. It might be black, green, white, or even orange. Often, it starts as small spots and spreads over time. You might also notice a musty, earthy odor, which is a strong indicator of mold growth even if it's not immediately visible. Common areas for growth include the cabinet base, along pipes, or on the back wall.",
+        "@type": "Answer",
+        "description": "Mold under a sink typically looks like fuzzy, slimy, or powdery patches in black, green, white, or orange. A musty odor is also a common sign."
+      }
+    }
+  ],
+  "description": "Mold under a sink typically looks like fuzzy, slimy, or powdery patches in black, green, white, or orange. A musty odor is also a common sign."
+}

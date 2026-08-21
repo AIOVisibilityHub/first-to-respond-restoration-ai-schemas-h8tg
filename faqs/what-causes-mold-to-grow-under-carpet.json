@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-mold-to-grow-under-carpet",
+  "name": "What causes mold to grow under carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes mold to grow under carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold thrives in damp, dark environments. Common causes for mold under carpet include water leaks from plumbing or roofs, flooding, spills that weren't dried properly, and high humidity levels. Inadequate ventilation can also contribute, trapping moisture within the carpet fibers and padding, creating an ideal breeding ground for mold spores to develop and spread.",
+        "@type": "Answer",
+        "description": "Mold grows under carpet due to moisture from leaks, floods, spills, or high humidity, often exacerbated by poor ventilation."
+      }
+    }
+  ],
+  "description": "Mold grows under carpet due to moisture from leaks, floods, spills, or high humidity, often exacerbated by poor ventilation."
+}

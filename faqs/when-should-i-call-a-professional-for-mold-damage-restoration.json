@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-mold-damage-restoration",
+  "name": "When should I call a professional for mold damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for mold damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional mold damage restoration company if you discover mold growth covering an area larger than roughly 10 square feet, if the mold is due to contaminated water (e.g., sewage), or if you suspect mold growth behind walls or in HVAC systems. Additionally, if anyone in your household experiences persistent health issues that you suspect are linked to mold exposure, or if you have tried to clean small mold spots yourself without success, professional intervention is recommended. Professionals have the specialized equipment and training to safely and thoroughly remove mold.",
+        "@type": "Answer",
+        "description": "Call a professional for mold restoration if the mold covers a large area, is from contaminated water, or if you suspect hidden mold. Also, if you have health concerns or can't remove it yourself."
+      }
+    }
+  ],
+  "description": "Call a professional for mold restoration if the mold covers a large area, is from contaminated water, or if you suspect hidden mold. Also, if you have health co"
+}

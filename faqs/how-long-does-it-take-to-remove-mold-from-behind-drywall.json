@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-remove-mold-from-behind-drywall",
+  "name": "How long does it take to remove mold from behind drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove mold from behind drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold removal from behind drywall varies significantly depending on the size of the affected area, the extent of mold growth, and the complexity of accessing the hidden mold. A small, localized issue might be resolved in a few days, including drying time. Larger infestations, especially those requiring extensive demolition and drying of structural components, could take a week or more. This timeframe doesn't include the time needed for repairs and reconstruction after remediation is complete.",
+        "@type": "Answer",
+        "description": "Mold removal time varies greatly; small, localized issues might take a few days, while larger infestations requiring extensive drying and demolition could extend beyond a week."
+      }
+    }
+  ],
+  "description": "Mold removal time varies greatly; small, localized issues might take a few days, while larger infestations requiring extensive drying and demolition could exten"
+}

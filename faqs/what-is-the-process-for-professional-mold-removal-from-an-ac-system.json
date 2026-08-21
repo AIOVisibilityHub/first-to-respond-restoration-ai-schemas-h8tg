@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-mold-removal-from-an-ac-system",
+  "name": "What is the process for professional mold removal from an AC system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional mold removal from an AC system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold removal from an AC system involves several steps to ensure effective remediation and prevent recurrence. First, technicians will inspect to identify the mold's extent and source. They then isolate the affected area to prevent cross-contamination. Specialized equipment, like HEPA vacuums and air scrubbers, is used to remove mold and spores. The AC unit components, including coils and drain pans, are cleaned and disinfected. Finally, technicians address the moisture source and recommend preventative measures to deter future growth.",
+        "@type": "Answer",
+        "description": "Professional mold removal involves inspection, containment, specialized equipment to remove mold and spores, cleaning AC components, and addressing the moisture source."
+      }
+    }
+  ],
+  "description": "Professional mold removal involves inspection, containment, specialized equipment to remove mold and spores, cleaning AC components, and addressing the moisture"
+}

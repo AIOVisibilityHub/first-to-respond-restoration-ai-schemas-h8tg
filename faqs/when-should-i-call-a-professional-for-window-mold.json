@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-window-mold",
+  "name": "When should I call a professional for window mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for window mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for window mold if the affected area is larger than roughly 10 square feet, if the mold is black or suspicious, if it has a strong musty odor, or if it keeps returning after your cleaning efforts. Professionals can identify the source of moisture, safely contain and remove the mold, and prevent future growth. This is especially important if you or anyone in your household experiences health symptoms related to mold exposure.",
+        "@type": "Answer",
+        "description": "Call a professional for window mold if the area is large, the mold is black, a strong odor is present, or it repeatedly returns. Professionals can ensure thorough removal and address the source."
+      }
+    }
+  ],
+  "description": "Call a professional for window mold if the area is large, the mold is black, a strong odor is present, or it repeatedly returns. Professionals can ensure thorou"
+}

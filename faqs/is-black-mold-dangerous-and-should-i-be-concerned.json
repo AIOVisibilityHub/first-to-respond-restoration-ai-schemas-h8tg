@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-black-mold-dangerous-and-should-i-be-concerned",
+  "name": "Is black mold dangerous and should I be concerned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is black mold dangerous and should I be concerned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the term 'black mold' can sound alarming, all types of mold, including Stachybotrys chartarum, can potentially affect indoor air quality. For some individuals, exposure to mold can trigger allergy-like symptoms such as sneezing, coughing, watery eyes, skin irritation, or headaches. These reactions vary greatly from person to person. It's generally recommended to address any mold growth promptly to maintain a healthy indoor environment and prevent potential issues, especially for sensitive individuals.",
+        "@type": "Answer",
+        "description": "All mold, including black mold, can affect indoor air quality and may cause allergy-like symptoms in some people. It's best to address any mold growth promptly."
+      }
+    }
+  ],
+  "description": "All mold, including black mold, can affect indoor air quality and may cause allergy-like symptoms in some people. It's best to address any mold growth promptly."
+}

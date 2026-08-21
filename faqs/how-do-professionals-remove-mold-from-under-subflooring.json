@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-remove-mold-from-under-subflooring",
+  "name": "How do professionals remove mold from under subflooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals remove mold from under subflooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional mold removal from under subflooring typically involves several steps. First, the area is contained to prevent spores from spreading. Then, affected flooring materials are carefully removed and properly disposed of. Specialized equipment like HEPA vacuums and air scrubbers are used to remove mold spores and purify the air. The subfloor is cleaned with antimicrobial agents to kill existing mold and inhibit future growth. Finally, the area is dried completely, and reconstruction or repairs are performed. This meticulous process ensures effective and safe remediation.",
+        "@type": "Answer",
+        "description": "Professionals contain the area, remove contaminated materials, clean the subfloor with antimicrobial agents, and then dry it thoroughly to remove mold."
+      }
+    }
+  ],
+  "description": "Professionals contain the area, remove contaminated materials, clean the subfloor with antimicrobial agents, and then dry it thoroughly to remove mold."
+}

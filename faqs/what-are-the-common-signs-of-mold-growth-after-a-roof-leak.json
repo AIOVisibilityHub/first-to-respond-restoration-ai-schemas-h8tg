@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-mold-growth-after-a-roof-leak",
+  "name": "What are the common signs of mold growth after a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of mold growth after a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of mold growth include a musty or earthy odor, visible discoloration on walls, ceilings, or personal belongings (often black, green, or white patches), and peeling paint or wallpaper. You might also notice increased allergy-like symptoms in occupants, such as sneezing, coughing, or eye irritation, especially when indoors.",
+        "@type": "Answer",
+        "description": "Signs include musty odors, visible discoloration on surfaces, peeling paint, and allergy-like symptoms."
+      }
+    }
+  ],
+  "description": "Signs include musty odors, visible discoloration on surfaces, peeling paint, and allergy-like symptoms."
+}

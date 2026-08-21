@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-mold-on-my-ceiling-dangerous",
+  "name": "Is mold on my ceiling dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold on my ceiling dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold on ceilings can pose health risks, particularly for individuals with allergies, asthma, or compromised immune systems. Exposure can lead to respiratory issues, skin irritation, and other allergic reactions. While not all mold is toxic, it's impossible to determine the species or potential health effects just by looking at it. Professional assessment and removal are recommended to ensure a safe indoor environment.",
+        "@type": "Answer",
+        "description": "Mold on ceilings can cause health issues, especially for those with allergies or asthma. Professional assessment is recommended for safe removal."
+      }
+    }
+  ],
+  "description": "Mold on ceilings can cause health issues, especially for those with allergies or asthma. Professional assessment is recommended for safe removal."
+}

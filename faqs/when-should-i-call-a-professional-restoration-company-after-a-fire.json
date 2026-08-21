@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-after-a-fire",
+  "name": "When should I call a professional restoration company after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional restoration company as soon as possible after a fire, ideally within 24-48 hours, once the fire department has cleared the property. Rapid response is critical to mitigate secondary damage, such as water damage from firefighting efforts, mold growth, or continued corrosion from smoke and soot. Prompt action can significantly reduce the overall damage and restoration costs, helping to preserve more of your property and contents.",
+        "@type": "Answer",
+        "description": "Contact a professional restoration company within 24-48 hours after a fire, once the property is declared safe, to mitigate secondary damage and reduce overall restoration costs."
+      }
+    }
+  ],
+  "description": "Contact a professional restoration company within 24-48 hours after a fire, once the property is declared safe, to mitigate secondary damage and reduce overall"
+}

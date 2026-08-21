@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-mold-and-why-is-it-a-problem-in-my-home",
+  "name": "What is mold and why is it a problem in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is mold and why is it a problem in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold is a type of fungus that grows in damp environments. It reproduces through spores, which can become airborne and settle on surfaces. In your home, mold can cause significant damage to building materials like drywall, wood, and insulation, weakening structures over time. Beyond property damage, certain types of mold can also impact indoor air quality, potentially leading to issues such as sneezing, runny nose, red eyes, skin rash, or even triggering asthma symptoms in sensitive individuals. Prompt removal is crucial to prevent further spread and damage.",
+        "@type": "Answer",
+        "description": "Mold is a fungus thriving in damp conditions, causing property damage and potentially affecting indoor air quality."
+      }
+    }
+  ],
+  "description": "Mold is a fungus thriving in damp conditions, causing property damage and potentially affecting indoor air quality."
+}
