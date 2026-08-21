@@ -107,7 +107,7 @@ MANIFEST_LOCATIONS = _client.get('locations') or manifest.get('locations', []) o
 SERVICES = _client.get('services') or manifest.get('services', [])
 CITIES = _client.get('cities') or manifest.get('cities', [])
 VERTICAL = (_client.get('vertical') or manifest.get('vertical') or 'home_services').lower()
-PAGES_URL = (_client.get('pagesUrl') or manifest.get('pagesUrl') or 'https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg/') or (WEBSITE or '')
+PAGES_URL = (_client.get('pagesUrl') or manifest.get('pagesUrl') or 'https://first2respond.aiovisibility.net/') or (WEBSITE or '')
 if PAGES_URL and not PAGES_URL.endswith('/'): PAGES_URL += '/'
 
 def title_case(s):

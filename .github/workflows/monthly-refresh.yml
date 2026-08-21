@@ -24,8 +24,8 @@ jobs:
           git diff --staged --quiet || (git commit -m '📅 Monthly refresh - First To Respond Restoration' && git push)
       - name: Ping IndexNow (Bing, Copilot, Yandex, AI crawlers)
         run: |
-          SITE="https://AIOVisibilityHub.github.io/first-to-respond-restoration-ai-schemas-h8tg"
-          KEY="a869e6e2e32b292ddf42b96787a4324f"
+          SITE="https://first2respond.aiovisibility.net"
+          KEY="81a651b7c46546a45a9051b858b1290d"
           HOST=$(echo "$SITE" | sed -E 's#https?://##; s#/.*##')
           if [ -f ai-sitemap.xml ]; then
             URLS=$(grep -o '<loc>[^<]*</loc>' ai-sitemap.xml | sed 's#</\?loc>##g' | grep "^$SITE" | head -9000 | jq -R . | jq -sc .)
