@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-storm-damage-can-affect-a-commercial-property",
+  "name": "What types of storm damage can affect a commercial property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of storm damage can affect a commercial property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storms can cause various types of damage to commercial properties, including roof damage from strong winds, hail, or falling trees. Water intrusion can occur through damaged roofs, windows, or foundations, leading to interior damage, mold growth, and structural issues. Heavy rain can also cause flooding in basements or lower levels. Lightning strikes can damage electrical systems and communication infrastructure. Understanding the potential damage helps in preparing for and responding to storm events effectively, ensuring business continuity.",
+        "@type": "Answer",
+        "description": "Storms can cause roof damage, water intrusion leading to interior issues and mold, flooding, and electrical system damage from lightning strikes."
+      }
+    }
+  ],
+  "description": "Storms can cause roof damage, water intrusion leading to interior issues and mold, flooding, and electrical system damage from lightning strikes."
+}

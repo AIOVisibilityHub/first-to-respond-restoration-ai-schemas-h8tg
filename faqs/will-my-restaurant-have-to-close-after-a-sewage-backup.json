@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-restaurant-have-to-close-after-a-sewage-backup",
+  "name": "Will my restaurant have to close after a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my restaurant have to close after a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, a restaurant will need to close, at least temporarily, after a sewage backup. This is necessary to ensure the safety of staff and customers and to comply with health regulations. The duration of closure depends on the extent of the contamination, the scope of cleanup and restoration required, and the time it takes to pass health inspections. Professional restoration services work to complete the cleanup efficiently to help minimize downtime and allow the restaurant to reopen as soon as safely possible.",
+        "@type": "Answer",
+        "description": "Yes, most restaurants will need to close temporarily after a sewage backup for safety and health compliance until cleanup is complete."
+      }
+    }
+  ],
+  "description": "Yes, most restaurants will need to close temporarily after a sewage backup for safety and health compliance until cleanup is complete."
+}

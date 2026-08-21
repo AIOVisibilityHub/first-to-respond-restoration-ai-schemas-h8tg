@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-emergency-board-up-services-for-commercial-properties-after-a-fire",
+  "name": "Do you offer emergency board-up services for commercial properties after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency board-up services for commercial properties after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration offers emergency board-up and tarping services for commercial properties immediately following a fire. Securing your property quickly is crucial to prevent further damage from weather, vandalism, or unauthorized access. This immediate response helps protect your assets, maintain the integrity of the building envelope, and complies with many insurance policy requirements for damage mitigation. Our teams are equipped to respond promptly to commercial emergencies in areas like Encino, North Hollywood, and Tarzana, ensuring your business is protected as soon as possible.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers emergency board-up and tarping services for commercial properties after a fire to secure the site and prevent further damage."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers emergency board-up and tarping services for commercial properties after a fire to secure the site and prevent further d"
+}

@@ -1,0 +1,155 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "HomeAndConstructionBusiness",
+    "areaServed": [
+      {
+        "name": "Encino",
+        "@type": "City"
+      },
+      {
+        "name": "North Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "San Fernando",
+        "@type": "City"
+      },
+      {
+        "name": "Studio City",
+        "@type": "City"
+      },
+      {
+        "name": "Tarzana",
+        "@type": "City"
+      },
+      {
+        "name": "Van Nuys",
+        "@type": "City"
+      },
+      {
+        "name": "Woodland Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Lake Balboa",
+        "@type": "City"
+      },
+      {
+        "name": "Northridge",
+        "@type": "City"
+      },
+      {
+        "name": "Sepulveda Basin",
+        "@type": "City"
+      },
+      {
+        "name": "Winnetka",
+        "@type": "City"
+      },
+      {
+        "name": "Canoga Park",
+        "@type": "City"
+      },
+      {
+        "name": "West Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Warner Center",
+        "@type": "City"
+      },
+      {
+        "name": "Chatsworth",
+        "@type": "City"
+      },
+      {
+        "name": "Porter Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Granada Hills",
+        "@type": "City"
+      },
+      {
+        "name": "North Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Panorama City",
+        "@type": "City"
+      },
+      {
+        "name": "Mission Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Pacoima",
+        "@type": "City"
+      },
+      {
+        "name": "Sylmar",
+        "@type": "City"
+      },
+      {
+        "name": "Arleta",
+        "@type": "City"
+      },
+      {
+        "name": "Valley Glen",
+        "@type": "City"
+      },
+      {
+        "name": "Valley Village",
+        "@type": "City"
+      },
+      {
+        "name": "Sherman Oaks",
+        "@type": "City"
+      },
+      {
+        "name": "Toluca Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Sun Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Calabasas",
+        "@type": "City"
+      },
+      {
+        "name": "Hidden Hills",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "My Home Had a Small Fire – Can I Clean It Myself?",
+    "text": "My Home Had a Small Fire – Can I Clean It Myself?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "After a small fire, it's totally understandable to want to jump in and clean things up yourself to save time or money. However, what looks like minor damage can often have hidden complexities. Fire damage isn't just about what you can see; smoke and soot residues are corrosive and can spread far beyond the immediate burn area, affecting air quality and surfaces throughout your home. They can cause lingering odors and even health hazards if not properly removed. Water used to extinguish the fire can also create secondary issues like mold. Professionals have specialized equipment and cleaning agents to safely and thoroughly remove these residues and odors. Plus, they can identify structural issues or hidden moisture that you might miss. While you can certainly tackle superficial cleaning, for a comprehensive and safe cleanup that protects your property long-term, it's best to call in experts like First To Respond Restoration. We're ready to help residents in Encino, North Hollywood, and beyond.",
+      "@type": "Answer",
+      "author": {
+        "name": "First To Respond Restoration",
+        "@type": "Organization"
+      }
+    }
+  }
+}

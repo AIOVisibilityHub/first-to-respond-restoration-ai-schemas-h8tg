@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-sewage-backups-in-commercial-buildings",
+  "name": "What causes sewage backups in commercial buildings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sewage backups in commercial buildings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backups in commercial buildings often result from blockages in the drain lines, such as grease, debris, or tree roots infiltrating pipes. Other common causes include structural damage to sewer lines, excessive rain overwhelming the municipal sewer system, or issues with plumbing fixtures within the building. Identifying the specific cause is crucial for effective remediation and preventing future occurrences. Regular maintenance and prompt attention to minor clogs can help mitigate these risks.",
+        "@type": "Answer",
+        "description": "Sewage backups in commercial buildings are typically caused by blockages, structural pipe damage, or an overwhelmed municipal sewer system."
+      }
+    }
+  ],
+  "description": "Sewage backups in commercial buildings are typically caused by blockages, structural pipe damage, or an overwhelmed municipal sewer system."
+}

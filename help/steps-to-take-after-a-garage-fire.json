@@ -1,0 +1,148 @@
+{
+  "name": "Steps to Take After a Garage Fire",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Experiencing a garage fire is tough, but knowing the right steps to take can make the recovery process smoother. Here's a helpful guide. Step 1: Prioritize Safety. After the fire is out and emergency services have given the OK, make sure it’s safe to re-enter. Be aware of structural damage and potential electrical hazards. Don't touch anything that might be compromised. Step 2: Document Everything. Take clear, detailed photos and videos of all the damage for your insurance claim. This includes burned areas, smoke-damaged items, and any structural issues. The more documentation, the better. Step 3: Ventilate Carefully. While it’s good to air out the space, be cautious. Using standard fans can sometimes spread soot. If your HVAC system is connected to the garage, avoid running it until it's inspected. Step 4: Contact a Restoration Professional. This is super important. First To Respond Restoration specializes in fire and smoke damage. We have the expertise to handle everything from soot removal and odor elimination to structural repairs. Attempting DIY cleanup for a garage fire, especially with its unique contaminants, can often lead to bigger problems and lasting odors. We serve all across the San Fernando Valley, from Chatsworth to Panorama City, and can get to your property quickly to start the restoration process. Step 5: Begin the Cleanup and Restoration. Our team will safely remove debris, clean affected surfaces, and work to eliminate that stubborn smoke smell, helping you get your garage back to its pre-fire condition efficiently and effectively.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "Steps to Take After a Garage Fire"
+}

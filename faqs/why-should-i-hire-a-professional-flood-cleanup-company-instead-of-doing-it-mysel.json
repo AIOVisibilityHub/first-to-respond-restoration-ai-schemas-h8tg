@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-should-i-hire-a-professional-flood-cleanup-company-instead-of-doing-it-mysel",
+  "name": "Why should I hire a professional flood cleanup company instead of doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I hire a professional flood cleanup company instead of doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional flood cleanup companies have specialized equipment and expertise to safely and effectively remove water, dry the property, and prevent secondary damage like mold growth or structural issues. DIY attempts often lack the necessary industrial-grade equipment for thorough drying and moisture detection, leading to hidden moisture and long-term problems. Professionals also handle proper disposal of contaminated materials and can help navigate insurance claims efficiently, saving you time and potential future costs.",
+        "@type": "Answer",
+        "description": "Professionals have specialized equipment and expertise for thorough water removal, drying, and mold prevention, which DIY methods often miss, leading to long-term issues."
+      }
+    }
+  ],
+  "description": "Professionals have specialized equipment and expertise for thorough water removal, drying, and mold prevention, which DIY methods often miss, leading to long-te"
+}

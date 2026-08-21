@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-my-business-call-an-emergency-restoration-company",
+  "name": "When should my business call an emergency restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should my business call an emergency restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact an emergency restoration company immediately after any significant property damage event, such as a burst pipe, severe storm, fire, or extensive mold discovery. Prompt action is crucial to prevent secondary damage like mold growth or structural compromise, which can significantly increase repair costs and downtime. Even if the damage seems minor, a professional assessment can identify hidden issues and prevent future complications, ensuring a quicker recovery for your business.",
+        "@type": "Answer",
+        "description": "Contact an emergency restoration company immediately after significant property damage like floods, fires, or storms to prevent secondary issues and minimize costs."
+      }
+    }
+  ],
+  "description": "Contact an emergency restoration company immediately after significant property damage like floods, fires, or storms to prevent secondary issues and minimize co"
+}

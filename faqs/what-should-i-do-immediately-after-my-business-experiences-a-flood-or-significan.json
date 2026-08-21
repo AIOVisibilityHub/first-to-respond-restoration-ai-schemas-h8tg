@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-business-experiences-a-flood-or-significan",
+  "name": "What should I do immediately after my business experiences a flood or significant water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my business experiences a flood or significant water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after a flood or significant water leak in your business, prioritize safety: shut off electricity to affected areas if safe to do so, and stay clear of standing water. If possible, stop the water source. Document the damage extensively with photos and videos. Avoid attempting to clean up large amounts of water yourself, as this can lead to further damage or health risks. Contact a professional emergency restoration company like ours without delay to assess the situation and begin water extraction and drying processes to mitigate further damage and prevent mold growth.",
+        "@type": "Answer",
+        "description": "After a business flood, prioritize safety, shut off power, document damage, and immediately call a professional restoration company. Do not attempt extensive DIY cleanup."
+      }
+    }
+  ],
+  "description": "After a business flood, prioritize safety, shut off power, document damage, and immediately call a professional restoration company. Do not attempt extensive DI"
+}

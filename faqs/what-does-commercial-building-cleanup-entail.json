@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-commercial-building-cleanup-entail",
+  "name": "What does commercial building cleanup entail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does commercial building cleanup entail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial building cleanup involves specialized services to restore a business property after damage, such as water, fire, or mold incidents. This goes beyond standard janitorial services and includes removing debris, sanitizing affected areas, drying structures, and preparing the space for repairs. The goal is to return the commercial property to a safe and functional state quickly, minimizing business interruption.",
+        "@type": "Answer",
+        "description": "Commercial building cleanup restores business properties after damage, including debris removal, sanitization, and drying."
+      }
+    }
+  ],
+  "description": "Commercial building cleanup restores business properties after damage, including debris removal, sanitization, and drying."
+}

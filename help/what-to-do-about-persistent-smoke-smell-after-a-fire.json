@@ -1,0 +1,148 @@
+{
+  "name": "What to Do About Persistent Smoke Smell After a Fire?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Dealing with a persistent smoke smell after a fire can be really frustrating, can't it? Even after the visible soot is gone, that acrid odor can cling to everything. It's not just unpleasant; it can also indicate hidden damage. First, you'll want to air out your home as much as possible by opening windows and using fans. This helps circulate fresh air and push out some of those trapped smoke particles. Next, start with a thorough cleaning of all hard surfaces using a mild detergent – don't forget ceilings and walls! For soft furnishings, if they're salvageable, a deep clean or professional laundering is a must. Remember, smoke particles are tiny and can penetrate deeply into materials, making them tough to remove completely with household cleaners alone. Finally, consider changing your air filters and thoroughly cleaning your HVAC system, as smoke can get trapped there too. Sometimes, despite your best efforts, that smell just won't budge. That's often a sign that professional intervention is needed. Specialized equipment and techniques are essential for truly eradicating deep-seated odors and ensuring your home is fresh and safe. If you're still noticing that lingering smell, it’s probably time to give experts like First To Respond Restoration a call. We serve the San Fernando Valley and surrounding areas, and we're always ready to help.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Do About Persistent Smoke Smell After a Fire?"
+}

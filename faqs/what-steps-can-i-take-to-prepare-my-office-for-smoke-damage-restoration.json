@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-can-i-take-to-prepare-my-office-for-smoke-damage-restoration",
+  "name": "What steps can I take to prepare my office for smoke damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps can I take to prepare my office for smoke damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring the property is safe and you have contacted emergency services, there are a few steps you can take. Limit foot traffic to prevent spreading soot. Avoid touching surfaces, as oils from your hands can embed soot further. If safe to do so, unplug electronics and move valuable items to an unaffected area. Do not attempt to clean surfaces with household cleaners, as this can worsen the damage. Ventilate the area by opening windows and doors if weather permits and it is safe. Document the damage with photos or videos for insurance purposes before restoration professionals arrive.",
+        "@type": "Answer",
+        "description": "Prepare your office by limiting traffic, avoiding touching surfaces, and unplugging electronics if safe. Do not attempt to clean surfaces yourself. Ventilate the area and document the damage with photos for insurance before professionals arrive."
+      }
+    }
+  ],
+  "description": "Prepare your office by limiting traffic, avoiding touching surfaces, and unplugging electronics if safe. Do not attempt to clean surfaces yourself. Ventilate th"
+}

@@ -1,0 +1,148 @@
+{
+  "name": "Steps to Take When Your Kitchen Has Had a Fire",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "When a kitchen fire happens, it can feel overwhelming, but there's a clear path to getting your space back. First, make sure everyone is safe and the fire is completely extinguished. Your immediate safety is always the priority. Step 1: Secure the Area. Once the fire department has cleared your home, take photos of the damage for insurance purposes. You'll also want to make sure any utilities like gas or electricity to the affected area are shut off if there’s any potential hazard. Step 2: Prevent Further Damage. Smoke and soot residues are corrosive. Don't touch anything unnecessarily as oils from your hands can set stains. Avoid using standard household cleaners; they can spread soot and embed it further. If you try to run your HVAC system, you could spread smoke odor and soot throughout your entire home. Step 3: Call a Professional Restoration Company. This is where First To Respond Restoration comes in. We specialize in fire damage cleanup and have the right equipment and expertise to properly remove soot, eliminate smoke odors, and restore your kitchen. Our team can help you navigate the process, from initial assessment to final repairs, ensuring thorough cleanup and structural integrity. Step 4: Work with Your Insurance. We can assist you in documenting the damage, which is crucial for your insurance claim. Having an experienced team handle the cleanup means you’re getting a comprehensive restoration plan. This ensures your home in places like Woodland Hills or Studio City is treated with care.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "Steps to Take When Your Kitchen Has Had a Fire"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-does-first-to-respond-restoration-handle-smoke-odor-removal-in-commercial-bu",
+  "name": "How does First To Respond Restoration handle smoke odor removal in commercial buildings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does First To Respond Restoration handle smoke odor removal in commercial buildings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration employs a multi-faceted approach to thoroughly eliminate smoke odors from commercial buildings. This includes removing all soot-affected materials, specialized cleaning of all surfaces, and using advanced equipment like ozone generators, thermal foggers, and air scrubbers with HEPA filtration. We also focus on ventilating the property to introduce fresh air. Our process targets embedded smoke particles in materials and in the air, ensuring that the pervasive and often difficult-to-remove odor is neutralized, rather than just masked, restoring a clean and healthy environment for your business.",
+        "@type": "Answer",
+        "description": "We remove smoke odor using advanced techniques like specialized cleaning, ozone generators, thermal foggers, and air scrubbers to neutralize embedded smoke particles."
+      }
+    }
+  ],
+  "description": "We remove smoke odor using advanced techniques like specialized cleaning, ozone generators, thermal foggers, and air scrubbers to neutralize embedded smoke part"
+}

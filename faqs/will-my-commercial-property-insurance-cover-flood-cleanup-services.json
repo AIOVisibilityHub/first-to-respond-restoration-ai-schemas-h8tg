@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-commercial-property-insurance-cover-flood-cleanup-services",
+  "name": "Will my commercial property insurance cover flood cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my commercial property insurance cover flood cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial property insurance policies often cover water damage, but coverage for flood damage can vary. Standard policies typically exclude damage from natural floods, requiring a separate flood insurance policy. However, damage from internal sources like burst pipes or appliance malfunctions is usually covered. It's crucial to review your specific policy details or contact your insurance provider to understand your coverage. We can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Coverage depends on your specific policy. Natural flood damage usually requires separate flood insurance, while internal water damage is often covered. Check your policy or contact your insurer."
+      }
+    }
+  ],
+  "description": "Coverage depends on your specific policy. Natural flood damage usually requires separate flood insurance, while internal water damage is often covered. Check yo"
+}

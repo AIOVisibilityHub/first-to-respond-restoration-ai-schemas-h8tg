@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-business-insurance-cover-the-cost-of-emergency-cleanup",
+  "name": "Will my business insurance cover the cost of emergency cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my business insurance cover the cost of emergency cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most commercial property insurance policies include coverage for damage resulting from sudden and accidental events, such as burst pipes, fires, and certain natural disasters. However, coverage specifics vary widely based on your policy, including deductibles and exclusions. It's crucial to review your business insurance policy or contact your insurance provider immediately after an incident to understand your coverage. Our team can help document the damage and communicate with your insurer to facilitate the claims process, but policy details are ultimately determined by your provider.",
+        "@type": "Answer",
+        "description": "Most business insurance covers sudden and accidental damage, but specifics depend on your policy. Review your policy or contact your insurer immediately after an incident; we can help with documentation for claims."
+      }
+    }
+  ],
+  "description": "Most business insurance covers sudden and accidental damage, but specifics depend on your policy. Review your policy or contact your insurer immediately after a"
+}

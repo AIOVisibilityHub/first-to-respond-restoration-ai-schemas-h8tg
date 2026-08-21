@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-vacate-my-commercial-property-during-cleanup",
+  "name": "Do I need to vacate my commercial property during cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to vacate my commercial property during cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to vacate your commercial property during cleanup depends on the extent and type of damage, as well as safety considerations. For extensive water damage, mold remediation, or fire cleanup, temporary relocation may be necessary to ensure the safety of occupants and allow restoration teams full access. Your cleanup provider will advise on specific requirements.",
+        "@type": "Answer",
+        "description": "Vacating depends on damage extent and safety; extensive issues may require temporary relocation for safety."
+      }
+    }
+  ],
+  "description": "Vacating depends on damage extent and safety; extensive issues may require temporary relocation for safety."
+}

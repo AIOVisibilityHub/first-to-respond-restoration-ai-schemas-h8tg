@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-commercial-cleanup-services-handle-hazardous-materials",
+  "name": "Can commercial cleanup services handle hazardous materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can commercial cleanup services handle hazardous materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional commercial cleanup services are equipped to handle certain types of hazardous materials, particularly those resulting from water damage (like sewage backups) or fire damage (soot and smoke residue). They utilize specialized equipment and follow safety protocols for containment and disposal. For other specific hazardous materials, they may coordinate with or recommend specialized environmental remediation experts.",
+        "@type": "Answer",
+        "description": "Yes, professional cleanup services can handle hazardous materials like sewage or soot, following safety protocols."
+      }
+    }
+  ],
+  "description": "Yes, professional cleanup services can handle hazardous materials like sewage or soot, following safety protocols."
+}

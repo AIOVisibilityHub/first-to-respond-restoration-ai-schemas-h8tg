@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-after-a-commercial-buildin",
+  "name": "When should I call a professional restoration company after a commercial building fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company after a commercial building fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company immediately after the fire department has extinguished the fire and declared the property safe to enter. Delaying professional intervention, even by a few hours, can significantly worsen smoke and soot damage, lead to corrosion of metals, and increase the risk of mold growth due to water used in firefighting. Prompt action allows for immediate board-up services, water extraction, and initial cleanup, which are critical steps in mitigating further damage and reducing overall restoration costs and time.",
+        "@type": "Answer",
+        "description": "Call a professional restoration company immediately after the fire is out and the property is safe to enter to prevent further damage and mitigate losses."
+      }
+    }
+  ],
+  "description": "Call a professional restoration company immediately after the fire is out and the property is safe to enter to prevent further damage and mitigate losses."
+}

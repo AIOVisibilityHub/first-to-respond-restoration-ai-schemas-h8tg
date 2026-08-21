@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-health-risks-are-associated-with-sewage-backup-in-a-food-establishment",
+  "name": "What health risks are associated with sewage backup in a food establishment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What health risks are associated with sewage backup in a food establishment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage contains a high concentration of hazardous microorganisms, including bacteria like E. coli and Salmonella, viruses such as norovirus and hepatitis A, and parasites. In a food establishment, these pathogens can easily contaminate food, surfaces, and equipment, leading to severe foodborne illnesses in staff and customers. Exposure can also cause skin infections, respiratory issues, and other health problems. Proper, immediate cleanup is essential to mitigate these significant public health risks.",
+        "@type": "Answer",
+        "description": "Sewage carries bacteria, viruses, and parasites that can cause severe foodborne illnesses and other health issues if it contaminates food or surfaces."
+      }
+    }
+  ],
+  "description": "Sewage carries bacteria, viruses, and parasites that can cause severe foodborne illnesses and other health issues if it contaminates food or surfaces."
+}

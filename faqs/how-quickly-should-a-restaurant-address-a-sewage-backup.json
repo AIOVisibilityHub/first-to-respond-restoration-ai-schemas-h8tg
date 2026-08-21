@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-a-restaurant-address-a-sewage-backup",
+  "name": "How quickly should a restaurant address a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should a restaurant address a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A restaurant must address a sewage backup immediately due to severe health and safety risks. Sewage contains harmful bacteria, viruses, and pathogens that can contaminate food preparation areas, dining spaces, and stored ingredients. Prompt action helps prevent the spread of illness, minimizes structural damage to the property, and reduces business interruption. Delayed response can lead to extensive contamination, costly repairs, and potential health code violations or forced closure.",
+        "@type": "Answer",
+        "description": "Restaurants should address sewage backups immediately to prevent health risks, minimize damage, and avoid business interruption."
+      }
+    }
+  ],
+  "description": "Restaurants should address sewage backups immediately to prevent health risks, minimize damage, and avoid business interruption."
+}

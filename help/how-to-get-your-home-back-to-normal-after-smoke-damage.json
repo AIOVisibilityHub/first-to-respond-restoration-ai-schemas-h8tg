@@ -1,0 +1,148 @@
+{
+  "name": "How to Get Your Home Back to Normal After Smoke Damage",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Dealing with smoke damage after a fire can feel overwhelming, but getting your home back to normal is totally achievable with the right steps. First things first, ensure the area is safe to re-enter and any fire has been completely extinguished. Next, you'll want to ventilate your home as much as possible by opening windows and doors, if safe, to start airing out the smoky odors. It’s also a good idea to protect surfaces and items that aren't severely damaged by covering them. Then, and this is a big one, contact your insurance company right away to get the claims process moving. They'll need details about the damage. While you might be tempted to start scrubbing, deep smoke and soot removal really requires professional expertise. Our team at First To Respond Restoration has specialized equipment and cleaning agents designed to effectively remove stubborn soot and neutralize those pervasive smoke odors that seem to stick to everything. We handle everything from detailed cleaning of surfaces to air purification and deodorization. Trying to clean delicate items or pervasive odors yourself can sometimes cause more damage or just not be effective. For a comprehensive restoration that gets your property truly clean and fresh, it’s best to rely on experienced professionals. Reach out to us anytime for support.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Get Your Home Back to Normal After Smoke Damage"
+}

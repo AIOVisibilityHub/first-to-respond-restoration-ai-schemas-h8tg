@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-can-i-take-to-prevent-damage-before-an-emergency",
+  "name": "What steps can I take to prevent damage before an emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps can I take to prevent damage before an emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all emergencies can be prevented, businesses can take proactive steps to minimize potential damage. Regularly inspect and maintain plumbing, roofing, and HVAC systems. Secure windows and doors before severe weather. Develop and practice an emergency action plan with your staff, including shut-off procedures for utilities. Keep a list of emergency contacts, including your restoration company, readily accessible. These measures can help reduce the severity of incidents.",
+        "@type": "Answer",
+        "description": "Preventative steps include regular maintenance of plumbing and roofing, securing property before storms, and having an emergency plan with utility shut-off procedures."
+      }
+    }
+  ],
+  "description": "Preventative steps include regular maintenance of plumbing and roofing, securing property before storms, and having an emergency plan with utility shut-off proc"
+}

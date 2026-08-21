@@ -1,0 +1,150 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Call a Pro for Fire Damage?",
+  "publisher": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's tough when your property experiences fire damage, and you might wonder if it’s something you can handle yourself or if professional help is truly necessary. While minor smoke odors might seem manageable, there are clear signs that it’s definitely time to bring in the experts to ensure your home or business is safe and properly restored. \n\n*   **Visible Structural Damage:** If you notice any warping, charring, or instability in walls, ceilings, or the roof, it’s a serious indicator that the structural integrity of your property is compromised. Flames and extreme heat can do a lot of unseen damage, and our certified technicians can assess and address these critical issues safely. \n*   **Persistent Smoke Odor:** Even after initial cleanup, if that stubborn smoky smell just won't go away, it means smoke particles have deeply penetrated materials. This isn't just unpleasant; it can be a health hazard. Professionals have specialized equipment and techniques for effective odor removal and deodorization. \n*   **Extensive Soot and Ash:** Wildfires and house fires leave behind corrosive ash that can damage building materials and personal belongings if not removed quickly and correctly. DIY cleaning can often spread these particles further, making the problem worse. \n*   **Contaminated HVAC System:** If your heating, ventilation, and air conditioning system was running during or after the fire, it likely circulated smoke and soot throughout your entire property. This requires professional cleaning to prevent ongoing air quality issues. \n\nWhen you see any of these signs, it's best to call in a team that specializes in fire and smoke damage repair. With over 25 years of experience, First To Respond Restoration offers comprehensive restoration services across the San Fernando Valley and surrounding areas. We’re here 24/7 for emergency services, ensuring you get the expert care you need to get back on your feet quickly and safely.",
+  "datePublished": "2026-08-21"
+}

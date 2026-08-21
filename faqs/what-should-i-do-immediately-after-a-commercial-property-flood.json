@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-commercial-property-flood",
+  "name": "What should I do immediately after a commercial property flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a commercial property flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is the first priority. Ensure the building is safe to enter and turn off the main power supply if it's safe to do so. Document the damage with photos or videos. Contact your insurance provider to report the flood and then call a professional flood cleanup service like First To Respond Restoration promptly. Avoid standing water and do not operate electrical appliances if they have been exposed to water to prevent further damage or hazards.",
+        "@type": "Answer",
+        "description": "Prioritize safety, turn off power if safe, document damage, contact your insurance, and call a professional flood cleanup service immediately."
+      }
+    }
+  ],
+  "description": "Prioritize safety, turn off power if safe, document damage, contact your insurance, and call a professional flood cleanup service immediately."
+}

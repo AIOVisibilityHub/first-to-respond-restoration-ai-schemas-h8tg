@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-you-respond-to-a-business-emergency-in-your-service-areas",
+  "name": "How quickly can you respond to a business emergency in your service areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can you respond to a business emergency in your service areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration aims for a rapid response to business emergencies within our service areas, including Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our teams are strategically located to dispatch professionals as quickly as possible, often arriving on-site within hours of your call. This swift action is critical for damage control, securing your property, and initiating mitigation efforts to reduce overall impact and accelerate your business's recovery.",
+        "@type": "Answer",
+        "description": "We aim for a rapid response, often arriving on-site within hours, to business emergencies in our service areas like Encino, North Hollywood, and Tarzana."
+      }
+    }
+  ],
+  "description": "We aim for a rapid response, often arriving on-site within hours, to business emergencies in our service areas like Encino, North Hollywood, and Tarzana."
+}

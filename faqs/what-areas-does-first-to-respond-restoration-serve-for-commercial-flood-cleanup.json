@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-does-first-to-respond-restoration-serve-for-commercial-flood-cleanup",
+  "name": "What areas does First To Respond Restoration serve for commercial flood cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does First To Respond Restoration serve for commercial flood cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration proudly serves numerous communities for commercial flood cleanup. Our primary service areas include Encino, North Hollywood, San Fernando, Studio City, and Tarzana. We also extend our services to clients in surrounding locations within the greater Los Angeles area, ensuring prompt and reliable assistance when your business needs it most.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana, as well as surrounding communities within the greater Los Angeles area."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana, as well as surrounding communities within the greater Los Angeles area."
+}

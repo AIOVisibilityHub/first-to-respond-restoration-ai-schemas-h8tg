@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-commercial-cleanup-and-regular-janitorial-service",
+  "name": "What is the difference between commercial cleanup and regular janitorial services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between commercial cleanup and regular janitorial services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial cleanup, also known as restoration, addresses significant damage from events like floods, fires, or mold infestations. It involves specialized equipment and techniques for deep sanitization, structural drying, and hazardous material removal. Regular janitorial services, however, focus on routine cleaning, maintenance, and tidiness of a commercial space, not damage restoration.",
+        "@type": "Answer",
+        "description": "Commercial cleanup restores damage from disasters; janitorial services handle routine cleaning and maintenance."
+      }
+    }
+  ],
+  "description": "Commercial cleanup restores damage from disasters; janitorial services handle routine cleaning and maintenance."
+}

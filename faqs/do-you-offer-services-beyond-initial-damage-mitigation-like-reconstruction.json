@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-services-beyond-initial-damage-mitigation-like-reconstruction",
+  "name": "Do you offer services beyond initial damage mitigation, like reconstruction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer services beyond initial damage mitigation, like reconstruction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration offers comprehensive services that extend beyond initial damage mitigation to include full reconstruction for your commercial property. After the immediate threats are controlled and the property is dried and cleaned, our team can handle the necessary repairs and rebuilding to restore your business space to its pre-damage condition. This streamlined approach means you work with one provider from emergency response through the final touches of reconstruction, simplifying the recovery process.",
+        "@type": "Answer",
+        "description": "Yes, we offer full reconstruction services beyond initial mitigation to restore your commercial property to its pre-damage state, providing a single point of contact for recovery."
+      }
+    }
+  ],
+  "description": "Yes, we offer full reconstruction services beyond initial mitigation to restore your commercial property to its pre-damage state, providing a single point of co"
+}

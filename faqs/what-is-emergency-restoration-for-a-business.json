@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-emergency-restoration-for-a-business",
+  "name": "What is emergency restoration for a business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is emergency restoration for a business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency restoration for a business involves rapid response services to mitigate damage and begin repairs after an unexpected event like a flood, fire, or storm. This includes initial damage assessment, water extraction, structural drying, debris removal, smoke and soot cleanup, and mold remediation. The goal is to quickly stabilize the property, prevent further damage, and facilitate a safe and efficient return to operations, minimizing business interruption and financial losses.",
+        "@type": "Answer",
+        "description": "Emergency restoration provides rapid services to mitigate damage and begin repairs after unforeseen events like floods or fires, aiming to quickly stabilize the property and minimize business interruption."
+      }
+    }
+  ],
+  "description": "Emergency restoration provides rapid services to mitigate damage and begin repairs after unforeseen events like floods or fires, aiming to quickly stabilize the"
+}

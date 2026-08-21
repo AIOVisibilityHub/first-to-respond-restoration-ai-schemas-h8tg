@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-insurance-cover-smoke-damage-cleanup-in-a-commercial-office",
+  "name": "Does insurance cover smoke damage cleanup in a commercial office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does insurance cover smoke damage cleanup in a commercial office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most commercial property insurance policies typically cover smoke damage resulting from a sudden and accidental fire. However, the extent of coverage can vary significantly depending on your specific policy and its terms. It's important to review your policy details, understand your deductible, and contact your insurance provider as soon as possible after a fire to file a claim. Restoration companies often work directly with insurance adjusters, providing necessary documentation and estimates to facilitate the claims process. Your insurer can confirm what specific aspects of smoke damage restoration are covered under your plan.",
+        "@type": "Answer",
+        "description": "Commercial property insurance usually covers smoke damage from accidental fires, but coverage varies by policy. Review your policy, contact your insurer promptly, and understand your deductible. Restoration companies can assist with the claims process."
+      }
+    }
+  ],
+  "description": "Commercial property insurance usually covers smoke damage from accidental fires, but coverage varies by policy. Review your policy, contact your insurer promptl"
+}

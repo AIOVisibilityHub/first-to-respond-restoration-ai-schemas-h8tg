@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-handle-mold-remediation-for-commercial-properties",
+  "name": "Do you handle mold remediation for commercial properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle mold remediation for commercial properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we provide comprehensive mold remediation services for commercial properties. If mold is discovered or suspected after water damage, our certified technicians will conduct an assessment to identify the source and extent of the growth. We then safely contain the affected area, remove contaminated materials, clean and sanitize the surfaces, and employ HEPA filtration to purify the air. Our goal is to eliminate mold hazards and restore healthy indoor air quality for your employees and customers.",
+        "@type": "Answer",
+        "description": "Yes, we handle commercial mold remediation, including assessment, containment, removal of contaminated materials, cleaning, and air purification to restore healthy air quality."
+      }
+    }
+  ],
+  "description": "Yes, we handle commercial mold remediation, including assessment, containment, removal of contaminated materials, cleaning, and air purification to restore heal"
+}

@@ -1,0 +1,150 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Home Has Fire Damage?",
+  "publisher": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering fire damage in your home or business can be absolutely devastating, affecting not just your property, but your peace of mind too. It's totally understandable to feel overwhelmed, but knowing what steps to take right away can make a huge difference in the restoration process. First off, safety is key – make sure the area is stable and safe before you even think about stepping inside. Then, as tough as it might be, try to document the damage as much as you can for insurance purposes. Remember, even if it looks like minor damage, fire and smoke can cause issues that aren't immediately visible, impacting things like structural integrity or leaving behind corrosive ash. \n\nIt’s crucial to understand that smoke from fires, especially wildfires, can travel pretty far, getting into everything and causing lingering odors, staining, and even potential health hazards. What might seem like a simple cleanup can actually require specialized equipment and expertise to ensure all contaminants are removed properly. Attempting to clean certain materials yourself without the right knowledge can sometimes do more harm than good, spreading soot and making the problem worse. This is where professional help really comes into play. \n\nOur certified technicians, with over 25 years of combined experience, are equipped to assess the full extent of the damage, which is super important for effective restoration. They know how to handle everything from structural compromise to ash and smoke contamination, ensuring your property is restored safely and thoroughly. Don't hesitate to reach out for a professional assessment, as acting quickly can mitigate further damage and speed up your recovery. We're here to help guide you through this challenging time, serving the San Fernando Valley and surrounding areas.",
+  "datePublished": "2026-08-21"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-should-i-take-immediately-after-a-commercial-building-emergency",
+  "name": "What steps should I take immediately after a commercial building emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take immediately after a commercial building emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after a commercial building emergency, prioritize safety by ensuring all occupants are safe and out of harm's way. If possible and safe, take steps to prevent further damage, such as turning off water or electricity. Document the damage with photos or videos, and then contact your insurance company and a professional commercial restoration service like First To Respond Restoration promptly.",
+        "@type": "Answer",
+        "description": "Ensure safety, prevent further damage if possible, document damage, then contact your insurer and a professional restoration service."
+      }
+    }
+  ],
+  "description": "Ensure safety, prevent further damage if possible, document damage, then contact your insurer and a professional restoration service."
+}

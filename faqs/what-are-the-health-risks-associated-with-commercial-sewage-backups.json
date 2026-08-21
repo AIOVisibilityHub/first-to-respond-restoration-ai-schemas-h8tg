@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-health-risks-associated-with-commercial-sewage-backups",
+  "name": "What are the health risks associated with commercial sewage backups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the health risks associated with commercial sewage backups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial sewage backups pose significant health risks due to the presence of various harmful microorganisms. Raw sewage contains bacteria such as E. coli and Salmonella, viruses like norovirus and rotavirus, and parasites. Exposure can lead to gastrointestinal illnesses, skin infections, respiratory problems, and other serious health issues. Odors can also exacerbate respiratory conditions. Professional cleanup is vital to thoroughly decontaminate affected areas, protecting the health of employees, customers, and anyone else entering the building.",
+        "@type": "Answer",
+        "description": "Commercial sewage backups carry significant health risks from bacteria, viruses, and parasites, causing gastrointestinal issues, infections, and respiratory problems."
+      }
+    }
+  ],
+  "description": "Commercial sewage backups carry significant health risks from bacteria, viruses, and parasites, causing gastrointestinal issues, infections, and respiratory pro"
+}

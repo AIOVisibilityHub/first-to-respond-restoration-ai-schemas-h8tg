@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-sewage-backup-in-a-restaurant",
+  "name": "What causes a sewage backup in a restaurant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a sewage backup in a restaurant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage backups in restaurants are commonly caused by blockages in the drain lines, often from grease accumulation, food waste, or foreign objects. Tree root intrusion into pipes can also create significant obstructions. Additionally, municipal sewer line issues, such as heavy rain overwhelming the system or a blockage in the main city line, can lead to sewage backing up into connected properties, including restaurants. Regular maintenance and proper disposal practices can help prevent many of these issues.",
+        "@type": "Answer",
+        "description": "Common causes include grease buildup, food waste, foreign objects, tree root intrusion, and municipal sewer line problems."
+      }
+    }
+  ],
+  "description": "Common causes include grease buildup, food waste, foreign objects, tree root intrusion, and municipal sewer line problems."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/are-your-restoration-technicians-certified-for-commercial-work",
+  "name": "Are your restoration technicians certified for commercial work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your restoration technicians certified for commercial work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our restoration technicians are trained and certified by recognized industry organizations for commercial restoration work. This includes certifications from the Institute of Inspection, Cleaning and Restoration Certification (IICRC) in areas such as Water Damage Restoration (WRT), Applied Structural Drying (ASD), Fire and Smoke Restoration, and Mold Remediation. These certifications ensure our team adheres to professional standards and utilizes the latest techniques and equipment for effective and safe commercial property restoration.",
+        "@type": "Answer",
+        "description": "Yes, our technicians are certified by industry organizations like IICRC for commercial restoration, ensuring professional standards and effective techniques."
+      }
+    }
+  ],
+  "description": "Yes, our technicians are certified by industry organizations like IICRC for commercial restoration, ensuring professional standards and effective techniques."
+}

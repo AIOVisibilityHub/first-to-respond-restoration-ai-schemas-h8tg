@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-commercial-property-insurance-cover-storm-damage",
+  "name": "Will my commercial property insurance cover storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my commercial property insurance cover storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard commercial property insurance policies include coverage for damage caused by perils like wind, hail, and lightning, which are common in storms. Flood damage, however, is typically excluded and requires a separate flood insurance policy. It's important to review your specific policy to understand what is covered, your deductible, and any limitations. Documenting the damage thoroughly and contacting your insurer promptly are crucial steps for a successful claim.",
+        "@type": "Answer",
+        "description": "Many commercial policies cover storm damage from wind, hail, and lightning, but flood damage usually requires separate coverage. Review your policy for specifics and file claims promptly."
+      }
+    }
+  ],
+  "description": "Many commercial policies cover storm damage from wind, hail, and lightning, but flood damage usually requires separate coverage. Review your policy for specific"
+}

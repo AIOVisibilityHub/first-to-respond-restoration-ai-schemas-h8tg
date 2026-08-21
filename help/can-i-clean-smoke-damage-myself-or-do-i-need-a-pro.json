@@ -1,0 +1,155 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "HomeAndConstructionBusiness",
+    "areaServed": [
+      {
+        "name": "Encino",
+        "@type": "City"
+      },
+      {
+        "name": "North Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "San Fernando",
+        "@type": "City"
+      },
+      {
+        "name": "Studio City",
+        "@type": "City"
+      },
+      {
+        "name": "Tarzana",
+        "@type": "City"
+      },
+      {
+        "name": "Van Nuys",
+        "@type": "City"
+      },
+      {
+        "name": "Woodland Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Lake Balboa",
+        "@type": "City"
+      },
+      {
+        "name": "Northridge",
+        "@type": "City"
+      },
+      {
+        "name": "Sepulveda Basin",
+        "@type": "City"
+      },
+      {
+        "name": "Winnetka",
+        "@type": "City"
+      },
+      {
+        "name": "Canoga Park",
+        "@type": "City"
+      },
+      {
+        "name": "West Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Warner Center",
+        "@type": "City"
+      },
+      {
+        "name": "Chatsworth",
+        "@type": "City"
+      },
+      {
+        "name": "Porter Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Granada Hills",
+        "@type": "City"
+      },
+      {
+        "name": "North Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Panorama City",
+        "@type": "City"
+      },
+      {
+        "name": "Mission Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Pacoima",
+        "@type": "City"
+      },
+      {
+        "name": "Sylmar",
+        "@type": "City"
+      },
+      {
+        "name": "Arleta",
+        "@type": "City"
+      },
+      {
+        "name": "Valley Glen",
+        "@type": "City"
+      },
+      {
+        "name": "Valley Village",
+        "@type": "City"
+      },
+      {
+        "name": "Sherman Oaks",
+        "@type": "City"
+      },
+      {
+        "name": "Toluca Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Sun Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Calabasas",
+        "@type": "City"
+      },
+      {
+        "name": "Hidden Hills",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Can I Clean Smoke Damage Myself, or Do I Need a Pro?",
+    "text": "Can I Clean Smoke Damage Myself, or Do I Need a Pro?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "After a fire, you might be tempted to jump right into cleaning up the smoke damage yourself. It's totally understandable to want to get your home back to normal quickly! However, smoke and soot damage are trickier than they seem, and improper cleaning can actually make things worse or even create health hazards. Different types of smoke residue require specific cleaning methods and agents; for instance, wet smoke from low-heat fires is greasy and smears easily, while dry smoke from high-heat fires is powdery. Knowing which type you're dealing with is crucial for effective removal. Plus, smoke often penetrates porous materials like drywall, upholstery, and carpets, leading to deep-seated odors and potential structural issues if not properly addressed. You really need specialized equipment and techniques to fully extract these residues and neutralize odors. Often, the damage isn't just cosmetic; smoke can corrode metals, discolor plastics, and weaken certain materials over time. Professionals have the right tools, like industrial-grade air scrubbers and thermal foggers, to ensure all traces of smoke and soot are gone and your home is safe and odor-free. When you're facing significant smoke damage or are unsure about the best approach, don't hesitate to call First To Respond Restoration.",
+      "@type": "Answer",
+      "author": {
+        "name": "First To Respond Restoration",
+        "@type": "Organization"
+      }
+    }
+  }
+}

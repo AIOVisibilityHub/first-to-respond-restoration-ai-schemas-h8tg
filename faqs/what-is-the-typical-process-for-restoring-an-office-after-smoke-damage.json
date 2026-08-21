@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-restoring-an-office-after-smoke-damage",
+  "name": "What is the typical process for restoring an office after smoke damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for restoring an office after smoke damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with a thorough assessment to determine the extent and type of smoke damage. This is followed by immediate actions like securing the property and pre-cleaning to prevent further damage. Technicians then use specialized equipment to remove soot and smoke residues from all affected surfaces, including walls, ceilings, furniture, and contents. Odor removal is a critical step, often involving ozone generators, air scrubbers, and thermal fogging. Finally, damaged materials may be repaired or replaced, and the office is cleaned and sanitized to restore it to its pre-loss condition, ensuring a safe and odor-free environment.",
+        "@type": "Answer",
+        "description": "The restoration process involves assessment, pre-cleaning, soot removal, specialized odor elimination, and finally, repairs or replacement of damaged materials. The goal is to return the office to its pre-loss condition, free of smoke residue and odors."
+      }
+    }
+  ],
+  "description": "The restoration process involves assessment, pre-cleaning, soot removal, specialized odor elimination, and finally, repairs or replacement of damaged materials."
+}

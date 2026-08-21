@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-address-smoke-damage-in-my-office",
+  "name": "How quickly should I address smoke damage in my office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address smoke damage in my office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is crucial to address smoke damage as quickly as possible. Soot and acidic residues left by smoke can cause permanent etching and discoloration on surfaces if left untreated. Within hours, plastics and porous materials may discolor, and metals can begin to tarnish. After several days, fabrics may stain permanently, and walls could require repainting or replacement. Prompt action helps mitigate secondary damage, prevents odors from deeply embedding, and reduces the overall cost and time needed for restoration. Contacting a professional restoration company immediately after a fire is essential.",
+        "@type": "Answer",
+        "description": "Address smoke damage immediately. Soot and acidic residues cause permanent damage and odor if left untreated, increasing restoration costs and complexity. Prompt action prevents further deterioration."
+      }
+    }
+  ],
+  "description": "Address smoke damage immediately. Soot and acidic residues cause permanent damage and odor if left untreated, increasing restoration costs and complexity. Promp"
+}

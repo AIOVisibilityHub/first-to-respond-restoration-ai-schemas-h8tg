@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-commercial-property-s-contents-be-salvageable-after-a-fire",
+  "name": "Will my commercial property's contents be salvageable after a fire?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my commercial property's contents be salvageable after a fire?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The salvageability of your commercial property's contents depends on several factors, including the intensity of the fire, the type of items, and the extent of smoke, soot, and water exposure. Many items, especially those not directly burned, can often be restored through specialized cleaning techniques. Documents, electronics, furniture, and inventory can often be cleaned, deodorized, and refurbished. A professional restoration company will meticulously assess each item, categorize it for restoration or disposal, and use advanced methods to recover as much as possible, helping to minimize your losses.",
+        "@type": "Answer",
+        "description": "Many contents, if not directly burned, can often be salvaged and restored using specialized cleaning techniques after a fire, depending on damage extent."
+      }
+    }
+  ],
+  "description": "Many contents, if not directly burned, can often be salvaged and restored using specialized cleaning techniques after a fire, depending on damage extent."
+}

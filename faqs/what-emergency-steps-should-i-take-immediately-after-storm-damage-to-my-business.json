@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-emergency-steps-should-i-take-immediately-after-storm-damage-to-my-business",
+  "name": "What emergency steps should I take immediately after storm damage to my business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What emergency steps should I take immediately after storm damage to my business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after storm damage, prioritize safety by ensuring all occupants are safe and there are no immediate hazards like exposed wires or gas leaks. Contact emergency services if necessary. Secure the property as much as possible to prevent further damage or theft by boarding up broken windows or tarping damaged roofs. Document all damage with photos and videos for insurance purposes. Then, contact a professional restoration company to begin the mitigation process.",
+        "@type": "Answer",
+        "description": "First, ensure safety and address immediate hazards. Then, secure the property, document all damage, and contact a professional restoration company to start mitigation."
+      }
+    }
+  ],
+  "description": "First, ensure safety and address immediate hazards. Then, secure the property, document all damage, and contact a professional restoration company to start miti"
+}

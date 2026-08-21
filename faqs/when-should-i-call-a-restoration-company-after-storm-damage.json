@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-restoration-company-after-storm-damage",
+  "name": "When should I call a restoration company after storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a restoration company after storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a restoration company immediately after ensuring the safety of your occupants and property. Prompt action is crucial to mitigate further damage, especially water-related issues that can quickly lead to mold growth and structural compromise. A rapid response helps in documenting the damage for insurance claims and beginning the restoration process to minimize business interruption. Early intervention can significantly reduce overall repair costs and recovery time.",
+        "@type": "Answer",
+        "description": "Contact a restoration company immediately after a storm to prevent further damage, especially water-related issues, and to start the insurance claim process promptly."
+      }
+    }
+  ],
+  "description": "Contact a restoration company immediately after a storm to prevent further damage, especially water-related issues, and to start the insurance claim process pro"
+}

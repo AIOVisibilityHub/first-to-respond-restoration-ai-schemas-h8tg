@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-commercial-cleanup-company",
+  "name": "How do I choose the right commercial cleanup company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right commercial cleanup company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a commercial cleanup company, look for experience with commercial properties, proper certifications (e.g., IICRC for water or fire damage), 24/7 availability, and positive client references. Ensure they are licensed and insured. A reputable company will provide clear communication, a detailed action plan, and work directly with your insurance provider.",
+        "@type": "Answer",
+        "description": "Choose a company with commercial experience, certifications, 24/7 availability, and good references, ensuring they are licensed and insured."
+      }
+    }
+  ],
+  "description": "Choose a company with commercial experience, certifications, 24/7 availability, and good references, ensuring they are licensed and insured."
+}

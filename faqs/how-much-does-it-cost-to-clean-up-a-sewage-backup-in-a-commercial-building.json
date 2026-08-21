@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-clean-up-a-sewage-backup-in-a-commercial-building",
+  "name": "How much does it cost to clean up a sewage backup in a commercial building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to clean up a sewage backup in a commercial building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of cleaning up a commercial sewage backup varies widely depending on several factors. These include the extent of the contamination, the size of the affected area, the type of materials damaged, and the amount of structural repair needed. For instance, a small contained backup will cost less than a widespread incident affecting multiple floors or critical infrastructure. A professional assessment is necessary to provide an accurate estimate, as each situation is unique. Your insurance policy may cover some or all of the costs.",
+        "@type": "Answer",
+        "description": "Cleanup costs for commercial sewage backups vary based on contamination extent, affected area size, damaged materials, and necessary structural repairs."
+      }
+    }
+  ],
+  "description": "Cleanup costs for commercial sewage backups vary based on contamination extent, affected area size, damaged materials, and necessary structural repairs."
+}

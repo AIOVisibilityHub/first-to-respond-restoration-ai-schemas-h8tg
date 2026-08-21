@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-fully-restore-an-office-after-significant-smoke-damage",
+  "name": "How long does it take to fully restore an office after significant smoke damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fully restore an office after significant smoke damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for fully restoring an office after significant smoke damage is highly variable. Minor smoke damage with isolated odor issues might take a few days to a week. However, extensive damage involving structural components, multiple rooms, deeply embedded odors, and content cleaning can extend the process to several weeks or even months. Factors like the size of the office, the type of smoke, the extent of structural damage, drying times if water was used to extinguish the fire, and the need for repairs or reconstruction all influence the duration. A professional assessment will provide a more accurate project timeline.",
+        "@type": "Answer",
+        "description": "Restoration time for smoke-damaged offices varies. Minor damage can take days to a week, while significant damage with structural issues or extensive odor removal may take weeks to months. The timeline depends on damage extent, office size, and necessary repairs."
+      }
+    }
+  ],
+  "description": "Restoration time for smoke-damaged offices varies. Minor damage can take days to a week, while significant damage with structural issues or extensive odor remov"
+}

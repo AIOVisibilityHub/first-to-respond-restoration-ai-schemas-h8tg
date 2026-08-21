@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-sewage-backups-in-my-restaurant",
+  "name": "How can I prevent sewage backups in my restaurant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent sewage backups in my restaurant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent sewage backups, regularly maintain your restaurant's plumbing system. Install grease traps and ensure they are frequently cleaned and emptied to prevent grease buildup in pipes. Educate staff on proper waste disposal, emphasizing that food scraps and non-flushable items should not go down drains or toilets. Consider periodic professional drain cleaning and inspections to identify and clear potential blockages before they escalate. Implementing these practices can significantly reduce the risk of backups.",
+        "@type": "Answer",
+        "description": "Prevent backups by regularly cleaning grease traps, proper waste disposal, and periodic professional drain cleaning and inspections."
+      }
+    }
+  ],
+  "description": "Prevent backups by regularly cleaning grease traps, proper waste disposal, and periodic professional drain cleaning and inspections."
+}

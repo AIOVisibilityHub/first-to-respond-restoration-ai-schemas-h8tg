@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-smoke-damage-and-how-does-it-affect-an-office-building",
+  "name": "What is smoke damage and how does it affect an office building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is smoke damage and how does it affect an office building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoke damage in an office building occurs when smoke, soot, and odors from a fire penetrate materials and surfaces. This can lead to discoloration, etching, and corrosion on walls, ceilings, furniture, and electronic equipment. Beyond visible damage, a lingering smoke odor can make the environment unpleasant and potentially unhealthy for occupants. Specialized cleaning and restoration are required to remove these residues and odors, preventing further deterioration and restoring air quality. Different types of smoke, such as wet smoke from low-heat fires or dry smoke from high-heat fires, cause distinct types of damage requiring specific treatment approaches.",
+        "@type": "Answer",
+        "description": "Smoke damage involves soot, odor, and residue from fire penetrating office surfaces and materials. It causes discoloration, corrosion, and lingering smells, requiring professional cleaning and restoration to address."
+      }
+    }
+  ],
+  "description": "Smoke damage involves soot, odor, and residue from fire penetrating office surfaces and materials. It causes discoloration, corrosion, and lingering smells, req"
+}

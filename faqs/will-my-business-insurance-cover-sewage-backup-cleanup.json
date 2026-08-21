@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-business-insurance-cover-sewage-backup-cleanup",
+  "name": "Will my business insurance cover sewage backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my business insurance cover sewage backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many commercial property insurance policies offer coverage for sewage backup, but the specifics can vary significantly. Standard policies might exclude water damage from drain or sewer backups unless specifically added as an endorsement. It's crucial to review your policy documents or contact your insurance provider to understand your coverage limits, deductibles, and any exclusions related to water damage from sewage. Promptly reporting the incident to your insurer is also important to facilitate the claims process.",
+        "@type": "Answer",
+        "description": "Commercial insurance coverage for sewage backup varies; check your policy or contact your provider for details on endorsements, limits, and exclusions."
+      }
+    }
+  ],
+  "description": "Commercial insurance coverage for sewage backup varies; check your policy or contact your provider for details on endorsements, limits, and exclusions."
+}

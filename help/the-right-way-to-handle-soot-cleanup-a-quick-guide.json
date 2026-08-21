@@ -1,0 +1,148 @@
+{
+  "name": "The Right Way to Handle Soot Cleanup: A Quick Guide",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Soot cleanup isn’t just about making things look clean; it's about removing corrosive and odorous particles that can cause long-term damage and health issues. Here’s a general idea of how professionals approach it. First, safety is paramount. Technicians suit up in personal protective equipment (PPE) to avoid contact with harmful soot and smoke residues. Next, they contain the affected area, often using barriers and negative air pressure to prevent soot from spreading to unaffected parts of the property. This is a crucial step that DIY methods often miss. Then comes the specialized cleaning. This isn't your average scrub; different types of soot (from different materials burning) require specific cleaning agents and techniques. Dry soot might be vacuumed with HEPA filters, while wet soot needs chemical sponges or specialized degreasers. Surfaces are carefully cleaned, sometimes multiple times, to ensure all residues are gone. Finally, deodorization. This involves professional-grade equipment to neutralize embedded smoke odors, ensuring your property smells fresh again. Trying to do this all yourself can lead to further damage, missed spots, and lingering smells. For a truly effective and safe cleanup, it's always best to rely on certified experts like First To Respond Restoration. We’re here to help restore your peace of mind and your property.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "The Right Way to Handle Soot Cleanup: A Quick Guide"
+}

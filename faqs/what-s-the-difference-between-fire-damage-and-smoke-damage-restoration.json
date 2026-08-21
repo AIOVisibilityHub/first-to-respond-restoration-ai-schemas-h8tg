@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-fire-damage-and-smoke-damage-restoration",
+  "name": "What's the difference between fire damage and smoke damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between fire damage and smoke damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often related, fire damage and smoke damage restoration address distinct issues. Fire damage restoration focuses on repairing or reconstructing areas physically burned and structurally compromised by the flames. This can involve rebuilding walls, replacing charred framing, and addressing water damage from firefighting efforts. Smoke damage restoration, on the other hand, deals with the pervasive effects of smoke, soot, and odor on unaffected or lightly burned surfaces and contents. It involves specialized cleaning, deodorization, and sealing techniques to remove residues and smells that fire itself didn't directly cause but were spread through the air. Both may be needed after a fire incident.",
+        "@type": "Answer",
+        "description": "Fire damage restoration repairs physically burned and structurally compromised areas, often involving reconstruction. Smoke damage restoration focuses on removing pervasive soot, odors, and residues from surfaces not directly burned. Both may be necessary after a fire."
+      }
+    }
+  ],
+  "description": "Fire damage restoration repairs physically burned and structurally compromised areas, often involving reconstruction. Smoke damage restoration focuses on removi"
+}

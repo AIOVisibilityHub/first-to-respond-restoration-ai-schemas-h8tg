@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-insurance-cover-sewage-backup-cleanup-for-restaurants",
+  "name": "Does insurance cover sewage backup cleanup for restaurants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does insurance cover sewage backup cleanup for restaurants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many commercial property insurance policies may cover sewage backup cleanup, but coverage can vary. It often depends on the cause of the backup and the specific terms of your policy. Some policies might cover damage if the backup originated from within your property's plumbing system, while others may require an additional endorsement for coverage related to external sewer line issues or flood-related backups. It is essential to review your insurance policy or contact your provider directly to understand your specific coverage and filing requirements.",
+        "@type": "Answer",
+        "description": "Insurance coverage for sewage backup cleanup varies by policy; review your commercial property insurance or contact your provider to confirm."
+      }
+    }
+  ],
+  "description": "Insurance coverage for sewage backup cleanup varies by policy; review your commercial property insurance or contact your provider to confirm."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-first-step-to-take-after-a-fire-in-my-commercial-building",
+  "name": "What is the first step to take after a fire in my commercial building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step to take after a fire in my commercial building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring everyone is safe and the fire department has deemed the building secure, the immediate next step is to contact your insurance provider to report the damage. Simultaneously, reach out to a professional fire damage restoration company like First To Respond Restoration. They can assess the damage, secure the property to prevent further loss, and begin the initial cleanup, which is crucial for mitigating long-term issues like corrosion or mold growth. Acting quickly helps preserve salvageable assets and streamlines the recovery process.",
+        "@type": "Answer",
+        "description": "Once safe and the fire is out, contact your insurance and a professional fire damage restoration company immediately to assess and secure the property."
+      }
+    }
+  ],
+  "description": "Once safe and the fire is out, contact your insurance and a professional fire damage restoration company immediately to assess and secure the property."
+}

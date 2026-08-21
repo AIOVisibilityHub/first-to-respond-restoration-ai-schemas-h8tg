@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-potential-health-risks-associated-with-mold-in-a-commercial-propert",
+  "name": "What are the potential health risks associated with mold in a commercial property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential health risks associated with mold in a commercial property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exposure to mold in a commercial property can lead to various health issues, particularly for sensitive individuals. Common symptoms include allergic reactions such as sneezing, runny nose, red eyes, and skin rash. Mold can also trigger asthma attacks in asthmatics and cause irritation to the eyes, skin, nose, throat, and lungs in others. Prolonged exposure can sometimes lead to more severe respiratory problems. Prompt remediation is important for occupant well-being.",
+        "@type": "Answer",
+        "description": "Mold exposure can cause allergic reactions, asthma attacks, and irritation to eyes, skin, and respiratory system, especially for sensitive individuals."
+      }
+    }
+  ],
+  "description": "Mold exposure can cause allergic reactions, asthma attacks, and irritation to eyes, skin, and respiratory system, especially for sensitive individuals."
+}

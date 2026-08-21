@@ -1,0 +1,148 @@
+{
+  "name": "A Step-by-Step Guide to Soot Cleanup After a Fire",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Dealing with soot after a fire can feel overwhelming, but tackling it systematically can really help. First, safety is paramount: make sure the fire department has cleared the property as safe to enter, and wear protective gear like gloves, masks, and old clothing. Step one is to ventilate the area as much as possible; open windows and doors to let fresh air circulate. Step two involves removing any loose soot. You can gently vacuum surfaces with a shop vac and soft brush attachment – avoid rubbing, as that can embed the soot further. For walls and other hard surfaces, specialized dry chemical sponges (sometimes called soot sponges) can lift soot without smearing. Step three focuses on more thorough cleaning. Depending on the surface, you might use a mild detergent solution or a specialized soot cleaner. Always test a small, inconspicuous area first! For fabrics, professional cleaning is almost always necessary to remove embedded soot and smoke odor. Step four is deodorization; once everything is clean, you'll need to address lingering smoke smells with air purifiers or professional treatments. For extensive damage or tricky materials, don't hesitate to reach out to experienced teams like First To Respond Restoration, serving the San Fernando Valley. They have the right tools and expertise for a thorough job.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "A Step-by-Step Guide to Soot Cleanup After a Fire"
+}

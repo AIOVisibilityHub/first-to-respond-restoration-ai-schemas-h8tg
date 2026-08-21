@@ -1,0 +1,150 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Understanding Smoke Damage: Myths vs. Facts",
+  "publisher": {
+    "url": "http://first2respond.com",
+    "name": "First To Respond Restoration",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your home has suffered fire damage, the lingering smoke odor can be tricky, and there are a lot of misconceptions floating around. Let's clear up a few.\n\nMyth: Airing out your home or using air fresheners will get rid of smoke odor.\nFact: While ventilation helps with initial fumes, smoke particles are microscopic and embed deeply into porous materials. Air fresheners only mask the smell temporarily, and the odor will return.\n\nMyth: All smoke damage is the same and can be cleaned with household products.\nFact: Different types of fires (e.g., protein, synthetic, wood) create different smoke residues, requiring specific cleaning methods and agents. Household cleaners often can't handle the complexity of professional smoke damage.\n\nMyth: If you can't see soot, there's no smoke damage.\nFact: Smoke particles are extremely fine and can travel through HVAC systems, ductwork, and small crevices, leaving behind invisible but odor-causing residues even in seemingly unaffected areas.\n\nMyth: You can postpone smoke odor removal for a while.\nFact: The longer smoke odors are present, the more deeply they penetrate materials, making them much harder and more costly to remove. Timely intervention is key for successful restoration. Understanding these distinctions helps homeowners make informed decisions. For expert smoke odor removal services, especially after significant fire damage in the San Fernando Valley, call First To Respond Restoration at (844) 721-0319.",
+  "datePublished": "2026-08-21"
+}

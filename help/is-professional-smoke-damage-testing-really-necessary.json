@@ -1,0 +1,155 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "HomeAndConstructionBusiness",
+    "areaServed": [
+      {
+        "name": "Encino",
+        "@type": "City"
+      },
+      {
+        "name": "North Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "San Fernando",
+        "@type": "City"
+      },
+      {
+        "name": "Studio City",
+        "@type": "City"
+      },
+      {
+        "name": "Tarzana",
+        "@type": "City"
+      },
+      {
+        "name": "Van Nuys",
+        "@type": "City"
+      },
+      {
+        "name": "Woodland Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Lake Balboa",
+        "@type": "City"
+      },
+      {
+        "name": "Northridge",
+        "@type": "City"
+      },
+      {
+        "name": "Sepulveda Basin",
+        "@type": "City"
+      },
+      {
+        "name": "Winnetka",
+        "@type": "City"
+      },
+      {
+        "name": "Canoga Park",
+        "@type": "City"
+      },
+      {
+        "name": "West Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Warner Center",
+        "@type": "City"
+      },
+      {
+        "name": "Chatsworth",
+        "@type": "City"
+      },
+      {
+        "name": "Porter Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Granada Hills",
+        "@type": "City"
+      },
+      {
+        "name": "North Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Panorama City",
+        "@type": "City"
+      },
+      {
+        "name": "Mission Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Pacoima",
+        "@type": "City"
+      },
+      {
+        "name": "Sylmar",
+        "@type": "City"
+      },
+      {
+        "name": "Arleta",
+        "@type": "City"
+      },
+      {
+        "name": "Valley Glen",
+        "@type": "City"
+      },
+      {
+        "name": "Valley Village",
+        "@type": "City"
+      },
+      {
+        "name": "Sherman Oaks",
+        "@type": "City"
+      },
+      {
+        "name": "Toluca Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Sun Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Calabasas",
+        "@type": "City"
+      },
+      {
+        "name": "Hidden Hills",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Professional Smoke Damage Testing Really Necessary?",
+    "text": "Is Professional Smoke Damage Testing Really Necessary?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's totally understandable to wonder if professional testing is truly needed after your home experiences smoke damage, especially if the visible signs aren't too bad. You might think a good scrub will do the trick, but here's the thing: smoke and soot particles, especially from wildfires, are really sneaky. They can travel pretty far and settle into hidden spots, affecting your indoor air quality and potentially creating health hazards. We've seen it time and again – what looks like a minor issue can hide deeper problems. That's why testing before jumping into cleaning is crucial. It helps us pinpoint exactly what kind of residue we're dealing with and where it's hiding, ensuring a thorough and effective cleanup. Trying to clean without testing can sometimes spread contaminants or miss crucial areas, leaving you with lingering odors and residues. A professional assessment means we're not just guessing; we're tackling the problem head-on with the right methods. Don't risk missing hidden damage; reach out to First To Respond Restoration to schedule an assessment and get peace of mind.",
+      "@type": "Answer",
+      "author": {
+        "name": "First To Respond Restoration",
+        "@type": "Organization"
+      }
+    }
+  }
+}

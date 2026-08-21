@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-smoke-damage-restoration-typically-cost-for-an-office",
+  "name": "How much does smoke damage restoration typically cost for an office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does smoke damage restoration typically cost for an office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of smoke damage restoration for an office varies significantly based on several factors. These include the size of the affected area, the severity of the damage, the type of materials impacted, and the extent of odor removal required. For instance, a small office with light smoke residue will cost less than a large commercial space with extensive structural damage and deeply embedded odors. Other factors like content cleaning, ductwork decontamination, and any necessary repairs or replacements also influence the total cost. A professional assessment is essential to provide an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Smoke damage restoration costs for an office vary widely based on the size of the affected area, damage severity, material types, and odor removal needs. A professional assessment is required for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Smoke damage restoration costs for an office vary widely based on the size of the affected area, damage severity, material types, and odor removal needs. A prof"
+}

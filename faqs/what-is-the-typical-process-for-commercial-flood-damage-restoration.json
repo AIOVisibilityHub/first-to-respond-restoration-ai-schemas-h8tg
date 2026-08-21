@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-commercial-flood-damage-restoration",
+  "name": "What is the typical process for commercial flood damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for commercial flood damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with emergency water extraction, where powerful pumps and vacuums remove standing water. Following this, professional drying and dehumidification equipment is used to eliminate moisture from the building materials and air. Our team then assesses and removes damaged materials. Finally, we clean, sanitize, and often restore or rebuild the affected areas to pre-flood conditions. Throughout the process, we monitor moisture levels to ensure thorough drying.",
+        "@type": "Answer",
+        "description": "The process involves water extraction, professional drying and dehumidification, removal of damaged materials, and then cleaning, sanitizing, and restoration."
+      }
+    }
+  ],
+  "description": "The process involves water extraction, professional drying and dehumidification, removal of damaged materials, and then cleaning, sanitizing, and restoration."
+}

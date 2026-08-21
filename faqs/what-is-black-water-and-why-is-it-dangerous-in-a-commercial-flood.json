@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-black-water-and-why-is-it-dangerous-in-a-commercial-flood",
+  "name": "What is 'black water' and why is it dangerous in a commercial flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'black water' and why is it dangerous in a commercial flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black water refers to highly contaminated water that poses significant health risks. This can come from sources such as sewage, river flooding, or ground surface water that has entered a building. It typically contains harmful bacteria, viruses, and other pathogens that can cause serious illness. Any materials saturated with black water must be properly contained, removed, and disposed of by professionals using appropriate safety protocols to prevent cross-contamination and health hazards.",
+        "@type": "Answer",
+        "description": "Black water is highly contaminated water, often from sewage or ground flooding, containing harmful pathogens that require professional handling and disposal due to severe health risks."
+      }
+    }
+  ],
+  "description": "Black water is highly contaminated water, often from sewage or ground flooding, containing harmful pathogens that require professional handling and disposal due"
+}

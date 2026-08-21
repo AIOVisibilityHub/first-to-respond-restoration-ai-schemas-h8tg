@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-begin-flood-cleanup-to-prevent-further-damage",
+  "name": "How quickly do I need to begin flood cleanup to prevent further damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to begin flood cleanup to prevent further damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Time is critical after a commercial flood. Water damage can escalate rapidly, leading to mold growth within 24-48 hours and structural issues over time. Prompt action is essential to mitigate secondary damage. Engaging a professional restoration company like First To Respond Restoration within the first few hours can significantly reduce the extent of damage and overall cleanup costs. Delaying can result in more extensive repairs and potential health hazards from mold.",
+        "@type": "Answer",
+        "description": "Begin flood cleanup as quickly as possible, ideally within the first few hours, to prevent mold growth and further structural damage."
+      }
+    }
+  ],
+  "description": "Begin flood cleanup as quickly as possible, ideally within the first few hours, to prevent mold growth and further structural damage."
+}

@@ -1,0 +1,148 @@
+{
+  "name": "Restoring Your Garage After Fire Damage: A Step-by-Step Guide",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "A garage fire can leave behind a pretty significant mess, and figuring out where to start with the cleanup can feel overwhelming. Once the fire is completely out and it's safe to enter, there’s a process you can follow. Step 1: Secure the area. Make sure there’s no immediate danger, like unstable structures or live wires, and restrict access to prevent further damage or injury. Step 2: Ventilate carefully. Open windows and doors if it's safe and won't spread soot to other parts of your home, helping to reduce strong odors and improve air quality. Step 3: Assess the damage, but don't touch everything. Take photos and videos for insurance purposes, noting affected items and structural components. Step 4: Call the professionals. This is where First To Respond Restoration comes in. We have over 25 years of experience and certified technicians who can properly evaluate the extent of fire, smoke, and water damage. We'll contain the area, safely remove debris, clean soot and smoke residues from surfaces, and address any lingering odors or potential moisture issues. Trying to do it all yourself can often lead to incomplete cleanup, lingering smells, or even further damage. Our team uses specialized equipment and techniques to ensure your garage is thoroughly restored, making it safe and usable again.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "Restoring Your Garage After Fire Damage: A Step-by-Step Guide"
+}

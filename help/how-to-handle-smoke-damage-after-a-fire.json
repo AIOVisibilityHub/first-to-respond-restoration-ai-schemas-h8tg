@@ -1,0 +1,148 @@
+{
+  "name": "How to Handle Smoke Damage After a Fire",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Dealing with smoke damage after a fire can be tricky, and it's more than just a lingering smell; it can cause serious issues if not addressed properly. Here’s a basic process to tackle it. Step 1: Secure the Property. Before doing anything, make sure your home or business is safe to enter. If there's structural damage, wait for professionals to deem it safe. Step 2: Ventilate the Area. Open windows and use fans to air out the space as much as possible. This helps reduce the immediate smoke odor and improves air quality. Step 3: Remove Soot and Ash. Gently clean surfaces from soot and ash. Remember, wildfire smoke leaves corrosive ash that can further damage materials if not removed quickly. Use appropriate cleaning agents and wear protective gear. Step 4: Address Lingering Odors. Smoke can infiltrate deep into materials, causing persistent odors. Sometimes, simple cleaning isn't enough, and specialized equipment is needed for complete odor removal. Step 5: Professional Assessment. For extensive smoke damage or health concerns, bringing in a professional restoration company is crucial. They have the expertise to assess hidden damage and use specialized techniques for thorough cleanup and odor eradication. Don't underestimate the reach of smoke contamination; it often affects areas far beyond what you can see.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sepulveda Basin",
+      "@type": "City"
+    },
+    {
+      "name": "Winnetka",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "West Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Center",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Porter Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Pacoima",
+      "@type": "City"
+    },
+    {
+      "name": "Sylmar",
+      "@type": "City"
+    },
+    {
+      "name": "Arleta",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Glen",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Sun Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Handle Smoke Damage After a Fire"
+}
