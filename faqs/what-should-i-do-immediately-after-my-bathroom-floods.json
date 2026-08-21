@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-bathroom-floods",
+  "name": "What should I do immediately after my bathroom floods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my bathroom floods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step after a bathroom flood is to prioritize safety. Turn off the electricity to the affected area if possible to prevent electrical hazards. Stop the water source if you can, such as turning off the main water valve. Move any valuable or water-sensitive items out of the flooded area to prevent further damage. Ventilate the room by opening windows and doors, but avoid using ceiling fans if the ceiling is wet. Contact a professional water damage restoration service promptly, as immediate action significantly reduces the risk of extensive damage and mold growth.",
+        "@type": "Answer",
+        "description": "Immediately turn off power, stop the water source, remove valuables, ventilate the area, and call a professional restoration service."
+      }
+    }
+  ],
+  "description": "Immediately turn off power, stop the water source, remove valuables, ventilate the area, and call a professional restoration service."
+}

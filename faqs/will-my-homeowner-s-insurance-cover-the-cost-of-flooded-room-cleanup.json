@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-the-cost-of-flooded-room-cleanup",
+  "name": "Will my homeowner's insurance cover the cost of flooded room cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover the cost of flooded room cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies often cover sudden and accidental water damage, such as a burst pipe or overflowing appliance. However, coverage for flood damage, which is typically defined as water entering from the outside (e.g., rising rivers, heavy rain), usually requires a separate flood insurance policy. It is crucial to review your specific policy details or contact your insurance provider directly to understand what is covered. A professional restoration company can assist with documenting the damage for your claim.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the cause of flooding. Homeowner's insurance may cover sudden water damage, but flood damage often requires a separate flood insurance policy. Check with your provider."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the cause of flooding. Homeowner's insurance may cover sudden water damage, but flood damage often requires a separate flood"
+}

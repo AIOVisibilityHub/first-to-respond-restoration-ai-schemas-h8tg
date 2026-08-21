@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-to-address-a-sewage-backup",
+  "name": "How quickly do I need to address a sewage backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address a sewage backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewage backup should be addressed immediately. The longer sewage sits, the greater the risk of bacterial growth, mold development, and structural damage. Within hours, porous materials like drywall, carpeting, and wood can become saturated and unsalvageable. Rapid response minimizes potential health hazards, reduces the scope of damage, and can significantly lower restoration costs. Contacting a professional cleanup service as soon as possible is crucial for safety and effective mitigation.",
+        "@type": "Answer",
+        "description": "Address a sewage backup immediately. Delayed response increases health risks, mold growth, and structural damage, leading to higher restoration costs."
+      }
+    }
+  ],
+  "description": "Address a sewage backup immediately. Delayed response increases health risks, mold growth, and structural damage, leading to higher restoration costs."
+}

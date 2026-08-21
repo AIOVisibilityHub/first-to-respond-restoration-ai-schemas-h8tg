@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-water-damage",
+  "name": "What should I do immediately after discovering water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering water damage, prioritize safety by turning off the main water supply and electricity to affected areas. Document the damage with photos or videos. If safe, remove valuables, furniture, and electronics to prevent further damage. Avoid using a regular vacuum cleaner to remove water. Contact a professional water damage restoration company promptly to assess the situation and begin mitigation. Swift action can significantly reduce the extent of damage and prevent mold growth.",
+        "@type": "Answer",
+        "description": "Immediately turn off water and electricity, document damage, and contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately turn off water and electricity, document damage, and contact a professional restoration company."
+}

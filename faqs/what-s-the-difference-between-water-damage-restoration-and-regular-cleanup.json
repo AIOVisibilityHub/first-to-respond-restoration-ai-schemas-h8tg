@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-water-damage-restoration-and-regular-cleanup",
+  "name": "What's the difference between water damage restoration and regular cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between water damage restoration and regular cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular cleanup addresses visible surface messes. Water damage restoration, however, is a specialized process that goes beyond surface cleaning to mitigate the long-term effects of water exposure. It involves water extraction, thorough drying of all affected materials (including those unseen like subflooring and wall cavities), moisture detection, sanitization to prevent mold and bacteria, and often reconstruction of damaged elements. Professionals use specialized equipment and techniques to ensure all moisture is removed and the area is safe and structurally sound, preventing future problems regular cleanup cannot address.",
+        "@type": "Answer",
+        "description": "Water damage restoration is specialized, focusing on thorough drying, moisture detection, sanitization, and often reconstruction to prevent mold and structural issues beyond what regular cleaning can achieve."
+      }
+    }
+  ],
+  "description": "Water damage restoration is specialized, focusing on thorough drying, moisture detection, sanitization, and often reconstruction to prevent mold and structural"
+}

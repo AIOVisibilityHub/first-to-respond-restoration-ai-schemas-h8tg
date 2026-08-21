@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-standing-water-removal",
+  "name": "What is the process for professional standing water removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional standing water removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional standing water removal typically begins with a thorough inspection to identify the water source and extent of damage. Next, high-powered pumps and wet vacuums are used for water extraction. After extraction, industrial-grade dehumidifiers and air movers are deployed to dry out affected areas and materials. Technicians then monitor moisture levels to ensure complete drying. The final steps often involve cleaning, sanitizing, and sometimes applying antimicrobials to prevent mold, followed by restoration of damaged materials.",
+        "@type": "Answer",
+        "description": "The process involves inspection, water extraction using pumps, drying with dehumidifiers and air movers, moisture monitoring, and then cleaning, sanitizing, and restoration."
+      }
+    }
+  ],
+  "description": "The process involves inspection, water extraction using pumps, drying with dehumidifiers and air movers, moisture monitoring, and then cleaning, sanitizing, and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-included-in-a-professional-washing-machine-leak-cleanup-service",
+  "name": "What is included in a professional washing machine leak cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a professional washing machine leak cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional washing machine leak cleanup service typically includes an initial assessment of the damage, water extraction using powerful pumps and wet vacuums, structural drying with air movers and dehumidifiers, and continuous monitoring of moisture levels. We also inspect for and mitigate potential mold growth and can provide content manipulation to protect your belongings. The service aims to restore your property to its pre-damage condition.",
+        "@type": "Answer",
+        "description": "Professional cleanup includes damage assessment, water extraction, structural drying, moisture monitoring, and mold prevention."
+      }
+    }
+  ],
+  "description": "Professional cleanup includes damage assessment, water extraction, structural drying, moisture monitoring, and mold prevention."
+}

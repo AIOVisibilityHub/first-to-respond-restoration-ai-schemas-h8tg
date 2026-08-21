@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-first-step-i-should-take-after-a-room-floods",
+  "name": "What is the first step I should take after a room floods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step I should take after a room floods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is the primary concern. If the flooding involves electrical outlets or appliances, turn off the power to the affected area at your main breaker. Avoid entering standing water if electricity is still active. Then, locate and stop the water source if possible. Once the water source is secured and the area is safe, begin removing as much standing water as you can to minimize further damage. Contact a professional restoration company promptly, especially for significant flooding, as quick action is crucial for effective cleanup and preventing secondary issues like mold growth.",
+        "@type": "Answer",
+        "description": "Prioritize safety by turning off electricity if present, stopping the water source, and then removing standing water. Contact a professional restoration company immediately."
+      }
+    }
+  ],
+  "description": "Prioritize safety by turning off electricity if present, stopping the water source, and then removing standing water. Contact a professional restoration company"
+}

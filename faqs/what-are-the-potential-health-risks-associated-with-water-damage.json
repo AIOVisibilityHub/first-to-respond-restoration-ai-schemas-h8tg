@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-potential-health-risks-associated-with-water-damage",
+  "name": "What are the potential health risks associated with water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential health risks associated with water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Untreated water damage can pose several health risks, primarily due to mold growth. Mold spores can trigger allergies, asthma attacks, and other respiratory issues in sensitive individuals. Prolonged exposure to mold may also lead to skin irritation, headaches, and fatigue. Additionally, water damage can create an environment conducive to bacteria and other microbial growth, especially if the water is contaminated. Professional restoration helps mitigate these risks by thoroughly drying and sanitizing affected areas.",
+        "@type": "Answer",
+        "description": "Water damage can lead to mold growth, causing respiratory issues, allergies, and other health problems."
+      }
+    }
+  ],
+  "description": "Water damage can lead to mold growth, causing respiratory issues, allergies, and other health problems."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-address-a-broken-pipe",
+  "name": "How quickly should I address a broken pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address a broken pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing a broken pipe quickly is critical to minimize damage and prevent secondary issues. Water can rapidly spread, saturating building materials and furnishings. Within 24-48 hours, mold can begin to grow in damp conditions, leading to more extensive and costly remediation. Prompt action also reduces the risk of structural damage, protects electronics, and prevents unpleasant odors. Contacting a restoration company immediately after discovering a broken pipe allows for rapid water removal and drying, significantly reducing overall repair costs and the time needed for restoration.",
+        "@type": "Answer",
+        "description": "You should address a broken pipe immediately, ideally within 24 hours, to prevent extensive water damage, mold growth, and higher restoration costs."
+      }
+    }
+  ],
+  "description": "You should address a broken pipe immediately, ideally within 24 hours, to prevent extensive water damage, mold growth, and higher restoration costs."
+}

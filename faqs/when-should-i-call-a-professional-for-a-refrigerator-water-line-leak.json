@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-refrigerator-water-line-leak",
+  "name": "When should I call a professional for a refrigerator water line leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a refrigerator water line leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional restoration company immediately if you discover significant water damage, persistent leaking that you cannot stop, or if the leak has caused water to spread beyond the immediate vicinity of the refrigerator. Professionals can assess the extent of the water damage, properly dry affected areas to prevent mold growth, and provide guidance on necessary repairs. Prompt action can mitigate further damage and associated costs.",
+        "@type": "Answer",
+        "description": "Call a professional for significant water damage, persistent leaks, or if water has spread beyond the refrigerator's area."
+      }
+    }
+  ],
+  "description": "Call a professional for significant water damage, persistent leaks, or if water has spread beyond the refrigerator's area."
+}

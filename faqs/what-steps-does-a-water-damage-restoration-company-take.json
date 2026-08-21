@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-does-a-water-damage-restoration-company-take",
+  "name": "What steps does a water damage restoration company take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps does a water damage restoration company take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional water damage restoration company follows a structured process. First, they conduct an inspection and assessment. Next, they perform water extraction to remove standing water. This is followed by drying and dehumidification using specialized equipment. They then clean and sanitize affected areas, and finally, restore or rebuild damaged parts of your property to their pre-damage condition. Monitoring is done throughout the process to ensure complete drying.",
+        "@type": "Answer",
+        "description": "They assess damage, extract water, dry and dehumidify, clean and sanitize, and then restore affected areas. The process aims for complete drying."
+      }
+    }
+  ],
+  "description": "They assess damage, extract water, dry and dehumidify, clean and sanitize, and then restore affected areas. The process aims for complete drying."
+}

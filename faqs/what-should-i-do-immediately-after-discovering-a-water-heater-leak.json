@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-water-heater-leak",
+  "name": "What should I do immediately after discovering a water heater leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a water heater leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you find a water heater leak, first prioritize safety. Immediately shut off the water supply to the water heater and turn off the power (gas or electricity). This prevents further water damage and eliminates potential hazards. Once the water and power are off, begin to remove standing water and move any salvageable items away from the affected area. Contact a professional water damage restoration service, such as First To Respond Restoration, promptly to assess the damage and begin proper cleanup and drying to prevent mold growth and further structural issues.",
+        "@type": "Answer",
+        "description": "Immediately shut off the water supply and power to the water heater. Then, contact a professional restoration service to assess and clean up the damage."
+      }
+    }
+  ],
+  "description": "Immediately shut off the water supply and power to the water heater. Then, contact a professional restoration service to assess and clean up the damage."
+}

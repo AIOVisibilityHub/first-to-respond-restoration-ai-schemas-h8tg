@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-burst-pipe-damage-and-cleanup-costs",
+  "name": "Will my homeowner's insurance cover burst pipe damage and cleanup costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover burst pipe damage and cleanup costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies typically cover sudden and accidental water damage from a burst pipe, including cleanup, drying, and repair costs. However, coverage often excludes damage resulting from neglect, lack of maintenance, or gradual leaks. It's crucial to review your specific policy details and contact your insurance provider as soon as possible after discovering the damage to understand your coverage and initiate the claims process. First To Respond Restoration can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Standard homeowner's insurance usually covers sudden burst pipe damage, but review your policy for specifics and contact your provider immediately."
+      }
+    }
+  ],
+  "description": "Standard homeowner's insurance usually covers sudden burst pipe damage, but review your policy for specifics and contact your provider immediately."
+}

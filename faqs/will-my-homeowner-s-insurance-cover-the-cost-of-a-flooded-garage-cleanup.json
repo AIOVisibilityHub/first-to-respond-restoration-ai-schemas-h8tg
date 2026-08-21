@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-the-cost-of-a-flooded-garage-cleanup",
+  "name": "Will my homeowner's insurance cover the cost of a flooded garage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover the cost of a flooded garage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for a flooded garage depends on the cause of the flooding and your specific policy. Generally, sudden and accidental events like a burst pipe or appliance malfunction are covered. However, damage from external flooding, such as heavy rain or overflowing rivers, typically requires a separate flood insurance policy. It's crucial to review your policy or contact your insurance provider directly to understand your coverage details.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the flood's cause; sudden incidents are often covered, but external floods usually require separate flood insurance."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the flood's cause; sudden incidents are often covered, but external floods usually require separate flood insurance."
+}

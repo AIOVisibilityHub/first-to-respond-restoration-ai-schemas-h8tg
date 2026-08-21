@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-flooded-basement",
+  "name": "What should I do immediately after discovering a flooded basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a flooded basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount. First, ensure the power is shut off to prevent electrical hazards. Avoid standing in water. If you can safely access the main water supply, turn it off to prevent further flooding. Document the damage with photos or videos. Do not attempt to use household vacuums or electronics in wet areas. Contact a professional water damage restoration company promptly, as rapid response minimizes damage and prevents mold growth. They can assess the situation and begin water extraction and drying.",
+        "@type": "Answer",
+        "description": "Immediately shut off power and water supply if safe. Document the damage and contact a professional restoration company to prevent further issues."
+      }
+    }
+  ],
+  "description": "Immediately shut off power and water supply if safe. Document the damage and contact a professional restoration company to prevent further issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-ensure-proper-disinfection-after-a-sewage-spill",
+  "name": "How do you ensure proper disinfection after a sewage spill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure proper disinfection after a sewage spill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring proper disinfection after a sewage spill involves several critical steps. After removing contaminated materials and extracting wastewater, we apply professional-grade antimicrobial and disinfectant solutions specifically designed to neutralize bacteria, viruses, and mold spores found in sewage. These agents are applied to all affected surfaces, including structural elements. We also utilize air scrubbers and hydroxyl generators to purify the air and eliminate airborne contaminants and odors, ensuring a thoroughly sanitized environment.",
+        "@type": "Answer",
+        "description": "We use professional antimicrobial agents, disinfectants, air scrubbers, and hydroxyl generators to thoroughly sanitize affected areas and air after a sewage spill."
+      }
+    }
+  ],
+  "description": "We use professional antimicrobial agents, disinfectants, air scrubbers, and hydroxyl generators to thoroughly sanitize affected areas and air after a sewage spi"
+}

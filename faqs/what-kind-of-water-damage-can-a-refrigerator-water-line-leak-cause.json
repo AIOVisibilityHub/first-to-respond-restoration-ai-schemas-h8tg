@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-water-damage-can-a-refrigerator-water-line-leak-cause",
+  "name": "What kind of water damage can a refrigerator water line leak cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of water damage can a refrigerator water line leak cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A refrigerator water line leak can cause various types of water damage. This includes damage to flooring materials like hardwood, laminate, or tile, as well as subflooring which can lead to structural issues. Walls, cabinetry, and baseboards in the vicinity can also absorb water, leading to swelling, warping, and discoloration. Prolonged moisture can also foster mold growth, which requires professional remediation to ensure indoor air quality and structural integrity.",
+        "@type": "Answer",
+        "description": "Leaks can damage floors, subflooring, walls, cabinets, and baseboards, and can lead to mold growth."
+      }
+    }
+  ],
+  "description": "Leaks can damage floors, subflooring, walls, cabinets, and baseboards, and can lead to mold growth."
+}

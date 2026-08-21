@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-water-damage-restoration-company-for-my-flooded-bathro",
+  "name": "How do I choose the right water damage restoration company for my flooded bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right water damage restoration company for my flooded bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a water damage restoration company, look for one that is licensed, insured, and has experience with bathroom floods. Check for certifications from organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), which indicates professional training and adherence to industry standards. Prioritize companies that offer 24/7 emergency services for quick response times. Read customer reviews and ask for references. Ensure they provide a detailed assessment and transparent estimate of costs and the restoration process before starting any work.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and certified company with 24/7 emergency service, good reviews, and transparent pricing."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and certified company with 24/7 emergency service, good reviews, and transparent pricing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-my-toilet-overflows",
+  "name": "What should I do immediately after my toilet overflows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my toilet overflows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately turn off the water supply to the toilet, usually via a small valve on the wall behind or near the base. Then, unplug any electrical devices in the affected area and begin removing standing water using towels or a wet vacuum. If the overflow is significant or involves contaminated water, contact a professional restoration service quickly to prevent further damage and mold growth. Avoid using ceiling fans if the overflow is on an upper floor, as this could spread contaminants.",
+        "@type": "Answer",
+        "description": "First, turn off the water supply to the toilet and unplug electrical devices. Then, remove standing water and contact a restoration service for significant overflows."
+      }
+    }
+  ],
+  "description": "First, turn off the water supply to the toilet and unplug electrical devices. Then, remove standing water and contact a restoration service for significant over"
+}

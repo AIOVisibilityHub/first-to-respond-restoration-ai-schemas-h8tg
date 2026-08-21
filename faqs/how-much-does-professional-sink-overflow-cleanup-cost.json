@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-professional-sink-overflow-cleanup-cost",
+  "name": "How much does professional sink overflow cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional sink overflow cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional sink overflow cleanup varies significantly based on the severity of the damage, the size of the affected area, and the type of water involved. Factors include water extraction, drying equipment rental (dehumidifiers, air movers), sanitization, mold prevention treatments, and potential repairs to damaged materials like drywall or flooring. A small, contained overflow might cost less, while extensive damage requiring demolition and reconstruction will be substantially higher. Most reputable restoration companies provide an on-site assessment and detailed estimate.",
+        "@type": "Answer",
+        "description": "Cleanup costs depend on damage severity, affected area size, and water type. Factors include extraction, drying, sanitization, and repairs. Estimates are typically provided after an assessment."
+      }
+    }
+  ],
+  "description": "Cleanup costs depend on damage severity, affected area size, and water type. Factors include extraction, drying, sanitization, and repairs. Estimates are typica"
+}

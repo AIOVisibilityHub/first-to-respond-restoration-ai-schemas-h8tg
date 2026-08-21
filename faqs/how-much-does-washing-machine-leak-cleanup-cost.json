@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-washing-machine-leak-cleanup-cost",
+  "name": "How much does washing machine leak cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does washing machine leak cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of washing machine leak cleanup varies based on several factors, including the extent of water damage, the type of flooring or materials affected, the duration the water was present, and the need for mold remediation. Minor cleanups might involve a few hundred dollars, while extensive damage requiring water extraction, drying equipment, and potential repairs to subflooring or walls can range from several hundred to several thousand dollars. We offer inspections to provide an accurate estimate.",
+        "@type": "Answer",
+        "description": "Cleanup costs vary widely based on the extent of damage, affected materials, and the need for mold remediation. Inspections provide accurate estimates."
+      }
+    }
+  ],
+  "description": "Cleanup costs vary widely based on the extent of damage, affected materials, and the need for mold remediation. Inspections provide accurate estimates."
+}

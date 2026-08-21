@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-burst-pipes-in-the-future",
+  "name": "How can I prevent burst pipes in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent burst pipes in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing burst pipes involves several proactive measures. Insulate exposed pipes in unheated areas like basements, crawl spaces, and attics, especially in colder months. During freezing temperatures, allow faucets to drip slightly to relieve pressure, and open cabinet doors to allow warm air to circulate around pipes. Regularly inspect your plumbing for signs of corrosion or leaks, and consider a smart water leak detection system. If going on vacation, consider shutting off your main water supply and draining your pipes.",
+        "@type": "Answer",
+        "description": "Prevent burst pipes by insulating pipes, allowing faucets to drip in freezing weather, inspecting plumbing regularly, and using leak detection systems."
+      }
+    }
+  ],
+  "description": "Prevent burst pipes by insulating pipes, allowing faucets to drip in freezing weather, inspecting plumbing regularly, and using leak detection systems."
+}

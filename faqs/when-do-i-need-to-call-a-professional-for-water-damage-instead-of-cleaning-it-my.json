@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-to-call-a-professional-for-water-damage-instead-of-cleaning-it-my",
+  "name": "When do I need to call a professional for water damage instead of cleaning it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to call a professional for water damage instead of cleaning it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for water damage when the affected area is large, involves contaminated water (like sewage), or if the water has been present for more than 24-48 hours. Professionals have specialized equipment to thoroughly dry hidden areas, preventing mold growth and structural damage that DIY methods often miss. Ignoring professional help in significant cases can lead to long-term health risks and costly repairs.",
+        "@type": "Answer",
+        "description": "Call a professional for large areas, contaminated water, or if water has been present over 24-48 hours. They have equipment to prevent mold and structural damage."
+      }
+    }
+  ],
+  "description": "Call a professional for large areas, contaminated water, or if water has been present over 24-48 hours. They have equipment to prevent mold and structural damag"
+}

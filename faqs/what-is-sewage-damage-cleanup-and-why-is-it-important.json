@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-sewage-damage-cleanup-and-why-is-it-important",
+  "name": "What is sewage damage cleanup and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is sewage damage cleanup and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage damage cleanup involves safely removing wastewater, disinfecting affected areas, and drying structures to prevent health risks and further property damage. Sewage contains bacteria, viruses, and other pathogens that can cause serious illness. Prompt and professional cleanup is crucial to mitigate contamination, prevent mold growth, and restore your property to a safe and habitable condition, minimizing long-term health concerns and structural deterioration.",
+        "@type": "Answer",
+        "description": "Sewage damage cleanup safely removes wastewater and disinfects affected areas to prevent health risks and further property damage from contaminated water."
+      }
+    }
+  ],
+  "description": "Sewage damage cleanup safely removes wastewater and disinfects affected areas to prevent health risks and further property damage from contaminated water."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-pipes-to-break-and-how-can-i-prevent-it",
+  "name": "What causes pipes to break, and how can I prevent it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes pipes to break, and how can I prevent it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pipes can break for various reasons, with common causes including freezing temperatures leading to burst pipes, corrosion from aging or hard water, excessive water pressure, and shifting foundations or ground movement. Improper installation, tree root intrusion, and impact damage can also contribute. Prevention involves insulating pipes in vulnerable areas, especially during cold weather, regularly inspecting for signs of corrosion or leaks, and addressing small drips promptly. Maintaining proper water pressure and considering a water softener can also extend pipe life. Regular plumbing inspections can identify potential issues before they become major breaks.",
+        "@type": "Answer",
+        "description": "Pipes break due to freezing, corrosion, high pressure, or shifting foundations. Prevent breaks by insulating pipes, regular inspections, and maintaining proper water pressure."
+      }
+    }
+  ],
+  "description": "Pipes break due to freezing, corrosion, high pressure, or shifting foundations. Prevent breaks by insulating pipes, regular inspections, and maintaining proper"
+}

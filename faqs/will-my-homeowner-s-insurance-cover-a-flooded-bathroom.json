@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-a-flooded-bathroom",
+  "name": "Will my homeowner's insurance cover a flooded bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover a flooded bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for a flooded bathroom depends on the cause of the flood and your specific policy. Generally, sudden and accidental water damage, like a burst pipe or overflowing toilet, is covered. However, damage from neglected maintenance, slow leaks, or external floods (like rising rivers) may not be covered or might require a separate flood insurance policy. It's essential to review your policy details or contact your insurance provider directly. A professional restoration company can often assist with documentation and communication with your insurer.",
+        "@type": "Answer",
+        "description": "Coverage depends on the cause of the flood and your policy. Sudden damage is often covered, but check with your insurer."
+      }
+    }
+  ],
+  "description": "Coverage depends on the cause of the flood and your policy. Sudden damage is often covered, but check with your insurer."
+}

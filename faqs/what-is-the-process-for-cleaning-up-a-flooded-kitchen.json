@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-cleaning-up-a-flooded-kitchen",
+  "name": "What is the process for cleaning up a flooded kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for cleaning up a flooded kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process for a flooded kitchen typically involves several key stages. First, water extraction removes standing water. This is followed by drying and dehumidification to eliminate moisture from affected structures and contents, preventing mold growth. Next, cleaning and sanitizing ensures all contaminated surfaces are treated. Demolition and removal of irreparably damaged materials may be necessary. Finally, restoration and repairs are undertaken to bring your kitchen back to its pre-loss condition. Throughout the process, continuous monitoring ensures effective moisture removal.",
+        "@type": "Answer",
+        "description": "The flooded kitchen cleanup process includes water extraction, drying, dehumidification, cleaning, sanitizing, and restoration to prevent mold and repair damage."
+      }
+    }
+  ],
+  "description": "The flooded kitchen cleanup process includes water extraction, drying, dehumidification, cleaning, sanitizing, and restoration to prevent mold and repair damage"
+}

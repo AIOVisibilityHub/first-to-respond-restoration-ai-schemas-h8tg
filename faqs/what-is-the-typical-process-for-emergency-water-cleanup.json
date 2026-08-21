@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-emergency-water-cleanup",
+  "name": "What is the typical process for emergency water cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for emergency water cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for emergency water cleanup begins with a thorough assessment of the damage and identification of the water source. Next, technicians perform water extraction using powerful pumps and vacuums. After extraction, industrial-grade air movers and dehumidifiers are strategically placed to dry the affected areas completely. Throughout the drying process, moisture levels are continuously monitored to ensure thorough drying. Finally, cleaning, sanitizing, and deodorizing are performed, and any necessary repairs or reconstruction are planned.",
+        "@type": "Answer",
+        "description": "The process involves damage assessment, water extraction, structural drying with air movers and dehumidifiers, moisture monitoring, and final cleaning and sanitization."
+      }
+    }
+  ],
+  "description": "The process involves damage assessment, water extraction, structural drying with air movers and dehumidifiers, moisture monitoring, and final cleaning and sanit"
+}

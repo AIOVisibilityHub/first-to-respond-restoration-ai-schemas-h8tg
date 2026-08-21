@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-prevent-slab-leaks",
+  "name": "Can I prevent slab leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent slab leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's difficult to completely prevent all slab leaks, you can take steps to reduce the risk. This includes regular plumbing inspections, especially in older homes with aging pipes. Maintaining proper water pressure can also help, as excessively high pressure can strain pipes. Being mindful of what goes down your drains can prevent clogs that stress pipes. Addressing any minor plumbing issues promptly can also prevent them from escalating into a larger slab leak problem.",
+        "@type": "Answer",
+        "description": "You can reduce slab leak risk through regular plumbing inspections, maintaining proper water pressure, avoiding drain clogs, and promptly fixing minor plumbing issues."
+      }
+    }
+  ],
+  "description": "You can reduce slab leak risk through regular plumbing inspections, maintaining proper water pressure, avoiding drain clogs, and promptly fixing minor plumbing"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-professional-broken-pipe-cleanup",
+  "name": "What is involved in professional broken pipe cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in professional broken pipe cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional broken pipe cleanup involves several crucial steps to mitigate damage and restore your property. Initially, the water source is shut off and remaining water is extracted using powerful pumps and vacuums. Technicians then assess the extent of water damage, including hidden moisture in walls, floors, and ceilings, using specialized detection tools. Affected materials like drywall, insulation, or flooring that cannot be dried are removed to prevent mold growth. High-grade drying equipment, such as air movers and dehumidifiers, is strategically placed to thoroughly dry the structure. Finally, affected areas are cleaned and sanitized to ensure a safe and healthy environment, preparing the space for any necessary repairs.",
+        "@type": "Answer",
+        "description": "Professional broken pipe cleanup involves water extraction, damage assessment, removal of unsalvageable materials, comprehensive drying, and sanitization to restore your property."
+      }
+    }
+  ],
+  "description": "Professional broken pipe cleanup involves water extraction, damage assessment, removal of unsalvageable materials, comprehensive drying, and sanitization to res"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-company-for-broken-pipe-cleanup-in-encino",
+  "name": "How do I choose the right company for broken pipe cleanup in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right company for broken pipe cleanup in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right company for broken pipe cleanup in Encino involves looking for several key qualifications. Prioritize companies with IICRC certification (Institute of Inspection, Cleaning and Restoration Certification), as this indicates adherence to industry standards. Ensure they offer 24/7 emergency services for immediate response. Check for positive local reviews and testimonials, and verify they are licensed and insured. Inquire about their experience specifically with broken pipe incidents and their process for water extraction, drying, and mold prevention. A reputable company should provide a detailed assessment and transparent estimate.",
+        "@type": "Answer",
+        "description": "When choosing a broken pipe cleanup company in Encino, look for IICRC certification, 24/7 emergency service, local reviews, proper licensing/insurance, and experience with similar incidents."
+      }
+    }
+  ],
+  "description": "When choosing a broken pipe cleanup company in Encino, look for IICRC certification, 24/7 emergency service, local reviews, proper licensing/insurance, and expe"
+}

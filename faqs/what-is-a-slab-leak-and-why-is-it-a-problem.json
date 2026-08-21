@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-a-slab-leak-and-why-is-it-a-problem",
+  "name": "What is a slab leak and why is it a problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a slab leak and why is it a problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slab leak occurs when a water pipe beneath your home's concrete foundation (slab) breaks or corrodes, causing water to escape. This can lead to significant water damage, including saturation of the soil under the foundation, which may cause structural shifts. It can also damage flooring, baseboards, and walls, promote mold growth, and increase water bills significantly. Early detection and repair are crucial to prevent extensive damage and costly repairs to your property.",
+        "@type": "Answer",
+        "description": "A slab leak is a broken water pipe under your home's foundation, causing water damage, potential structural issues, and higher water bills."
+      }
+    }
+  ],
+  "description": "A slab leak is a broken water pipe under your home's foundation, causing water damage, potential structural issues, and higher water bills."
+}

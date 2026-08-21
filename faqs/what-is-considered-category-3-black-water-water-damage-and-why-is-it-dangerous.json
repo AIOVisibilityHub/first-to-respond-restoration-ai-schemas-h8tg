@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-considered-category-3-black-water-water-damage-and-why-is-it-dangerous",
+  "name": "What is considered Category 3 (black water) water damage, and why is it dangerous?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered Category 3 (black water) water damage, and why is it dangerous?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Category 3, or 'black water,' refers to highly contaminated water that poses significant health risks. This includes sewage, flooding from rivers or oceans, and any water that has stood for an extended period, allowing microbial growth. Black water contains pathogenic bacteria, viruses, and other toxic agents. Direct contact or inhalation of airborne contaminants can cause severe illness. Professional remediation is essential for black water incidents, requiring specialized protective gear, extensive sanitation, and disposal of contaminated porous materials to ensure safety.",
+        "@type": "Answer",
+        "description": "Category 3 (black water) is highly contaminated water containing pathogens; it's dangerous and requires professional remediation."
+      }
+    }
+  ],
+  "description": "Category 3 (black water) is highly contaminated water containing pathogens; it's dangerous and requires professional remediation."
+}

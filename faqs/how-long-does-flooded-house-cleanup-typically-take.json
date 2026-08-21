@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-flooded-house-cleanup-typically-take",
+  "name": "How long does flooded house cleanup typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does flooded house cleanup typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of flooded house cleanup varies significantly based on the water's source, the extent of the damage, and the materials affected. Minor flooding might take 3-5 days for drying and sanitization, while severe cases involving structural damage or extensive demolition could extend to several weeks or even months. Factors like humidity levels and the efficiency of drying equipment also play a role. First To Respond Restoration provides a detailed timeline after a thorough on-site assessment.",
+        "@type": "Answer",
+        "description": "Cleanup time depends on damage severity, typically ranging from a few days for minor issues to several weeks for extensive damage."
+      }
+    }
+  ],
+  "description": "Cleanup time depends on damage severity, typically ranging from a few days for minor issues to several weeks for extensive damage."
+}

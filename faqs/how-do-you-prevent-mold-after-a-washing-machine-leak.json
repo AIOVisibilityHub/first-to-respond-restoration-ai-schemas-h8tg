@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-prevent-mold-after-a-washing-machine-leak",
+  "name": "How do you prevent mold after a washing machine leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prevent mold after a washing machine leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent mold after a washing machine leak, it is crucial to dry all affected areas completely and quickly, ideally within 24-48 hours. This involves thorough water extraction, using professional-grade air movers and dehumidifiers, and monitoring moisture levels in walls, floors, and other materials. Removing all wet porous materials that cannot be dried effectively can also help. Proper ventilation during the drying process is also key to inhibiting mold growth.",
+        "@type": "Answer",
+        "description": "Prevent mold by quickly and completely drying all affected areas within 24-48 hours, using professional equipment if necessary."
+      }
+    }
+  ],
+  "description": "Prevent mold by quickly and completely drying all affected areas within 24-48 hours, using professional equipment if necessary."
+}

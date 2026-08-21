@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-sewage-damage-restoration",
+  "name": "What is the typical process for sewage damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for sewage damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sewage damage restoration process typically begins with emergency water extraction to remove standing sewage. This is followed by removing contaminated porous materials, such as carpet, drywall, and insulation, that cannot be salvaged. Technicians then thoroughly clean and disinfect all affected surfaces to eliminate bacteria and odors. Finally, the area is professionally dried using industrial-grade equipment, and any necessary repairs or reconstruction are performed to restore the property.",
+        "@type": "Answer",
+        "description": "The process involves emergency extraction, removal of contaminated materials, disinfection, professional drying, and finally, property restoration and repairs."
+      }
+    }
+  ],
+  "description": "The process involves emergency extraction, removal of contaminated materials, disinfection, professional drying, and finally, property restoration and repairs."
+}

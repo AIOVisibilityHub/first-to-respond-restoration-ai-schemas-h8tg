@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-provide-rain-leak-repair-services-in-encino-or-north-hollywood",
+  "name": "Do you provide rain leak repair services in Encino or North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you provide rain leak repair services in Encino or North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides comprehensive rain leak detection and water damage restoration services throughout Encino, North Hollywood, and surrounding areas. Our emergency response teams are equipped to quickly respond to your call, assess the damage, and implement effective solutions to mitigate the leak and restore your property. Contact us immediately for professional assistance.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers rain leak repair and water damage restoration in Encino, North Hollywood, and nearby areas."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers rain leak repair and water damage restoration in Encino, North Hollywood, and nearby areas."
+}

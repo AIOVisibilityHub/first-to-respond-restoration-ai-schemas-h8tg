@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-equipment-do-you-use-for-sewage-cleanup",
+  "name": "What kind of equipment do you use for sewage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of equipment do you use for sewage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For sewage cleanup, we utilize specialized equipment designed for hazardous waste remediation. This includes powerful industrial-grade extractors for water removal, air scrubbers and negative air machines to purify the air and contain airborne contaminants, and commercial-grade dehumidifiers and air movers for thorough drying. We also use professional-strength disinfectants and antimicrobial agents to sanitize affected surfaces and prevent mold and bacterial growth.",
+        "@type": "Answer",
+        "description": "We use industrial-grade extractors, air scrubbers, dehumidifiers, air movers, and professional disinfectants for effective sewage cleanup."
+      }
+    }
+  ],
+  "description": "We use industrial-grade extractors, air scrubbers, dehumidifiers, air movers, and professional disinfectants for effective sewage cleanup."
+}

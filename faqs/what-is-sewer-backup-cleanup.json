@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-sewer-backup-cleanup",
+  "name": "What is sewer backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is sewer backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer backup cleanup involves the professional remediation of damage caused by sewage overflowing into a property. This process includes safely removing contaminated water and debris, thoroughly cleaning and sanitizing affected areas to eliminate bacteria and pathogens, and drying the structure to prevent mold growth. Specialized equipment and techniques are used to ensure the property is restored to a safe and habitable condition, addressing both visible and hidden contamination.",
+        "@type": "Answer",
+        "description": "Sewer backup cleanup is the professional removal of sewage, sanitization of affected areas, and drying of the property after an overflow."
+      }
+    }
+  ],
+  "description": "Sewer backup cleanup is the professional removal of sewage, sanitization of affected areas, and drying of the property after an overflow."
+}

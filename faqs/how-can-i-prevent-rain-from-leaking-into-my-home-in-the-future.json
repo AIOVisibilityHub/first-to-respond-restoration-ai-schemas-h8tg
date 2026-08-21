@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-rain-from-leaking-into-my-home-in-the-future",
+  "name": "How can I prevent rain from leaking into my home in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent rain from leaking into my home in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future rain leaks involves regular home maintenance. Regularly inspect and clean your gutters and downspouts to ensure proper drainage. Check your roof for missing or damaged shingles, and inspect flashing around chimneys, vents, and skylights. Seal any cracks in your foundation or exterior walls. Ensure windows and doors are properly sealed and caulked. Annual professional inspections can help identify potential issues before they become major leaks.",
+        "@type": "Answer",
+        "description": "Regular maintenance like cleaning gutters, inspecting your roof, sealing cracks, and checking window/door seals can prevent future leaks."
+      }
+    }
+  ],
+  "description": "Regular maintenance like cleaning gutters, inspecting your roof, sealing cracks, and checking window/door seals can prevent future leaks."
+}

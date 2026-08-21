@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-flooded-house-cleanup",
+  "name": "Will my homeowner's insurance cover flooded house cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover flooded house cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for flood damage depends on your specific policy and the cause of the flooding. Standard policies typically cover damage from sudden and accidental events like burst pipes or appliance overflows. However, flood damage from natural disasters (e.g., heavy rain, river overflow) usually requires a separate flood insurance policy. We recommend reviewing your policy documents or contacting your insurance provider directly. First To Respond Restoration can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Coverage depends on your specific policy and the cause of the flood; natural flood damage often requires separate flood insurance."
+      }
+    }
+  ],
+  "description": "Coverage depends on your specific policy and the cause of the flood; natural flood damage often requires separate flood insurance."
+}

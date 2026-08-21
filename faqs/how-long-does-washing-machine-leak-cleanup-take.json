@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-washing-machine-leak-cleanup-take",
+  "name": "How long does washing machine leak cleanup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does washing machine leak cleanup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a washing machine leak cleanup depends on the severity of the leak and the affected area. For minor surface leaks, cleanup might take a few hours. For significant water damage involving saturated subflooring or walls, the water extraction and drying process can take 3-5 days. Mold remediation, if necessary, could extend the timeline further. Our goal is to dry the affected area completely to prevent secondary issues like mold.",
+        "@type": "Answer",
+        "description": "Cleanup time ranges from a few hours for minor leaks to 3-5 days for significant water damage requiring professional drying."
+      }
+    }
+  ],
+  "description": "Cleanup time ranges from a few hours for minor leaks to 3-5 days for significant water damage requiring professional drying."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-standing-water-damage",
+  "name": "Will my homeowner's insurance cover standing water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover standing water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers water damage that is sudden and accidental, such as a burst pipe, appliance overflow, or fire suppression system discharge. However, policies usually exclude damage resulting from neglect, maintenance issues, or specific perils like floods (which require separate flood insurance) or sewer backups (which often need an endorsement). It's crucial to review your specific policy or contact your insurance provider immediately after discovering standing water to understand your coverage and initiate a claim.",
+        "@type": "Answer",
+        "description": "Insurance often covers sudden, accidental water damage like burst pipes, but usually excludes damage from neglect, floods, or sewer backups. Check your policy."
+      }
+    }
+  ],
+  "description": "Insurance often covers sudden, accidental water damage like burst pipes, but usually excludes damage from neglect, floods, or sewer backups. Check your policy."
+}

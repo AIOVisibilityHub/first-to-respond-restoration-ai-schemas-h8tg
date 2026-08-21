@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-burst-pipe-floods-my-property",
+  "name": "What should I do immediately after a burst pipe floods my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a burst pipe floods my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after discovering a burst pipe, the first step is to shut off the main water supply to your property to stop further flooding. Next, turn off any electricity in the affected areas if it's safe to do so. Document the damage with photos or videos for insurance purposes. Avoid entering areas with standing water if electrical hazards are present. Contact a professional restoration company like First To Respond Restoration promptly to assess the damage and begin cleanup to prevent secondary issues like mold growth.",
+        "@type": "Answer",
+        "description": "Shut off the water supply and electricity, document the damage, and contact a professional restoration company immediately."
+      }
+    }
+  ],
+  "description": "Shut off the water supply and electricity, document the damage, and contact a professional restoration company immediately."
+}

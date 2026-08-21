@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-roof-leak-water-damage",
+  "name": "What are the common signs of roof leak water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of roof leak water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of roof leak water damage include water stains on ceilings or walls, peeling paint, bubbling plaster, or discolored drywall. You might also notice a musty odor, especially in attics or basements, indicating mold growth. Other indicators are dripping sounds, visible water puddles, or soft spots on your roof's interior or exterior structure. Early detection of these signs can help prevent more extensive damage to your property.",
+        "@type": "Answer",
+        "description": "Look for water stains on ceilings/walls, peeling paint, musty odors, or visible water, which are common signs of roof leak damage."
+      }
+    }
+  ],
+  "description": "Look for water stains on ceilings/walls, peeling paint, musty odors, or visible water, which are common signs of roof leak damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-water-heater-leak-cleanup",
+  "name": "What areas do you serve for water heater leak cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for water heater leak cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides expert water heater leak cleanup services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to handle emergency water damage situations promptly across these communities. If you're experiencing a water heater leak in any of these areas, you can rely on our quick response and professional services to mitigate damage and restore your property efficiently. We are committed to serving our local clients with immediate and effective solutions.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water heater leak cleanup services."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water heater leak cleanup services."
+}

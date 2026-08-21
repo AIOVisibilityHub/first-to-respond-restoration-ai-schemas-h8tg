@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-for-kitchen-flooding",
+  "name": "When should I call a professional restoration company for kitchen flooding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company for kitchen flooding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company immediately after securing the area and stopping the water source, especially if the water is more than a small spill or if it has soaked into flooring, walls, or cabinets. Professionals have specialized equipment for water extraction, drying, and mold prevention that standard household tools cannot match. Early intervention by experts minimizes damage, reduces health risks from mold, and often saves you money in the long run by preventing secondary damage.",
+        "@type": "Answer",
+        "description": "Call a professional restoration company immediately if your kitchen flood involves more than a small spill or if water has penetrated structures, to minimize damage and prevent mold."
+      }
+    }
+  ],
+  "description": "Call a professional restoration company immediately if your kitchen flood involves more than a small spill or if water has penetrated structures, to minimize da"
+}

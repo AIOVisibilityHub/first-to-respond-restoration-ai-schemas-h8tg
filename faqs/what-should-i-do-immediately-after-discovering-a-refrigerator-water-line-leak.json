@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-refrigerator-water-line-leak",
+  "name": "What should I do immediately after discovering a refrigerator water line leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a refrigerator water line leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering a leak, first, immediately shut off the water supply to the refrigerator. This is typically done via a small shut-off valve behind or under the unit, or by turning off the main water supply to your home if you can't locate the specific valve. Then, unplug the refrigerator. Begin to soak up any standing water to prevent it from spreading further and causing additional damage. Contact a restoration professional next.",
+        "@type": "Answer",
+        "description": "Immediately shut off the water supply to the refrigerator, unplug it, clean up standing water, then call a professional."
+      }
+    }
+  ],
+  "description": "Immediately shut off the water supply to the refrigerator, unplug it, clean up standing water, then call a professional."
+}

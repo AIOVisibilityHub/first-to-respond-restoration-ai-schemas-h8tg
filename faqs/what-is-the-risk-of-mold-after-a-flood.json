@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-risk-of-mold-after-a-flood",
+  "name": "What is the risk of mold after a flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the risk of mold after a flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold growth is a significant risk following any flood event, as mold can begin to develop within 24 to 48 hours of water exposure. It thrives in damp, dark environments and can spread quickly, impacting air quality and potentially causing structural damage. Proper and swift drying by a professional restoration company is critical to mitigate this risk. If mold is already present, specialized mold remediation techniques will be required in addition to the water damage cleanup to ensure its complete removal and prevent recurrence.",
+        "@type": "Answer",
+        "description": "Mold can develop within 24-48 hours after a flood, posing health and structural risks. Prompt, professional drying is crucial to prevent its growth, and remediation is needed if mold is already present."
+      }
+    }
+  ],
+  "description": "Mold can develop within 24-48 hours after a flood, posing health and structural risks. Prompt, professional drying is crucial to prevent its growth, and remedia"
+}

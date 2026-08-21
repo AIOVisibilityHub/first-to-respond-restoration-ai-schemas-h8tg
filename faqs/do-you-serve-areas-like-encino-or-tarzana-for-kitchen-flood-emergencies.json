@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-serve-areas-like-encino-or-tarzana-for-kitchen-flood-emergencies",
+  "name": "Do you serve areas like Encino or Tarzana for kitchen flood emergencies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you serve areas like Encino or Tarzana for kitchen flood emergencies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides emergency water damage and flooded kitchen cleanup services to Encino, Tarzana, and surrounding areas. Our local teams are strategically located to offer a rapid response to your emergency in these communities. We understand the urgency of water damage and are equipped to handle kitchen floods quickly and efficiently, minimizing damage and starting the restoration process without delay.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration serves Encino, Tarzana, and surrounding areas for flooded kitchen emergencies with rapid response times."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration serves Encino, Tarzana, and surrounding areas for flooded kitchen emergencies with rapid response times."
+}

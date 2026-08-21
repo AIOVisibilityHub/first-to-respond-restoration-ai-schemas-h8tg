@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-bathtub-overflow-damage",
+  "name": "Will my homeowner's insurance cover bathtub overflow damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover bathtub overflow damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies typically cover damage caused by sudden and accidental water discharge, such as a bathtub overflow. However, coverage can vary depending on the specific policy and the cause of the overflow. Damage due to negligence or lack of maintenance (e.g., a long-term leaky faucet) might not be covered. It's crucial to review your policy details and contact your insurance provider immediately after the incident. A professional restoration company can often assist with documentation and direct billing to simplify the claims process.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden and accidental bathtub overflows, but not damage from negligence. Check your policy and contact your provider immediately. Professionals can help with claims."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden and accidental bathtub overflows, but not damage from negligence. Check your policy and contact your provider immedi"
+}

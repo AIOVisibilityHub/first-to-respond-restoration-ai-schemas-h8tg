@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reliable-restoration-company-for-roof-leak-water-damage",
+  "name": "How do I choose a reliable restoration company for roof leak water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable restoration company for roof leak water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a restoration company, look for one that is licensed, insured, and has certifications from organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification). Read reviews and check their reputation for emergency response times and customer service. Ensure they provide a detailed estimate, explain their process, and have experience specifically with roof leak and water damage restoration. Local experience in areas like Encino or North Hollywood can also be beneficial.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and IICRC-certified company with good reviews, clear estimates, and local experience in water damage restoration."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and IICRC-certified company with good reviews, clear estimates, and local experience in water damage restoration."
+}

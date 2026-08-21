@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-repairing-a-slab-leak",
+  "name": "What is the process for repairing a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slab leak repair typically begins with detection using specialized equipment to pinpoint the exact location of the leak without unnecessary demolition. Once located, repair methods vary. Options include direct access repair, which involves carefully breaking through the slab to fix the pipe; re-piping or re-routing, where the damaged section is bypassed with a new pipe; or in-place pipe lining, which creates a new pipe inside the old one. The best method depends on the leak's severity, location, and pipe condition.",
+        "@type": "Answer",
+        "description": "Slab leak repair involves precise detection, followed by methods like direct access, re-piping, or in-place pipe lining, depending on the leak's specifics."
+      }
+    }
+  ],
+  "description": "Slab leak repair involves precise detection, followed by methods like direct access, re-piping, or in-place pipe lining, depending on the leak's specifics."
+}

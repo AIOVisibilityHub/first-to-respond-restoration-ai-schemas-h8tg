@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-suspect-a-slab-leak",
+  "name": "What should I do immediately if I suspect a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I suspect a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect a slab leak, your first step should be to shut off your home's main water supply to prevent further water damage. Next, contact a professional leak detection and restoration company right away. Avoid attempting to locate or repair the leak yourself, as this can cause additional damage. Document any visible signs of damage with photos. A prompt professional assessment will help mitigate damage and guide necessary repairs.",
+        "@type": "Answer",
+        "description": "Immediately shut off your main water supply, then contact a professional leak detection and restoration company. Document damage with photos and avoid DIY repairs."
+      }
+    }
+  ],
+  "description": "Immediately shut off your main water supply, then contact a professional leak detection and restoration company. Document damage with photos and avoid DIY repai"
+}

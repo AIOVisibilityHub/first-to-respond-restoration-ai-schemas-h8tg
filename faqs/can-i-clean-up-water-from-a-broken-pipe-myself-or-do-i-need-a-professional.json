@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-water-from-a-broken-pipe-myself-or-do-i-need-a-professional",
+  "name": "Can I clean up water from a broken pipe myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up water from a broken pipe myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can handle very small, superficial spills from a minor leak, major water damage from a broken pipe typically requires professional cleanup. DIY efforts often miss hidden moisture within walls, under flooring, or in insulation, leading to undetected mold growth, structural damage, and persistent odors. Professionals use specialized equipment like moisture meters and thermal imaging to detect all affected areas and industrial-grade dryers and dehumidifiers for efficient and thorough drying. They also have the expertise to safely remove contaminated materials and sanitize the environment, preventing long-term problems.",
+        "@type": "Answer",
+        "description": "Small spills can be DIY, but significant broken pipe water damage requires professionals due to hidden moisture, mold risk, and the need for specialized drying and sanitization equipment."
+      }
+    }
+  ],
+  "description": "Small spills can be DIY, but significant broken pipe water damage requires professionals due to hidden moisture, mold risk, and the need for specialized drying"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-to-call-a-professional-for-basement-flooding-instead-of-handling",
+  "name": "When do I need to call a professional for basement flooding instead of handling it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to call a professional for basement flooding instead of handling it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for basement flooding if the water is deeper than a few inches, if it involves sewage or",
+        "@type": "Answer",
+        "description": "Call professionals for deep water, sewage, contaminated water, or if you suspect structural damage or mold."
+      }
+    }
+  ],
+  "description": "Call professionals for deep water, sewage, contaminated water, or if you suspect structural damage or mold."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-sewage-cleanup-and-regular-water-damage-cleanup",
+  "name": "What is the difference between sewage cleanup and regular water damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between sewage cleanup and regular water damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in the contamination level. Regular water damage cleanup deals with 'clean' (Category 1) or 'grey' (Category 2) water, which may pose minimal to some health risks. Sewage cleanup, however, addresses 'black' water (Category 3), which is grossly unsanitary and contains pathogenic agents. This necessitates more aggressive containment, specialized protective gear, extensive disinfection protocols, and often the removal of porous materials that cannot be safely decontaminated, making it a more complex and hazardous process.",
+        "@type": "Answer",
+        "description": "Sewage cleanup involves 'black water' with severe health risks, requiring more extensive disinfection and removal of materials than 'clean' or 'grey' water damage cleanup."
+      }
+    }
+  ],
+  "description": "Sewage cleanup involves 'black water' with severe health risks, requiring more extensive disinfection and removal of materials than 'clean' or 'grey' water dama"
+}

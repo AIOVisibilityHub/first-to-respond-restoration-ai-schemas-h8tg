@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-slab-leak-repair-cost",
+  "name": "How much does slab leak repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does slab leak repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of slab leak repair varies widely depending on several factors. These include the location and accessibility of the leak, the extent of the water damage, the chosen repair method (e.g., direct access vs. re-piping), and whether restoration services are also needed for damaged flooring or walls. Simple repairs can be less costly, while extensive re-piping or significant water damage restoration will increase the total expense. An inspection is necessary for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Slab leak repair costs vary based on leak location, damage extent, repair method, and restoration needs. An inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Slab leak repair costs vary based on leak location, damage extent, repair method, and restoration needs. An inspection provides an accurate estimate."
+}

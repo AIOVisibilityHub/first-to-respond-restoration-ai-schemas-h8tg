@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-a-flooded-kitchen-cleanup-typically-take",
+  "name": "How long does a flooded kitchen cleanup typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a flooded kitchen cleanup typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a flooded kitchen cleanup varies significantly based on the extent of the water damage, the type of water involved (e.g., clean, gray, black water), and the size of the affected area. A minor cleanup might take 2-3 days for drying and sanitization, while more severe floods requiring structural drying, material removal, and reconstruction could extend to a week or more. A professional assessment will provide a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Cleanup time for a flooded kitchen varies, from a few days for minor issues to over a week for extensive damage, depending on the severity and type of water."
+      }
+    }
+  ],
+  "description": "Cleanup time for a flooded kitchen varies, from a few days for minor issues to over a week for extensive damage, depending on the severity and type of water."
+}

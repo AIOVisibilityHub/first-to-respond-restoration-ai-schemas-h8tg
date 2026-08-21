@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-rain-leaking-into-my-house",
+  "name": "Why is rain leaking into my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is rain leaking into my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rain leaks often stem from damaged roofing, clogged gutters, compromised flashing around chimneys or vents, or cracks in exterior walls and foundations. Poorly sealed windows and doors can also be entry points. Identifying the exact source usually requires a thorough inspection of your property's exterior and interior, especially after heavy rainfall. Addressing the leak promptly prevents further structural damage and mold growth.",
+        "@type": "Answer",
+        "description": "Rain leaks are typically caused by damaged roofs, clogged gutters, faulty flashing, or cracks in walls and foundations."
+      }
+    }
+  ],
+  "description": "Rain leaks are typically caused by damaged roofs, clogged gutters, faulty flashing, or cracks in walls and foundations."
+}

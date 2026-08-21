@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-broken-pipe",
+  "name": "What should I do immediately after discovering a broken pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a broken pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your immediate actions after discovering a broken pipe are crucial to minimize damage. First, quickly locate and shut off the main water supply to your property to stop the flow. If safe to do so, turn off electricity in the affected areas to prevent electrical hazards. Move any valuable or water-sensitive items out of the wet zone. Begin to remove as much standing water as possible using towels or buckets. Then, contact a professional water damage restoration company immediately. Avoid using a regular vacuum for water removal, as it could pose an electrical risk.",
+        "@type": "Answer",
+        "description": "Immediately after a broken pipe, shut off the water supply, turn off electricity if safe, move valuables, remove excess water, and call a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately after a broken pipe, shut off the water supply, turn off electricity if safe, move valuables, remove excess water, and call a professional restorati"
+}

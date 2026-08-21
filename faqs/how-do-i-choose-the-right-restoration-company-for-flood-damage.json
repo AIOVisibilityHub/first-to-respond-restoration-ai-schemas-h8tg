@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-restoration-company-for-flood-damage",
+  "name": "How do I choose the right restoration company for flood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right restoration company for flood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a restoration company for flood damage, prioritize those with certifications from organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), indicating adherence to industry standards. Look for companies offering 24/7 emergency services, as prompt response is crucial. Check for comprehensive services that cover water extraction, drying, mold prevention, and reconstruction. Read customer reviews and ensure the company is fully licensed and insured. Finally, consider their experience with claims and their ability to work with your insurance provider to streamline the process.",
+        "@type": "Answer",
+        "description": "Choose a certified company with 24/7 emergency services, comprehensive offerings, good reviews, and experience with insurance claims. Ensure they are licensed and insured."
+      }
+    }
+  ],
+  "description": "Choose a certified company with 24/7 emergency services, comprehensive offerings, good reviews, and experience with insurance claims. Ensure they are licensed a"
+}

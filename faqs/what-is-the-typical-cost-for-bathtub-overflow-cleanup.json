@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-bathtub-overflow-cleanup",
+  "name": "What is the typical cost for bathtub overflow cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for bathtub overflow cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of bathtub overflow cleanup varies significantly based on several factors, including the amount of water, the size of the affected area, the type of materials damaged (e.g., carpet, hardwood, drywall), and the extent of contamination. Minor cleanups might be a few hundred dollars, while more extensive water damage requiring structural drying and material replacement can range from several thousand dollars. Most homeowners insurance policies cover sudden and accidental water damage. It's best to get a professional assessment for an accurate estimate and discuss insurance claim assistance.",
+        "@type": "Answer",
+        "description": "Cost varies widely depending on damage extent, affected area size, and material types. Minor cleanups are less, while extensive damage can be thousands. Insurance often covers sudden water damage."
+      }
+    }
+  ],
+  "description": "Cost varies widely depending on damage extent, affected area size, and material types. Minor cleanups are less, while extensive damage can be thousands. Insuran"
+}

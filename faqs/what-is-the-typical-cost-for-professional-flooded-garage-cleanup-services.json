@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-professional-flooded-garage-cleanup-services",
+  "name": "What is the typical cost for professional flooded garage cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for professional flooded garage cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for professional flooded garage cleanup varies widely based on several factors. These include the water's source and contamination level, the flood's duration, the affected area's size, and the extent of damage to contents and structural elements. Factors like mold remediation needs, debris removal, and necessary repairs also influence the total cost. Most reputable companies provide an on-site assessment and detailed estimate before beginning work.",
+        "@type": "Answer",
+        "description": "Costs vary depending on the flood's severity, water type, affected area, and necessary repairs. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary depending on the flood's severity, water type, affected area, and necessary repairs. A professional assessment provides an accurate estimate."
+}

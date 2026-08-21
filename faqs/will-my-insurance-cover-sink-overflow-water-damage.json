@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-sink-overflow-water-damage",
+  "name": "Will my insurance cover sink overflow water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover sink overflow water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental water damage, which often includes sink overflows. However, coverage can vary depending on your specific policy and the cause of the overflow. Damage caused by neglect or lack of maintenance (e.g., a long-term leaky pipe) is typically not covered. It's crucial to document the damage thoroughly and contact your insurance provider as soon as possible after the incident to understand your coverage and initiate a claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden, accidental sink overflow damage, but not damage from neglect. Document everything and contact your insurer promptly to confirm coverage."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden, accidental sink overflow damage, but not damage from neglect. Document everything and contact your insurer promptly t"
+}

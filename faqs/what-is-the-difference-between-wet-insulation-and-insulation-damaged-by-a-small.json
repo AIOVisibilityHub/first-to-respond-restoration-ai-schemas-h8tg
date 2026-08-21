@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-wet-insulation-and-insulation-damaged-by-a-small",
+  "name": "What is the difference between wet insulation and insulation damaged by a small leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between wet insulation and insulation damaged by a small leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both involve water, the difference often lies in the extent and duration of moisture exposure. Wet insulation typically refers to insulation that has absorbed a significant amount of water, often from a larger or ongoing leak, leading to saturation. Insulation damaged by a small leak might only have localized dampness, but if left unaddressed, even a small, consistent leak can lead to widespread wet insulation over time. Regardless of the size, any water intrusion into insulation warrants attention to prevent mold and structural issues.",
+        "@type": "Answer",
+        "description": "Wet insulation means saturated insulation, often from significant water. Insulation damaged by a small leak may be localized, but still requires attention to prevent further issues."
+      }
+    }
+  ],
+  "description": "Wet insulation means saturated insulation, often from significant water. Insulation damaged by a small leak may be localized, but still requires attention to pr"
+}

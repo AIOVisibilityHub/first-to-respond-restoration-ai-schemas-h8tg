@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-roof-leak-water-damage-restoration",
+  "name": "What is the typical cost for roof leak water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for roof leak water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for roof leak water damage restoration varies significantly based on the extent of the damage, the size of the affected area, and the materials needing replacement. Factors include the type of roofing material, the degree of interior structural damage, mold remediation needs, and the cost of replacing damaged drywall, insulation, flooring, or personal belongings. A professional assessment is necessary to provide an accurate estimate, as each situation is unique.",
+        "@type": "Answer",
+        "description": "Restoration costs vary based on damage extent, affected area size, material replacement needs, and potential mold. A professional assessment is required."
+      }
+    }
+  ],
+  "description": "Restoration costs vary based on damage extent, affected area size, material replacement needs, and potential mold. A professional assessment is required."
+}

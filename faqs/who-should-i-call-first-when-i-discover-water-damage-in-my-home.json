@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/who-should-i-call-first-when-i-discover-water-damage-in-my-home",
+  "name": "Who should I call first when I discover water damage in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who should I call first when I discover water damage in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you discover water damage, your first call should typically be to a professional water damage restoration company. These specialists can assess the extent of the damage, extract standing water, dry affected areas, and prevent secondary issues like mold growth. They work quickly to mitigate damage and restore your property. It's also advisable to contact your insurance company shortly after to report the claim and understand your coverage.",
+        "@type": "Answer",
+        "description": "Call a professional water damage restoration company first. They will assess damage, extract water, and prevent mold. Also, notify your insurance company."
+      }
+    }
+  ],
+  "description": "Call a professional water damage restoration company first. They will assess damage, extract water, and prevent mold. Also, notify your insurance company."
+}

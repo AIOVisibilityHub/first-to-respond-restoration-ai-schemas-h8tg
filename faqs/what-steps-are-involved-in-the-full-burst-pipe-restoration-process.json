@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-steps-are-involved-in-the-full-burst-pipe-restoration-process",
+  "name": "What steps are involved in the full burst pipe restoration process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the full burst pipe restoration process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The full burst pipe restoration process typically involves several key steps. It begins with emergency water extraction, followed by thorough drying and dehumidification of the affected areas. Next, our team assesses and removes any damaged materials that cannot be restored, such as saturated drywall or insulation. This leads to cleaning, sanitizing, and deodorizing the property. Finally, reconstruction services are performed to repair and rebuild any structural or aesthetic elements, returning your property to its pre-damage condition.",
+        "@type": "Answer",
+        "description": "The process includes water extraction, drying, removal of unsalvageable materials, cleaning, and final reconstruction to restore the property."
+      }
+    }
+  ],
+  "description": "The process includes water extraction, drying, removal of unsalvageable materials, cleaning, and final reconstruction to restore the property."
+}

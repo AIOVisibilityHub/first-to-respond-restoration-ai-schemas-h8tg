@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-a-typical-flooded-basement-cleanup-take",
+  "name": "How long does a typical flooded basement cleanup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical flooded basement cleanup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a flooded basement cleanup varies greatly depending on the category of water, the extent of the damage, and the materials affected. Water extraction might take a few hours, but the drying process, which is critical to prevent mold, typically takes 3-5 days. If structural repairs or mold remediation are necessary, the entire process could extend to several weeks. A professional assessment can provide a more accurate timeline for your specific situation.",
+        "@type": "Answer",
+        "description": "Cleanup time varies; water extraction takes hours, while drying typically takes 3-5 days. Repairs or mold remediation can extend the process."
+      }
+    }
+  ],
+  "description": "Cleanup time varies; water extraction takes hours, while drying typically takes 3-5 days. Repairs or mold remediation can extend the process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-a-flooded-kitchen-cleanup",
+  "name": "Will my homeowner's insurance cover a flooded kitchen cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover a flooded kitchen cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for a flooded kitchen depends on the cause of the flood. Generally, policies cover sudden and accidental water damage, such as a burst pipe or appliance malfunction. However, damage from external floods (like rising rivers) typically requires separate flood insurance. Gradual leaks or neglected maintenance are usually not covered. It's crucial to review your specific policy and contact your insurance provider immediately to understand your coverage and begin the claims process.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance typically covers sudden water damage from sources like burst pipes. Flood insurance is usually needed for external floods. Contact your insurer to confirm your specific coverage."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance typically covers sudden water damage from sources like burst pipes. Flood insurance is usually needed for external floods. Contact your in"
+}

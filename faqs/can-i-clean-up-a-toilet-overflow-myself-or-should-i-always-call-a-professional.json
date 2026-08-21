@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-a-toilet-overflow-myself-or-should-i-always-call-a-professional",
+  "name": "Can I clean up a toilet overflow myself, or should I always call a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up a toilet overflow myself, or should I always call a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can typically clean up small toilet overflows involving only clean water (Category 1) yourself, provided you act quickly, use appropriate protective gear like gloves, and ensure thorough drying. However, for large overflows, contaminated water (Category 2 or 3), or if water has soaked into carpets, walls, or subflooring, it is highly recommended to call a professional. Professionals have the right equipment to safely remove contaminated water, properly dry hidden areas, and prevent mold growth, protecting both your property and health.",
+        "@type": "Answer",
+        "description": "Small, clean water overflows can be DIY. Large, contaminated overflows, or those affecting structural elements, require professional help for safety and thorough drying."
+      }
+    }
+  ],
+  "description": "Small, clean water overflows can be DIY. Large, contaminated overflows, or those affecting structural elements, require professional help for safety and thoroug"
+}

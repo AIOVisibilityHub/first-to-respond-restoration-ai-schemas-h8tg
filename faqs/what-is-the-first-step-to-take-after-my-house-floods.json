@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-first-step-to-take-after-my-house-floods",
+  "name": "What is the first step to take after my house floods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step to take after my house floods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately prioritize safety by shutting off electricity and gas if it's safe to do so. Avoid entering areas with standing water or visible electrical hazards. After ensuring safety, contact a professional water damage restoration company like First To Respond Restoration. We can assess the extent of the damage, begin water extraction, and help prevent further issues such as mold growth. Quick action is crucial to minimize structural damage and restoration costs.",
+        "@type": "Answer",
+        "description": "Prioritize safety by shutting off utilities, then contact a professional restoration company for immediate assessment and water extraction."
+      }
+    }
+  ],
+  "description": "Prioritize safety by shutting off utilities, then contact a professional restoration company for immediate assessment and water extraction."
+}

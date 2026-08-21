@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-common-causes-of-washing-machine-leaks",
+  "name": "What are common causes of washing machine leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of washing machine leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common causes of washing machine leaks include old or faulty water supply hoses, which can crack, burst, or become loose over time. Drain hose issues, such as clogs, damage, or improper installation, can also lead to leaks. Other potential causes include internal component failures like a worn-out pump, a malfunctioning water inlet valve, or a cracked tub. Regular maintenance and inspection of hoses can help prevent many of these issues.",
+        "@type": "Answer",
+        "description": "Common causes include faulty water supply or drain hoses, internal component failures like pumps, or a cracked tub."
+      }
+    }
+  ],
+  "description": "Common causes include faulty water supply or drain hoses, internal component failures like pumps, or a cracked tub."
+}

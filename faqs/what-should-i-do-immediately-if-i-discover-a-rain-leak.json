@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-i-discover-a-rain-leak",
+  "name": "What should I do immediately if I discover a rain leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover a rain leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering a rain leak, first prioritize safety by turning off electricity in the affected area and moving valuables. Place buckets or towels to catch water and minimize damage. Document the leak with photos or videos for insurance purposes. Next, contact a professional restoration company to identify the source and begin immediate water extraction and drying. Prompt action is crucial to prevent secondary damage like mold.",
+        "@type": "Answer",
+        "description": "Immediately turn off power, move valuables, contain the water, document the damage, and contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately turn off power, move valuables, contain the water, document the damage, and contact a professional restoration company."
+}

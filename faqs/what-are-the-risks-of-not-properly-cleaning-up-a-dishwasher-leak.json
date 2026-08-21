@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-risks-of-not-properly-cleaning-up-a-dishwasher-leak",
+  "name": "What are the risks of not properly cleaning up a dishwasher leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of not properly cleaning up a dishwasher leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Failing to properly clean up a dishwasher leak can lead to significant and costly long-term problems. Unaddressed moisture can quickly foster mold and mildew growth within 24-48 hours, posing health risks and requiring extensive remediation. Additionally, prolonged water exposure can warp wood flooring, damage cabinetry, compromise structural integrity, and lead to unpleasant, persistent odors. This also increases the risk of electrical hazards if water contacts wiring. Timely and thorough cleanup is essential to mitigate these risks.",
+        "@type": "Answer",
+        "description": "Improper cleanup can cause mold growth, structural damage, persistent odors, and electrical hazards. Timely action is essential to avoid these issues."
+      }
+    }
+  ],
+  "description": "Improper cleanup can cause mold growth, structural damage, persistent odors, and electrical hazards. Timely action is essential to avoid these issues."
+}

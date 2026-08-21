@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-a-washing-machine-leak-myself",
+  "name": "Can I clean up a washing machine leak myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up a washing machine leak myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can handle very small, contained leaks yourself if the water hasn't penetrated deeply into materials like subflooring or walls. Use towels or a wet vacuum to remove all standing water, and ensure the area is thoroughly dried with fans to prevent mold. However, if the leak is substantial, has spread, or has been present for a while, professional intervention is recommended to prevent hidden damage, structural issues, and potential mold growth.",
+        "@type": "Answer",
+        "description": "Small, contained leaks can be managed yourself. For larger or hidden water damage, professional help is recommended to prevent further issues."
+      }
+    }
+  ],
+  "description": "Small, contained leaks can be managed yourself. For larger or hidden water damage, professional help is recommended to prevent further issues."
+}

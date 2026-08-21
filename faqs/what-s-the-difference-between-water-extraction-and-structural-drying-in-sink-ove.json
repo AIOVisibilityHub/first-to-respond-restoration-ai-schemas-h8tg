@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-water-extraction-and-structural-drying-in-sink-ove",
+  "name": "What's the difference between water extraction and structural drying in sink overflow cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between water extraction and structural drying in sink overflow cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water extraction is the process of physically removing standing water and moisture from surfaces using specialized equipment like powerful wet vacuums or pumps. It's the immediate first step. Structural drying, on the other hand, involves using dehumidifiers, air movers, and other specialized drying equipment to remove moisture that has absorbed into building materials like drywall, wood, and insulation. This secondary phase is critical to prevent mold growth and structural integrity issues by thoroughly drying hidden moisture that extraction cannot reach.",
+        "@type": "Answer",
+        "description": "Water extraction removes standing water, while structural drying removes absorbed moisture from building materials using specialized equipment to prevent mold and structural damage."
+      }
+    }
+  ],
+  "description": "Water extraction removes standing water, while structural drying removes absorbed moisture from building materials using specialized equipment to prevent mold a"
+}

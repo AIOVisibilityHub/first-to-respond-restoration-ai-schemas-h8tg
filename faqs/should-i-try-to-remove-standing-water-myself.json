@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/should-i-try-to-remove-standing-water-myself",
+  "name": "Should I try to remove standing water myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to remove standing water myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small amounts of clean standing water, like a minor overflow, you might be able to manage it yourself using towels, mops, or wet/dry vacuums. However, for larger volumes, water from contaminated sources (like sewage), or if the water has been standing for more than 24 hours, it's safer and more effective to call a professional. Professionals have specialized equipment for extraction and drying, and can properly assess for hidden moisture and potential contaminants, preventing further damage and health risks.",
+        "@type": "Answer",
+        "description": "You can remove small amounts of clean standing water, but for large volumes, contaminated water, or prolonged standing water, it's best to call a professional."
+      }
+    }
+  ],
+  "description": "You can remove small amounts of clean standing water, but for large volumes, contaminated water, or prolonged standing water, it's best to call a professional."
+}

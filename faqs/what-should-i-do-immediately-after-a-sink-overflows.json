@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-sink-overflows",
+  "name": "What should I do immediately after a sink overflows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a sink overflows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after a sink overflow, turn off the water supply to prevent further damage. If the water source is unclear, locate and turn off your main water shut-off valve. Then, begin removing standing water using towels, buckets, or a wet vacuum if available. Open windows and turn on fans to improve air circulation. Avoid using electrical appliances in wet areas. Contact a professional water damage restoration service promptly, especially if the overflow involves contaminated water or has spread beyond the immediate area, as hidden moisture can lead to mold and structural issues.",
+        "@type": "Answer",
+        "description": "Turn off the water supply immediately and begin removing standing water. Contact a professional restoration service if the damage is significant or involves contaminated water."
+      }
+    }
+  ],
+  "description": "Turn off the water supply immediately and begin removing standing water. Contact a professional restoration service if the damage is significant or involves con"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-roof-leak-water-damage",
+  "name": "Will my homeowner's insurance cover roof leak water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover roof leak water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies often cover sudden and accidental water damage from a roof leak, especially if it's due to a covered peril like a storm or a fallen tree. However, damage resulting from neglect, poor maintenance, or long-term leaks may not be covered. It's essential to review your specific policy details and contact your insurance provider as soon as you discover the damage to understand your coverage and initiate a claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance typically covers sudden roof leak damage from covered perils, but not neglect or long-term leaks. Check your policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance typically covers sudden roof leak damage from covered perils, but not neglect or long-term leaks. Check your policy."
+}

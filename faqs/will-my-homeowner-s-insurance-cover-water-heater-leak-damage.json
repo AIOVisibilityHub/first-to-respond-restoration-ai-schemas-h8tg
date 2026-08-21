@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-water-heater-leak-damage",
+  "name": "Will my homeowner's insurance cover water heater leak damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water heater leak damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies often cover sudden and accidental water damage, which typically includes water heater leaks. However, coverage can vary depending on the cause of the leak and your specific policy. Damage resulting from sudden bursts or overflows is generally covered, while damage from neglected maintenance or gradual leaks might not be. It's important to review your policy details or contact your insurance provider directly to understand your coverage. A professional restoration company can also help document the damage for your claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden water heater leaks, but coverage depends on your policy and the cause of the leak. Check with your insurer."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden water heater leaks, but coverage depends on your policy and the cause of the leak. Check with your insurer."
+}

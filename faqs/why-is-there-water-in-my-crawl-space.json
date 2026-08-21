@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-there-water-in-my-crawl-space",
+  "name": "Why is there water in my crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is there water in my crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water in a crawl space often originates from several sources. Common causes include poor exterior drainage around the foundation, which allows rainwater or melting snow to seep into the crawl space. Leaky pipes within the crawl space, such as plumbing or HVAC condensation lines, can also contribute. Additionally, groundwater can enter through cracks in the foundation walls or floor, especially during heavy rains or if the water table is high. High humidity levels can also lead to condensation on cold surfaces, accumulating over time.",
+        "@type": "Answer",
+        "description": "Water in a crawl space is typically caused by poor drainage, plumbing leaks, groundwater intrusion, or condensation from high humidity."
+      }
+    }
+  ],
+  "description": "Water in a crawl space is typically caused by poor drainage, plumbing leaks, groundwater intrusion, or condensation from high humidity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-clean-up-a-toilet-overflow",
+  "name": "How long does it take to clean up a toilet overflow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clean up a toilet overflow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a toilet overflow cleanup depends on the severity and type of water. Initial water extraction and removal of damaged materials can often be completed within a few hours to a day. The drying process, however, typically takes 3-5 days to ensure all affected materials are thoroughly dry, preventing mold growth. Factors like humidity, the amount of absorbed water, and the effectiveness of drying equipment can influence this timeline. Professionals monitor moisture levels daily until dry standards are met.",
+        "@type": "Answer",
+        "description": "Initial cleanup takes hours to a day, but the full drying process typically requires 3-5 days to prevent mold."
+      }
+    }
+  ],
+  "description": "Initial cleanup takes hours to a day, but the full drying process typically requires 3-5 days to prevent mold."
+}

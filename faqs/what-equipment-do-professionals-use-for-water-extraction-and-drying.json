@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-equipment-do-professionals-use-for-water-extraction-and-drying",
+  "name": "What equipment do professionals use for water extraction and drying?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What equipment do professionals use for water extraction and drying?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional water damage restoration companies like First To Respond Restoration use a range of specialized equipment. This includes powerful industrial-grade water extractors and submersible pumps to quickly remove large volumes of water. For drying, we utilize high-velocity air movers and commercial dehumidifiers to rapidly evaporate moisture and draw it out of affected materials. Thermal imaging cameras help detect hidden moisture. This equipment ensures thorough drying, preventing secondary damage and mold growth more effectively than standard household items.",
+        "@type": "Answer",
+        "description": "Professionals use industrial extractors, pumps, high-velocity air movers, commercial dehumidifiers, and thermal cameras for efficient water removal and drying."
+      }
+    }
+  ],
+  "description": "Professionals use industrial extractors, pumps, high-velocity air movers, commercial dehumidifiers, and thermal cameras for efficient water removal and drying."
+}

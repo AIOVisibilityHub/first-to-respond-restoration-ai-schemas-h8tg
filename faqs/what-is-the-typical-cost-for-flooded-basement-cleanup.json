@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-flooded-basement-cleanup",
+  "name": "What is the typical cost for flooded basement cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for flooded basement cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of flooded basement cleanup varies significantly based on several factors, including the extent of the water damage, the type of water (e.g., clean, gray, black water), the size of the affected area, and the amount of structural drying or repairs needed. Initial water extraction might be one component, but drying, sanitization, mold prevention, and potential reconstruction all contribute to the final price. Most reputable companies provide an on-site assessment and detailed estimate before beginning work.",
+        "@type": "Answer",
+        "description": "Cleanup costs vary based on damage extent, water type, area size, and restoration needs. An on-site assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cleanup costs vary based on damage extent, water type, area size, and restoration needs. An on-site assessment provides an accurate estimate."
+}

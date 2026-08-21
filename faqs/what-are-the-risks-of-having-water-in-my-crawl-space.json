@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-risks-of-having-water-in-my-crawl-space",
+  "name": "What are the risks of having water in my crawl space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of having water in my crawl space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standing water in a crawl space can lead to several serious issues for your home. It creates an ideal environment for mold and mildew growth, which can spread to other areas of your house and cause health problems. Excess moisture attracts pests like insects and rodents. Over time, it can damage wooden structural elements, leading to rot, weakened support beams, and compromised structural integrity. High humidity from the crawl space can also affect indoor air quality and lead to higher energy bills as your HVAC system works harder.",
+        "@type": "Answer",
+        "description": "Risks include mold growth, pest infestation, structural damage to your home, and compromised indoor air quality."
+      }
+    }
+  ],
+  "description": "Risks include mold growth, pest infestation, structural damage to your home, and compromised indoor air quality."
+}

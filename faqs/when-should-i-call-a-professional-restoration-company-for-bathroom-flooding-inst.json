@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-for-bathroom-flooding-inst",
+  "name": "When should I call a professional restoration company for bathroom flooding instead of cleaning it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company for bathroom flooding instead of cleaning it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company for bathroom flooding if the water covers a large area, has been present for more than a few hours, or if you suspect the water is contaminated (e.g., from a sewage backup). Any water damage that extends beyond surface moisture into walls, floors, or cabinetry also warrants professional help. If you lack industrial drying equipment or are unsure about safely handling electrical or structural issues, contacting experts ensures comprehensive drying, mold prevention, and safe restoration of your property.",
+        "@type": "Answer",
+        "description": "Call professionals for large areas, prolonged flooding, contaminated water, damage extending beyond surfaces, or if you lack proper equipment."
+      }
+    }
+  ],
+  "description": "Call professionals for large areas, prolonged flooding, contaminated water, damage extending beyond surfaces, or if you lack proper equipment."
+}

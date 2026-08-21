@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reliable-water-damage-restoration-company",
+  "name": "How do I choose a reliable water damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable water damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a water damage restoration company, look for certified professionals (e.g., IICRC certification) with experience in water extraction, drying, and mold prevention. Verify they are licensed and insured. Read customer reviews and ask for references. A reputable company should offer clear communication, a detailed assessment, and a transparent estimate. Prioritize companies that offer 24/7 emergency services for quick response times.",
+        "@type": "Answer",
+        "description": "Choose a certified, licensed, and insured company with good reviews and 24/7 emergency services."
+      }
+    }
+  ],
+  "description": "Choose a certified, licensed, and insured company with good reviews and 24/7 emergency services."
+}

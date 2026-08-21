@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-restoration-company-for-standing-water",
+  "name": "When should I call a professional restoration company for standing water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional restoration company for standing water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional restoration company immediately if the standing water is extensive, originated from a contaminated source (like sewage), has been present for more than 24-48 hours, or if you suspect hidden moisture or structural damage. Professionals have the necessary equipment, expertise, and certifications to safely extract water, thoroughly dry the property, detect hidden moisture, prevent mold growth, and restore your home to its pre-damage condition, minimizing long-term issues.",
+        "@type": "Answer",
+        "description": "Call a professional for extensive water, contaminated sources, prolonged standing water (over 24-48 hours), or suspected hidden damage."
+      }
+    }
+  ],
+  "description": "Call a professional for extensive water, contaminated sources, prolonged standing water (over 24-48 hours), or suspected hidden damage."
+}

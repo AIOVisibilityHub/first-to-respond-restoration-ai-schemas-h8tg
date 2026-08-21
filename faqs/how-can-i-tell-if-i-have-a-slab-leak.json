@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-tell-if-i-have-a-slab-leak",
+  "name": "How can I tell if I have a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a slab leak include unexplained increases in your water bill, warm spots on your floor, the sound of running water when no fixtures are in use, visible cracks in your foundation or walls, and damp or stained flooring. You might also notice a musty odor from mold or mildew growth. If you suspect a slab leak, it's important to contact a professional for an inspection to confirm the issue and prevent further damage.",
+        "@type": "Answer",
+        "description": "Look for high water bills, warm floor spots, sounds of running water, foundation cracks, damp flooring, or musty odors. A professional inspection can confirm a slab leak."
+      }
+    }
+  ],
+  "description": "Look for high water bills, warm floor spots, sounds of running water, foundation cracks, damp flooring, or musty odors. A professional inspection can confirm a"
+}

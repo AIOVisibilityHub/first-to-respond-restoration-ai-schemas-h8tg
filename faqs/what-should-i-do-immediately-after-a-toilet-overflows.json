@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-toilet-overflows",
+  "name": "What should I do immediately after a toilet overflows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a toilet overflows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, stop the water flow by lifting the tank lid and pushing down the flush valve, or by turning the shut-off valve located on the wall behind the toilet. Next, if safe, unplug any nearby electrical devices. Place towels or buckets to contain the spill. Avoid walking through the contaminated water, as it can spread bacteria. Contact a professional restoration company quickly, especially if the overflow is significant or involves contaminated water, to prevent further damage and mold growth.",
+        "@type": "Answer",
+        "description": "Immediately stop the water flow, unplug electronics, contain the spill, and contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately stop the water flow, unplug electronics, contain the spill, and contact a professional restoration company."
+}

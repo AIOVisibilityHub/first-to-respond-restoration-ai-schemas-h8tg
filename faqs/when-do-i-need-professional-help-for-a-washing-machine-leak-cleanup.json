@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-help-for-a-washing-machine-leak-cleanup",
+  "name": "When do I need professional help for a washing machine leak cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional help for a washing machine leak cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional help is advisable if the leak is significant, has affected more than just the immediate area around the washer, or has been present for an unknown period. Water can seep into subflooring, walls, and baseboards, creating hidden damage and a risk of mold. Restoration professionals have specialized equipment to detect moisture, extract water thoroughly, dry affected areas, and mitigate mold growth. Early intervention can prevent more costly repairs.",
+        "@type": "Answer",
+        "description": "You need professional help if the leak is significant, has spread beyond the immediate area, or you suspect hidden damage or mold."
+      }
+    }
+  ],
+  "description": "You need professional help if the leak is significant, has spread beyond the immediate area, or you suspect hidden damage or mold."
+}

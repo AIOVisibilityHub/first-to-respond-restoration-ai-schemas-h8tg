@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-toilet-overflow-cleanup",
+  "name": "What is the typical process for toilet overflow cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for toilet overflow cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process begins with a rapid assessment of the water's category and the extent of damage. Technicians will extract standing water, remove damaged porous materials like carpet padding or drywall, and thoroughly clean and disinfect all affected surfaces. High-powered drying equipment, including air movers and dehumidifiers, is then strategically placed to dry the area completely. Finally, moisture meters verify that all structural components are dry to prevent mold growth and ensure a safe environment.",
+        "@type": "Answer",
+        "description": "The process involves water extraction, removal of damaged materials, cleaning and disinfection, professional drying, and final moisture verification."
+      }
+    }
+  ],
+  "description": "The process involves water extraction, removal of damaged materials, cleaning and disinfection, professional drying, and final moisture verification."
+}

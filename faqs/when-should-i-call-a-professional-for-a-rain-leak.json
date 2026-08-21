@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-rain-leak",
+  "name": "When should I call a professional for a rain leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a rain leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional immediately after discovering any rain leak, especially if it's actively dripping, has spread beyond a small area, or if you suspect it has been ongoing for some time. Professionals can quickly identify the source, assess the extent of water damage, and begin the necessary water extraction, drying, and mold prevention measures. Early intervention by experts minimizes damage and reduces overall restoration costs.",
+        "@type": "Answer",
+        "description": "Call a professional immediately when you discover a rain leak, especially if it's active or widespread, to prevent further damage."
+      }
+    }
+  ],
+  "description": "Call a professional immediately when you discover a rain leak, especially if it's active or widespread, to prevent further damage."
+}

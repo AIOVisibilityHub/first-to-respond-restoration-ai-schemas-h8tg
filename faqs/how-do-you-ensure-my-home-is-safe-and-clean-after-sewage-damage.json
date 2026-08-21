@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-ensure-my-home-is-safe-and-clean-after-sewage-damage",
+  "name": "How do you ensure my home is safe and clean after sewage damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure my home is safe and clean after sewage damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We ensure your home's safety by following industry-standard protocols for hazardous material cleanup. This includes using personal protective equipment, isolating contaminated areas, and meticulously removing all affected materials. We then apply specialized disinfectants to kill bacteria and viruses. Before considering the job complete, we use professional drying techniques to prevent mold and conduct thorough post-remediation inspections to verify that the environment is sanitized and safe for occupancy.",
+        "@type": "Answer",
+        "description": "We follow strict protocols including material removal, professional disinfection, and thorough drying to ensure your home is safe and clean after sewage damage."
+      }
+    }
+  ],
+  "description": "We follow strict protocols including material removal, professional disinfection, and thorough drying to ensure your home is safe and clean after sewage damage."
+}

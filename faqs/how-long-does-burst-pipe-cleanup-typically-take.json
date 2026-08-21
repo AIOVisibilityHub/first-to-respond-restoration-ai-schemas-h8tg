@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-burst-pipe-cleanup-typically-take",
+  "name": "How long does burst pipe cleanup typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does burst pipe cleanup typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of burst pipe cleanup varies significantly based on the extent of water damage, the size of the affected area, and the materials involved. A small, contained leak might only require a few days for drying and minor repairs. However, extensive flooding affecting multiple rooms, structural elements, or leading to mold development can extend the process to several weeks. A professional assessment by First To Respond Restoration will provide a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Cleanup time varies based on damage extent, from a few days for minor issues to several weeks for extensive flooding or mold development."
+      }
+    }
+  ],
+  "description": "Cleanup time varies based on damage extent, from a few days for minor issues to several weeks for extensive flooding or mold development."
+}

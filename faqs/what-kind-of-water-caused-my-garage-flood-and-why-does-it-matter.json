@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-water-caused-my-garage-flood-and-why-does-it-matter",
+  "name": "What kind of water caused my garage flood, and why does it matter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of water caused my garage flood, and why does it matter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floodwater is categorized into three types: Category 1 (clean water) from sources like burst pipes; Category 2 (grey water) from dishwashers or washing machines; and Category 3 (black water), which is highly contaminated from sewage, river overflows, or toilet backflows. The water category dictates the cleanup and safety protocols. Category 3 water, for example, requires specialized handling and disposal of affected porous materials due to severe health risks, making professional intervention essential.",
+        "@type": "Answer",
+        "description": "Water is categorized as clean, grey, or black; its type determines safety protocols and cleanup methods due to varying contamination levels and health risks."
+      }
+    }
+  ],
+  "description": "Water is categorized as clean, grey, or black; its type determines safety protocols and cleanup methods due to varying contamination levels and health risks."
+}

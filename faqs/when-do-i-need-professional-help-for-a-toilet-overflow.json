@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-help-for-a-toilet-overflow",
+  "name": "When do I need professional help for a toilet overflow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional help for a toilet overflow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional help if the overflow involves 'black water' (sewage backing up from the drain), or 'gray water' (water from a washing machine or dishwasher) as these contain contaminants. Even 'clean water' overflows can cause significant damage if left unaddressed, leading to structural issues, odors, and mold within 24-48 hours. If the overflow is large, has soaked into carpets, drywall, or flooring, or if you're unsure about the extent of contamination, professional restoration is crucial to ensure proper cleanup and drying.",
+        "@type": "Answer",
+        "description": "Professional help is needed for 'black' or 'gray' water overflows, large spills, or any overflow that has soaked into building materials, to prevent mold and structural damage."
+      }
+    }
+  ],
+  "description": "Professional help is needed for 'black' or 'gray' water overflows, large spills, or any overflow that has soaked into building materials, to prevent mold and st"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-prevent-mold-after-a-flood",
+  "name": "How can I prevent mold after a flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent mold after a flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prompt and thorough drying is the most effective way to prevent mold growth after a flood. Mold can start to grow within 24-48 hours in damp conditions. Immediately remove standing water, increase ventilation, and use dehumidifiers. Professional restoration companies use specialized drying equipment to thoroughly dry hidden areas, reducing the risk of mold. It's crucial to address all moisture, including in insulation, drywall, and subfloors. First To Respond Restoration ensures comprehensive drying and sanitization to inhibit mold.",
+        "@type": "Answer",
+        "description": "Prevent mold by quickly removing water and thoroughly drying all affected areas, ideally with professional equipment, within 24-48 hours."
+      }
+    }
+  ],
+  "description": "Prevent mold by quickly removing water and thoroughly drying all affected areas, ideally with professional equipment, within 24-48 hours."
+}

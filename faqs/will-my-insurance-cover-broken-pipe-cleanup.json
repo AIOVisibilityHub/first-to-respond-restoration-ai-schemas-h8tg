@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-broken-pipe-cleanup",
+  "name": "Will my insurance cover broken pipe cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover broken pipe cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners' insurance policies typically cover sudden and accidental water damage from a broken pipe, often including the cleanup and restoration costs. However, coverage can vary depending on the specific cause of the break and your policy's terms. Damage resulting from neglected maintenance, such as long-term leaks or wear and tear, might not be covered. It's essential to review your policy document or contact your insurance provider directly to understand your specific coverage, deductibles, and the claims process. A professional restoration company can often help document the damage for your claim.",
+        "@type": "Answer",
+        "description": "Most homeowners' insurance covers sudden broken pipe damage, but coverage depends on the cause and policy terms. Check with your insurer for specifics."
+      }
+    }
+  ],
+  "description": "Most homeowners' insurance covers sudden broken pipe damage, but coverage depends on the cause and policy terms. Check with your insurer for specifics."
+}

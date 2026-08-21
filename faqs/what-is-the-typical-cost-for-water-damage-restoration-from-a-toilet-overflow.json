@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-cost-for-water-damage-restoration-from-a-toilet-overflow",
+  "name": "What is the typical cost for water damage restoration from a toilet overflow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for water damage restoration from a toilet overflow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damage restoration from a toilet overflow varies widely depending on the extent of the damage, the type of water (clean vs. contaminated), and the materials affected. Factors influencing cost include the size of the flooded area, the amount of water, necessary demolition, drying equipment required, and mold remediation if present. A professional restoration company will conduct an inspection and provide an estimate based on these specific details. Many homeowners' insurance policies cover sudden and accidental water damage.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, water type, and affected materials. A professional assessment is needed for an estimate. Homeowners' insurance may cover it."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, water type, and affected materials. A professional assessment is needed for an estimate. Homeowners' insurance may cover it."
+}

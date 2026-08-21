@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-slab-leak-damage",
+  "name": "Will my homeowner's insurance cover slab leak damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover slab leak damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for slab leaks can vary based on your specific policy and the cause of the leak. Generally, sudden and accidental water damage may be covered, but damage resulting from long-term neglect or maintenance issues might not be. The cost of locating the leak and repairing the pipe itself may also have different coverage terms. It's crucial to review your policy or contact your insurance provider directly to understand your coverage specifics.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance may cover sudden slab leak damage, but coverage varies by policy and cause. Review your policy or contact your insurer for details."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance may cover sudden slab leak damage, but coverage varies by policy and cause. Review your policy or contact your insurer for details."
+}

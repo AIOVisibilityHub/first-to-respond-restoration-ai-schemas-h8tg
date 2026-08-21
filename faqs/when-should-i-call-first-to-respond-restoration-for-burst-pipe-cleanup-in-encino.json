@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-first-to-respond-restoration-for-burst-pipe-cleanup-in-encino",
+  "name": "When should I call First To Respond Restoration for burst pipe cleanup in Encino or Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call First To Respond Restoration for burst pipe cleanup in Encino or Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call First To Respond Restoration immediately after discovering a burst pipe and shutting off your water supply in Encino, Tarzana, or any of our service areas. Prompt action is critical to minimize damage, reduce cleanup costs, and prevent mold growth. Our emergency response team is available 24/7 to assess the situation, extract water, and begin the drying and restoration process quickly. Do not delay, as water damage worsens rapidly over time.",
+        "@type": "Answer",
+        "description": "Call First To Respond Restoration immediately after a burst pipe in Encino or Tarzana to minimize damage, reduce costs, and prevent mold growth."
+      }
+    }
+  ],
+  "description": "Call First To Respond Restoration immediately after a burst pipe in Encino or Tarzana to minimize damage, reduce costs, and prevent mold growth."
+}

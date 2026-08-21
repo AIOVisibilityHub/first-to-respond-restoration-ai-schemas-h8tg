@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-signs-of-a-water-heater-leak",
+  "name": "What are the common signs of a water heater leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a water heater leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a water heater leak include visible puddles of water around the base of the unit, dripping sounds, or rust stains on the tank or floor. You might also notice a decrease in hot water supply, strange noises coming from the water heater, or an unusual musty odor if mold has begun to form due to a hidden leak. Inspecting the pressure relief valve, drain valve, and inlet/outlet connections can often reveal the source of the leak before significant damage occurs.",
+        "@type": "Answer",
+        "description": "Signs include puddles, drips, rust stains, decreased hot water, strange noises, or musty odors around the water heater."
+      }
+    }
+  ],
+  "description": "Signs include puddles, drips, rust stains, decreased hot water, strange noises, or musty odors around the water heater."
+}

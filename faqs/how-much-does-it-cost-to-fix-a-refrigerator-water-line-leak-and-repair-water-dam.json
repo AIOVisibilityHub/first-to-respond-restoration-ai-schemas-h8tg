@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-fix-a-refrigerator-water-line-leak-and-repair-water-dam",
+  "name": "How much does it cost to fix a refrigerator water line leak and repair water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a refrigerator water line leak and repair water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a refrigerator water line leak varies depending on the specific cause and the extent of any resulting water damage. Minor repairs, like tightening a connection, might have minimal costs. However, if the water line itself needs replacement or if there's significant water damage to flooring, subflooring, or cabinetry, costs will be higher due to the need for drying, remediation, and potential reconstruction. An assessment by a professional restoration company provides a detailed estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on the leak's cause and the extent of water damage, ranging from minor repair to full restoration."
+      }
+    }
+  ],
+  "description": "Costs vary based on the leak's cause and the extent of water damage, ranging from minor repair to full restoration."
+}

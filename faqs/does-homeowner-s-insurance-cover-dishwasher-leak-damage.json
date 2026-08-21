@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-dishwasher-leak-damage",
+  "name": "Does homeowner's insurance cover dishwasher leak damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover dishwasher leak damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies typically cover sudden and accidental water damage caused by a dishwasher leak. However, policies generally do not cover damage resulting from neglected maintenance, such as long-term leaks or wear and tear. It's important to review your specific policy details or contact your insurance provider to understand your coverage. Documenting the damage and the timeline of discovery is crucial when filing a claim to ensure a smoother process.",
+        "@type": "Answer",
+        "description": "Most policies cover sudden, accidental leaks, but not damage from neglected maintenance. Check your policy and document damage for claims."
+      }
+    }
+  ],
+  "description": "Most policies cover sudden, accidental leaks, but not damage from neglected maintenance. Check your policy and document damage for claims."
+}

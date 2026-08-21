@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-emergency-water-cleanup",
+  "name": "What is emergency water cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is emergency water cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency water cleanup involves the rapid removal of water, drying, and sanitization of affected areas after a flood, burst pipe, or other water-related incident. The primary goal is to prevent further damage, such as mold growth and structural issues, and restore the property to its pre-damage condition. This process typically includes water extraction, dehumidification, moisture monitoring, and cleaning of salvageable items. Acting quickly is crucial to minimize the extent of the damage and reduce overall restoration costs.",
+        "@type": "Answer",
+        "description": "Emergency water cleanup is the rapid removal of water, drying, and sanitization of affected areas after a water incident to prevent further damage and restore the property."
+      }
+    }
+  ],
+  "description": "Emergency water cleanup is the rapid removal of water, drying, and sanitization of affected areas after a water incident to prevent further damage and restore t"
+}

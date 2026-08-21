@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-sewer-backup-cleanup",
+  "name": "When do I need professional sewer backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional sewer backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional sewer backup cleanup whenever sewage water has entered your home or business. Sewage contains hazardous bacteria, viruses, and other pathogens that pose serious health risks. Attempting to clean it yourself without proper personal protective equipment and specialized disinfectants can be dangerous and may lead to incomplete remediation, leaving behind harmful contaminants or fostering mold growth. Professionals have the training, tools, and experience to safely and effectively handle the biohazard.",
+        "@type": "Answer",
+        "description": "Professional cleanup is necessary when sewage enters your property due to health risks from contaminants. DIY cleaning is not recommended."
+      }
+    }
+  ],
+  "description": "Professional cleanup is necessary when sewage enters your property due to health risks from contaminants. DIY cleaning is not recommended."
+}

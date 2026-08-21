@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-toilet-overflow-damage",
+  "name": "Does homeowner's insurance cover toilet overflow damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover toilet overflow damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies typically cover sudden and accidental water damage, which often includes damage from a toilet overflow. However, coverage can depend on the cause of the overflow (e.g., sudden burst pipe versus neglected maintenance). Policies usually exclude damage from gradual leaks or flood events. It's crucial to contact your insurance provider immediately after the incident to understand your specific coverage, deductible, and the claims process. Documenting the damage with photos and videos is also advisable.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden toilet overflows, but coverage depends on the cause and policy terms. Contact your insurer immediately."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden toilet overflows, but coverage depends on the cause and policy terms. Contact your insurer immediately."
+}

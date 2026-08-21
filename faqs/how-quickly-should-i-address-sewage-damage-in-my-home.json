@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-address-sewage-damage-in-my-home",
+  "name": "How quickly should I address sewage damage in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address sewage damage in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address sewage damage immediately, ideally within 24-48 hours. The longer sewage remains, the greater the risk of bacterial growth, mold development, and saturation into porous materials like drywall, flooring, and insulation. Rapid response helps to contain contamination, reduce the extent of structural damage, and lower overall restoration costs by preventing secondary issues that arise from prolonged exposure to hazardous waste.",
+        "@type": "Answer",
+        "description": "Sewage damage should be addressed immediately, within 24-48 hours, to prevent health risks, mold growth, and further property damage."
+      }
+    }
+  ],
+  "description": "Sewage damage should be addressed immediately, within 24-48 hours, to prevent health risks, mold growth, and further property damage."
+}

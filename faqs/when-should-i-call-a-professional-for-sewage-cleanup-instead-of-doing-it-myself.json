@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-sewage-cleanup-instead-of-doing-it-myself",
+  "name": "When should I call a professional for sewage cleanup instead of doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for sewage cleanup instead of doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always call a professional for sewage cleanup, as it involves significant health risks. Sewage contains harmful pathogens that require specialized equipment, protective gear, and proper disposal methods that a homeowner typically lacks. Attempting to clean it yourself without the correct training and tools can lead to serious illness, incomplete remediation, and further damage. Professionals ensure thorough cleanup and compliance with safety standards.",
+        "@type": "Answer",
+        "description": "Always call a professional for sewage cleanup due to significant health risks and the need for specialized equipment, protective gear, and proper disposal."
+      }
+    }
+  ],
+  "description": "Always call a professional for sewage cleanup due to significant health risks and the need for specialized equipment, protective gear, and proper disposal."
+}

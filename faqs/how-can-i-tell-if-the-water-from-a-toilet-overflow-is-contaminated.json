@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-tell-if-the-water-from-a-toilet-overflow-is-contaminated",
+  "name": "How can I tell if the water from a toilet overflow is contaminated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if the water from a toilet overflow is contaminated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water from a toilet overflow is generally considered contaminated, especially if it has been in the bowl or contains any waste. Category 1 water (clean water) can quickly become Category 2 (gray water) or Category 3 (black water) if it sits for too long or comes into contact with contaminants. It's best to assume any toilet overflow water is unsanitary and take precautions. Black water, which contains sewage, poses a serious health risk and requires professional remediation.",
+        "@type": "Answer",
+        "description": "Assume any toilet overflow water is contaminated, especially if it was in the bowl or contains waste. Black water from sewage is a serious health risk."
+      }
+    }
+  ],
+  "description": "Assume any toilet overflow water is contaminated, especially if it was in the bowl or contains waste. Black water from sewage is a serious health risk."
+}

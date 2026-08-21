@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-flooded-garage",
+  "name": "What should I do immediately after discovering a flooded garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a flooded garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, prioritize safety. If the flooding is severe or involves electrical hazards, do not enter the garage. Turn off the electricity to the garage from your main breaker if it's safe to do so. If the water source is a burst pipe or appliance, try to shut off the main water supply to your home. Contact a professional restoration company promptly to assess the damage and begin the cleanup process safely. Document the damage with photos or videos for insurance purposes.",
+        "@type": "Answer",
+        "description": "Prioritize safety, turn off electricity and water if safe, then contact a professional restoration company and document the damage."
+      }
+    }
+  ],
+  "description": "Prioritize safety, turn off electricity and water if safe, then contact a professional restoration company and document the damage."
+}

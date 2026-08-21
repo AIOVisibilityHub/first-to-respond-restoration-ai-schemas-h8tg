@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-sewage-damage-covered-by-homeowner-s-insurance",
+  "name": "Is sewage damage covered by homeowner's insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewage damage covered by homeowner's insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coverage for sewage damage depends on your specific homeowner's insurance policy. Many standard policies exclude damage caused by sewer backups or sump pump failures, but you might have coverage if you have a specific endorsement for 'water backup and sump overflow.' It is essential to review your policy or contact your insurance provider directly to understand your coverage limitations and what is included regarding sewage-related incidents.",
+        "@type": "Answer",
+        "description": "Coverage for sewage damage varies by policy. Many standard homeowner's policies exclude sewer backups, but specific endorsements can provide coverage."
+      }
+    }
+  ],
+  "description": "Coverage for sewage damage varies by policy. Many standard homeowner's policies exclude sewer backups, but specific endorsements can provide coverage."
+}

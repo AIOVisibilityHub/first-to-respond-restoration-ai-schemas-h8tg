@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-standing-water-in-a-house",
+  "name": "What causes standing water in a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes standing water in a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standing water in a house can be caused by various issues, ranging from sudden emergencies to slow leaks. Common culprits include burst pipes, overflowing appliances like washing machines or dishwashers, severe roof leaks, foundation cracks allowing groundwater intrusion, or blockages in plumbing systems. Natural disasters such as heavy rain or floods can also lead to significant standing water. Identifying the source quickly is crucial to prevent further damage and begin the remediation process effectively.",
+        "@type": "Answer",
+        "description": "Standing water in a house can be caused by burst pipes, overflowing appliances, roof leaks, foundation issues, plumbing blockages, or natural disasters like floods."
+      }
+    }
+  ],
+  "description": "Standing water in a house can be caused by burst pipes, overflowing appliances, roof leaks, foundation issues, plumbing blockages, or natural disasters like flo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-professionals-dry-out-a-property-after-a-burst-pipe",
+  "name": "How do professionals dry out a property after a burst pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals dry out a property after a burst pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional drying after a burst pipe involves a multi-step process. First, technicians extract standing water using powerful pumps and wet/dry vacuums. Then, specialized equipment such as industrial-grade dehumidifiers, air movers, and desiccants are strategically placed to reduce humidity levels and promote rapid evaporation from saturated materials. Moisture meters and thermal imaging cameras are used to monitor and identify hidden moisture, ensuring that all affected areas are thoroughly dried to prevent secondary damage like mold.",
+        "@type": "Answer",
+        "description": "Professionals use pumps, industrial dehumidifiers, air movers, and moisture meters to thoroughly extract water and dry affected areas, preventing mold."
+      }
+    }
+  ],
+  "description": "Professionals use pumps, industrial dehumidifiers, air movers, and moisture meters to thoroughly extract water and dry affected areas, preventing mold."
+}

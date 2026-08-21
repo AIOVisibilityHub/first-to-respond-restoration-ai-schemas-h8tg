@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-potential-health-risks-associated-with-sewage-exposure",
+  "name": "What are the potential health risks associated with sewage exposure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential health risks associated with sewage exposure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exposure to sewage carries significant health risks due to the presence of harmful bacteria, viruses, fungi, and parasites. These pathogens can cause gastrointestinal illnesses, respiratory infections, skin rashes, and other serious health problems. Vulnerable individuals, such as children, the elderly, and those with compromised immune systems, are particularly at risk. Professional cleanup is vital to eliminate these hazards and protect occupants.",
+        "@type": "Answer",
+        "description": "Sewage exposure poses significant health risks from bacteria, viruses, and fungi, leading to illnesses like gastrointestinal issues and respiratory infections."
+      }
+    }
+  ],
+  "description": "Sewage exposure poses significant health risks from bacteria, viruses, and fungi, leading to illnesses like gastrointestinal issues and respiratory infections."
+}

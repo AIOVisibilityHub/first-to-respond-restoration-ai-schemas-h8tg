@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-first-to-respond-restoration-arrive-for-a-flooded-house-emergenc",
+  "name": "How quickly can First To Respond Restoration arrive for a flooded house emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can First To Respond Restoration arrive for a flooded house emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration understands the critical nature of water damage emergencies. Our team is dedicated to providing a rapid response to minimize further damage and accelerate the restoration process. We aim to dispatch our technicians to your location in Encino, North Hollywood, San Fernando, Studio City, Tarzana, and other service areas as quickly as possible, often within hours of your call. Our 24/7 availability ensures that help is always just a phone call away, day or night.",
+        "@type": "Answer",
+        "description": "First To Respond Restoration provides rapid, often within-hours, emergency response for flooded houses across our service areas, 24/7."
+      }
+    }
+  ],
+  "description": "First To Respond Restoration provides rapid, often within-hours, emergency response for flooded houses across our service areas, 24/7."
+}

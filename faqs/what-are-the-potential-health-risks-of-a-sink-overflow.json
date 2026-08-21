@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-potential-health-risks-of-a-sink-overflow",
+  "name": "What are the potential health risks of a sink overflow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential health risks of a sink overflow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sink overflows can pose several health risks, particularly if the water is contaminated or if moisture is left unaddressed. Contaminated water from kitchen or bathroom sinks can contain bacteria, viruses, and other pathogens that cause illness. Additionally, prolonged moisture creates an ideal environment for mold and mildew growth within 24-48 hours. Mold exposure can lead to respiratory issues, allergic reactions, asthma exacerbation, and other health problems. Professional cleanup ensures proper sanitization and drying to mitigate these risks.",
+        "@type": "Answer",
+        "description": "Potential health risks include illness from contaminated water and respiratory issues from mold growth, which can start within 24-48 hours if moisture isn't addressed."
+      }
+    }
+  ],
+  "description": "Potential health risks include illness from contaminated water and respiratory issues from mold growth, which can start within 24-48 hours if moisture isn't add"
+}

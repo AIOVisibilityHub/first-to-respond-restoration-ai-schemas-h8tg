@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-roof-leak",
+  "name": "What should I do immediately after discovering a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering a roof leak, your immediate steps should be to mitigate further damage. First, move valuable items away from the leak area and place buckets or containers to catch dripping water. Turn off electricity to the affected area if water is near outlets or fixtures. Contact a professional restoration company or roofing contractor as soon as possible. Avoid entering the attic if the ceiling is bulging, as it could collapse.",
+        "@type": "Answer",
+        "description": "Immediately move valuables, catch dripping water, turn off electricity in affected areas, and contact a professional restoration company."
+      }
+    }
+  ],
+  "description": "Immediately move valuables, catch dripping water, turn off electricity in affected areas, and contact a professional restoration company."
+}

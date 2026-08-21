@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-common-causes-of-a-refrigerator-water-line-leak",
+  "name": "What are the common causes of a refrigerator water line leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of a refrigerator water line leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refrigerator water line leaks often stem from several issues. Common causes include loose connections at the water valve or the ice maker, a punctured or cracked water supply line, or a faulty water inlet valve. Over time, plastic lines can become brittle and crack, or they can be accidentally damaged. High water pressure can also stress connections, leading to leaks, as can corrosion on metal components.",
+        "@type": "Answer",
+        "description": "Common causes of refrigerator water line leaks include loose connections, cracked or punctured lines, and faulty water inlet valves."
+      }
+    }
+  ],
+  "description": "Common causes of refrigerator water line leaks include loose connections, cracked or punctured lines, and faulty water inlet valves."
+}

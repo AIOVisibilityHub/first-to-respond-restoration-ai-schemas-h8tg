@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-fix-a-rain-leak",
+  "name": "How much does it cost to fix a rain leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a rain leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a rain leak varies significantly based on the source, extent of water damage, and necessary repairs. Minor leaks might only require simple patch repairs, while severe leaks could involve roof replacement, drywall repair, mold remediation, and structural drying. An inspection by a qualified professional is essential to get an accurate estimate. Many homeowner's insurance policies cover sudden and accidental water damage, but it's important to check your specific coverage.",
+        "@type": "Answer",
+        "description": "Leak repair costs depend on the source and severity of damage. A professional inspection is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Leak repair costs depend on the source and severity of damage. A professional inspection is needed for an accurate estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-washing-machine-leak",
+  "name": "What should I do immediately after discovering a washing machine leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a washing machine leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, immediately turn off the water supply to the washing machine and unplug it from the electrical outlet to prevent further damage or electrical hazards. Then, assess the extent of the water spill. For small leaks, use towels or a wet vacuum to absorb the water. For larger leaks or standing water, you may need to contact a professional restoration service quickly to prevent extensive water damage and mold growth. Document the damage with photos for insurance purposes.",
+        "@type": "Answer",
+        "description": "Turn off water and power to the washing machine, then begin to clean up the water. For significant leaks, contact a professional restoration service."
+      }
+    }
+  ],
+  "description": "Turn off water and power to the washing machine, then begin to clean up the water. For significant leaks, contact a professional restoration service."
+}

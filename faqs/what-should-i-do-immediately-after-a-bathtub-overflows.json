@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-bathtub-overflows",
+  "name": "What should I do immediately after a bathtub overflows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a bathtub overflows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after a bathtub overflows, turn off the water supply to prevent further flooding. If safe, disconnect any electrical appliances in the affected area to avoid hazards. Begin removing standing water using towels, mops, or a wet vacuum. Document the damage with photos or videos for insurance purposes. Contact a professional water damage restoration company as soon as possible, especially if the water has seeped into walls, flooring, or lower levels, to mitigate further damage and prevent mold growth.",
+        "@type": "Answer",
+        "description": "First, turn off the water and disconnect electronics. Start removing standing water and document the damage. Contact a professional restoration company for immediate assistance."
+      }
+    }
+  ],
+  "description": "First, turn off the water and disconnect electronics. Start removing standing water and document the damage. Contact a professional restoration company for imme"
+}

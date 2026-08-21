@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-flooded-basement-cleanup",
+  "name": "What is the process for professional flooded basement cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional flooded basement cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional flooded basement cleanup typically involves several steps. First, water extraction uses powerful pumps to remove standing water. Next, drying and dehumidification equipment is set up to remove moisture from structural materials and air, preventing secondary damage and mold. Affected materials are assessed for salvageability, and unsalvageable items are removed. Finally, cleaning, sanitization, and deodorization are performed to restore the space to a safe and healthy condition, sometimes followed by minor repairs.",
+        "@type": "Answer",
+        "description": "The process includes water extraction, drying and dehumidification, removal of unsalvageable materials, and final cleaning and sanitization."
+      }
+    }
+  ],
+  "description": "The process includes water extraction, drying and dehumidification, removal of unsalvageable materials, and final cleaning and sanitization."
+}

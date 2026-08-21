@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-sewage-myself",
+  "name": "Can I clean up sewage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up sewage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is strongly advised not to clean up sewage yourself due to the significant health risks involved. Sewage contains harmful bacteria, viruses, and parasites that can cause severe illness or infection. Professional cleanup companies have the necessary personal protective equipment, specialized cleaning agents, and training to safely and effectively handle biohazardous materials. Attempting a DIY cleanup can expose you to pathogens and may not adequately disinfect the affected areas, leading to ongoing health concerns and structural damage.",
+        "@type": "Answer",
+        "description": "No, it is not recommended to clean up sewage yourself due to severe health risks from pathogens. Professionals have the right equipment and training."
+      }
+    }
+  ],
+  "description": "No, it is not recommended to clean up sewage yourself due to severe health risks from pathogens. Professionals have the right equipment and training."
+}

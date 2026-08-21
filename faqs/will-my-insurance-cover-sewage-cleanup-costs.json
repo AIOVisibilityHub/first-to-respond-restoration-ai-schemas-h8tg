@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-sewage-cleanup-costs",
+  "name": "Will my insurance cover sewage cleanup costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover sewage cleanup costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies cover sewage cleanup if the backup is caused by a covered peril, such as a sudden pipe burst or an issue originating within your home's plumbing system. However, coverage can vary, and some policies may have specific exclusions for general sewer line blockages or require additional riders for 'water backup and sump pump overflow.' It's best to review your policy or contact your insurance provider directly to understand your specific coverage for sewage-related incidents.",
+        "@type": "Answer",
+        "description": "Insurance coverage for sewage cleanup depends on your policy and the cause of the backup. Check with your provider for specifics."
+      }
+    }
+  ],
+  "description": "Insurance coverage for sewage cleanup depends on your policy and the cause of the backup. Check with your provider for specifics."
+}

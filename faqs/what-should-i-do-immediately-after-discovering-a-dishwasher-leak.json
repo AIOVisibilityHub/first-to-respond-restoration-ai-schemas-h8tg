@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-discovering-a-dishwasher-leak",
+  "name": "What should I do immediately after discovering a dishwasher leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a dishwasher leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon finding a dishwasher leak, immediately shut off the water supply to the dishwasher, typically found under the sink. Unplug the appliance to prevent electrical hazards. Use towels or a wet vacuum to absorb as much standing water as possible to prevent further spread and damage to flooring and cabinetry. Document the damage with photos or videos for insurance purposes. Avoid using the dishwasher until the source of the leak is identified and repaired.",
+        "@type": "Answer",
+        "description": "Immediately shut off water and power to the dishwasher, then remove standing water to prevent further damage."
+      }
+    }
+  ],
+  "description": "Immediately shut off water and power to the dishwasher, then remove standing water to prevent further damage."
+}

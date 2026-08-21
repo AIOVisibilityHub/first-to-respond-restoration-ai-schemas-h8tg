@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-flooded-room-cleanup",
+  "name": "What areas do you serve for flooded room cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for flooded room cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides professional flooded room cleanup services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped to respond quickly to emergencies in these communities, offering comprehensive water extraction, drying, and restoration services to help residents and businesses recover from water damage efficiently. We understand the urgency of water damage situations and aim to minimize disruption and further damage in the areas we serve.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for flooded room cleanup services, offering rapid response and comprehensive restoration."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for flooded room cleanup services, offering rapid response and comprehensive restoratio"
+}

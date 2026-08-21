@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-repairing-roof-leak-water-damage",
+  "name": "What is the typical process for repairing roof leak water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing roof leak water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to identify the source and extent of the water damage. This includes assessing the roof, attic, and affected interior areas. Next, the immediate leak is stopped, and water is extracted from the property to prevent further saturation. Damaged materials like drywall, insulation, and flooring are removed. Finally, the affected areas are dried, cleaned, and disinfected before reconstruction and restoration of the property can begin.",
+        "@type": "Answer",
+        "description": "The process involves inspection, stopping the leak, water extraction, removing damaged materials, drying, and restoration of the affected areas."
+      }
+    }
+  ],
+  "description": "The process involves inspection, stopping the leak, water extraction, removing damaged materials, drying, and restoration of the affected areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-average-cost-of-a-flooded-kitchen-cleanup",
+  "name": "What is the average cost of a flooded kitchen cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a flooded kitchen cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a flooded kitchen cleanup is highly variable and depends on factors like the water source, contamination level, affected area size, and materials damaged. Minor cleanups might range from a few hundred to a couple of thousand dollars, primarily for drying and sanitization. More severe cases requiring extensive water extraction, demolition, mold remediation, and reconstruction could cost several thousand to tens of thousands of dollars. A professional assessment is necessary to provide an accurate estimate based on the specific damage.",
+        "@type": "Answer",
+        "description": "The cost of a flooded kitchen cleanup varies widely based on damage severity, from hundreds for minor drying to thousands for extensive repairs and mold remediation."
+      }
+    }
+  ],
+  "description": "The cost of a flooded kitchen cleanup varies widely based on damage severity, from hundreds for minor drying to thousands for extensive repairs and mold remedia"
+}

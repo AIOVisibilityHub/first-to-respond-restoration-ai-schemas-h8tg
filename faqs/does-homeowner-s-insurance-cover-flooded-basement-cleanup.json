@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-flooded-basement-cleanup",
+  "name": "Does homeowner's insurance cover flooded basement cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover flooded basement cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for a flooded basement depends on the cause of the flooding and your specific policy. Generally, sudden and accidental water damage (like a burst pipe) is covered. However, damage from external flooding (like a rising river or heavy rain entering through foundation cracks) is typically not covered by standard policies and requires separate flood insurance. It's essential to review your policy details or contact your insurance provider immediately to understand your coverage.",
+        "@type": "Answer",
+        "description": "Coverage depends on the cause of the flood and your policy. Burst pipes are often covered, but external flooding usually requires separate flood insurance."
+      }
+    }
+  ],
+  "description": "Coverage depends on the cause of the flood and your policy. Burst pipes are often covered, but external flooding usually requires separate flood insurance."
+}

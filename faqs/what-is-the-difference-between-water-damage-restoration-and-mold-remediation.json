@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-water-damage-restoration-and-mold-remediation",
+  "name": "What is the difference between water damage restoration and mold remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water damage restoration and mold remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage restoration focuses on extracting water, drying affected areas, and repairing or replacing damaged materials to pre-loss condition. This process aims to mitigate immediate harm from water. Mold remediation, on the other hand, specifically addresses mold growth that often results from prolonged moisture exposure. It involves containing, removing, and preventing the return of mold. While distinct, these services are frequently performed together as water damage often precedes or causes mold issues, especially if not addressed quickly. First To Respond Restoration offers both services.",
+        "@type": "Answer",
+        "description": "Water damage restoration fixes immediate water issues, while mold remediation removes and prevents mold growth, often a consequence of water damage."
+      }
+    }
+  ],
+  "description": "Water damage restoration fixes immediate water issues, while mold remediation removes and prevents mold growth, often a consequence of water damage."
+}

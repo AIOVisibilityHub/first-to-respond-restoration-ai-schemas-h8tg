@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-after-a-kitchen-flood",
+  "name": "What should I do immediately after a kitchen flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a kitchen flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step after a kitchen flood is to prioritize safety by turning off the electricity to the affected area if safe to do so. Next, identify and stop the water source if possible. If the water source cannot be stopped, contact a plumber. Move any salvageable items, like furniture and electronics, out of the water. Avoid walking on wet carpets or flooring to prevent slips and further damage. Document the damage with photos or videos, and then contact a professional water damage restoration service for assessment and cleanup.",
+        "@type": "Answer",
+        "description": "Immediately after a kitchen flood, turn off electricity, stop the water source if safe, move salvageable items, and contact a professional restoration service."
+      }
+    }
+  ],
+  "description": "Immediately after a kitchen flood, turn off electricity, stop the water source if safe, move salvageable items, and contact a professional restoration service."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-emergency-water-damage",
+  "name": "What causes emergency water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes emergency water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency water damage can stem from numerous sources, both sudden and gradual. Common causes include burst or leaking pipes, overflowing toilets or sinks, appliance malfunctions like water heater failures or washing machine leaks, severe weather events causing roof leaks or flooding, and sewage backups. Even small, undetected leaks over time can lead to significant damage and mold growth. Identifying the source quickly is crucial for effective cleanup and preventing recurrence.",
+        "@type": "Answer",
+        "description": "Common causes include burst pipes, appliance malfunctions, overflowing fixtures, severe weather, and sewage backups, leading to sudden or gradual damage."
+      }
+    }
+  ],
+  "description": "Common causes include burst pipes, appliance malfunctions, overflowing fixtures, severe weather, and sewage backups, leading to sudden or gradual damage."
+}

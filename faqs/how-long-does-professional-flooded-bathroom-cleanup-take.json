@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-professional-flooded-bathroom-cleanup-take",
+  "name": "How long does professional flooded bathroom cleanup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does professional flooded bathroom cleanup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of professional flooded bathroom cleanup varies depending on the severity of the flood and the extent of the damage. Typically, the water extraction phase can be completed within a few hours to a day. The drying process, using industrial equipment, usually takes between three to five days, sometimes longer for more saturated areas or specific materials. This timeline ensures all hidden moisture is thoroughly removed to prevent secondary damage and mold. The entire restoration, including any necessary repairs, can extend beyond the drying phase.",
+        "@type": "Answer",
+        "description": "Water extraction typically takes hours to a day, while industrial drying usually lasts 3-5 days. Overall time depends on damage severity."
+      }
+    }
+  ],
+  "description": "Water extraction typically takes hours to a day, while industrial drying usually lasts 3-5 days. Overall time depends on damage severity."
+}

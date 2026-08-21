@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-dry-out-a-house-after-standing-water",
+  "name": "How long does it take to dry out a house after standing water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to dry out a house after standing water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drying time for a house after standing water varies greatly depending on the amount of water, the types of materials affected, and the humidity levels. Generally, professional drying can take anywhere from three to five days, but more severe cases involving saturated structural components or high humidity might extend to a week or more. Professionals use specialized equipment and monitor moisture content to ensure complete drying, preventing hidden moisture and future issues like mold.",
+        "@type": "Answer",
+        "description": "Drying time varies from 3-5 days, or longer for severe cases, depending on water volume, affected materials, and humidity. Professionals ensure complete drying."
+      }
+    }
+  ],
+  "description": "Drying time varies from 3-5 days, or longer for severe cases, depending on water volume, affected materials, and humidity. Professionals ensure complete drying."
+}

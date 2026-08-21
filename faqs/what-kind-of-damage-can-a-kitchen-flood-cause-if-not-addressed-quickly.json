@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-damage-can-a-kitchen-flood-cause-if-not-addressed-quickly",
+  "name": "What kind of damage can a kitchen flood cause if not addressed quickly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can a kitchen flood cause if not addressed quickly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If not addressed quickly, a kitchen flood can lead to significant and escalating damage. Structural damage may include warped flooring, damaged cabinets, and weakened drywall. Lingering moisture creates an ideal environment for mold and mildew growth, which can cause health issues and further property damage. Electrical hazards can arise from water exposure. Additionally, prolonged moisture can attract pests and compromise the overall integrity of your home's structure, leading to more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Unaddressed kitchen floods can cause structural damage, extensive mold growth, electrical hazards, and attract pests, leading to costly and complex repairs."
+      }
+    }
+  ],
+  "description": "Unaddressed kitchen floods can cause structural damage, extensive mold growth, electrical hazards, and attract pests, leading to costly and complex repairs."
+}

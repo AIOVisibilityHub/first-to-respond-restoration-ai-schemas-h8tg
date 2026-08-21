@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-restoration-company-for-my-flooded-kitchen",
+  "name": "How do I choose the right restoration company for my flooded kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right restoration company for my flooded kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a restoration company for your flooded kitchen, look for one that is licensed, insured, and has experience with water damage specific to kitchens. Check for certifications, such as those from the IICRC (Institute of Inspection, Cleaning and Restoration Certification). Read customer reviews and ask for references. Ensure they offer emergency services and a clear communication plan throughout the cleanup process. Get a detailed estimate and confirm what services are included. Local companies familiar with your area, like First To Respond Restoration, can often provide faster response times.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and IICRC-certified restoration company with relevant experience, good reviews, emergency services, and clear communication for your flooded kitchen."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and IICRC-certified restoration company with relevant experience, good reviews, emergency services, and clear communication for your"
+}

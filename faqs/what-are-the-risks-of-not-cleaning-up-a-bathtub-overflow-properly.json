@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-risks-of-not-cleaning-up-a-bathtub-overflow-properly",
+  "name": "What are the risks of not cleaning up a bathtub overflow properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of not cleaning up a bathtub overflow properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Improper cleanup of a bathtub overflow carries several risks. The most common is mold growth, which can start within 24-48 hours in damp conditions and lead to health issues and property damage. Lingering moisture can also cause structural damage to wood, drywall, and flooring, compromising the integrity of your home. Additionally, stagnant water can breed bacteria and other pathogens, especially if the overflow involved drain water. Odors can also become persistent. Professional restoration ensures thorough drying and sanitization, mitigating these risks.",
+        "@type": "Answer",
+        "description": "Improper cleanup risks include mold growth within 24-48 hours, structural damage to building materials, bacteria growth, and persistent odors. Professional drying prevents these issues."
+      }
+    }
+  ],
+  "description": "Improper cleanup risks include mold growth within 24-48 hours, structural damage to building materials, bacteria growth, and persistent odors. Professional dryi"
+}

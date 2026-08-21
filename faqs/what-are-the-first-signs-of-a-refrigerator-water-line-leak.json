@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-first-signs-of-a-refrigerator-water-line-leak",
+  "name": "What are the first signs of a refrigerator water line leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first signs of a refrigerator water line leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Early signs of a refrigerator water line leak can include small puddles of water accumulating around the base of the refrigerator, dampness on the floor behind or under the unit, or an unexpected increase in your water bill. You might also notice a musty odor, discoloration on flooring or baseboards, or a decrease in ice production. Visible drips from the water line itself are a clear indicator.",
+        "@type": "Answer",
+        "description": "Puddles around the refrigerator, dampness, increased water bills, or a musty smell are early signs of a leak."
+      }
+    }
+  ],
+  "description": "Puddles around the refrigerator, dampness, increased water bills, or a musty smell are early signs of a leak."
+}

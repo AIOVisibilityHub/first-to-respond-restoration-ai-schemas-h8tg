@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-potential-health-risks-associated-with-untreated-water-damage-from",
+  "name": "What are the potential health risks associated with untreated water damage from a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential health risks associated with untreated water damage from a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Untreated water damage from a roof leak can pose several health risks, primarily due to mold growth. Mold spores can spread quickly in damp environments, leading to respiratory issues, allergies, asthma attacks, skin irritation, and other health problems, particularly for individuals with compromised immune systems or pre-existing conditions. Stagnant water can also become a breeding ground for bacteria and pests. Professional remediation is vital to safely remove mold and prevent further health hazards.",
+        "@type": "Answer",
+        "description": "Untreated roof leak water damage can lead to mold growth, causing respiratory issues, allergies, and other health problems."
+      }
+    }
+  ],
+  "description": "Untreated roof leak water damage can lead to mold growth, causing respiratory issues, allergies, and other health problems."
+}

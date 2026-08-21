@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-water-mitigation-and-water-restoration-for-a-dishw",
+  "name": "What's the difference between water mitigation and water restoration for a dishwasher leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between water mitigation and water restoration for a dishwasher leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water mitigation focuses on preventing further damage after a dishwasher leak occurs. This involves immediate actions like stopping the water source, extracting standing water, removing unsalvageable materials, and setting up drying equipment. The goal is to stabilize the environment and prevent secondary issues like mold. Water restoration, on the other hand, encompasses the complete repair and rebuilding process needed to return your property to its pre-damage condition. This includes services like replacing flooring, repairing drywall, repainting, and reconstructing damaged cabinets or structures after mitigation is complete.",
+        "@type": "Answer",
+        "description": "Water mitigation prevents further damage by drying and stabilizing, while water restoration repairs and rebuilds the property to its original condition."
+      }
+    }
+  ],
+  "description": "Water mitigation prevents further damage by drying and stabilizing, while water restoration repairs and rebuilds the property to its original condition."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-flooded-house-cleanup-instead-of-doing-it",
+  "name": "When should I call a professional for flooded house cleanup instead of doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for flooded house cleanup instead of doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always call a professional for flooded house cleanup if the water is contaminated (e.g., sewage, outdoor floodwaters), the area affected is large (beyond a small spill), or if the water has been present for more than 24-48 hours. Professionals have the specialized equipment for effective water extraction, drying, and sanitization, which helps prevent structural damage, mold growth, and other health risks that DIY efforts often miss. First To Respond Restoration ensures a safe and complete cleanup.",
+        "@type": "Answer",
+        "description": "Call a professional if the water is contaminated, the flooded area is large, or water has been present for over 24-48 hours to prevent further damage and health risks."
+      }
+    }
+  ],
+  "description": "Call a professional if the water is contaminated, the flooded area is large, or water has been present for over 24-48 hours to prevent further damage and health"
+}

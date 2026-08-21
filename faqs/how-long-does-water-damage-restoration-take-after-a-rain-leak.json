@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-water-damage-restoration-take-after-a-rain-leak",
+  "name": "How long does water damage restoration take after a rain leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damage restoration take after a rain leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage restoration depends on the severity and extent of the leak and subsequent damage. A small, contained leak with minimal damage might take a few days for drying and minor repairs. Extensive water intrusion affecting multiple areas, requiring demolition, drying, and mold remediation, could take weeks. Professional restoration companies use specialized equipment to expedite drying and constantly monitor moisture levels to ensure thorough restoration.",
+        "@type": "Answer",
+        "description": "Restoration time varies from a few days for minor leaks to several weeks for extensive water damage requiring demolition and drying."
+      }
+    }
+  ],
+  "description": "Restoration time varies from a few days for minor leaks to several weeks for extensive water damage requiring demolition and drying."
+}

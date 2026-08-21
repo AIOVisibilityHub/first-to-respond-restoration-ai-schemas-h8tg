@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-address-standing-water-in-my-home",
+  "name": "How quickly should I address standing water in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address standing water in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address standing water in your home as quickly as possible, ideally within 24-48 hours. Water damage escalates rapidly; within the first 24 hours, materials like drywall and wood can begin to swell and warp. After 48 hours, the risk of mold growth increases significantly, which can lead to more extensive and costly remediation, and potential health concerns. Prompt action helps to minimize structural damage, prevent mold, and preserve your property.",
+        "@type": "Answer",
+        "description": "Address standing water within 24-48 hours to prevent escalating damage and mold growth. Swift action minimizes structural issues and health risks."
+      }
+    }
+  ],
+  "description": "Address standing water within 24-48 hours to prevent escalating damage and mold growth. Swift action minimizes structural issues and health risks."
+}

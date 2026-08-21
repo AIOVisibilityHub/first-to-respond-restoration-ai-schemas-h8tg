@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-leave-my-home-during-water-damage-restoration",
+  "name": "Do I need to leave my home during water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to leave your home during water damage restoration depends on the extent of the damage, the type of water involved, and the restoration process. If there's significant structural damage, contaminated water (Category 3), or extensive equipment running that makes living conditions unsafe or uncomfortable, temporary relocation might be recommended for your safety and convenience. Your restoration company will advise you based on your specific situation.",
+        "@type": "Answer",
+        "description": "It depends on the damage severity, water type, and restoration work. For significant structural issues, contaminated water, or extensive equipment, temporary relocation might be advised."
+      }
+    }
+  ],
+  "description": "It depends on the damage severity, water type, and restoration work. For significant structural issues, contaminated water, or extensive equipment, temporary re"
+}

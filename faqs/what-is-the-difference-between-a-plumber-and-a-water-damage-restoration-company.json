@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-a-plumber-and-a-water-damage-restoration-company",
+  "name": "What is the difference between a plumber and a water damage restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a plumber and a water damage restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumber specializes in fixing the source of water issues, such as burst pipes, leaky fixtures, or clogged drains. They stop the active water flow. A water damage restoration company, however, focuses on cleaning up the resulting damage once the water source is contained. This includes water extraction, drying, dehumidification, sanitization, and rebuilding affected structures. You often need both: a plumber to fix the leak, and a restoration company to repair the damage it caused.",
+        "@type": "Answer",
+        "description": "A plumber fixes the source of the water problem, like a burst pipe. A water damage restoration company cleans up and repairs the damage caused by the water."
+      }
+    }
+  ],
+  "description": "A plumber fixes the source of the water problem, like a burst pipe. A water damage restoration company cleans up and repairs the damage caused by the water."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-repair-a-slab-leak",
+  "name": "How long does it take to repair a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of slab leak repair depends on the complexity of the leak and the chosen repair method. Leak detection itself can take a few hours. A direct access repair might be completed within a day or two, assuming minimal water damage to restore. More extensive re-piping or re-routing can take several days to a week. The overall timeline also includes drying and restoration of any water-damaged areas, which can add additional time to the project.",
+        "@type": "Answer",
+        "description": "Slab leak repair can take from a few hours for detection to several days for complex repairs or re-piping, plus additional time for water damage restoration."
+      }
+    }
+  ],
+  "description": "Slab leak repair can take from a few hours for detection to several days for complex repairs or re-piping, plus additional time for water damage restoration."
+}

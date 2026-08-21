@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-a-bathtub-overflow-myself",
+  "name": "Can I clean up a bathtub overflow myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up a bathtub overflow myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can manage very minor bathtub overflows yourself, especially if the water is clean and contained to hard, non-porous surfaces. This includes quickly mopping up standing water and using fans to dry the area. However, if the water has seeped into porous materials like carpet, drywall, or subflooring, or if it's been standing for more than 24-48 hours, professional intervention is recommended. Hidden moisture can lead to mold growth and structural damage that is difficult to detect and resolve without specialized equipment.",
+        "@type": "Answer",
+        "description": "Minor, contained overflows on hard surfaces can be DIY. If water soaks into porous materials, spreads widely, or sits for over 24 hours, professional cleanup is advised to prevent mold and hidden damage."
+      }
+    }
+  ],
+  "description": "Minor, contained overflows on hard surfaces can be DIY. If water soaks into porous materials, spreads widely, or sits for over 24 hours, professional cleanup is"
+}

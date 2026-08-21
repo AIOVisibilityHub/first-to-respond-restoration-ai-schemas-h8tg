@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-help-for-a-dishwasher-leak-cleanup",
+  "name": "When do I need professional help for a dishwasher leak cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional help for a dishwasher leak cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional help is needed for dishwasher leak cleanup if the water has spread beyond a small, contained area, if there's standing water that you cannot easily remove, or if you suspect hidden moisture behind walls or under flooring. A musty odor indicates potential mold growth, which requires professional remediation. If the leak has affected electrical components or structural elements, or if you lack the proper drying equipment, calling a restoration company ensures thorough drying, damage assessment, and prevents secondary issues like mold and structural compromise.",
+        "@type": "Answer",
+        "description": "Call professionals if water has spread, if there's standing water, if you suspect hidden moisture or mold, or if the leak affects electrical or structural elements."
+      }
+    }
+  ],
+  "description": "Call professionals if water has spread, if there's standing water, if you suspect hidden moisture or mold, or if the leak affects electrical or structural eleme"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-my-homeowner-s-insurance-cover-rain-leak-damage",
+  "name": "Does my homeowner's insurance cover rain leak damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my homeowner's insurance cover rain leak damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental water damage from rain leaks, such as those caused by a storm damaging your roof. However, damage resulting from neglected maintenance, gradual leaks, or flood events (which require separate flood insurance) are typically not covered. It's crucial to review your specific policy details or contact your insurance provider immediately after a leak to understand your coverage and initiate a claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance typically covers sudden rain leak damage but not damage from neglect or floods; check your policy details."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance typically covers sudden rain leak damage but not damage from neglect or floods; check your policy details."
+}

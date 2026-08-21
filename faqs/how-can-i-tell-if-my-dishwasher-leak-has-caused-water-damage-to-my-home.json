@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-can-i-tell-if-my-dishwasher-leak-has-caused-water-damage-to-my-home",
+  "name": "How can I tell if my dishwasher leak has caused water damage to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my dishwasher leak has caused water damage to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of water damage from a dishwasher leak include discolored or swollen flooring around the appliance, peeling paint or wallpaper on nearby walls, a musty odor indicating mold growth, and softened or warped cabinetry. If you notice any of these indicators, it's crucial to address them promptly. Professional restoration services can assess the extent of the damage, identify hidden moisture, and recommend appropriate drying and repair strategies to prevent long-term issues like structural damage or extensive mold contamination.",
+        "@type": "Answer",
+        "description": "Look for discolored flooring, swollen cabinets, peeling paint, or musty odors near the dishwasher. These indicate potential water damage."
+      }
+    }
+  ],
+  "description": "Look for discolored flooring, swollen cabinets, peeling paint, or musty odors near the dishwasher. These indicate potential water damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-the-right-emergency-water-cleanup-company",
+  "name": "How do I choose the right emergency water cleanup company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right emergency water cleanup company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an emergency water cleanup company, look for several key attributes. Ensure they are licensed, certified by organizations like IICRC, and fully insured. Prioritize companies with a rapid response time, as quick action is critical in water damage. Check their experience with similar types of damage and read customer reviews for reliability. A reputable company should also provide a clear assessment, a transparent estimate, and be able to assist with insurance claims documentation, offering peace of mind during a stressful time.",
+        "@type": "Answer",
+        "description": "Choose a licensed, certified, and insured company with rapid response, experience, good reviews, and transparent pricing. They should also help with insurance claims."
+      }
+    }
+  ],
+  "description": "Choose a licensed, certified, and insured company with rapid response, experience, good reviews, and transparent pricing. They should also help with insurance c"
+}

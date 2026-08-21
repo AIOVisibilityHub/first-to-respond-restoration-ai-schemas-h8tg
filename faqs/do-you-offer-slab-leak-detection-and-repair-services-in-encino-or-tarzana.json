@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-slab-leak-detection-and-repair-services-in-encino-or-tarzana",
+  "name": "Do you offer slab leak detection and repair services in Encino or Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer slab leak detection and repair services in Encino or Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides comprehensive slab leak detection, repair, and water damage restoration services across our service areas, including Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is equipped with advanced technology to accurately locate leaks and experienced professionals to perform necessary repairs and full restoration. We understand the urgency of slab leak issues and are available to respond quickly to protect your property.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers slab leak detection, repair, and water damage restoration services in Encino, Tarzana, and other listed service areas."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers slab leak detection, repair, and water damage restoration services in Encino, Tarzana, and other listed service areas."
+}

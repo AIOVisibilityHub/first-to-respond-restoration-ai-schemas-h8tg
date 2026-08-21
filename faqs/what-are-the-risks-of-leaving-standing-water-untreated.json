@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-risks-of-leaving-standing-water-untreated",
+  "name": "What are the risks of leaving standing water untreated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of leaving standing water untreated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Leaving standing water untreated poses several risks to your home and health. Structural damage is a major concern, as water can weaken foundations, warp wooden floors, and damage drywall. It also creates an ideal environment for mold and mildew to grow, which can spread quickly and potentially cause respiratory issues or allergic reactions for occupants. Additionally, standing water can attract pests, damage electrical systems, and lead to unpleasant odors, significantly reducing your property's value and safety.",
+        "@type": "Answer",
+        "description": "Untreated standing water can cause structural damage, lead to mold growth and health issues, attract pests, damage electrical systems, and reduce property value."
+      }
+    }
+  ],
+  "description": "Untreated standing water can cause structural damage, lead to mold growth and health issues, attract pests, damage electrical systems, and reduce property value"
+}

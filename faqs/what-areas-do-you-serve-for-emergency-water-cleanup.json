@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-emergency-water-cleanup",
+  "name": "What areas do you serve for emergency water cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for emergency water cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide emergency water cleanup services to various communities in the greater Los Angeles area. Our primary service areas include Encino, North Hollywood, San Fernando, Studio City, and Tarzana. If you are located in or around these communities and are experiencing a water damage emergency, please contact us immediately. Our teams are equipped to respond quickly to minimize damage and begin the restoration process efficiently.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for emergency water cleanup services."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for emergency water cleanup services."
+}

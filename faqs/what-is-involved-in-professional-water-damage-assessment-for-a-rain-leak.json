@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-professional-water-damage-assessment-for-a-rain-leak",
+  "name": "What is involved in professional water damage assessment for a rain leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in professional water damage assessment for a rain leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional water damage assessment for a rain leak typically involves a thorough inspection of your property's exterior and interior to pinpoint the leak's origin and evaluate the full extent of water penetration. Technicians use moisture meters, thermal imaging cameras, and other specialized tools to detect hidden moisture in walls, ceilings, and flooring. This assessment determines the category and class of water damage, guiding the most effective restoration plan.",
+        "@type": "Answer",
+        "description": "Professional assessment identifies the leak source and full extent of water damage using specialized tools to guide the restoration plan."
+      }
+    }
+  ],
+  "description": "Professional assessment identifies the leak source and full extent of water damage using specialized tools to guide the restoration plan."
+}
