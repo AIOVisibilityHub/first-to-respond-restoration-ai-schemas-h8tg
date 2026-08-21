@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-different-categories-of-water-damage",
+  "name": "What are the different categories of water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different categories of water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage is categorized based on the contamination level of the water. Category 1 involves clean water, like from a burst pipe or overflowing sink. Category 2, or 'grey water,' contains significant contamination and could cause illness, such as from a washing machine overflow or toilet with urine. Category 3, or 'black water,' is grossly contaminated and highly unsanitary, originating from sewage, floodwaters, or prolonged standing water. Each category requires specific handling and safety protocols.",
+        "@type": "Answer",
+        "description": "Categories are based on contamination: Category 1 (clean water), Category 2 (grey water with contaminants), and Category 3 (black water, highly unsanitary)."
+      }
+    }
+  ],
+  "description": "Categories are based on contamination: Category 1 (clean water), Category 2 (grey water with contaminants), and Category 3 (black water, highly unsanitary)."
+}

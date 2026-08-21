@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-emergency-blood-cleanup-services-in-encino",
+  "name": "Do you offer emergency blood cleanup services in Encino?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency blood cleanup services in Encino?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides 24/7 emergency blood cleanup services in Encino and surrounding areas. We understand that biohazard incidents can happen at any time and require immediate attention. Our rapid response team is equipped to quickly assess the situation, secure the scene, and begin the cleanup and decontamination process promptly to restore safety and peace of mind.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration offers 24/7 emergency blood cleanup services in Encino and nearby areas, with a rapid response team ready to address biohazard incidents immediately."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration offers 24/7 emergency blood cleanup services in Encino and nearby areas, with a rapid response team ready to address biohazard"
+}

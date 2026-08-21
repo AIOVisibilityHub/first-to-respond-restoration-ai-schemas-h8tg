@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/are-your-cleanup-technicians-trained-and-certified-for-biohazard-cleanup",
+  "name": "Are your cleanup technicians trained and certified for biohazard cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your cleanup technicians trained and certified for biohazard cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our cleanup technicians at First To Respond Restoration are thoroughly trained and often certified in biohazard remediation, which includes proper handling and disposal of bodily fluids like vomit. This training covers safe practices, the use of personal protective equipment, effective disinfection protocols, and compliance with health and safety regulations. You can trust that our team adheres to strict industry standards to ensure a safe and complete cleanup, protecting both our staff and your property.",
+        "@type": "Answer",
+        "description": "Our technicians are trained and certified in biohazard remediation, adhering to strict safety and disinfection protocols for safe and complete cleanup."
+      }
+    }
+  ],
+  "description": "Our technicians are trained and certified in biohazard remediation, adhering to strict safety and disinfection protocols for safe and complete cleanup."
+}

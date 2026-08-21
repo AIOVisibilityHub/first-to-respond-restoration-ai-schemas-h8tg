@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-human-waste-cleanup-cost",
+  "name": "How much does human waste cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does human waste cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of human waste cleanup varies widely depending on several factors, including the size of the contaminated area, the type and volume of waste, the materials affected (e.g., concrete, carpet, drywall), and the extent of required disinfection. More severe contamination or situations requiring extensive structural cleanup will incur higher costs. Many homeowners' insurance policies may cover these services, especially if the damage is sudden and accidental, like a sewage backup. It's best to get a detailed estimate after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Cleanup costs vary based on the contamination size, waste type, affected materials, and disinfection needs. Homeowners' insurance may cover it. An on-site estimate provides an accurate cost."
+      }
+    }
+  ],
+  "description": "Cleanup costs vary based on the contamination size, waste type, affected materials, and disinfection needs. Homeowners' insurance may cover it. An on-site estim"
+}

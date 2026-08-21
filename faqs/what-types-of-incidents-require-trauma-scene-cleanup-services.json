@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-incidents-require-trauma-scene-cleanup-services",
+  "name": "What types of incidents require trauma scene cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of incidents require trauma scene cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trauma scene cleanup services are required for incidents involving biological contaminants. This commonly includes scenes of unattended deaths, suicides, homicides, accidents with significant blood or bodily fluids, and situations involving infectious diseases. Any scene where biohazardous waste is present demands specialized cleaning to prevent health risks.",
+        "@type": "Answer",
+        "description": "Services are needed for unattended deaths, suicides, homicides, accidents with biofluids, and infectious disease sites."
+      }
+    }
+  ],
+  "description": "Services are needed for unattended deaths, suicides, homicides, accidents with biofluids, and infectious disease sites."
+}

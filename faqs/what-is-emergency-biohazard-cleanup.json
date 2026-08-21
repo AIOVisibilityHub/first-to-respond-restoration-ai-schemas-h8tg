@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-emergency-biohazard-cleanup",
+  "name": "What is emergency biohazard cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is emergency biohazard cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency biohazard cleanup is a specialized service for safely removing, cleaning, and disinfecting areas contaminated with biological substances that pose a health risk. This includes blood, bodily fluids, animal waste, pathogens, and other potentially infectious materials. It's crucial for situations like unattended deaths, crime scenes, accidents, or outbreaks of infectious diseases to prevent the spread of illness and restore the affected environment to a safe, habitable condition. Professionals use specific protocols, equipment, and cleaning agents to ensure thorough decontamination.",
+        "@type": "Answer",
+        "description": "Emergency biohazard cleanup involves the safe removal and disinfection of hazardous biological substances to prevent health risks."
+      }
+    }
+  ],
+  "description": "Emergency biohazard cleanup involves the safe removal and disinfection of hazardous biological substances to prevent health risks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-blood-cleanup-services",
+  "name": "What areas do you serve for blood cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for blood cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide professional blood cleanup and biohazard remediation services to a specific service area. Our primary service locations include Encino, North Hollywood, San Fernando, Studio City, and Tarzana. If you are located in or around these areas and require urgent blood cleanup, please contact us immediately. While these are our core service areas for rapid response, we may be able to assist in adjacent communities; feel free to call us to confirm service availability for your specific location.",
+        "@type": "Answer",
+        "description": "We primarily serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for blood cleanup. Contact us to confirm service availability for your specific location."
+      }
+    }
+  ],
+  "description": "We primarily serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for blood cleanup. Contact us to confirm service availability for your specif"
+}

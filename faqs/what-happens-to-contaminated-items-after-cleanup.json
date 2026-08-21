@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-happens-to-contaminated-items-after-cleanup",
+  "name": "What happens to contaminated items after cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to contaminated items after cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Contaminated items that cannot be effectively disinfected, such as porous materials like carpets, furniture, or certain personal belongings, are carefully removed from the scene. These items are then packaged in specialized biohazard bags or containers and transported for proper disposal at licensed biohazard waste facilities. This ensures environmental safety and prevents further contamination.",
+        "@type": "Answer",
+        "description": "Contaminated items are removed, specially packaged, and disposed of at licensed biohazard waste facilities."
+      }
+    }
+  ],
+  "description": "Contaminated items are removed, specially packaged, and disposed of at licensed biohazard waste facilities."
+}

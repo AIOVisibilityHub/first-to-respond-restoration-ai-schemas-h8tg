@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reputable-feces-cleanup-service",
+  "name": "How do I choose a reputable feces cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable feces cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a feces cleanup service, look for companies with certifications in biohazard remediation and specific experience in handling human or animal waste. Verify they are licensed, insured, and their technicians are properly trained in safety protocols and the use of specialized equipment. A reputable company will offer a clear scope of work, transparent pricing, and be available for emergency response. Check client reviews and ask for references to ensure quality and reliability.",
+        "@type": "Answer",
+        "description": "Choose a service with biohazard remediation certifications, proper licensing, trained technicians, transparent pricing, and good client reviews."
+      }
+    }
+  ],
+  "description": "Choose a service with biohazard remediation certifications, proper licensing, trained technicians, transparent pricing, and good client reviews."
+}

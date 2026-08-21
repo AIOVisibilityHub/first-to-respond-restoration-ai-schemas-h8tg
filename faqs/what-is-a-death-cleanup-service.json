@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-a-death-cleanup-service",
+  "name": "What is a death cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a death cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A death cleanup service, also known as crime scene cleanup or biohazard remediation, involves the professional cleaning, sanitizing, and deodorizing of areas affected by a traumatic incident, unattended death, or crime. This specialized service handles biological materials such as blood, bodily fluids, and decomposition odors, which pose significant health risks if not managed correctly. Professionals use industrial-grade equipment and specialized cleaning agents to restore the scene to a safe, habitable condition, reducing the emotional burden on family members.",
+        "@type": "Answer",
+        "description": "A death cleanup service professionally cleans, sanitizes, and deodorizes scenes affected by traumatic incidents, unattended deaths, or crime, handling biohazards and odors to restore safety."
+      }
+    }
+  ],
+  "description": "A death cleanup service professionally cleans, sanitizes, and deodorizes scenes affected by traumatic incidents, unattended deaths, or crime, handling biohazard"
+}

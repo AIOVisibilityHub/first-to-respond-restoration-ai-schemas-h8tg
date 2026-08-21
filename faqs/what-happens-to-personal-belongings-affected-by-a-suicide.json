@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-happens-to-personal-belongings-affected-by-a-suicide",
+  "name": "What happens to personal belongings affected by a suicide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to personal belongings affected by a suicide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Personal belongings affected by a suicide are handled with sensitivity and respect. Items that are heavily contaminated with biohazards and cannot be safely cleaned or disinfected must be properly disposed of as medical waste according to regulations. Non-porous items that can be decontaminated may be cleaned and returned. Porous items like upholstered furniture or carpets, if heavily contaminated, often need to be removed and disposed of. We work with clients to identify and categorize items, providing options for cleaning, restoration, or compassionate disposal, ensuring belongings are managed appropriately.",
+        "@type": "Answer",
+        "description": "Heavily contaminated personal belongings are safely disposed of; others may be cleaned or restored. We work with clients to manage items sensitively."
+      }
+    }
+  ],
+  "description": "Heavily contaminated personal belongings are safely disposed of; others may be cleaned or restored. We work with clients to manage items sensitively."
+}

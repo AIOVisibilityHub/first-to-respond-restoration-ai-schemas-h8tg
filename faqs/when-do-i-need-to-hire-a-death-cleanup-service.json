@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-to-hire-a-death-cleanup-service",
+  "name": "When do I need to hire a death cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to hire a death cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a death cleanup service whenever a death or traumatic incident results in biohazardous contamination, such as blood, bodily fluids, or decomposition. This includes crime scenes, unattended deaths, suicides, and accidents. Standard cleaning services are not equipped to handle these biohazards safely or effectively. Professional remediation ensures all contaminants are properly removed, disinfected, and disposed of according to health regulations, protecting current and future occupants from potential health risks.",
+        "@type": "Answer",
+        "description": "Hire a death cleanup service when a death or traumatic incident causes biohazardous contamination, as standard cleaning services cannot safely handle these materials."
+      }
+    }
+  ],
+  "description": "Hire a death cleanup service when a death or traumatic incident causes biohazardous contamination, as standard cleaning services cannot safely handle these mate"
+}

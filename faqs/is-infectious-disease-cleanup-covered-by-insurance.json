@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-infectious-disease-cleanup-covered-by-insurance",
+  "name": "Is infectious disease cleanup covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is infectious disease cleanup covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coverage for infectious disease cleanup often depends on your specific insurance policy and the circumstances of the contamination. Many commercial and homeowner's insurance policies may cover biohazard remediation, especially if the contamination resulted from a covered peril, such as an accident or outbreak that qualifies under your policy terms. We recommend contacting your insurance provider directly to understand your coverage. Our team can also help by documenting the cleanup process and assisting with the claims submission to facilitate reimbursement.",
+        "@type": "Answer",
+        "description": "Insurance coverage depends on your policy and contamination circumstances; many policies may cover biohazard remediation, and we can assist with claims."
+      }
+    }
+  ],
+  "description": "Insurance coverage depends on your policy and contamination circumstances; many policies may cover biohazard remediation, and we can assist with claims."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-bodily-fluid-cleanup-be-performed",
+  "name": "How quickly should bodily fluid cleanup be performed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should bodily fluid cleanup be performed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bodily fluid cleanup should be performed as quickly as possible, ideally within 24-48 hours. The longer biohazardous materials remain, the higher the risk of pathogen spread, permanent staining, and unpleasant odors becoming embedded in materials. Rapid response minimizes potential health hazards, prevents further contamination, and improves the chances of successful restoration. Contacting professionals immediately after an incident is crucial for effective and safe cleanup.",
+        "@type": "Answer",
+        "description": "Cleanup should happen within 24-48 hours to minimize health risks, prevent permanent damage, and control odors. Prompt action is key for effective restoration."
+      }
+    }
+  ],
+  "description": "Cleanup should happen within 24-48 hours to minimize health risks, prevent permanent damage, and control odors. Prompt action is key for effective restoration."
+}

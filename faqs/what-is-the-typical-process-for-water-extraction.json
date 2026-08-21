@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-water-extraction",
+  "name": "What is the typical process for water extraction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water extraction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our water extraction process typically starts with a thorough assessment of the water damage to identify the water source and affected areas. We then use industrial-grade pumps and powerful wet vacuums to remove all standing water. Following extraction, we often employ air movers and dehumidifiers to dry the property thoroughly. The final steps involve cleaning, sanitizing, and monitoring moisture levels to ensure a complete restoration.",
+        "@type": "Answer",
+        "description": "The water extraction process involves assessing damage, removing standing water with specialized equipment, and then drying and sanitizing the affected areas. We monitor moisture to ensure complete restoration."
+      }
+    }
+  ],
+  "description": "The water extraction process involves assessing damage, removing standing water with specialized equipment, and then drying and sanitizing the affected areas. W"
+}

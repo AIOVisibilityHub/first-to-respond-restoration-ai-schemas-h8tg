@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-cost-of-professional-blood-cleanup-services",
+  "name": "What is the cost of professional blood cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of professional blood cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional blood cleanup varies depending on several factors, including the size of the affected area, the type of surfaces contaminated, the extent of the blood spillage, and the complexity of the decontamination required. Factors such as specialized equipment, waste disposal, and labor hours all contribute to the overall cost. Most reputable companies provide a detailed estimate after assessing the scene.",
+        "@type": "Answer",
+        "description": "Costs for professional blood cleanup vary based on the affected area's size, contamination extent, surface types, and necessary equipment."
+      }
+    }
+  ],
+  "description": "Costs for professional blood cleanup vary based on the affected area's size, contamination extent, surface types, and necessary equipment."
+}

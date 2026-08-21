@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-perform-water-extraction-myself-or-do-i-need-professionals",
+  "name": "Can I perform water extraction myself, or do I need professionals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform water extraction myself, or do I need professionals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While small spills might be manageable with household tools, professional water extraction is strongly recommended for significant water damage. Professionals have specialized, high-powered equipment for efficient water removal and drying, as well as expertise in identifying hidden moisture and preventing mold. DIY attempts often miss hidden moisture, leading to mold, lingering odors, and structural problems that can be more costly to fix later.",
+        "@type": "Answer",
+        "description": "For significant water damage, professional water extraction is recommended due to specialized equipment and expertise in preventing mold and hidden moisture. DIY can lead to costly future issues."
+      }
+    }
+  ],
+  "description": "For significant water damage, professional water extraction is recommended due to specialized equipment and expertise in preventing mold and hidden moisture. DI"
+}

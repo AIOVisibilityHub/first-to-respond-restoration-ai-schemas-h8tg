@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-water-removal-and-water-damage-restoration",
+  "name": "What's the difference between water removal and water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between water removal and water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water removal is the initial phase of extracting standing water from a property. Water damage restoration is a more comprehensive process that includes water removal, but extends to drying, dehumidification, cleaning, sanitization, and often repairs or reconstruction of damaged areas. Water removal addresses the immediate problem of standing water, while restoration focuses on returning the entire property to its pre-damage condition.",
+        "@type": "Answer",
+        "description": "Water removal extracts standing water, while water damage restoration is a broader process including drying, cleaning, and repairs."
+      }
+    }
+  ],
+  "description": "Water removal extracts standing water, while water damage restoration is a broader process including drying, cleaning, and repairs."
+}

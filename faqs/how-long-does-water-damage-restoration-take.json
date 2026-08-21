@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-water-damage-restoration-take",
+  "name": "How long does water damage restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damage restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage restoration varies depending on the extent of the damage, the type of water involved (e.g., clean, gray, black water), and the materials affected. Typically, the initial water extraction and drying phase can take 3-5 days. More severe damage, such as structural repairs or extensive mold remediation, can extend the timeline significantly, sometimes several weeks. A professional assessment will provide a more accurate estimate based on your specific situation.",
+        "@type": "Answer",
+        "description": "Water damage restoration typically takes 3-5 days for drying, but more severe cases involving structural repairs or mold can extend the timeline to several weeks."
+      }
+    }
+  ],
+  "description": "Water damage restoration typically takes 3-5 days for drying, but more severe cases involving structural repairs or mold can extend the timeline to several week"
+}

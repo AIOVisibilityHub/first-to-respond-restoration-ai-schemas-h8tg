@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-commercial-biohazard-cleanup-cost",
+  "name": "How much does commercial biohazard cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does commercial biohazard cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of commercial biohazard cleanup varies significantly depending on several factors. These include the size of the contaminated area, the type and volume of hazardous materials, the extent of structural damage, and the complexity of the cleanup required. Each situation is unique, so we provide a detailed, on-site assessment to offer an accurate estimate. Our goal is to provide transparent pricing without hidden fees, focusing on restoring your property efficiently and safely while adhering to all necessary regulations.",
+        "@type": "Answer",
+        "description": "Cleanup costs vary based on the contamination's size, type, and extent of damage; an on-site assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cleanup costs vary based on the contamination's size, type, and extent of damage; an on-site assessment provides an accurate estimate."
+}

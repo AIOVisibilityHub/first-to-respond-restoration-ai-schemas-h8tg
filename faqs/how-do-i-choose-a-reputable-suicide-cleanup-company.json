@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reputable-suicide-cleanup-company",
+  "name": "How do I choose a reputable suicide cleanup company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable suicide cleanup company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a suicide cleanup company, prioritize those with specific experience in biohazard remediation and trauma scene cleanup. Look for companies that are licensed, insured, and certified by industry organizations. Inquire about their training, the types of equipment and disinfectants they use, and their adherence to health and safety regulations. A reputable company should also offer discretion, compassion, and clear communication throughout the process, providing a detailed estimate and assisting with insurance claims. Check for local reviews and testimonials.",
+        "@type": "Answer",
+        "description": "Choose a reputable cleanup company by checking for experience in biohazard remediation, licensing, insurance, industry certifications, and a compassionate approach."
+      }
+    }
+  ],
+  "description": "Choose a reputable cleanup company by checking for experience in biohazard remediation, licensing, insurance, industry certifications, and a compassionate appro"
+}

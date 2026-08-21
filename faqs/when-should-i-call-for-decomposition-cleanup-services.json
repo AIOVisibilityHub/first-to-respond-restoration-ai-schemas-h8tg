@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-for-decomposition-cleanup-services",
+  "name": "When should I call for decomposition cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call for decomposition cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call for decomposition cleanup services immediately once a decomposition event is discovered, especially if it involves human or animal remains. Time is critical because biological hazards and odors intensify over time, increasing contamination and making the cleanup more complex. Prompt action helps mitigate health risks, prevent structural damage to the property from fluid penetration, and contain odor spread. Do not attempt to clean it yourself, as you could expose yourself to dangerous pathogens.",
+        "@type": "Answer",
+        "description": "Call immediately upon discovering a decomposition event. Prompt action is critical to mitigate health risks, prevent further contamination, and address odors."
+      }
+    }
+  ],
+  "description": "Call immediately upon discovering a decomposition event. Prompt action is critical to mitigate health risks, prevent further contamination, and address odors."
+}

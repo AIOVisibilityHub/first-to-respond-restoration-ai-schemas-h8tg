@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-decomposition-cleanup",
+  "name": "What is decomposition cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is decomposition cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Decomposition cleanup involves the specialized process of removing biohazardous materials, odors, and contaminants left behind after a human or animal decomposition event. This type of cleanup goes beyond standard cleaning to address potential health risks such as bacteria, viruses, and pathogens. Professionals use personal protective equipment (PPE) and industrial-grade disinfectants to thoroughly sanitize the affected area, preventing further contamination and restoring the property to a safe and habitable condition. It often includes the removal of bodily fluids, tissue, and contaminated furnishings.",
+        "@type": "Answer",
+        "description": "Decomposition cleanup is the specialized process of removing biohazardous materials and odors after human or animal decomposition, restoring the affected area to a safe condition."
+      }
+    }
+  ],
+  "description": "Decomposition cleanup is the specialized process of removing biohazardous materials and odors after human or animal decomposition, restoring the affected area t"
+}

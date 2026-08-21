@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-a-typical-urine-cleanup-service-take",
+  "name": "How long does a typical urine cleanup service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical urine cleanup service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a professional urine cleanup service can vary significantly. Simple, localized contamination might take a few hours, while extensive damage involving multiple layers (like carpet, padding, and subfloor) or multiple rooms could take a full day or even longer. Drying times for treated areas also need to be considered. The specific timeline will be provided after an assessment of the affected areas and the scope of work required.",
+        "@type": "Answer",
+        "description": "Cleanup time varies based on the affected area's size and severity, ranging from a few hours for minor issues to a full day or more for extensive damage."
+      }
+    }
+  ],
+  "description": "Cleanup time varies based on the affected area's size and severity, ranging from a few hours for minor issues to a full day or more for extensive damage."
+}

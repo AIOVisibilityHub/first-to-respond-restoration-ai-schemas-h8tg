@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-water-mitigation-process",
+  "name": "What is the water mitigation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the water mitigation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water mitigation process typically begins with an emergency call and immediate on-site assessment to identify the water source and damage extent. Next, technicians extract standing water using powerful pumps and vacuums. After extraction, specialized drying equipment, such as air movers and dehumidifiers, is set up to remove moisture from affected materials. Throughout this stage, moisture levels are monitored. Finally, antimicrobial agents are applied to prevent mold and mildew growth, preparing the property for any necessary restoration work.",
+        "@type": "Answer",
+        "description": "The water mitigation process involves assessment, water extraction, drying with specialized equipment, moisture monitoring, and applying antimicrobials to prevent mold."
+      }
+    }
+  ],
+  "description": "The water mitigation process involves assessment, water extraction, drying with specialized equipment, moisture monitoring, and applying antimicrobials to preve"
+}

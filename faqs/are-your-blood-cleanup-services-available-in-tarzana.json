@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/are-your-blood-cleanup-services-available-in-tarzana",
+  "name": "Are your blood cleanup services available in Tarzana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your blood cleanup services available in Tarzana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration proudly offers blood cleanup services in Tarzana. Our team is equipped to handle biohazard situations throughout the area, including residential and commercial properties. We understand the urgency of such events and are prepared to respond quickly to ensure safe and thorough cleanup and restoration for our Tarzana clients.",
+        "@type": "Answer",
+        "description": "Yes, First To Respond Restoration provides blood cleanup services in Tarzana and other surrounding areas."
+      }
+    }
+  ],
+  "description": "Yes, First To Respond Restoration provides blood cleanup services in Tarzana and other surrounding areas."
+}

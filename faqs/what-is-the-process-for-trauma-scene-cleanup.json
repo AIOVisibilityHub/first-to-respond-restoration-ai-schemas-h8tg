@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-trauma-scene-cleanup",
+  "name": "What is the process for trauma scene cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for trauma scene cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process begins with an assessment of the scene. Technicians then establish containment zones and don personal protective equipment. Contaminated materials are removed, and all affected surfaces are thoroughly cleaned, disinfected, and deodorized using hospital-grade solutions. Finally, all biohazardous waste is properly packaged and disposed of in accordance with local and federal regulations, ensuring the area is safe for re-occupancy.",
+        "@type": "Answer",
+        "description": "The process includes assessment, containment, removal of contaminated materials, cleaning, disinfection, deodorization, and proper biohazard disposal."
+      }
+    }
+  ],
+  "description": "The process includes assessment, containment, removal of contaminated materials, cleaning, disinfection, deodorization, and proper biohazard disposal."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-death-cleanup",
+  "name": "What is the process for death cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for death cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The death cleanup process typically begins with a thorough assessment of the scene to identify all contaminated areas. Technicians then establish containment zones to prevent cross-contamination. This is followed by the removal of all biohazardous materials, including blood, bodily fluids, and contaminated porous items. Next, surfaces are cleaned, disinfected, and sanitized using specialized agents. Finally, the area is deodorized to eliminate any lingering odors, and a final inspection ensures the property is restored to a safe and habitable condition.",
+        "@type": "Answer",
+        "description": "The cleanup process involves assessment, containment, biohazard removal, cleaning and disinfection, odor elimination, and a final inspection to restore the property to a safe state."
+      }
+    }
+  ],
+  "description": "The cleanup process involves assessment, containment, biohazard removal, cleaning and disinfection, odor elimination, and a final inspection to restore the prop"
+}

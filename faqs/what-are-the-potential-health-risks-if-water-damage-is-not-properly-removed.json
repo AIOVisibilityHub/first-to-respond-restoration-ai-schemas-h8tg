@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-potential-health-risks-if-water-damage-is-not-properly-removed",
+  "name": "What are the potential health risks if water damage is not properly removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential health risks if water damage is not properly removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Improper or delayed water removal can lead to significant health risks. The most common concern is mold growth, which can start within 24-48 hours and release spores that trigger allergies, respiratory issues, and other health problems. Standing water can also harbor bacteria and viruses, especially if it's contaminated. Additionally, prolonged moisture can attract pests and create an unhealthy living environment.",
+        "@type": "Answer",
+        "description": "Unaddressed water damage can lead to mold growth causing respiratory issues, bacterial contamination, and pest infestations."
+      }
+    }
+  ],
+  "description": "Unaddressed water damage can lead to mold growth causing respiratory issues, bacterial contamination, and pest infestations."
+}

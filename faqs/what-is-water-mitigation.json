@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-water-mitigation",
+  "name": "What is water mitigation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is water mitigation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water mitigation is the process of preventing or reducing the amount of damage caused by water. This typically involves stopping the source of water, extracting standing water, drying affected areas, and applying antimicrobial treatments to prevent mold growth. The goal is to act quickly to limit the spread of water and moisture, thereby minimizing secondary damage to structures and contents, and ultimately reducing the overall cost of repairs and restoration.",
+        "@type": "Answer",
+        "description": "Water mitigation is the process of stopping water damage, extracting water, drying affected areas, and preventing mold to minimize further issues and repair costs."
+      }
+    }
+  ],
+  "description": "Water mitigation is the process of stopping water damage, extracting water, drying affected areas, and preventing mold to minimize further issues and repair cos"
+}

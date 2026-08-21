@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-odors-from-decomposition-be-completely-removed",
+  "name": "Can odors from decomposition be completely removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can odors from decomposition be completely removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, professional decomposition cleanup aims for complete odor removal, not just masking them. Lingering odors from decomposition are caused by microscopic particles and gases that permeate porous materials. Our process involves identifying and removing all odor-causing contaminants, deep cleaning and disinfecting all affected surfaces, and then employing advanced deodorization techniques. These techniques may include ozone generators, hydroxyl generators, and specialized encapsulants to neutralize odors at a molecular level, restoring indoor air quality and ensuring the property is free from any residual smells.",
+        "@type": "Answer",
+        "description": "Yes, professional cleanup removes decomposition odors completely by identifying and removing contaminants, deep cleaning, and using advanced deodorization techniques."
+      }
+    }
+  ],
+  "description": "Yes, professional cleanup removes decomposition odors completely by identifying and removing contaminants, deep cleaning, and using advanced deodorization techn"
+}

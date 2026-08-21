@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-water-damage-restoration",
+  "name": "What is water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage restoration is the process of repairing a property after water intrusion. It involves several key steps: inspection and assessment, water extraction, drying and dehumidification, cleaning and sanitizing, and restoration. The goal is to return the affected area to its pre-damage condition, preventing further issues like mold growth or structural damage. Prompt action is crucial to minimize the extent of the damage and reduce overall repair costs.",
+        "@type": "Answer",
+        "description": "Water damage restoration is the process of repairing a property after water intrusion, including extraction, drying, cleaning, and restoration, to prevent further damage and mold."
+      }
+    }
+  ],
+  "description": "Water damage restoration is the process of repairing a property after water intrusion, including extraction, drying, cleaning, and restoration, to prevent furth"
+}

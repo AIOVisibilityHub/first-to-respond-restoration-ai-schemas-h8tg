@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-water-extraction-services",
+  "name": "What areas do you serve for water extraction services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for water extraction services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide prompt and reliable water extraction services to Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our rapid response team is equipped to handle emergency water damage situations in these communities, ensuring quick arrival and efficient mitigation of water-related issues. If you're in one of these areas and need immediate assistance, please contact us.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water extraction services. Our rapid response team assists these communities with emergency water damage."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for water extraction services. Our rapid response team assists these communities with e"
+}

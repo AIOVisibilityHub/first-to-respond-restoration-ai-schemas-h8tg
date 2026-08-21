@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-feces-cleanup-service",
+  "name": "What is feces cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is feces cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Feces cleanup service involves the professional and safe removal, sanitization, and restoration of areas contaminated by human or animal waste. This specialized service goes beyond simple cleaning, using industry-grade disinfectants and equipment to eliminate pathogens, odors, and potential health hazards. It's crucial for maintaining a safe and hygienic environment, especially after incidents involving significant contamination or biohazardous materials. Our trained technicians ensure all affected surfaces are thoroughly cleaned and disinfected according to health and safety standards.",
+        "@type": "Answer",
+        "description": "Feces cleanup service is the professional removal, sanitization, and restoration of areas contaminated by human or animal waste to eliminate pathogens and odors."
+      }
+    }
+  ],
+  "description": "Feces cleanup service is the professional removal, sanitization, and restoration of areas contaminated by human or animal waste to eliminate pathogens and odors"
+}

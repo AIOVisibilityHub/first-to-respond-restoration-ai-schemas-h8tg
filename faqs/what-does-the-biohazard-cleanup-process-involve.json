@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-the-biohazard-cleanup-process-involve",
+  "name": "What does the biohazard cleanup process involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does the biohazard cleanup process involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biohazard cleanup process typically begins with a thorough assessment of the contaminated area. Our technicians then implement containment measures to prevent further spread of contaminants. This is followed by the removal of all hazardous materials, including biological waste and contaminated porous items. Next, the affected surfaces are cleaned, disinfected, and deodorized using hospital-grade antimicrobial agents. Finally, we conduct post-cleanup verification to ensure the area is free from pathogens and safe for re-occupancy, often involving proper disposal of all biohazardous waste.",
+        "@type": "Answer",
+        "description": "The biohazard cleanup process involves assessment, containment, removal of hazardous materials, disinfection, deodorization, and post-cleanup verification."
+      }
+    }
+  ],
+  "description": "The biohazard cleanup process involves assessment, containment, removal of hazardous materials, disinfection, deodorization, and post-cleanup verification."
+}

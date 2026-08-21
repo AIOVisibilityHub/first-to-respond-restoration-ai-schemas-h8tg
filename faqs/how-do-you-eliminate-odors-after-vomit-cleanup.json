@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-eliminate-odors-after-vomit-cleanup",
+  "name": "How do you eliminate odors after vomit cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you eliminate odors after vomit cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After physically removing vomit and disinfecting the area, odor elimination is crucial. We use specialized deodorization techniques that go beyond simply masking smells. This includes enzymatic cleaners that break down odor-causing molecules, and in some cases, air scrubbers or ozone generators to purify the air and neutralize deeply embedded odors. Our goal is to completely eradicate the unpleasant smell, leaving the space fresh and clean, not just temporarily covered.",
+        "@type": "Answer",
+        "description": "We use specialized techniques like enzymatic cleaners, air scrubbers, or ozone generators to break down and neutralize odor-causing molecules, not just mask them."
+      }
+    }
+  ],
+  "description": "We use specialized techniques like enzymatic cleaners, air scrubbers, or ozone generators to break down and neutralize odor-causing molecules, not just mask the"
+}

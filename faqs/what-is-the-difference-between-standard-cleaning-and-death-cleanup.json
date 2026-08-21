@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-standard-cleaning-and-death-cleanup",
+  "name": "What is the difference between standard cleaning and death cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between standard cleaning and death cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard cleaning focuses on general tidiness, dust, and common household germs using everyday cleaning products. Death cleanup, however, is a specialized service that deals with biohazardous materials like blood, bodily fluids, and decomposition. These materials contain dangerous pathogens that require specific training, personal protective equipment, industrial-strength disinfectants, and specialized disposal methods not available to general cleaners. Death cleanup ensures thorough decontamination and restoration to a safe environment, which standard cleaning cannot achieve.",
+        "@type": "Answer",
+        "description": "Standard cleaning handles general messes, while death cleanup specializes in removing dangerous biohazards like blood and bodily fluids, requiring specialized training, equipment, and disposal methods for safety."
+      }
+    }
+  ],
+  "description": "Standard cleaning handles general messes, while death cleanup specializes in removing dangerous biohazards like blood and bodily fluids, requiring specialized t"
+}

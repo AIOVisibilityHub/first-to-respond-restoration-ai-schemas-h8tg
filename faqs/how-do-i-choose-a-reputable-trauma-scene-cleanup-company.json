@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reputable-trauma-scene-cleanup-company",
+  "name": "How do I choose a reputable trauma scene cleanup company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable trauma scene cleanup company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a trauma scene cleanup company, look for certifications in biohazard remediation and bloodborne pathogen cleanup. Verify they follow OSHA and EPA guidelines, are licensed and insured, and provide discreet, compassionate service. Check for references or reviews, and ensure they offer 24/7 emergency response. A reputable company prioritizes safety, compliance, and thorough restoration.",
+        "@type": "Answer",
+        "description": "Choose a company with biohazard certifications, adherence to safety guidelines, licensing, insurance, discretion, and 24/7 availability."
+      }
+    }
+  ],
+  "description": "Choose a company with biohazard certifications, adherence to safety guidelines, licensing, insurance, discretion, and 24/7 availability."
+}

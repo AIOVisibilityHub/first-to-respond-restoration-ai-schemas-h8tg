@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-flood-damage-restoration",
+  "name": "What is flood damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is flood damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flood damage restoration is the process of mitigating the effects of water intrusion, drying out affected areas, cleaning and sanitizing contaminated surfaces, and repairing or rebuilding damaged structures and contents. This comprehensive service aims to return a property to its pre-damage condition, preventing further issues like mold growth and structural weakening. It typically involves water extraction, dehumidification, debris removal, and thorough cleaning protocols.",
+        "@type": "Answer",
+        "description": "Flood damage restoration involves mitigating water intrusion, drying affected areas, cleaning, and repairing properties to their pre-damage state."
+      }
+    }
+  ],
+  "description": "Flood damage restoration involves mitigating water intrusion, drying affected areas, cleaning, and repairing properties to their pre-damage state."
+}

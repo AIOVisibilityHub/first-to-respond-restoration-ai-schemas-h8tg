@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-training-do-your-blood-cleanup-technicians-have",
+  "name": "What kind of training do your blood cleanup technicians have?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of training do your blood cleanup technicians have?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our blood cleanup technicians undergo rigorous training that adheres to OSHA (Occupational Safety and Health Administration) standards for handling bloodborne pathogens and hazardous waste. This training includes proper use of personal protective equipment (PPE), containment procedures, biohazard removal and disinfection techniques, and correct disposal protocols for biohazardous waste. They are also trained in compassion and discretion, understanding the sensitive nature of these situations. Continuous education ensures our team remains updated on the latest safety guidelines and cleaning technologies.",
+        "@type": "Answer",
+        "description": "Our technicians are OSHA-trained in bloodborne pathogens and hazardous waste handling. They are skilled in PPE use, biohazard removal, disinfection, and proper disposal techniques."
+      }
+    }
+  ],
+  "description": "Our technicians are OSHA-trained in bloodborne pathogens and hazardous waste handling. They are skilled in PPE use, biohazard removal, disinfection, and proper"
+}

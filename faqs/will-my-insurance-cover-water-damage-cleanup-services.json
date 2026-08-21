@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-water-damage-cleanup-services",
+  "name": "Will my insurance cover water damage cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover water damage cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover water damage cleanup if the cause is sudden and accidental, such as a burst pipe or a storm. However, damage from neglected maintenance, floods (unless you have separate flood insurance), or sewer backups may not be covered. It's essential to review your specific policy details or consult with your insurance provider. We can assist with documentation and provide estimates to help facilitate your claim process.",
+        "@type": "Answer",
+        "description": "Insurance often covers sudden water damage, but not issues from neglect or floods without specific flood insurance. Check your policy."
+      }
+    }
+  ],
+  "description": "Insurance often covers sudden water damage, but not issues from neglect or floods without specific flood insurance. Check your policy."
+}

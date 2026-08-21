@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-should-i-do-immediately-if-there-s-blood-on-my-carpet",
+  "name": "What should I do immediately if there's blood on my carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if there's blood on my carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If blood is spilled on your carpet, act quickly. Avoid rubbing the stain, which can spread it and push it deeper into the fibers. Instead, gently blot the affected area with a clean, white cloth or paper towel to absorb as much of the liquid blood as possible. Wear gloves to protect yourself. Do not use hot water, as heat can set bloodstains. If the blood has dried, gently scrape off any crusted material before attempting to clean. For significant or biohazardous spills, professional help is recommended to ensure complete removal and disinfection.",
+        "@type": "Answer",
+        "description": "Immediately blot fresh blood with a clean cloth, avoiding rubbing. For dried blood, gently scrape before cleaning. Wear gloves and avoid hot water."
+      }
+    }
+  ],
+  "description": "Immediately blot fresh blood with a clean cloth, avoiding rubbing. For dried blood, gently scrape before cleaning. Wear gloves and avoid hot water."
+}

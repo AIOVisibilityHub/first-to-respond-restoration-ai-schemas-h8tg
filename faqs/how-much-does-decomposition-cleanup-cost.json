@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-decomposition-cleanup-cost",
+  "name": "How much does decomposition cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does decomposition cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of decomposition cleanup is highly variable and depends on factors such as the severity and type of contamination, the size of the affected area, the materials that need to be removed or replaced, and the complexity of odor removal. Due to the unique nature of each scene, an accurate estimate requires an on-site assessment. Many homeowner's or commercial insurance policies may cover the costs of biohazard remediation, so we recommend checking with your provider. We offer transparent pricing after evaluating the specific needs of your situation.",
+        "@type": "Answer",
+        "description": "Cleanup cost varies based on contamination severity, area size, and materials. An on-site assessment is needed for an accurate estimate. Insurance may cover costs."
+      }
+    }
+  ],
+  "description": "Cleanup cost varies based on contamination severity, area size, and materials. An on-site assessment is needed for an accurate estimate. Insurance may cover cos"
+}

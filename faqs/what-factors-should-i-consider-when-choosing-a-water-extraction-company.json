@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-factors-should-i-consider-when-choosing-a-water-extraction-company",
+  "name": "What factors should I consider when choosing a water extraction company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a water extraction company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a water extraction company, consider their response time, experience, and the type of equipment they use. Look for certifications, such as IICRC, which indicate adherence to industry standards. Verify if they offer comprehensive drying and mold prevention services. Reading customer reviews and ensuring they are properly licensed and insured can also help you make an informed decision for your restoration needs.",
+        "@type": "Answer",
+        "description": "When choosing a water extraction company, consider their response time, experience, equipment, certifications, and comprehensive services. Also check licensing, insurance, and customer reviews."
+      }
+    }
+  ],
+  "description": "When choosing a water extraction company, consider their response time, experience, equipment, certifications, and comprehensive services. Also check licensing,"
+}

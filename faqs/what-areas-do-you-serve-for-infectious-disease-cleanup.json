@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-infectious-disease-cleanup",
+  "name": "What areas do you serve for infectious disease cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for infectious disease cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide expert infectious disease cleanup services to homes and businesses in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our local teams are strategically positioned to respond quickly to emergency situations throughout these communities, ensuring timely and effective remediation. If you are located in one of these areas and require professional disinfection and sanitization services, please contact us for immediate assistance or to schedule an assessment.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for infectious disease cleanup, offering quick response to local homes and businesses."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for infectious disease cleanup, offering quick response to local homes and businesses."
+}

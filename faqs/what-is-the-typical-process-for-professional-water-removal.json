@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-professional-water-removal",
+  "name": "What is the typical process for professional water removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for professional water removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional water removal typically involves several steps. First, technicians assess the damage and identify the water source. Next, high-powered pumps and industrial-grade vacuums are used to extract all standing water. After extraction, the area is thoroughly dried using dehumidifiers and air movers to eliminate residual moisture. Finally, the affected areas are cleaned and sanitized to prevent mold and bacterial growth, preparing the site for restoration.",
+        "@type": "Answer",
+        "description": "The process includes assessment, water extraction with pumps, thorough drying with dehumidifiers, and cleaning/sanitizing."
+      }
+    }
+  ],
+  "description": "The process includes assessment, water extraction with pumps, thorough drying with dehumidifiers, and cleaning/sanitizing."
+}

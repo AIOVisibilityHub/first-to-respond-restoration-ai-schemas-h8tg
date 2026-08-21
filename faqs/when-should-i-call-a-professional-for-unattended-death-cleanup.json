@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-unattended-death-cleanup",
+  "name": "When should I call a professional for unattended death cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for unattended death cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for unattended death cleanup as soon as the authorities have released the scene. Prompt action is important to prevent further contamination, mitigate structural damage, and reduce the intensity of odors. The longer biohazards remain, the more difficult and costly the cleanup can become. Professionals can begin the remediation process swiftly and safely, ensuring the property is returned to a safe condition as quickly as possible. Do not attempt to clean it yourself.",
+        "@type": "Answer",
+        "description": "Call a professional immediately after authorities release the scene. Prompt cleanup prevents further contamination, reduces damage, and minimizes costs, ensuring safe and swift remediation."
+      }
+    }
+  ],
+  "description": "Call a professional immediately after authorities release the scene. Prompt cleanup prevents further contamination, reduces damage, and minimizes costs, ensurin"
+}

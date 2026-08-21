@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-suicide-cleanup",
+  "name": "What is the process for suicide cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for suicide cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process begins with a thorough assessment of the scene to identify all contaminated areas. Technicians then establish containment zones to prevent cross-contamination. Biohazardous materials, including blood, bodily fluids, and contaminated porous items, are safely removed and disposed of according to strict regulations. The area is then decontaminated using hospital-grade disinfectants, followed by comprehensive cleaning and deodorization. Finally, a post-cleanup inspection ensures the property is fully restored to a safe and habitable condition.",
+        "@type": "Answer",
+        "description": "The cleanup process involves assessment, containment, removal of biohazards, thorough disinfection and decontamination, odor removal, and a final inspection."
+      }
+    }
+  ],
+  "description": "The cleanup process involves assessment, containment, removal of biohazards, thorough disinfection and decontamination, odor removal, and a final inspection."
+}

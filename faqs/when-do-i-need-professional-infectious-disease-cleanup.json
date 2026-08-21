@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-infectious-disease-cleanup",
+  "name": "When do I need professional infectious disease cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional infectious disease cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional infectious disease cleanup is necessary after confirmed or suspected outbreaks of highly contagious illnesses, such as COVID-19, influenza, or norovirus, in your home or business. It's also recommended after incidents involving biohazardous materials like blood or bodily fluids, or in high-traffic commercial spaces requiring enhanced sanitization. While routine cleaning addresses everyday dirt, professional services use specialized equipment and disinfectants to eliminate unseen pathogens, ensuring a deeper level of decontamination that is crucial for public health and safety.",
+        "@type": "Answer",
+        "description": "Professional cleanup is needed after confirmed infectious disease outbreaks, incidents with biohazardous materials, or for enhanced sanitization in high-traffic areas."
+      }
+    }
+  ],
+  "description": "Professional cleanup is needed after confirmed infectious disease outbreaks, incidents with biohazardous materials, or for enhanced sanitization in high-traffic"
+}

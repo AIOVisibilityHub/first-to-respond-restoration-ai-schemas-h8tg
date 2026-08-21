@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-should-i-choose-a-local-water-damage-cleanup-company-like-first-to-respond-r",
+  "name": "Why should I choose a local water damage cleanup company like First To Respond Restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a local water damage cleanup company like First To Respond Restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local company like First To Respond Restoration means you benefit from faster response times, especially critical in emergency situations. Our teams are familiar with the specific needs and building types in areas such as Tarzana and North Hollywood. We are deeply invested in our community, offering personalized service and accountability that larger, non-local companies may not. Our reputation in the San Fernando Valley is built on trust and reliable service.",
+        "@type": "Answer",
+        "description": "Local companies offer faster emergency response, familiarity with area-specific issues, and personalized service, building community trust."
+      }
+    }
+  ],
+  "description": "Local companies offer faster emergency response, familiarity with area-specific issues, and personalized service, building community trust."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-infectious-disease-cleanup",
+  "name": "What is the process for infectious disease cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for infectious disease cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process typically begins with an assessment of the affected area to identify the scope of contamination. Next, our technicians, equipped with appropriate personal protective equipment (PPE), contain the area to prevent further spread. High-grade disinfectants are applied to all surfaces, followed by thorough cleaning and sanitization. Air scrubbers may be used to purify the air. Finally, all biohazardous waste is safely removed and disposed of according to strict guidelines. We conduct post-cleanup verification to ensure the environment is safe.",
+        "@type": "Answer",
+        "description": "The process involves assessment, containment, application of disinfectants, thorough cleaning, air purification, and proper disposal of biohazardous waste."
+      }
+    }
+  ],
+  "description": "The process involves assessment, containment, application of disinfectants, thorough cleaning, air purification, and proper disposal of biohazardous waste."
+}

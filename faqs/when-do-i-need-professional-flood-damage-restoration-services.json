@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-flood-damage-restoration-services",
+  "name": "When do I need professional flood damage restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional flood damage restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should seek professional flood damage restoration services immediately after any significant water event, such as burst pipes, sewage backups, or natural floods. Rapid response is crucial to prevent secondary damage like mold growth, structural deterioration, and lingering odors. Even seemingly minor water incidents can lead to serious problems if not addressed promptly and thoroughly by experts with specialized equipment and techniques.",
+        "@type": "Answer",
+        "description": "Professional flood damage restoration is needed immediately after any significant water event to prevent further damage and mold."
+      }
+    }
+  ],
+  "description": "Professional flood damage restoration is needed immediately after any significant water event to prevent further damage and mold."
+}

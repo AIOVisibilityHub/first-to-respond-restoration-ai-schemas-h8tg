@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-types-of-surfaces-can-you-clean-blood-from",
+  "name": "What types of surfaces can you clean blood from?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of surfaces can you clean blood from?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our professional cleanup services can address blood contamination on a wide range of surfaces. This includes porous materials like carpets, upholstery, concrete, and wood, as well as non-porous surfaces such as tile, laminate, metal, and plastic. Our technicians are trained to assess the specific material and apply the appropriate cleaning and disinfection methods to ensure complete remediation without causing further damage.",
+        "@type": "Answer",
+        "description": "We clean blood from various surfaces, including porous materials like carpet and wood, and non-porous surfaces like tile and metal."
+      }
+    }
+  ],
+  "description": "We clean blood from various surfaces, including porous materials like carpet and wood, and non-porous surfaces like tile and metal."
+}

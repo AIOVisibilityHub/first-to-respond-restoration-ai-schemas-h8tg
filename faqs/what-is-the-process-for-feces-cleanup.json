@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-feces-cleanup",
+  "name": "What is the process for feces cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for feces cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our feces cleanup process begins with a thorough assessment of the affected area to identify all contaminated surfaces and potential hazards. Next, our technicians, wearing appropriate personal protective equipment, safely remove all visible waste. This is followed by deep cleaning and disinfection using industrial-grade decontaminants to eliminate bacteria, viruses, and odors. Finally, we dispose of all contaminated materials according to regulatory guidelines and perform post-cleanup verification to ensure the area is safe and hygienic. Restoration of affected property materials may also be included.",
+        "@type": "Answer",
+        "description": "The process involves assessment, safe removal of waste, deep cleaning and disinfection, proper disposal of materials, and post-cleanup verification."
+      }
+    }
+  ],
+  "description": "The process involves assessment, safe removal of waste, deep cleaning and disinfection, proper disposal of materials, and post-cleanup verification."
+}

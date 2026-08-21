@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-infectious-disease-cleanup",
+  "name": "What is infectious disease cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is infectious disease cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Infectious disease cleanup involves the thorough disinfection and sanitization of properties contaminated by harmful pathogens, viruses, and bacteria. This specialized service is crucial for preventing the spread of diseases and ensuring a safe environment. Professionals use hospital-grade disinfectants, personal protective equipment (PPE), and specific protocols to eliminate contaminants from surfaces, air, and materials. This includes cleaning, sanitizing, and properly disposing of biohazardous waste to restore the property to a safe and habitable condition.",
+        "@type": "Answer",
+        "description": "Infectious disease cleanup is the professional disinfection and sanitization of properties contaminated by pathogens to prevent disease spread."
+      }
+    }
+  ],
+  "description": "Infectious disease cleanup is the professional disinfection and sanitization of properties contaminated by pathogens to prevent disease spread."
+}

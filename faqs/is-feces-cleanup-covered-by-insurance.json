@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-feces-cleanup-covered-by-insurance",
+  "name": "Is feces cleanup covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is feces cleanup covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's or commercial property insurance policies may cover the costs associated with professional feces cleanup, especially if the contamination resulted from a covered event such as a plumbing backup, structural damage, or vandalism. Coverage often depends on the specifics of your policy and the cause of the contamination. We recommend contacting your insurance provider directly to understand your coverage details. We can also assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Feces cleanup may be covered by homeowner's or commercial insurance if it resulted from a covered event; check your policy for details."
+      }
+    }
+  ],
+  "description": "Feces cleanup may be covered by homeowner's or commercial insurance if it resulted from a covered event; check your policy for details."
+}

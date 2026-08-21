@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-permits-for-bodily-fluid-cleanup-or-disposal",
+  "name": "Do I need permits for bodily fluid cleanup or disposal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for bodily fluid cleanup or disposal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most standard bodily fluid cleanup scenarios in private residences or businesses, individuals do not typically need to obtain specific permits for the cleanup itself. However, the disposal of biohazardous waste is highly regulated. Professional cleanup companies are responsible for adhering to all local, state, and federal regulations for the safe packaging, transportation, and disposal of biohazardous materials. Attempting to dispose of such waste improperly yourself can lead to fines and environmental hazards.",
+        "@type": "Answer",
+        "description": "You generally don't need permits for the cleanup itself, but professional companies are required to handle biohazardous waste disposal according to strict local, state, and federal regulations."
+      }
+    }
+  ],
+  "description": "You generally don't need permits for the cleanup itself, but professional companies are required to handle biohazardous waste disposal according to strict local"
+}

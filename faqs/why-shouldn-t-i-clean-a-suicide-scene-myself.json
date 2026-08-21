@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-shouldn-t-i-clean-a-suicide-scene-myself",
+  "name": "Why shouldn't I clean a suicide scene myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why shouldn't I clean a suicide scene myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning a suicide scene yourself is highly discouraged due to significant health risks and potential psychological trauma. Biohazardous materials like blood and bodily fluids can carry dangerous pathogens, including viruses and bacteria, that require specialized handling and disposal. Without proper training, protective equipment, and industrial-grade disinfectants, you risk exposure to these hazards. Professionals are equipped to safely and thoroughly decontaminate the area, ensuring all biohazards are removed and disposed of legally, protecting your health and well-being.",
+        "@type": "Answer",
+        "description": "Cleaning a suicide scene yourself is unsafe due to health risks from biohazards and potential psychological trauma; professionals have the training and equipment to do it safely."
+      }
+    }
+  ],
+  "description": "Cleaning a suicide scene yourself is unsafe due to health risks from biohazards and potential psychological trauma; professionals have the training and equipmen"
+}

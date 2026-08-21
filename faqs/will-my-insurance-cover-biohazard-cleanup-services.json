@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-biohazard-cleanup-services",
+  "name": "Will my insurance cover biohazard cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover biohazard cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowners, renters, and commercial insurance policies do offer coverage for biohazard cleanup services, especially in cases of unexpected and accidental damage, such as a trauma incident or an unattended death. Coverage often depends on the specific policy details and the cause of the contamination. It's always best to contact your insurance provider directly to understand your coverage limits, deductible, and the claims process. Our team can help document the damage and work with your insurer.",
+        "@type": "Answer",
+        "description": "Many insurance policies cover biohazard cleanup, but coverage depends on your specific policy and the cause of contamination. Contact your insurer for details."
+      }
+    }
+  ],
+  "description": "Many insurance policies cover biohazard cleanup, but coverage depends on your specific policy and the cause of contamination. Contact your insurer for details."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-causes-a-decomposing-smell-in-a-house",
+  "name": "What causes a decomposing smell in a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a decomposing smell in a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A decomposing smell in a house typically indicates the presence of organic matter breaking down. Common sources include dead animals (rodents, birds, or larger pests) trapped in walls, attics, crawl spaces, or under floors. Other causes can be neglected food waste, sewage backups, or even certain types of mold growth in severe cases. Identifying the exact source is crucial for effective removal and odor elimination.",
+        "@type": "Answer",
+        "description": "A decomposing smell usually comes from dead animals in hidden spaces, neglected food waste, or sewage issues."
+      }
+    }
+  ],
+  "description": "A decomposing smell usually comes from dead animals in hidden spaces, neglected food waste, or sewage issues."
+}

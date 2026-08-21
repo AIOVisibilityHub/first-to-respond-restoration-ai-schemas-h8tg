@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-handle-vomit-cleanup-in-commercial-spaces-or-just-residential",
+  "name": "Do you handle vomit cleanup in commercial spaces or just residential?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle vomit cleanup in commercial spaces or just residential?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, First To Respond Restoration provides professional vomit cleanup services for both commercial and residential properties. Whether it's a small incident in a home or a larger contamination in a restaurant, office, school, or healthcare facility, our trained technicians are equipped to handle various scales of cleanup. We ensure compliance with health and safety standards appropriate for different environments, helping businesses maintain a clean and safe setting for their employees and customers.",
+        "@type": "Answer",
+        "description": "We handle vomit cleanup for both commercial and residential properties, equipped for various scales and environments while adhering to health standards."
+      }
+    }
+  ],
+  "description": "We handle vomit cleanup for both commercial and residential properties, equipped for various scales and environments while adhering to health standards."
+}

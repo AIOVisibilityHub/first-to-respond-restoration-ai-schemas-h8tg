@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-blood-cleanup",
+  "name": "What is the process for blood cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for blood cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional blood cleanup follows a meticulous multi-step process. First, technicians assess the scene to identify all contaminated areas. Next, they secure the site to prevent unauthorized entry. Using specialized equipment and disinfectants, they carefully remove all visible blood and bodily fluids. This is followed by thorough cleaning and disinfection of affected surfaces to eliminate pathogens. Any contaminated porous materials, like carpets or upholstery, are often removed and disposed of as biohazardous waste. Finally, the area is deodorized and verified clean, safe, and livable.",
+        "@type": "Answer",
+        "description": "The blood cleanup process involves scene assessment, securement, removal of biohazards, thorough disinfection, specialized disposal of contaminated materials, and final deodorization."
+      }
+    }
+  ],
+  "description": "The blood cleanup process involves scene assessment, securement, removal of biohazards, thorough disinfection, specialized disposal of contaminated materials, a"
+}

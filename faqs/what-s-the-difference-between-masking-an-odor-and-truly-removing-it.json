@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-masking-an-odor-and-truly-removing-it",
+  "name": "What's the difference between masking an odor and truly removing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between masking an odor and truly removing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Masking an odor involves covering it up with stronger, more pleasant scents, which only provides a temporary solution. The decomposing smell will return once the masking agent dissipates because the source of the odor is still present. True odor removal, however, involves identifying and eliminating the source of the smell, thoroughly cleaning and decontaminating the affected surfaces, and using specialized equipment to neutralize odor molecules at their origin. This results in a permanent resolution.",
+        "@type": "Answer",
+        "description": "Masking only covers the smell temporarily, while true removal eliminates the source and neutralizes odor molecules for a permanent solution."
+      }
+    }
+  ],
+  "description": "Masking only covers the smell temporarily, while true removal eliminates the source and neutralizes odor molecules for a permanent solution."
+}

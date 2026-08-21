@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-water-damage-restoration-cost",
+  "name": "How much does water damage restoration cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does water damage restoration cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damage restoration is highly variable, influenced by factors such as the category of water (e.g., clean, contaminated), the extent of the damage, the materials affected, and the time required for drying and repair. Minor incidents might cost a few hundred dollars, while extensive damage involving structural components or mold remediation can run into thousands. Most reputable restoration companies provide a detailed estimate after an on-site assessment, and insurance often covers these expenses.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on damage extent, water category, and affected materials. Minor issues are less expensive, while extensive damage costs more. An on-site estimate is needed."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on damage extent, water category, and affected materials. Minor issues are less expensive, while extensive damage costs more. An on-site"
+}

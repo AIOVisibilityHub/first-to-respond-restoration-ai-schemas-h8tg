@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-difference-between-water-damage-restoration-and-water-damage-repair",
+  "name": "What is the difference between water damage restoration and water damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water damage restoration and water damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage restoration is a comprehensive process that involves mitigating the damage, extracting water, drying, dehumidifying, and cleaning to prevent secondary issues like mold. Its goal is to return the affected area to its pre-damage state. Water damage repair, on the other hand, typically refers to fixing or replacing specific components that were damaged, such as drywall, flooring, or plumbing. Restoration encompasses the entire cleanup effort, while repair is a part of the final reconstruction phase.",
+        "@type": "Answer",
+        "description": "Restoration is the full cleanup, drying, and sanitizing process. Repair involves fixing or replacing specific damaged materials after restoration."
+      }
+    }
+  ],
+  "description": "Restoration is the full cleanup, drying, and sanitizing process. Repair involves fixing or replacing specific damaged materials after restoration."
+}

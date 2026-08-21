@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-are-the-signs-of-hidden-water-damage",
+  "name": "What are the signs of hidden water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of hidden water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden water damage can manifest in several ways, often before it becomes visibly obvious. Common signs include musty odors, especially in basements or crawl spaces, discoloration or bulging on walls or ceilings, peeling paint, warped flooring, or soft spots on drywall. Unexplained increases in your water bill could also indicate a hidden leak. Early detection is vital to prevent more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Signs include musty smells, discolored or bulging walls/ceilings, peeling paint, warped floors, or unexplained high water bills."
+      }
+    }
+  ],
+  "description": "Signs include musty smells, discolored or bulging walls/ceilings, peeling paint, warped floors, or unexplained high water bills."
+}

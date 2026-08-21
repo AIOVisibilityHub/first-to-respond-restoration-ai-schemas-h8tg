@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-human-waste-cleanup",
+  "name": "When should I call a professional for human waste cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for human waste cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for human waste cleanup whenever there is a significant spill, widespread contamination, or if you are uncomfortable or unqualified to handle the biological hazards yourself. This includes incidents involving sewage backups, unattended deaths, or accidents where bodily fluids have seeped into porous materials like carpets, subflooring, or upholstery. Professionals have the necessary protective equipment, specialized cleaning agents, and disposal methods to ensure the area is safely and completely decontaminated, minimizing health risks and preventing secondary damage.",
+        "@type": "Answer",
+        "description": "Call a professional for human waste cleanup in cases of significant spills, widespread contamination, or if you are not equipped to handle biological hazards. Professionals ensure safe and complete decontamination."
+      }
+    }
+  ],
+  "description": "Call a professional for human waste cleanup in cases of significant spills, widespread contamination, or if you are not equipped to handle biological hazards. P"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-shouldn-t-i-clean-a-trauma-scene-myself",
+  "name": "Why shouldn't I clean a trauma scene myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why shouldn't I clean a trauma scene myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning a trauma scene yourself exposes you to significant health risks from bloodborne pathogens, bacteria, and viruses. Without proper training, personal protective equipment, and specialized cleaning agents, you risk infection or further contamination. Professional cleaners ensure complete remediation and proper disposal of biohazardous waste according to safety regulations, protecting your health and property.",
+        "@type": "Answer",
+        "description": "Self-cleaning a trauma scene poses serious health risks due to biohazards; professionals have the training and equipment for safe remediation."
+      }
+    }
+  ],
+  "description": "Self-cleaning a trauma scene poses serious health risks due to biohazards; professionals have the training and equipment for safe remediation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-trauma-scene-cleanup-covered-by-insurance",
+  "name": "Is trauma scene cleanup covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is trauma scene cleanup covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, trauma scene cleanup services may be covered by property insurance policies, such as homeowner's, renter's, or commercial insurance. Coverage often depends on the specific policy details and the cause of the incident. It is advisable to contact your insurance provider directly to understand your coverage options and claim process. We can help provide necessary documentation for your claim.",
+        "@type": "Answer",
+        "description": "Often, trauma scene cleanup is covered by property insurance; check your specific policy details with your insurance provider."
+      }
+    }
+  ],
+  "description": "Often, trauma scene cleanup is covered by property insurance; check your specific policy details with your insurance provider."
+}

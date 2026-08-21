@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-urine-cleanup-instead-of-cleaning-it-mysel",
+  "name": "When should I call a professional for urine cleanup instead of cleaning it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for urine cleanup instead of cleaning it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for urine cleanup when the affected area is large, the urine has soaked into subflooring or padding, or if persistent odors remain after your own cleaning attempts. Professionals have the tools to identify hidden contamination and apply commercial-grade treatments that effectively break down uric acid crystals and bacteria. DIY methods often only address surface stains, leaving behind odor sources that can attract pets to remark the same spot.",
+        "@type": "Answer",
+        "description": "Call a professional for large spills, when urine has soaked into subflooring, or if persistent odors remain after your cleaning efforts."
+      }
+    }
+  ],
+  "description": "Call a professional for large spills, when urine has soaked into subflooring, or if persistent odors remain after your cleaning efforts."
+}

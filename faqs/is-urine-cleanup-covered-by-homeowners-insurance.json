@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-urine-cleanup-covered-by-homeowners-insurance",
+  "name": "Is urine cleanup covered by homeowners insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is urine cleanup covered by homeowners insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether urine cleanup is covered by homeowners insurance depends on the specifics of your policy and the cause of the damage. Generally, sudden and accidental damage, such as a pet accident, might be covered, but policies often have limitations or exclusions for damage caused by pets, or for gradual damage. It is best to review your individual policy or contact your insurance provider directly to understand your coverage options for this type of cleanup.",
+        "@type": "Answer",
+        "description": "Coverage depends on your specific homeowners insurance policy and the cause of the damage. Review your policy or contact your provider to confirm."
+      }
+    }
+  ],
+  "description": "Coverage depends on your specific homeowners insurance policy and the cause of the damage. Review your policy or contact your provider to confirm."
+}

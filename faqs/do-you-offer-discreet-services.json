@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-discreet-services",
+  "name": "Do you offer discreet services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer discreet services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, discretion is a cornerstone of our suicide cleanup services. We understand the sensitive nature of these situations and operate with the utmost respect for your privacy and emotional well-being. Our teams arrive in unmarked vehicles and wear standard uniforms, avoiding any conspicuous branding. We conduct our work efficiently and quietly, aiming to minimize disruption and maintain confidentiality throughout the entire process. Our goal is to provide thorough cleanup while ensuring privacy and compassion for those affected.",
+        "@type": "Answer",
+        "description": "Yes, we offer discreet suicide cleanup services using unmarked vehicles and standard uniforms, operating with confidentiality and respect for your privacy."
+      }
+    }
+  ],
+  "description": "Yes, we offer discreet suicide cleanup services using unmarked vehicles and standard uniforms, operating with confidentiality and respect for your privacy."
+}

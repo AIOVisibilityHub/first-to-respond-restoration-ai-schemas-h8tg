@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-it-cost-to-remove-a-decomposing-smell",
+  "name": "How much does it cost to remove a decomposing smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove a decomposing smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of removing a decomposing smell varies widely depending on the source's size, location, and the extent of contamination. Factors influencing cost include the need for demolition (e.g., cutting into walls), the type and amount of affected materials needing removal and replacement, and the duration of specialized deodorization treatments. A professional assessment is necessary to provide an accurate estimate, as every situation is unique.",
+        "@type": "Answer",
+        "description": "Cost varies based on the source's size, location, and contamination extent, including demolition and replacement of affected materials."
+      }
+    }
+  ],
+  "description": "Cost varies based on the source's size, location, and contamination extent, including demolition and replacement of affected materials."
+}

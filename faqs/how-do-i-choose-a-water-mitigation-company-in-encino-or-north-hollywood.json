@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-water-mitigation-company-in-encino-or-north-hollywood",
+  "name": "How do I choose a water mitigation company in Encino or North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a water mitigation company in Encino or North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a water mitigation company in areas like Encino or North Hollywood, look for companies that offer 24/7 emergency services, are licensed and insured, and have certified technicians. Check their local reviews and ensure they have experience with the specific type of water damage you've experienced. A reputable company will provide a clear estimate, explain the process thoroughly, and work directly with your insurance company. Prioritize quick response times, as immediate action is critical in water damage situations.",
+        "@type": "Answer",
+        "description": "Choose a local water mitigation company that offers 24/7 emergency service, is licensed, insured, has certified technicians, and positive reviews, especially for areas like Encino or North Hollywood."
+      }
+    }
+  ],
+  "description": "Choose a local water mitigation company that offers 24/7 emergency service, is licensed, insured, has certified technicians, and positive reviews, especially fo"
+}

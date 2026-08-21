@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-it-take-to-clean-blood-from-walls",
+  "name": "How long does it take to clean blood from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to clean blood from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for blood cleanup on walls varies depending on the severity of contamination, the type of surface, and the size of the affected area. A minor incident on a non-porous surface might be completed within a few hours. More extensive contamination, especially on porous materials like drywall or if multiple rooms are affected, could take one to several days, including drying and deodorization time. Our team works efficiently to minimize disruption while ensuring thorough decontamination.",
+        "@type": "Answer",
+        "description": "Cleanup time varies based on severity, surface type, and area size; minor incidents can be hours, while extensive contamination might take several days for complete decontamination and drying."
+      }
+    }
+  ],
+  "description": "Cleanup time varies based on severity, surface type, and area size; minor incidents can be hours, while extensive contamination might take several days for comp"
+}

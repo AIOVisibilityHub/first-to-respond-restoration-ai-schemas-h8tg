@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-much-does-death-cleanup-cost",
+  "name": "How much does death cleanup cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does death cleanup cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of death cleanup varies significantly based on several factors, including the extent of contamination, the size of the affected area, the type of surfaces involved, and the necessary specialized equipment or techniques. Factors like structural damage, hazardous material disposal, and odor removal can also influence the total price. Most reputable companies provide a detailed, on-site assessment and estimate before beginning work. Many homeowner's insurance policies may cover the cost; we recommend checking with your provider.",
+        "@type": "Answer",
+        "description": "Death cleanup costs vary based on contamination extent, affected area size, surface types, and specialized equipment needed. Many homeowner's insurance policies may cover these costs."
+      }
+    }
+  ],
+  "description": "Death cleanup costs vary based on contamination extent, affected area size, surface types, and specialized equipment needed. Many homeowner's insurance policies"
+}

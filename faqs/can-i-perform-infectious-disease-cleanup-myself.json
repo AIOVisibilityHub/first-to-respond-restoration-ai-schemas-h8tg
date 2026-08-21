@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-perform-infectious-disease-cleanup-myself",
+  "name": "Can I perform infectious disease cleanup myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform infectious disease cleanup myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While routine cleaning and disinfection for minor concerns can be done by individuals, professional infectious disease cleanup is highly recommended for significant contamination or outbreaks involving serious pathogens. Professionals have specialized training, personal protective equipment (PPE), and access to industrial-grade disinfectants and equipment not available to the public. Attempting to clean biohazardous materials without proper knowledge and tools can expose you to health risks and may not fully eliminate the threat, potentially leading to continued spread of illness.",
+        "@type": "Answer",
+        "description": "Professional cleanup is recommended for significant contamination or serious pathogens, as it requires specialized training, PPE, and industrial-grade disinfectants for effective and safe remediation."
+      }
+    }
+  ],
+  "description": "Professional cleanup is recommended for significant contamination or serious pathogens, as it requires specialized training, PPE, and industrial-grade disinfect"
+}

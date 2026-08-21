@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-water-mitigation-services",
+  "name": "Will my insurance cover water mitigation services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover water mitigation services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover water damage if the cause is sudden and accidental, such as a burst pipe or appliance malfunction. However, coverage often excludes damage from floods (which requires separate flood insurance) or neglect, like a long-term leaky roof. It's important to contact your insurance provider as soon as possible after discovering water damage to understand your specific policy coverage and claims process. We can help document the damage for your claim.",
+        "@type": "Answer",
+        "description": "Many homeowner's insurance policies cover sudden and accidental water damage, but typically exclude flood damage or issues from neglect. Contact your insurer promptly to confirm coverage."
+      }
+    }
+  ],
+  "description": "Many homeowner's insurance policies cover sudden and accidental water damage, but typically exclude flood damage or issues from neglect. Contact your insurer pr"
+}

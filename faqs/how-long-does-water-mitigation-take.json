@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-water-mitigation-take",
+  "name": "How long does water mitigation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water mitigation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water mitigation varies depending on the extent of the water damage, the type of materials affected, and the size of the area. Typically, the initial water extraction and drying process can take anywhere from 3 to 7 days. This includes setting up specialized drying equipment, monitoring moisture levels, and ensuring all affected materials are thoroughly dry. More severe cases, or those involving significant structural damage, may require a longer drying and remediation period.",
+        "@type": "Answer",
+        "description": "The water mitigation process typically takes 3 to 7 days for initial drying, but can vary based on the extent of damage."
+      }
+    }
+  ],
+  "description": "The water mitigation process typically takes 3 to 7 days for initial drying, but can vary based on the extent of damage."
+}

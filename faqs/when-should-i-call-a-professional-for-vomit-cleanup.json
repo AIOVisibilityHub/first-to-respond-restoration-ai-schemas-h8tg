@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-vomit-cleanup",
+  "name": "When should I call a professional for vomit cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for vomit cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for vomit cleanup if the affected area is large, involves porous materials like carpets or upholstery, or if you suspect hazardous bodily fluids are present. Professionals have the necessary protective equipment and specialized cleaning agents to ensure complete disinfection and odor elimination. This is particularly important in commercial settings or after widespread illness to prevent further contamination and maintain a healthy environment for others.",
+        "@type": "Answer",
+        "description": "Call a professional for large areas, porous materials, or when hazardous bodily fluids are suspected to ensure complete disinfection and odor elimination."
+      }
+    }
+  ],
+  "description": "Call a professional for large areas, porous materials, or when hazardous bodily fluids are suspected to ensure complete disinfection and odor elimination."
+}

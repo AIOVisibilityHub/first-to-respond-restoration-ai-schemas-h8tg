@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-decomposition-cleanup",
+  "name": "Will my homeowner's insurance cover decomposition cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover decomposition cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies, as well as commercial property insurance, often provide coverage for biohazard remediation, including decomposition cleanup, under specific clauses such as accidental damage, vandalism, or certain perils. However, coverage can vary greatly depending on your individual policy terms and the circumstances of the incident. It is highly recommended to contact your insurance provider directly to understand your specific coverage limits, deductibles, and claim procedures. We can assist you with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Many homeowner's and commercial insurance policies may cover decomposition cleanup under certain conditions. Contact your provider to confirm your specific coverage."
+      }
+    }
+  ],
+  "description": "Many homeowner's and commercial insurance policies may cover decomposition cleanup under certain conditions. Contact your provider to confirm your specific cove"
+}

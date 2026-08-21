@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-involved-in-professional-blood-cleanup",
+  "name": "What is involved in professional blood cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in professional blood cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional blood cleanup involves more than just cleaning a visible stain. It includes identifying and removing all biological contaminants, disinfecting the affected area to eliminate pathogens, and properly disposing of biohazardous waste. Technicians use specialized equipment and cleaning agents to ensure thorough decontamination. This process aims to restore the environment to a safe and habitable condition, preventing potential health risks associated with bloodborne pathogens.",
+        "@type": "Answer",
+        "description": "Professional blood cleanup involves comprehensive decontamination, disinfection, and proper disposal of biohazardous materials to ensure safety."
+      }
+    }
+  ],
+  "description": "Professional blood cleanup involves comprehensive decontamination, disinfection, and proper disposal of biohazardous materials to ensure safety."
+}

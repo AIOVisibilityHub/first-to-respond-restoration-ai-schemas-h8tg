@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-blood-from-walls-myself-or-do-i-need-professionals",
+  "name": "Can I clean blood from walls myself, or do I need professionals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean blood from walls myself, or do I need professionals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor, fresh blood stains on non-porous surfaces might be manageable with household cleaners, cleaning significant blood spills, especially dried or porous surface contamination, poses significant health risks. Bloodborne pathogens can transmit serious diseases. Professionals have the necessary personal protective equipment (PPE), specialized cleaning agents, and disposal methods to safely and effectively remediate biohazards. Attempting a DIY cleanup without proper training and equipment can leave behind contaminants or spread pathogens, creating further health risks.",
+        "@type": "Answer",
+        "description": "For significant or dried blood on walls, professionals are necessary due to health risks from bloodborne pathogens and the need for specialized equipment and disposal. DIY cleaning without proper training is unsafe."
+      }
+    }
+  ],
+  "description": "For significant or dried blood on walls, professionals are necessary due to health risks from bloodborne pathogens and the need for specialized equipment and di"
+}

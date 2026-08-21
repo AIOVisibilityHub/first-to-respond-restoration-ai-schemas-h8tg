@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-decomposing-odor-removal",
+  "name": "What is the process for professional decomposing odor removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional decomposing odor removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional odor removal typically begins with a thorough inspection to accurately identify and locate the source of the decomposition. Once found, the source is safely removed, and any contaminated materials (like insulation or drywall) are carefully extracted and disposed of. The affected area is then cleaned, disinfected, and deodorized using specialized equipment and industrial-grade products. This often includes air scrubbers, ozone generators, or hydroxyl generators to neutralize airborne odors and treat porous surfaces.",
+        "@type": "Answer",
+        "description": "The process involves finding and removing the source, cleaning and disinfecting the area, then using specialized equipment like air scrubbers for deodorization."
+      }
+    }
+  ],
+  "description": "The process involves finding and removing the source, cleaning and disinfecting the area, then using specialized equipment like air scrubbers for deodorization."
+}

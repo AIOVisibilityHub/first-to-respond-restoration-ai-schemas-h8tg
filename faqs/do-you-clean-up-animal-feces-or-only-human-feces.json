@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-clean-up-animal-feces-or-only-human-feces",
+  "name": "Do you clean up animal feces or only human feces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you clean up animal feces or only human feces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide professional cleanup services for both human and animal feces. Whether it's a biohazard incident involving human waste or extensive animal waste from pets or wildlife, our trained technicians are equipped to handle it safely and effectively. Both types of waste can carry harmful pathogens and create unpleasant odors, requiring specialized cleaning and disinfection techniques to ensure the affected area is thoroughly decontaminated and safe for occupancy.",
+        "@type": "Answer",
+        "description": "Yes, we clean up both human and animal feces using specialized techniques to safely decontaminate affected areas."
+      }
+    }
+  ],
+  "description": "Yes, we clean up both human and animal feces using specialized techniques to safely decontaminate affected areas."
+}

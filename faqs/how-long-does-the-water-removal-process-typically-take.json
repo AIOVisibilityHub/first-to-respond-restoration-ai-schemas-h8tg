@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-the-water-removal-process-typically-take",
+  "name": "How long does the water removal process typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the water removal process typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the water removal process varies greatly depending on the extent of the water damage, the size of the affected area, and the type of materials involved. Simple cases might take a day or two for extraction and initial drying, while more severe floods affecting multiple rooms and requiring extensive drying can take several days to a week or more. A professional assessment provides a more accurate timeline.",
+        "@type": "Answer",
+        "description": "The duration varies from a couple of days to over a week, depending on the damage extent, affected area size, and materials."
+      }
+    }
+  ],
+  "description": "The duration varies from a couple of days to over a week, depending on the damage extent, affected area size, and materials."
+}

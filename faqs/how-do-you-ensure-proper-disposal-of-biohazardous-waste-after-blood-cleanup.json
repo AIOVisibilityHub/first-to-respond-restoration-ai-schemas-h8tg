@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-ensure-proper-disposal-of-biohazardous-waste-after-blood-cleanup",
+  "name": "How do you ensure proper disposal of biohazardous waste after blood cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure proper disposal of biohazardous waste after blood cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper disposal of biohazardous waste is a critical component of our blood cleanup process. All contaminated materials, including personal protective equipment, used cleaning supplies, and soiled items, are carefully collected and sealed in biohazard bags or containers. These materials are then transported and disposed of according to strict local, state, and federal regulations, using licensed biohazard waste disposal facilities. This ensures environmental safety and prevents public health risks.",
+        "@type": "Answer",
+        "description": "We collect, seal, and transport all biohazardous waste for disposal at licensed facilities, following strict regulations to ensure safety."
+      }
+    }
+  ],
+  "description": "We collect, seal, and transport all biohazardous waste for disposal at licensed facilities, following strict regulations to ensure safety."
+}

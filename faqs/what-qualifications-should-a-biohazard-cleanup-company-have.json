@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-qualifications-should-a-biohazard-cleanup-company-have",
+  "name": "What qualifications should a biohazard cleanup company have?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifications should a biohazard cleanup company have?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A reputable biohazard cleanup company should have technicians certified by recognized organizations, such as the Institute of Inspection, Cleaning and Restoration Certification (IICRC). They should adhere to OSHA and EPA regulations for hazardous waste handling and disposal. Look for companies that are licensed, insured, and have experience with various types of biohazardous situations, ensuring they follow industry best practices for safety and effective remediation.",
+        "@type": "Answer",
+        "description": "A biohazard cleanup company should have IICRC-certified technicians, adhere to OSHA/EPA regulations, and be licensed, insured, and experienced."
+      }
+    }
+  ],
+  "description": "A biohazard cleanup company should have IICRC-certified technicians, adhere to OSHA/EPA regulations, and be licensed, insured, and experienced."
+}

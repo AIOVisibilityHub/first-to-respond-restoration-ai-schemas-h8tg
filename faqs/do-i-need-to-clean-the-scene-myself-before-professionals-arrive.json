@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-clean-the-scene-myself-before-professionals-arrive",
+  "name": "Do I need to clean the scene myself before professionals arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to clean the scene myself before professionals arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, it is strongly advised against attempting to clean a death scene yourself. Bodily fluids and other biological materials can contain dangerous pathogens such as viruses and bacteria, posing significant health risks. Without proper training, personal protective equipment, and specialized disinfectants, you could expose yourself to serious illness or fail to adequately remediate the area. It is always safest to wait for trained professionals who have the necessary expertise and equipment to handle biohazards safely and effectively.",
+        "@type": "Answer",
+        "description": "No, do not clean a death scene yourself due to serious health risks from biohazards. Wait for trained professionals with proper equipment and expertise."
+      }
+    }
+  ],
+  "description": "No, do not clean a death scene yourself due to serious health risks from biohazards. Wait for trained professionals with proper equipment and expertise."
+}

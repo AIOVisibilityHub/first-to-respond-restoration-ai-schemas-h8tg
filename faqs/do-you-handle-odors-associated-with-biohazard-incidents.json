@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-handle-odors-associated-with-biohazard-incidents",
+  "name": "Do you handle odors associated with biohazard incidents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle odors associated with biohazard incidents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, addressing odors is a critical part of comprehensive biohazard cleanup. Biohazardous materials often leave persistent and unpleasant odors even after the visible contamination is removed. Our cleanup process includes professional deodorization techniques, utilizing advanced equipment like ozone generators, hydroxyl machines, and specialized enzymatic cleaners to neutralize odors at their source, rather than just masking them. This ensures that your commercial property is not only visually clean and disinfected but also free from any lingering smells, creating a truly safe and comfortable environment.",
+        "@type": "Answer",
+        "description": "Yes, we use advanced equipment and enzymatic cleaners to thoroughly neutralize and remove all odors associated with biohazard incidents."
+      }
+    }
+  ],
+  "description": "Yes, we use advanced equipment and enzymatic cleaners to thoroughly neutralize and remove all odors associated with biohazard incidents."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-precautions-do-i-need-to-take-after-a-professional-urine-cleanup-service",
+  "name": "What precautions do I need to take after a professional urine cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What precautions do I need to take after a professional urine cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a professional urine cleanup service, it's important to allow adequate drying time for all treated areas. Avoid walking on damp carpets or furniture until they are completely dry to prevent re-soiling or damage. Maintain good ventilation in the cleaned areas to aid drying and dissipate any residual cleaner scents. Follow any specific post-cleanup instructions provided by the technicians, which may include avoiding direct sunlight or heavy foot traffic on certain surfaces for a period.",
+        "@type": "Answer",
+        "description": "Allow adequate drying time, avoid walking on damp areas, maintain good ventilation, and follow any specific instructions provided by the technicians."
+      }
+    }
+  ],
+  "description": "Allow adequate drying time, avoid walking on damp areas, maintain good ventilation, and follow any specific instructions provided by the technicians."
+}

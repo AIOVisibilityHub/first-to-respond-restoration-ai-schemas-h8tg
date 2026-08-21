@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-homeowner-s-insurance-cover-unattended-death-cleanup",
+  "name": "Will my homeowner's insurance cover unattended death cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover unattended death cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies do offer coverage for biohazard cleanup, including unattended death scenes, particularly if the death was accidental or unexpected. However, coverage can vary greatly depending on your specific policy and the circumstances of the death. It is crucial to review your policy documents or contact your insurance provider directly to understand your coverage limits, deductibles, and the claims process. Professional cleanup companies can often assist with navigating insurance claims.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers unattended death cleanup, especially for accidental deaths. Check your specific policy or contact your provider to confirm coverage details and the claims process."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers unattended death cleanup, especially for accidental deaths. Check your specific policy or contact your provider to confirm co"
+}

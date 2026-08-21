@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-does-a-professional-urine-cleanup-service-entail",
+  "name": "What does a professional urine cleanup service entail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a professional urine cleanup service entail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional urine cleanup service involves more than just surface cleaning. Technicians use specialized equipment to detect hidden urine, even after it dries, as well as to extract and neutralize odor-causing bacteria. This process often includes cleaning affected carpets, upholstery, subflooring, and sometimes even structural elements. The goal is to eliminate odors and stains permanently, preventing future health issues or recurring smells, which DIY methods often fail to achieve.",
+        "@type": "Answer",
+        "description": "Professional urine cleanup removes stains and odors using specialized equipment to detect, extract, and neutralize urine from affected surfaces and materials."
+      }
+    }
+  ],
+  "description": "Professional urine cleanup removes stains and odors using specialized equipment to detect, extract, and neutralize urine from affected surfaces and materials."
+}

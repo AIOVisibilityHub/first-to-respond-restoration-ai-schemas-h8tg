@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-should-i-contact-a-professional-for-water-damage-cleanup",
+  "name": "How quickly should I contact a professional for water damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I contact a professional for water damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is critical to contact a professional for water damage cleanup as soon as possible, ideally within 24-48 hours. The longer water sits, the greater the risk of secondary damage, such as mold growth, structural deterioration, and lingering odors. Rapid response helps mitigate these issues, reduces the overall cleanup cost, and increases the likelihood of salvaging more of your belongings. Our team is available 24/7 for emergency situations in areas like Encino and Studio City.",
+        "@type": "Answer",
+        "description": "Contact a professional within 24-48 hours to prevent mold growth, structural damage, and higher cleanup costs."
+      }
+    }
+  ],
+  "description": "Contact a professional within 24-48 hours to prevent mold growth, structural damage, and higher cleanup costs."
+}

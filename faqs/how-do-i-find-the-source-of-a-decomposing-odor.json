@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-find-the-source-of-a-decomposing-odor",
+  "name": "How do I find the source of a decomposing odor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I find the source of a decomposing odor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding the source of a decomposing odor often involves a systematic search, starting with common hiding spots for dead animals like attics, crawl spaces, wall cavities, and under appliances. Look for signs of pest activity, discolored areas, or insect congregations. Professional services use specialized equipment like thermal cameras or bore scopes for non-invasive detection, especially if the source is within a wall. The intensity of the smell can also help narrow down the area.",
+        "@type": "Answer",
+        "description": "Locate the source by checking attics, crawl spaces, wall cavities, and under appliances. Professionals use specialized tools for hidden areas."
+      }
+    }
+  ],
+  "description": "Locate the source by checking attics, crawl spaces, wall cavities, and under appliances. Professionals use specialized tools for hidden areas."
+}

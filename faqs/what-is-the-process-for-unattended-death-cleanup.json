@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-unattended-death-cleanup",
+  "name": "What is the process for unattended death cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for unattended death cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cleanup process typically begins with a thorough assessment of the scene to identify all contaminated areas. Technicians then don specialized PPE and use containment procedures to prevent cross-contamination. Biohazardous materials are safely removed and disposed of according to strict regulations. The affected area is then cleaned, disinfected, and deodorized using industrial-grade solutions and equipment to eliminate odors and pathogens. Finally, the site is often tested to ensure complete remediation and safety before clearance.",
+        "@type": "Answer",
+        "description": "The process involves scene assessment, biohazard removal and disposal, deep cleaning, disinfection, and deodorization. Final testing ensures complete remediation and safety."
+      }
+    }
+  ],
+  "description": "The process involves scene assessment, biohazard removal and disposal, deep cleaning, disinfection, and deodorization. Final testing ensures complete remediatio"
+}

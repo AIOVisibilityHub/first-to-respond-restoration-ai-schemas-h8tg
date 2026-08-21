@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-decomposition-cleanup",
+  "name": "What is the process for decomposition cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for decomposition cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decomposition cleanup process typically begins with a thorough assessment of the affected area to identify all contaminated zones. Technicians, wearing full personal protective equipment (PPE), then remove all visible biological materials, including bodily fluids, tissue, and contaminated furnishings. This is followed by a multi-stage disinfection process using industrial-grade antimicrobials and specialized cleaning agents to eliminate pathogens. Finally, advanced deodorization techniques are employed to permanently remove lingering odors, and post-cleanup verification ensures the area is safe and habitable.",
+        "@type": "Answer",
+        "description": "The process involves assessment, removal of biological materials, multi-stage disinfection, and advanced deodorization to eliminate pathogens and odors, followed by verification."
+      }
+    }
+  ],
+  "description": "The process involves assessment, removal of biological materials, multi-stage disinfection, and advanced deodorization to eliminate pathogens and odors, followe"
+}

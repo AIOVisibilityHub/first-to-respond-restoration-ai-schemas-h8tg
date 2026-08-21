@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-shouldn-t-i-clean-up-blood-myself",
+  "name": "Why shouldn't I clean up blood myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why shouldn't I clean up blood myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning up blood yourself without proper training and equipment is highly risky. Bloodborne pathogens, such as Hepatitis B, Hepatitis C, and HIV, can be present and are invisible to the naked eye. Improper cleanup can expose you to these pathogens, leading to serious health complications. Additionally, common household cleaners are often insufficient for thorough disinfection, and improper disposal can lead to further contamination or legal issues. Professionals have the necessary protective gear, industrial-grade disinfectants, and biohazard disposal protocols to ensure safety and compliance.",
+        "@type": "Answer",
+        "description": "Cleaning blood yourself is dangerous due to invisible bloodborne pathogens and inadequate disinfection. Professionals use specialized gear, disinfectants, and disposal methods for safety and compliance."
+      }
+    }
+  ],
+  "description": "Cleaning blood yourself is dangerous due to invisible bloodborne pathogens and inadequate disinfection. Professionals use specialized gear, disinfectants, and d"
+}

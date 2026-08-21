@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-do-i-need-water-removal-services-after-a-flood-or-leak",
+  "name": "How quickly do I need water removal services after a flood or leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need water removal services after a flood or leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is critical to begin water removal within 24-48 hours of water damage occurring. The longer water sits, the higher the risk of mold growth, structural compromise, and increased repair costs. Rapid response helps prevent secondary damage, such as the saturation of porous materials and the growth of harmful bacteria. Contacting a professional immediately can significantly mitigate the extent of the damage.",
+        "@type": "Answer",
+        "description": "Begin water removal within 24-48 hours to prevent mold, structural issues, and higher repair costs."
+      }
+    }
+  ],
+  "description": "Begin water removal within 24-48 hours to prevent mold, structural issues, and higher repair costs."
+}

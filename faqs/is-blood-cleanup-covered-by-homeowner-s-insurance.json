@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-blood-cleanup-covered-by-homeowner-s-insurance",
+  "name": "Is blood cleanup covered by homeowner's insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is blood cleanup covered by homeowner's insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies do offer coverage for professional blood cleanup, especially if the incident was sudden and accidental, such as a trauma, accident, or crime scene. Coverage can depend on the specific policy terms, deductibles, and the circumstances surrounding the event. It's always recommended to review your policy or contact your insurance provider directly to confirm your coverage details. We can also assist you by providing documentation and working with your insurance adjuster to facilitate the claims process.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers blood cleanup for sudden, accidental incidents. Check your specific policy or contact your provider to confirm coverage details."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers blood cleanup for sudden, accidental incidents. Check your specific policy or contact your provider to confirm coverage detai"
+}

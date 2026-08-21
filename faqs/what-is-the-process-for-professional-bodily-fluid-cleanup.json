@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-professional-bodily-fluid-cleanup",
+  "name": "What is the process for professional bodily fluid cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional bodily fluid cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional bodily fluid cleanup typically begins with a thorough assessment of the affected area to identify all contaminants. Technicians, wearing specialized personal protective equipment, then contain the area to prevent cross-contamination. Biohazardous materials are carefully removed, followed by rigorous cleaning, disinfection, and deodorization using industry-approved agents. Contaminated porous materials that cannot be sanitized are safely removed and disposed of according to regulations. Finally, the area is verified to ensure it is clean, safe, and free of odors.",
+        "@type": "Answer",
+        "description": "The process involves assessment, containment, removal of biohazardous materials, thorough cleaning, disinfection, deodorization, and proper disposal of contaminated items."
+      }
+    }
+  ],
+  "description": "The process involves assessment, containment, removal of biohazardous materials, thorough cleaning, disinfection, deodorization, and proper disposal of contamin"
+}

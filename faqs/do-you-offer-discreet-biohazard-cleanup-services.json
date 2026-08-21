@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-discreet-biohazard-cleanup-services",
+  "name": "Do you offer discreet biohazard cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer discreet biohazard cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we understand that biohazard situations often involve sensitive and private circumstances. Our team is committed to providing discreet and compassionate services. We arrive in unmarked vehicles and conduct our work with the utmost professionalism, respecting your privacy throughout the entire process. Our goal is to perform the necessary cleanup efficiently and thoroughly while minimizing any disruption or unwanted attention to the affected property.",
+        "@type": "Answer",
+        "description": "Yes, we offer discreet biohazard cleanup using unmarked vehicles and professional conduct to respect your privacy during sensitive situations."
+      }
+    }
+  ],
+  "description": "Yes, we offer discreet biohazard cleanup using unmarked vehicles and professional conduct to respect your privacy during sensitive situations."
+}

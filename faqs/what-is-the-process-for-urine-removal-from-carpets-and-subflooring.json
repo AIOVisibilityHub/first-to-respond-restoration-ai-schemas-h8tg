@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-urine-removal-from-carpets-and-subflooring",
+  "name": "What is the process for urine removal from carpets and subflooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for urine removal from carpets and subflooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for urine removal from carpets and subflooring typically begins with an inspection to identify all affected areas using UV lights. Technicians then extract visible urine and apply specialized cleaning solutions to break down uric acid crystals and neutralize odors. If contamination has reached the padding or subfloor, these layers may need to be treated, cleaned, sealed, or in severe cases, removed and replaced to ensure complete odor elimination and prevent recontamination.",
+        "@type": "Answer",
+        "description": "The process involves inspection, extraction, application of specialized cleaners, and potentially treatment or replacement of padding and subflooring to eliminate odors."
+      }
+    }
+  ],
+  "description": "The process involves inspection, extraction, application of specialized cleaners, and potentially treatment or replacement of padding and subflooring to elimina"
+}

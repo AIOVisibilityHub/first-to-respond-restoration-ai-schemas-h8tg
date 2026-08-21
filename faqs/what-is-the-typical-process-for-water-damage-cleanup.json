@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-typical-process-for-water-damage-cleanup",
+  "name": "What is the typical process for water damage cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water damage cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage cleanup typically involves several key steps. First, our team assesses the extent of the damage and identifies the source of the water. Next, we extract standing water using powerful equipment. This is followed by drying and dehumidification to remove moisture from affected materials and prevent mold growth. Finally, cleaning, sanitizing, and restoration are performed to bring your property back to its pre-damage condition. Prompt action is crucial to minimize further damage and potential health risks.",
+        "@type": "Answer",
+        "description": "The process includes assessment, water extraction, drying, dehumidification, cleaning, and restoration to prevent mold and further damage."
+      }
+    }
+  ],
+  "description": "The process includes assessment, water extraction, drying, dehumidification, cleaning, and restoration to prevent mold and further damage."
+}

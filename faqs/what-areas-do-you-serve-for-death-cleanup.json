@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-death-cleanup",
+  "name": "What areas do you serve for death cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for death cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides death cleanup services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our local teams are strategically located to offer rapid response and professional remediation to these communities. We understand the unique needs of residents and businesses in these areas and are committed to providing discreet, efficient, and compassionate service during difficult times. Our local presence ensures we can reach you quickly and efficiently.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana, providing rapid, professional, and discreet death cleanup services to these communities."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana, providing rapid, professional, and discreet death cleanup services to these communitie"
+}

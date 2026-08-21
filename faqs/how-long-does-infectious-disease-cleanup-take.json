@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-infectious-disease-cleanup-take",
+  "name": "How long does infectious disease cleanup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does infectious disease cleanup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of infectious disease cleanup varies depending on the size of the contaminated area, the type of pathogen, and the extent of the contamination. A small residential space might take a few hours, while a larger commercial property with widespread contamination could require a full day or more. Factors like air filtration requirements and the need for specialized equipment also influence the timeline. Our team provides an estimated completion time after an initial assessment of the affected property.",
+        "@type": "Answer",
+        "description": "Cleanup time varies based on the area's size, pathogen type, and contamination extent, typically ranging from a few hours to a full day or more."
+      }
+    }
+  ],
+  "description": "Cleanup time varies based on the area's size, pathogen type, and contamination extent, typically ranging from a few hours to a full day or more."
+}

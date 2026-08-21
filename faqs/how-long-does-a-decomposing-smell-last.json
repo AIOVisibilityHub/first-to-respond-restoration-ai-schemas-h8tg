@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-a-decomposing-smell-last",
+  "name": "How long does a decomposing smell last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a decomposing smell last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a decomposing smell depends on the source, temperature, humidity, and ventilation. If the source is a small animal, the smell might last a few weeks as it fully decomposes and dries out. For larger sources, or if the environment is humid, the odor can persist for months. Even after the organic matter is gone, residual odors can linger in porous materials like drywall, carpet, or insulation, requiring professional cleaning and deodorization.",
+        "@type": "Answer",
+        "description": "The smell can last weeks to months, depending on the source and environmental factors. Residual odors may linger in porous materials."
+      }
+    }
+  ],
+  "description": "The smell can last weeks to months, depending on the source and environmental factors. Residual odors may linger in porous materials."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-you-respond-to-a-feces-cleanup-emergency",
+  "name": "How quickly can you respond to a feces cleanup emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can you respond to a feces cleanup emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We understand the urgency of feces cleanup due to health risks and odor issues. Our emergency response team is available 24/7 and can typically respond to calls in Encino, North Hollywood, San Fernando, Studio City, and Tarzana within a few hours, often sooner. Our goal is to assess the situation and begin the cleanup process as quickly as possible to mitigate further damage, reduce health hazards, and restore your property to a safe condition.",
+        "@type": "Answer",
+        "description": "Our emergency team responds quickly, often within a few hours, to areas like Encino and North Hollywood to address feces cleanup needs promptly."
+      }
+    }
+  ],
+  "description": "Our emergency team responds quickly, often within a few hours, to areas like Encino and North Hollywood to address feces cleanup needs promptly."
+}

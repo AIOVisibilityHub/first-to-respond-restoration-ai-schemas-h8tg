@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-can-t-i-clean-up-an-unattended-death-myself",
+  "name": "Why can't I clean up an unattended death myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why can't I clean up an unattended death myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning an unattended death scene yourself is strongly discouraged due to significant health risks and the complexity of proper remediation. Bodily fluids and tissue can carry pathogens like bacteria, viruses, and fungi, which require specialized decontamination to prevent disease transmission. Additionally, improper cleaning can leave behind lingering odors and invisible contaminants that can lead to long-term health issues or property damage. Professional cleaners have the necessary training, personal protective equipment (PPE), and industrial-grade disinfectants to ensure the scene is thoroughly and safely remediated.",
+        "@type": "Answer",
+        "description": "Cleaning an unattended death scene yourself is dangerous due to biohazard exposure and the complexity of proper decontamination. Professionals have the training and equipment to safely remove pathogens and odors."
+      }
+    }
+  ],
+  "description": "Cleaning an unattended death scene yourself is dangerous due to biohazard exposure and the complexity of proper decontamination. Professionals have the training"
+}

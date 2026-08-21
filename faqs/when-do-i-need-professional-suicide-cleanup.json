@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-do-i-need-professional-suicide-cleanup",
+  "name": "When do I need professional suicide cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional suicide cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional suicide cleanup is necessary whenever there are biohazards present, such as blood, bodily fluids, or tissue, which can pose serious health risks. These materials can carry pathogens and require specialized cleaning, disinfection, and disposal methods beyond standard cleaning. Engaging professionals ensures the scene is thoroughly decontaminated, odors are eliminated, and the property is returned to a safe state, preventing potential health complications and emotional distress for occupants.",
+        "@type": "Answer",
+        "description": "Professional suicide cleanup is needed when biohazards like blood or bodily fluids are present, requiring specialized cleaning and decontamination for health and safety."
+      }
+    }
+  ],
+  "description": "Professional suicide cleanup is needed when biohazards like blood or bodily fluids are present, requiring specialized cleaning and decontamination for health an"
+}

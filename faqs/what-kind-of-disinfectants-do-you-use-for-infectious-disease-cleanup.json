@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-disinfectants-do-you-use-for-infectious-disease-cleanup",
+  "name": "What kind of disinfectants do you use for infectious disease cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of disinfectants do you use for infectious disease cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We utilize hospital-grade, EPA-approved disinfectants that are effective against a broad spectrum of pathogens, including viruses, bacteria, and fungi. These products are specifically chosen for their efficacy in biohazard remediation and are safe for use in residential and commercial settings when applied correctly by trained professionals. Our selection prioritizes powerful germicidal action while considering the safety of occupants and the integrity of surfaces. We ensure proper ventilation and application techniques to maximize effectiveness and safety.",
+        "@type": "Answer",
+        "description": "We use hospital-grade, EPA-approved disinfectants that are effective against a broad spectrum of pathogens and safe for professional application."
+      }
+    }
+  ],
+  "description": "We use hospital-grade, EPA-approved disinfectants that are effective against a broad spectrum of pathogens and safe for professional application."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-happens-after-the-blood-cleanup-is-completed",
+  "name": "What happens after the blood cleanup is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the blood cleanup is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the blood cleanup is completed, the affected area will be thoroughly inspected to ensure all biohazards have been removed and the environment is safe. We will verify that surfaces are disinfected and odors are eliminated. Depending on the extent of damage, further restoration services, such as repairs to damaged walls or flooring, might be recommended to fully restore the property to its pre-incident condition. We ensure the area is safe for re-occupancy.",
+        "@type": "Answer",
+        "description": "After cleanup, the area is inspected for safety and disinfection; further restoration may occur to return the property to pre-incident condition."
+      }
+    }
+  ],
+  "description": "After cleanup, the area is inspected for safety and disinfection; further restoration may occur to return the property to pre-incident condition."
+}

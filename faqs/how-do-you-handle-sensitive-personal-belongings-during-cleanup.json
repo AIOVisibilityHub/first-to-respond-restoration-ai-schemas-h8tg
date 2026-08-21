@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-handle-sensitive-personal-belongings-during-cleanup",
+  "name": "How do you handle sensitive personal belongings during cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle sensitive personal belongings during cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our team approaches each scene with the utmost respect and discretion, especially concerning personal belongings. Before any cleaning begins, we carefully assess the scene to identify items of sentimental or financial value that are not contaminated. These items are carefully removed, stored, or protected during the remediation process. Contaminated personal items are handled according to strict biohazard disposal protocols or, if possible, cleaned and restored with specialized techniques, always in consultation with the property owner.",
+        "@type": "Answer",
+        "description": "We handle sensitive personal belongings with respect, identifying and protecting uncontaminated items, and cleaning or disposing of contaminated ones according to protocols, in consultation with the owner."
+      }
+    }
+  ],
+  "description": "We handle sensitive personal belongings with respect, identifying and protecting uncontaminated items, and cleaning or disposing of contaminated ones according"
+}

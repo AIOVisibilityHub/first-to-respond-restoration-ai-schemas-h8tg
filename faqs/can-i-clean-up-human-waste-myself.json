@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-i-clean-up-human-waste-myself",
+  "name": "Can I clean up human waste myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I clean up human waste myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While small, contained incidents of human waste, such as a pet accident, might be manageable with household cleaners and gloves, large-scale or biohazardous human waste spills are best left to professionals. Human waste can carry serious pathogens that pose significant health risks if not handled correctly. Without proper personal protective equipment (PPE), industrial-grade disinfectants, and specialized disposal methods, you risk exposure to illness and incomplete sanitation, which can lead to lingering odors and continued health hazards. Professionals ensure complete removal and disinfection.",
+        "@type": "Answer",
+        "description": "Small human waste spills can sometimes be cleaned personally, but large or biohazardous incidents require professionals. DIY attempts risk exposure to pathogens, incomplete sanitation, and lingering hazards without proper equipment."
+      }
+    }
+  ],
+  "description": "Small human waste spills can sometimes be cleaned personally, but large or biohazardous incidents require professionals. DIY attempts risk exposure to pathogens"
+}

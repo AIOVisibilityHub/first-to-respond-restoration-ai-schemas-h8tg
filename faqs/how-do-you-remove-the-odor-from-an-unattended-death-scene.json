@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-remove-the-odor-from-an-unattended-death-scene",
+  "name": "How do you remove the odor from an unattended death scene?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you remove the odor from an unattended death scene?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Odor removal from an unattended death scene requires more than just masking. It involves neutralizing the source of the odor. After all visible biohazards are removed and surfaces are disinfected, specialized equipment like ozone generators, hydroxyl generators, and air scrubbers are used to break down odor-causing molecules at a molecular level. Porous materials that have absorbed odors, like carpets or drywall, may need to be removed and replaced to ensure complete odor elimination. Thorough ventilation and repeat treatments are often necessary for persistent odors.",
+        "@type": "Answer",
+        "description": "Odor removal involves neutralizing the source by breaking down odor-causing molecules with specialized equipment like ozone or hydroxyl generators, often requiring removal of contaminated porous materials."
+      }
+    }
+  ],
+  "description": "Odor removal involves neutralizing the source by breaking down odor-causing molecules with specialized equipment like ozone or hydroxyl generators, often requir"
+}

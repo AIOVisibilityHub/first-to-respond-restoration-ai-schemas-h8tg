@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-safety-precautions-do-your-technicians-take-during-blood-cleanup",
+  "name": "What kind of safety precautions do your technicians take during blood cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of safety precautions do your technicians take during blood cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our technicians follow strict safety protocols during blood cleanup to protect themselves and prevent cross-contamination. This includes wearing full personal protective equipment (PPE), such as hazmat suits, respirators, gloves, and eye protection. We establish containment zones to isolate the contaminated area and use specialized tools and cleaning agents designed for biohazard remediation. All biohazardous waste is handled and disposed of according to strict regulations, ensuring safety from start to finish.",
+        "@type": "Answer",
+        "description": "Technicians use full PPE like hazmat suits and respirators, establish containment zones, and utilize specialized biohazard tools and cleaners. All waste is disposed of according to strict regulations to ensure safety."
+      }
+    }
+  ],
+  "description": "Technicians use full PPE like hazmat suits and respirators, establish containment zones, and utilize specialized biohazard tools and cleaners. All waste is disp"
+}

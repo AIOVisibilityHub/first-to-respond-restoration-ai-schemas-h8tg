@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-protective-measures-do-your-technicians-use-during-human-waste-cleanup",
+  "name": "What protective measures do your technicians use during human waste cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What protective measures do your technicians use during human waste cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our technicians adhere to strict safety protocols during human waste cleanup to protect themselves and prevent cross-contamination. They utilize full personal protective equipment (PPE), which typically includes hazmat suits, respirators, eye protection, and multiple layers of gloves. All equipment used is either disposable or thoroughly disinfected after each job. We also establish containment zones to prevent the spread of contaminants to unaffected areas of the property. This comprehensive approach ensures safety, efficacy, and compliance with industry best practices.",
+        "@type": "Answer",
+        "description": "Technicians use full personal protective equipment like hazmat suits, respirators, and gloves. They also establish containment zones and disinfect all equipment to prevent cross-contamination and ensure safety."
+      }
+    }
+  ],
+  "description": "Technicians use full personal protective equipment like hazmat suits, respirators, and gloves. They also establish containment zones and disinfect all equipment"
+}

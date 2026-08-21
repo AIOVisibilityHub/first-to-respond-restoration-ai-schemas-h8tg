@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-you-handle-odors-after-bodily-fluid-cleanup",
+  "name": "How do you handle odors after bodily fluid cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle odors after bodily fluid cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Odor removal is a critical component of bodily fluid cleanup. After all visible contaminants are removed and surfaces are disinfected, we employ professional-grade deodorization techniques. This often includes using advanced equipment like ozone generators, hydroxyl machines, or thermal foggers to neutralize microscopic odor-causing particles that have permeated porous materials. Our goal is to not just mask odors, but to eliminate them at their source, ensuring the affected area is completely fresh and safe.",
+        "@type": "Answer",
+        "description": "We use professional deodorization methods like ozone generators or hydroxyl machines to neutralize microscopic odor-causing particles, eliminating odors at their source, not just masking them."
+      }
+    }
+  ],
+  "description": "We use professional deodorization methods like ozone generators or hydroxyl machines to neutralize microscopic odor-causing particles, eliminating odors at thei"
+}

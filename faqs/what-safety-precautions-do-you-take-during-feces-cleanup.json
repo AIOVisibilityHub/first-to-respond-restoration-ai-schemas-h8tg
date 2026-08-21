@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-safety-precautions-do-you-take-during-feces-cleanup",
+  "name": "What safety precautions do you take during feces cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety precautions do you take during feces cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During feces cleanup, our technicians adhere to strict safety protocols to protect themselves and prevent cross-contamination. This includes wearing full personal protective equipment (PPE), such as hazmat suits, respirators, gloves, and eye protection. We establish containment zones to prevent the spread of contaminants and use medical-grade disinfectants. All contaminated waste is double-bagged and disposed of as biohazardous material in accordance with local regulations, ensuring a safe and thorough cleanup.",
+        "@type": "Answer",
+        "description": "We use full PPE, establish containment zones, apply medical-grade disinfectants, and dispose of biohazardous waste according to regulations."
+      }
+    }
+  ],
+  "description": "We use full PPE, establish containment zones, apply medical-grade disinfectants, and dispose of biohazardous waste according to regulations."
+}

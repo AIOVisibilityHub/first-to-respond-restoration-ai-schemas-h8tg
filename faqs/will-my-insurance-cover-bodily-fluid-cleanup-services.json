@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-bodily-fluid-cleanup-services",
+  "name": "Will my insurance cover bodily fluid cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover bodily fluid cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance coverage for bodily fluid cleanup varies depending on your specific policy and the circumstances of the incident. Many homeowner's, renter's, or commercial insurance policies may offer some coverage if the event was accidental or part of a covered peril, such as a trauma incident. It's recommended to contact your insurance provider directly to understand your coverage details and any deductibles that may apply. We can also assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Insurance coverage depends on your policy and incident circumstances. Many policies may cover it under certain perils. Contact your provider for details."
+      }
+    }
+  ],
+  "description": "Insurance coverage depends on your policy and incident circumstances. Many policies may cover it under certain perils. Contact your provider for details."
+}

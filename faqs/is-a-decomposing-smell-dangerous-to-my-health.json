@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-a-decomposing-smell-dangerous-to-my-health",
+  "name": "Is a decomposing smell dangerous to my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a decomposing smell dangerous to my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the smell itself is generally not directly dangerous, the underlying cause can pose health risks. Dead animals can attract insects and bacteria, potentially spreading pathogens. Mold associated with decomposition can trigger respiratory issues or allergic reactions. Prolonged exposure to strong, foul odors can also cause nausea, headaches, or discomfort. It's best to address the source promptly to maintain a healthy indoor environment.",
+        "@type": "Answer",
+        "description": "The smell isn't directly dangerous, but its source (like dead animals or certain molds) can attract bacteria and cause health issues."
+      }
+    }
+  ],
+  "description": "The smell isn't directly dangerous, but its source (like dead animals or certain molds) can attract bacteria and cause health issues."
+}

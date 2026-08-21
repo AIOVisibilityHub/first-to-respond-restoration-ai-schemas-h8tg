@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-can-t-i-clean-up-bodily-fluids-myself",
+  "name": "Why can't I clean up bodily fluids myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why can't I clean up bodily fluids myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning up bodily fluids without proper training and equipment can expose you to serious health risks, including infections from bloodborne pathogens like Hepatitis or HIV, bacteria, and viruses. Improper cleanup can also leave behind invisible contaminants, odors, and stains that may pose ongoing health hazards or structural issues. Professional cleanup crews have the necessary personal protective equipment, specialized cleaning agents, and disposal protocols to ensure the area is safely and thoroughly decontaminated.",
+        "@type": "Answer",
+        "description": "Cleaning bodily fluids yourself carries significant health risks due to pathogens and can leave unseen contaminants. Professionals have the training and equipment for safe, thorough decontamination."
+      }
+    }
+  ],
+  "description": "Cleaning bodily fluids yourself carries significant health risks due to pathogens and can leave unseen contaminants. Professionals have the training and equipme"
+}

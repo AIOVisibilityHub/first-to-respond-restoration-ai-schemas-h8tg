@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-suicide-cleanup-covered-by-insurance",
+  "name": "Is suicide cleanup covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is suicide cleanup covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's, renter's, and commercial property insurance policies often cover the costs associated with biohazard remediation, including suicide cleanup. Coverage typically falls under categories like 'accidental damage' or 'biohazard remediation.' It is crucial to review your specific policy details or contact your insurance provider directly to understand your coverage limits, deductibles, and claim procedures. Professional cleanup companies can often assist with the insurance claims process to streamline reimbursement.",
+        "@type": "Answer",
+        "description": "Many insurance policies cover suicide cleanup under accidental damage or biohazard remediation. Check your specific policy or contact your provider for details."
+      }
+    }
+  ],
+  "description": "Many insurance policies cover suicide cleanup under accidental damage or biohazard remediation. Check your specific policy or contact your provider for details."
+}

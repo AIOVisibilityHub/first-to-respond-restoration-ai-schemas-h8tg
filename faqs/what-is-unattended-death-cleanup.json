@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-unattended-death-cleanup",
+  "name": "What is unattended death cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is unattended death cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unattended death cleanup is the specialized process of remediating a scene where a person has passed away and the body remained undiscovered for a period. This can result in significant biological hazards, odors, and structural damage due to decomposition. Professionals use specific protocols, equipment, and cleaning agents to safely remove biohazards, decontaminate the area, and restore the property to a safe, habitable condition. This service often involves removing bodily fluids, tissue, and other contaminants that pose health risks.",
+        "@type": "Answer",
+        "description": "Unattended death cleanup is the specialized process of safely remediating a scene where a body was undiscovered for a period, addressing biohazards, odors, and structural damage."
+      }
+    }
+  ],
+  "description": "Unattended death cleanup is the specialized process of safely remediating a scene where a body was undiscovered for a period, addressing biohazards, odors, and"
+}

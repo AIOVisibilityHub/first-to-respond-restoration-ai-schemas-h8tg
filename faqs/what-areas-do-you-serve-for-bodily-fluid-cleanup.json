@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-bodily-fluid-cleanup",
+  "name": "What areas do you serve for bodily fluid cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for bodily fluid cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide prompt and professional bodily fluid cleanup services to a wide range of communities, including Encino, North Hollywood, San Fernando, Studio City, and Tarzana. Our team is strategically located to respond quickly to emergencies within these and surrounding areas. We understand the urgency involved in biohazard situations and are committed to serving our local clients efficiently and discreetly to restore safety and peace of mind.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana, providing prompt and professional bodily fluid cleanup."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana, providing prompt and professional bodily fluid cleanup."
+}

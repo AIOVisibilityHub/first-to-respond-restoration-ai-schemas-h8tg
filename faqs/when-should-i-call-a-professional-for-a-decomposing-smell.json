@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-a-decomposing-smell",
+  "name": "When should I call a professional for a decomposing smell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a decomposing smell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you cannot locate the source of the smell, if the odor persists despite your efforts, or if you suspect the source is a large animal, sewage, or significant mold growth. Professionals have the tools and expertise to safely identify and remove the source, decontaminate affected areas, and perform thorough odor removal. This ensures the problem is fully resolved and prevents potential health hazards.",
+        "@type": "Answer",
+        "description": "Call a professional if you can't find the source, the odor persists, or if it's a large animal, sewage, or mold issue."
+      }
+    }
+  ],
+  "description": "Call a professional if you can't find the source, the odor persists, or if it's a large animal, sewage, or mold issue."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-s-the-difference-between-standard-cleaning-and-professional-human-waste-cle",
+  "name": "What's the difference between standard cleaning and professional human waste cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between standard cleaning and professional human waste cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard cleaning focuses on general tidiness and surface-level hygiene, using common detergents and tools. Professional human waste cleanup, however, is a specialized biohazard remediation service. It addresses the unique dangers of bodily fluids, employing industrial-strength disinfectants, specialized equipment, and strict safety protocols. Professionals are trained to identify and eliminate pathogens, address deep-seated contamination in porous materials, and properly dispose of hazardous waste, which goes far beyond what typical cleaning services or DIY methods can achieve, ensuring complete sanitation and safety.",
+        "@type": "Answer",
+        "description": "Standard cleaning is for general tidiness, while professional human waste cleanup is a specialized biohazard service. Professionals use industrial disinfectants, specialized equipment, and strict protocols to eliminate pathogens and ensure complete safety, unlike standard cleaning."
+      }
+    }
+  ],
+  "description": "Standard cleaning is for general tidiness, while professional human waste cleanup is a specialized biohazard service. Professionals use industrial disinfectants"
+}

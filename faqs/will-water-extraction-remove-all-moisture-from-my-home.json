@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-water-extraction-remove-all-moisture-from-my-home",
+  "name": "Will water extraction remove all moisture from my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will water extraction remove all moisture from my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water extraction primarily removes bulk water from surfaces. While it's a critical first step, it does not remove all moisture from porous materials or the air. After extraction, we use industrial-grade dehumidifiers and air movers to address residual moisture in materials like drywall, wood, and carpets, as well as the humidity in the air. This comprehensive drying process is essential to prevent mold growth and further damage.",
+        "@type": "Answer",
+        "description": "Water extraction removes standing water, but not all moisture. We use dehumidifiers and air movers post-extraction to remove residual moisture from materials and air, preventing mold."
+      }
+    }
+  ],
+  "description": "Water extraction removes standing water, but not all moisture. We use dehumidifiers and air movers post-extraction to remove residual moisture from materials an"
+}

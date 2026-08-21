@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/why-is-fast-response-important-for-water-damage",
+  "name": "Why is fast response important for water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is fast response important for water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A fast response to water damage is crucial because water can cause progressive and extensive damage very quickly. Within minutes, water can spread and absorb into materials. Within 24-48 hours, mold can begin to grow, and structural components like drywall and wood can swell, warp, or delaminate. Rapid mitigation helps prevent secondary damage, reduces the risk of mold and mildew, minimizes repair costs, and often results in a faster, more efficient restoration process overall.",
+        "@type": "Answer",
+        "description": "Fast response to water damage is crucial to prevent rapid spread, mold growth within 24-48 hours, and to minimize secondary damage and overall repair costs."
+      }
+    }
+  ],
+  "description": "Fast response to water damage is crucial to prevent rapid spread, mold growth within 24-48 hours, and to minimize secondary damage and overall repair costs."
+}

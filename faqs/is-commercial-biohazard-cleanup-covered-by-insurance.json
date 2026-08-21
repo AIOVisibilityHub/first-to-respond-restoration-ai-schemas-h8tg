@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-commercial-biohazard-cleanup-covered-by-insurance",
+  "name": "Is commercial biohazard cleanup covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is commercial biohazard cleanup covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many commercial insurance policies may cover biohazard cleanup services, especially those related to accidental damage, crime scenes, or specific types of property damage. Coverage depends on your specific policy details, including your declarations and endorsements. We recommend reviewing your insurance policy or contacting your provider to understand your coverage limits and deductibles. Our team can also assist by working directly with your insurance company, providing necessary documentation and facilitating the claims process to help ease your burden.",
+        "@type": "Answer",
+        "description": "Commercial biohazard cleanup is often covered by insurance, but coverage depends on your specific policy; we can assist with claims."
+      }
+    }
+  ],
+  "description": "Commercial biohazard cleanup is often covered by insurance, but coverage depends on your specific policy; we can assist with claims."
+}

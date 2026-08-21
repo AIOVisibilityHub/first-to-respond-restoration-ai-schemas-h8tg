@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-professional-urine-cleanup-completely-remove-odors",
+  "name": "Can professional urine cleanup completely remove odors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can professional urine cleanup completely remove odors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, professional urine cleanup aims to completely remove odors, not just mask them. Technicians use specialized enzymatic cleaners and odor neutralizers that break down uric acid crystals and the bacteria that cause the foul smell. Unlike household cleaners, these professional products penetrate deeply into materials to address the source of the odor. A thorough cleanup ensures that all contaminated materials are treated or removed, preventing the odor from returning.",
+        "@type": "Answer",
+        "description": "Yes, professional services use specialized cleaners to break down uric acid and bacteria, effectively eliminating odors at their source rather than just masking them."
+      }
+    }
+  ],
+  "description": "Yes, professional services use specialized cleaners to break down uric acid and bacteria, effectively eliminating odors at their source rather than just masking"
+}

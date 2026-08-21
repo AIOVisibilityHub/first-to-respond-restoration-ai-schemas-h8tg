@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-blood-cleanup-on-my-carpet",
+  "name": "When should I call a professional for blood cleanup on my carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for blood cleanup on my carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for blood cleanup if the spill is large, has soaked through to the carpet padding or subfloor, or if you are unsure of the source of the blood. Professionals have specialized equipment and cleaning agents to safely and effectively remove bloodborne pathogens and thoroughly disinfect the affected area. This is especially important for public health and safety. If the blood comes from an unknown source or involves significant volume, it's safer to have experts handle it to ensure proper sanitation.",
+        "@type": "Answer",
+        "description": "Call a professional for large blood spills, if it soaked through padding, or if you're unsure of the blood source, to ensure safe and thorough cleanup."
+      }
+    }
+  ],
+  "description": "Call a professional for large blood spills, if it soaked through padding, or if you're unsure of the blood source, to ensure safe and thorough cleanup."
+}

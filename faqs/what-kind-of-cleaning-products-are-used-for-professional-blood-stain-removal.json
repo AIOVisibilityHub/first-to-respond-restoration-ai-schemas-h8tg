@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-kind-of-cleaning-products-are-used-for-professional-blood-stain-removal",
+  "name": "What kind of cleaning products are used for professional blood stain removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of cleaning products are used for professional blood stain removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional blood stain removal services use specialized cleaning products that go beyond typical household cleaners. These include enzyme-based cleaners designed to break down organic matter like blood proteins, hospital-grade disinfectants approved by regulatory bodies to kill bloodborne pathogens, and powerful deodorizers to eliminate odors. Technicians also use specific solvents for stain lifting and neutralizing agents to restore the carpet's appearance. The exact products chosen depend on the carpet material and the nature of the blood stain.",
+        "@type": "Answer",
+        "description": "Professionals use enzyme cleaners, hospital-grade disinfectants, and powerful deodorizers tailored to break down organic matter, kill pathogens, and remove odors."
+      }
+    }
+  ],
+  "description": "Professionals use enzyme cleaners, hospital-grade disinfectants, and powerful deodorizers tailored to break down organic matter, kill pathogens, and remove odor"
+}

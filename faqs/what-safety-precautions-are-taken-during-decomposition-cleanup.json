@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-safety-precautions-are-taken-during-decomposition-cleanup",
+  "name": "What safety precautions are taken during decomposition cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety precautions are taken during decomposition cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During decomposition cleanup, our trained technicians prioritize safety by adhering to strict industry protocols. They wear full personal protective equipment (PPE), including respirators, gloves, suits, and eye protection, to prevent exposure to biohazards. The affected area is contained to prevent cross-contamination to other parts of the property. We use specialized, hospital-grade disinfectants and follow strict procedures for the safe handling, removal, and disposal of biohazardous waste in accordance with local regulations. Our team is trained to minimize risks for themselves and building occupants.",
+        "@type": "Answer",
+        "description": "Technicians use full PPE, contain the area, use hospital-grade disinfectants, and follow strict procedures for safe biohazard removal and disposal to ensure safety."
+      }
+    }
+  ],
+  "description": "Technicians use full PPE, contain the area, use hospital-grade disinfectants, and follow strict procedures for safe biohazard removal and disposal to ensure saf"
+}

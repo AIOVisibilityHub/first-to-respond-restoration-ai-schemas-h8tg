@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-human-waste-cleanup-and-why-is-it-important",
+  "name": "What is human waste cleanup and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is human waste cleanup and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Human waste cleanup involves the safe and thorough removal and sanitization of areas contaminated by bodily fluids, including feces and urine. This service is crucial because human waste contains various bacteria, viruses, and pathogens that can cause serious health risks, such as E. coli, Salmonella, Hepatitis, and Norovirus. Professional cleanup ensures that all hazardous materials are properly contained, removed, and the affected area is disinfected to prevent the spread of illness and eliminate unpleasant odors. This protects occupants and restores the environment to a safe and hygienic condition.",
+        "@type": "Answer",
+        "description": "Human waste cleanup is the safe removal and sanitization of areas contaminated by bodily fluids to prevent the spread of disease and eliminate odors. It's important to protect health from bacteria and viruses."
+      }
+    }
+  ],
+  "description": "Human waste cleanup is the safe removal and sanitization of areas contaminated by bodily fluids to prevent the spread of disease and eliminate odors. It's impor"
+}

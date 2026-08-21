@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-suicide-cleanup-service",
+  "name": "What is suicide cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is suicide cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Suicide cleanup service involves the thorough and discreet remediation of a scene after a suicide. This includes the removal of biohazards like blood and bodily fluids, disinfection, decontamination, and odor removal. Professionals use specialized equipment and cleaning agents to ensure the area is safe, clean, and habitable again, minimizing emotional distress for those affected. This critical service restores the property to a safe condition, adhering to health and safety regulations.",
+        "@type": "Answer",
+        "description": "Suicide cleanup service involves professional remediation of biohazards and decontamination after a suicide, restoring the area to a safe and habitable condition."
+      }
+    }
+  ],
+  "description": "Suicide cleanup service involves professional remediation of biohazards and decontamination after a suicide, restoring the area to a safe and habitable conditio"
+}

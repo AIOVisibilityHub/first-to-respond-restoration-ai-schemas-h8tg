@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-quickly-can-you-respond-to-a-death-cleanup-call",
+  "name": "How quickly can you respond to a death cleanup call?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can you respond to a death cleanup call?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We understand the urgency and sensitivity surrounding death cleanup situations. Our team is available 24/7 and aims to respond as quickly as possible, often arriving on-site within a few hours of your call, depending on location and traffic. Prompt response is crucial for minimizing further damage, mitigating health risks, and beginning the restoration process to help families move forward. Our rapid deployment ensures the scene is secured and remediation efforts start without unnecessary delay.",
+        "@type": "Answer",
+        "description": "We respond to death cleanup calls 24/7, typically arriving within a few hours to minimize damage, mitigate health risks, and begin remediation promptly."
+      }
+    }
+  ],
+  "description": "We respond to death cleanup calls 24/7, typically arriving within a few hours to minimize damage, mitigate health risks, and begin remediation promptly."
+}

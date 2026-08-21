@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-the-process-for-water-damage-restoration",
+  "name": "What is the process for water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process generally begins with an emergency contact and inspection to assess the damage and create a plan. This is followed by water extraction using powerful pumps and vacuums. Next, industrial-grade dehumidifiers and air movers are used for drying and dehumidification. Cleaning and sanitizing affected items and structural components is crucial. Finally, the restoration phase involves repairing or replacing damaged structures and materials to bring your property back to its pre-damage condition.",
+        "@type": "Answer",
+        "description": "The process involves emergency contact, inspection, water extraction, drying, cleaning, and final restoration to pre-damage conditions."
+      }
+    }
+  ],
+  "description": "The process involves emergency contact, inspection, water extraction, drying, cleaning, and final restoration to pre-damage conditions."
+}

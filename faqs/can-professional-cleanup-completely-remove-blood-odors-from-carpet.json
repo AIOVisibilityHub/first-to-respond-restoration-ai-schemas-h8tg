@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/can-professional-cleanup-completely-remove-blood-odors-from-carpet",
+  "name": "Can professional cleanup completely remove blood odors from carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can professional cleanup completely remove blood odors from carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, professional cleanup can effectively remove blood odors from carpet. Odor removal is a critical component of biohazard remediation. Blood can leave a lingering odor if not thoroughly cleaned and disinfected. Professionals use specialized deodorizing agents that neutralize the odor-causing molecules rather than just masking them. They also ensure that all organic residues, which are the source of the odor, are completely removed from the carpet fibers, padding, and subfloor, leading to a permanent elimination of the smell.",
+        "@type": "Answer",
+        "description": "Yes, professional cleanup effectively removes blood odors using specialized deodorizers and by thoroughly eliminating all odor-causing organic residues."
+      }
+    }
+  ],
+  "description": "Yes, professional cleanup effectively removes blood odors using specialized deodorizers and by thoroughly eliminating all odor-causing organic residues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-property-be-fully-restored-after-water-extraction",
+  "name": "Will my property be fully restored after water extraction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my property be fully restored after water extraction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water extraction is the first critical step in a larger restoration process. After extraction and thorough drying, we assess the need for further repairs or reconstruction if materials were damaged beyond restoration. Our goal is to return your property to its pre-damage condition. This might involve replacing flooring, drywall, or other affected structural elements, ensuring a complete and safe restoration.",
+        "@type": "Answer",
+        "description": "Water extraction begins the restoration process. After drying, further repairs or reconstruction may be needed to return your property to its pre-damage condition, ensuring full restoration."
+      }
+    }
+  ],
+  "description": "Water extraction begins the restoration process. After drying, further repairs or reconstruction may be needed to return your property to its pre-damage conditi"
+}

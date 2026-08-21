@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-offer-discreet-blood-cleanup-services",
+  "name": "Do you offer discreet blood cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer discreet blood cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, discretion is a cornerstone of our blood cleanup services. We understand that these situations are often sensitive and private. Our technicians arrive in unmarked vehicles whenever possible and work efficiently and respectfully to minimize disruption and maintain your privacy. We are committed to handling every aspect of the cleanup with professionalism and empathy, ensuring the scene is restored without drawing unnecessary attention or causing additional distress to those involved. Your privacy and peace of mind are paramount.",
+        "@type": "Answer",
+        "description": "Yes, we offer discreet blood cleanup services. Our technicians use unmarked vehicles and work respectfully to maintain privacy and minimize disruption during sensitive situations."
+      }
+    }
+  ],
+  "description": "Yes, we offer discreet blood cleanup services. Our technicians use unmarked vehicles and work respectfully to maintain privacy and minimize disruption during se"
+}

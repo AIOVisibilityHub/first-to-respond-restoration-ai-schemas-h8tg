@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-areas-do-you-serve-for-biohazard-cleanup",
+  "name": "What areas do you serve for biohazard cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for biohazard cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First To Respond Restoration provides professional biohazard cleanup services in Encino, North Hollywood, San Fernando, Studio City, and Tarzana. We understand the urgency and sensitivity of biohazardous situations and are equipped to respond quickly and efficiently to these communities. Our certified technicians are available to help restore safety and peace of mind to residents and businesses in our service areas.",
+        "@type": "Answer",
+        "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for biohazard cleanup services."
+      }
+    }
+  ],
+  "description": "We serve Encino, North Hollywood, San Fernando, Studio City, and Tarzana for biohazard cleanup services."
+}

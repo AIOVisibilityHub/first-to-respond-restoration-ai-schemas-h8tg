@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-death-cleanup-covered-by-insurance",
+  "name": "Is death cleanup covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is death cleanup covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, death cleanup services are covered by standard homeowner's, renter's, or commercial insurance policies. Coverage typically falls under sections related to biohazard remediation or property damage from an unforeseen event. The extent of coverage can vary depending on your specific policy and the circumstances of the incident. We recommend contacting your insurance provider directly to understand your policy's details and confirm coverage. We can also assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Death cleanup is often covered by homeowner's, renter's, or commercial insurance policies. Contact your provider to confirm specific coverage details."
+      }
+    }
+  ],
+  "description": "Death cleanup is often covered by homeowner's, renter's, or commercial insurance policies. Contact your provider to confirm specific coverage details."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-included-in-a-professional-vomit-cleanup-service",
+  "name": "What is included in a professional vomit cleanup service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a professional vomit cleanup service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional vomit cleanup involves more than just surface cleaning. Our service includes the safe removal of all vomit and contaminated materials, thorough disinfection of affected surfaces to eliminate bacteria and viruses, and specialized odor removal techniques to neutralize unpleasant smells. We use industrial-grade cleaners and equipment to ensure the area is completely sanitized and restored to a healthy condition. This comprehensive approach helps prevent health risks and permanent staining.",
+        "@type": "Answer",
+        "description": "Our service includes safe removal of vomit and contaminated materials, thorough disinfection of affected surfaces, and specialized odor removal to neutralize smells and prevent health risks."
+      }
+    }
+  ],
+  "description": "Our service includes safe removal of vomit and contaminated materials, thorough disinfection of affected surfaces, and specialized odor removal to neutralize sm"
+}

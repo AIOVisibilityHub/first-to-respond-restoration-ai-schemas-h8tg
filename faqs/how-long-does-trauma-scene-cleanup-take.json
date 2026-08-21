@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-long-does-trauma-scene-cleanup-take",
+  "name": "How long does trauma scene cleanup take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does trauma scene cleanup take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of trauma scene cleanup varies significantly depending on the size and scope of the affected area, the type and volume of biohazardous materials, and the surfaces contaminated. A smaller incident might take a few hours, while larger or more complex scenes could require one to several days to complete the cleaning, disinfection, and deodorization processes thoroughly.",
+        "@type": "Answer",
+        "description": "Cleanup time varies based on scene size and contamination, from a few hours for small incidents to several days for larger ones."
+      }
+    }
+  ],
+  "description": "Cleanup time varies based on scene size and contamination, from a few hours for small incidents to several days for larger ones."
+}

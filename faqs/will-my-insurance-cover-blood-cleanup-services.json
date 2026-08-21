@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/will-my-insurance-cover-blood-cleanup-services",
+  "name": "Will my insurance cover blood cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my insurance cover blood cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's or business insurance policies may cover the cost of professional blood cleanup, especially if the incident was due to an unforeseen event like a crime, accident, or trauma. Coverage can vary significantly based on your specific policy terms and conditions. We recommend contacting your insurance provider directly to understand your coverage options. We can also assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Insurance coverage for blood cleanup often depends on your policy and the incident's nature; check with your provider."
+      }
+    }
+  ],
+  "description": "Insurance coverage for blood cleanup often depends on your policy and the incident's nature; check with your provider."
+}

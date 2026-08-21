@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/is-blood-stain-cleanup-covered-by-insurance",
+  "name": "Is blood stain cleanup covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is blood stain cleanup covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coverage for blood stain cleanup services often depends on your specific insurance policy, such as homeowners, renters, or commercial property insurance. In many cases, if the accident leading to the blood stain was covered under the policy (e.g., due to a covered peril or unexpected event), some cleanup costs might be reimbursed. It's crucial to review your policy details or contact your insurance provider directly to understand your coverage limits and requirements. Professional cleanup companies can often assist with documentation for insurance claims.",
+        "@type": "Answer",
+        "description": "Insurance coverage for blood stain cleanup varies by policy (homeowners, renters, commercial). Review your policy or contact your provider to understand if the cleanup is covered."
+      }
+    }
+  ],
+  "description": "Insurance coverage for blood stain cleanup varies by policy (homeowners, renters, commercial). Review your policy or contact your provider to understand if the"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-i-need-to-leave-my-home-during-water-mitigation",
+  "name": "Do I need to leave my home during water mitigation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during water mitigation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to leave your home during water mitigation depends on the severity of the damage, the areas affected, and the equipment used. For minor damage in an isolated area, you might be able to stay. However, if multiple rooms are affected, if drying equipment generates significant noise or heat, or if there's a risk of electrical hazards or airborne contaminants like mold, it's generally safer and more comfortable to temporarily relocate. Your mitigation professional will advise based on your specific situation.",
+        "@type": "Answer",
+        "description": "You may need to leave your home during water mitigation depending on the damage severity, affected areas, and equipment used; your technician will advise."
+      }
+    }
+  ],
+  "description": "You may need to leave your home during water mitigation depending on the damage severity, affected areas, and equipment used; your technician will advise."
+}

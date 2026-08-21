@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/how-do-i-choose-a-reliable-water-removal-company-in-encino-or-north-hollywood",
+  "name": "How do I choose a reliable water removal company in Encino or North Hollywood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable water removal company in Encino or North Hollywood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a water removal company, look for several key factors. Ensure they are certified by organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification), indicating adherence to industry standards. Check for local experience, especially in areas like Encino or North Hollywood, and verify their licensing and insurance. A reputable company should also offer 24/7 emergency services and provide clear communication and estimates.",
+        "@type": "Answer",
+        "description": "Choose a company that is IICRC certified, licensed, insured, has local experience, and offers 24/7 emergency services."
+      }
+    }
+  ],
+  "description": "Choose a company that is IICRC certified, licensed, insured, has local experience, and offers 24/7 emergency services."
+}

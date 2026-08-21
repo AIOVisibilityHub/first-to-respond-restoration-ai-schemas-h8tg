@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/do-you-handle-crime-scene-cleanup",
+  "name": "Do you handle crime scene cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle crime scene cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we handle crime scene cleanup. These situations often involve biohazardous materials like blood and bodily fluids, which require professional and discreet remediation. Our trained technicians are experienced in safely and thoroughly cleaning, disinfecting, and deodorizing properties affected by crime scenes. We work with sensitivity and respect, restoring the area to a safe and habitable condition while adhering to all necessary health and safety protocols.",
+        "@type": "Answer",
+        "description": "Yes, we provide professional and discreet crime scene cleanup services, which often involve biohazardous materials, to restore affected properties."
+      }
+    }
+  ],
+  "description": "Yes, we provide professional and discreet crime scene cleanup services, which often involve biohazardous materials, to restore affected properties."
+}

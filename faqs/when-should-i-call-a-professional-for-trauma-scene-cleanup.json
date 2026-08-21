@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/when-should-i-call-a-professional-for-trauma-scene-cleanup",
+  "name": "When should I call a professional for trauma scene cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for trauma scene cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional trauma scene cleanup service immediately after authorities have released the scene. It is critical to avoid attempting to clean biohazardous materials yourself, as improper handling can pose serious health risks and may not fully disinfect the area. Professionals have the necessary training, equipment, and protective gear to safely manage these situations.",
+        "@type": "Answer",
+        "description": "Call a professional cleanup service immediately after authorities release the scene to ensure safe and thorough biohazard removal."
+      }
+    }
+  ],
+  "description": "Call a professional cleanup service immediately after authorities release the scene to ensure safe and thorough biohazard removal."
+}

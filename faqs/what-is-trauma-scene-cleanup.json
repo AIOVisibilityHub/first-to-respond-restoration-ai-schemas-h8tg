@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-trauma-scene-cleanup",
+  "name": "What is trauma scene cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trauma scene cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trauma scene cleanup involves the safe and thorough removal, cleaning, and disinfection of biohazardous materials after an incident. This includes blood, bodily fluids, and other potentially infectious substances from scenes such as accidents, unattended deaths, suicides, or crime scenes. Professional services ensure the area is restored to a safe and habitable condition, adhering to strict health and safety protocols.",
+        "@type": "Answer",
+        "description": "Trauma scene cleanup is the professional removal and disinfection of biohazardous materials after incidents like accidents or unattended deaths."
+      }
+    }
+  ],
+  "description": "Trauma scene cleanup is the professional removal and disinfection of biohazardous materials after incidents like accidents or unattended deaths."
+}

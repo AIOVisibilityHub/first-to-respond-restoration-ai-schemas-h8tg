@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-certifications-or-training-do-your-biohazard-cleanup-technicians-have",
+  "name": "What certifications or training do your biohazard cleanup technicians have?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What certifications or training do your biohazard cleanup technicians have?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our biohazard cleanup technicians undergo extensive training and hold certifications in various specialized areas relevant to biohazard remediation. This includes training in bloodborne pathogen control, OSHA regulations, proper use of personal protective equipment (PPE), hazardous waste disposal, and advanced disinfection techniques. They are also trained to handle sensitive situations with professionalism and discretion. We adhere to industry best practices and maintain ongoing education to ensure our team is equipped with the latest knowledge and safety protocols.",
+        "@type": "Answer",
+        "description": "Our technicians are trained and certified in bloodborne pathogen control, OSHA regulations, PPE use, hazardous waste disposal, and advanced disinfection."
+      }
+    }
+  ],
+  "description": "Our technicians are trained and certified in bloodborne pathogen control, OSHA regulations, PPE use, hazardous waste disposal, and advanced disinfection."
+}

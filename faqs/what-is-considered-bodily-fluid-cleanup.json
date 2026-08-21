@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/what-is-considered-bodily-fluid-cleanup",
+  "name": "What is considered bodily fluid cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered bodily fluid cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bodily fluid cleanup involves the safe and thorough removal and disinfection of biological contaminants such as blood, urine, vomit, and other human or animal fluids from affected areas. This specialized service goes beyond standard cleaning to address potential health hazards, odors, and structural damage caused by biohazardous materials. It typically includes sanitization, decontamination, and disposal of contaminated items in compliance with health regulations to ensure the safety of the environment.",
+        "@type": "Answer",
+        "description": "Bodily fluid cleanup is the specialized removal and disinfection of biohazardous substances like blood, urine, or vomit to eliminate health risks and odors."
+      }
+    }
+  ],
+  "description": "Bodily fluid cleanup is the specialized removal and disinfection of biohazardous substances like blood, urine, or vomit to eliminate health risks and odors."
+}

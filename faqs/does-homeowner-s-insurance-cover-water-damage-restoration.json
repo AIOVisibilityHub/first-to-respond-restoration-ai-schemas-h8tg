@@ -1,0 +1,27 @@
+{
+  "url": "http://first2respond.com/faq/does-homeowner-s-insurance-cover-water-damage-restoration",
+  "name": "Does homeowner's insurance cover water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies cover sudden and accidental water damage, such as from a burst pipe, appliance leak, or storm damage. However, coverage often excludes damage from floods (which requires separate flood insurance) or damage resulting from neglect or poor maintenance, like long-term leaks. It's essential to review your specific policy and contact your insurance provider as soon as damage occurs to understand your coverage and initiate a claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden water damage but typically excludes floods or neglect. Review your policy and contact your provider for specifics."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden water damage but typically excludes floods or neglect. Review your policy and contact your provider for specifics."
+}
