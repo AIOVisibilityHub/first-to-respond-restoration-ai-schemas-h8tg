@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T18:34:43.990Z",
+  "generatedAt": "2026-08-23T19:05:15.550Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -12,7 +12,7 @@
   "entity": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "https://first2respond.aiovisibility.net",
-    "primaryWebsiteUrl": "https://first2respond.aiovisibility.net",
+    "primaryWebsiteUrl": "https://first2respond.com",
     "aiDataHub": "https://first2respond.aiovisibility.net/ai-data.html"
   },
   "related": [
