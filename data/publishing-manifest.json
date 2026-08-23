@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T18:34:15.196Z",
+  "generatedAt": "2026-08-23T18:34:44.059Z",
   "client": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "https://first2respond.aiovisibility.net",
@@ -307,7 +307,7 @@
   },
   "package": {
     "totalFiles": 2841,
-    "totalBytes": 9809741,
+    "totalBytes": 9758328,
     "stats": {
       "qna": 22,
       "faqs": 2437,
@@ -14446,47 +14446,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 17801,
+        "bytes": 11907,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 20550,
+        "bytes": 14776,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 218119,
+        "bytes": 212201,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 35612,
+        "bytes": 30036,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 14765,
+        "bytes": 9114,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1693028,
+        "bytes": 1687320,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 486411,
+        "bytes": 480808,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 253588,
+        "bytes": 247985,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 124154,
+        "bytes": 118468,
         "purpose": "LLM-optimized public page"
       }
     ],
