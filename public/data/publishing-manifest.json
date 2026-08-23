@@ -1,9 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-21T23:11:30.234Z",
+  "generatedAt": "2026-08-23T18:34:15.196Z",
   "client": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "https://first2respond.aiovisibility.net",
+    "primaryWebsiteUrl": "https://first2respond.aiovisibility.net",
     "pagesUrl": "https://first2respond.aiovisibility.net",
     "phone": "(844) 721-0319",
     "email": "info@first2respond.com",
@@ -306,7 +307,7 @@
   },
   "package": {
     "totalFiles": 2841,
-    "totalBytes": 9800825,
+    "totalBytes": 9809741,
     "stats": {
       "qna": 22,
       "faqs": 2437,
@@ -14445,47 +14446,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 13446,
+        "bytes": 17801,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 16127,
+        "bytes": 20550,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 218109,
+        "bytes": 218119,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 35602,
+        "bytes": 35612,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 14755,
+        "bytes": 14765,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1693018,
+        "bytes": 1693028,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 486401,
+        "bytes": 486411,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 253578,
+        "bytes": 253588,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 124144,
+        "bytes": 124154,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -14517,7 +14518,7 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1628,
+        "bytes": 1696,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
