@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T18:34:44.059Z",
+  "generatedAt": "2026-08-23T19:05:15.593Z",
   "client": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "https://first2respond.aiovisibility.net",
-    "primaryWebsiteUrl": "https://first2respond.aiovisibility.net",
+    "primaryWebsiteUrl": "https://first2respond.com",
     "pagesUrl": "https://first2respond.aiovisibility.net",
     "phone": "(844) 721-0319",
     "email": "info@first2respond.com",
@@ -307,7 +307,7 @@
   },
   "package": {
     "totalFiles": 2841,
-    "totalBytes": 9758328,
+    "totalBytes": 9811097,
     "stats": {
       "qna": 22,
       "faqs": 2437,
@@ -14446,47 +14446,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11907,
+        "bytes": 18135,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 14776,
+        "bytes": 20683,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 212201,
+        "bytes": 218252,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 30036,
+        "bytes": 35745,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9114,
+        "bytes": 14870,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1687320,
+        "bytes": 1693161,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 480808,
+        "bytes": 486544,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 247985,
+        "bytes": 253721,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 118468,
+        "bytes": 124287,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -14518,7 +14518,7 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1696,
+        "bytes": 1682,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
