@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T19:05:35.291Z",
+  "generatedAt": "2026-09-05T21:58:56.873Z",
   "client": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "https://first2respond.aiovisibility.net",
@@ -306,8 +306,8 @@
     ]
   },
   "package": {
-    "totalFiles": 2841,
-    "totalBytes": 9759684,
+    "totalFiles": 3074,
+    "totalBytes": 13887085,
     "stats": {
       "qna": 22,
       "faqs": 2437,
@@ -14446,47 +14446,1212 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 12241,
+        "bytes": 18108,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 14909,
+        "bytes": 20656,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 212334,
+        "bytes": 218225,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 30169,
+        "bytes": 35718,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9219,
+        "bytes": 14843,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1687453,
+        "bytes": 1693134,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 480941,
+        "bytes": 189766,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 248118,
+        "bytes": 253694,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 118601,
+        "bytes": 124260,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-house-just-had-a-fire-what-do-i-do-first.html",
+        "bytes": 16293,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-i-really-get-rid-of-that-smoke-smell-after-a-fire.html",
+        "bytes": 14982,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/help-my-home-is-soot-covered-after-a-fire.html",
+        "bytes": 16214,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/uh-oh-i-think-i-have-mold-now-what.html",
+        "bytes": 14490,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-this-mold-keep-coming-back.html",
+        "bytes": 14642,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-mold-really-be-hiding-in-my-walls.html",
+        "bytes": 16599,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-pipes-burst-and-water-starts-flooding-your-home.html",
+        "bytes": 15119,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-acting-fast-is-key-when-your-property-experiences-water-damage.html",
+        "bytes": 16336,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-water-damage-restoration-more-than-just-drying.html",
+        "bytes": 16726,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/suddenly-your-toilet-s-backed-up-now-what.html",
+        "bytes": 14639,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-you-can-t-diy-sewage-cleanup-after-a-backup.html",
+        "bytes": 16716,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-know-if-your-water-damage-is-a-biohazard-situation.html",
+        "bytes": 15150,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-roof-leaks-after-a-storm-what-now.html",
+        "bytes": 15862,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-i-deal-with-storm-damage-myself.html",
+        "bytes": 17052,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-happens-when-storm-water-gets-inside-my-home.html",
+        "bytes": 17412,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-professional-biohazard-cleanup-necessary.html",
+        "bytes": 17470,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-it-safe-to-clean-up-sewage-myself.html",
+        "bytes": 17522,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-do-i-know-if-my-property-needs-biohazard-remediation.html",
+        "bytes": 17932,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-commercial-property-suffers-water-damage.html",
+        "bytes": 16531,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-get-your-business-back-up-and-running-after-a-fire.html",
+        "bytes": 16650,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-business-had-a-disaster-how-do-i-minimize-downtime.html",
+        "bytes": 17392,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-property-was-a-drug-lab-now-what.html",
+        "bytes": 18535,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dealing-with-a-hoarder-cleanout-where-do-i-begin.html",
+        "bytes": 18870,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-mystery-smell-that-won-t-go-away.html",
+        "bytes": 18823,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-home-has-fire-damage.html",
+        "bytes": 18806,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-after-fire-damage.html",
+        "bytes": 18880,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-a-pro-for-fire-damage.html",
+        "bytes": 19251,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-tackle-lingering-smoke-odors-after-a-fire.html",
+        "bytes": 18696,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-vs-facts-about-smoke-damage-cleanup.html",
+        "bytes": 19672,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-professional-smoke-damage-restoration-a-must.html",
+        "bytes": 19643,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-after-a-fire-incident.html",
+        "bytes": 17627,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-professional-fire-damage-cleanup-is-crucial.html",
+        "bytes": 17551,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-tackle-fire-damage-a-step-by-step-guide.html",
+        "bytes": 16100,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-soot-takes-over-your-property.html",
+        "bytes": 17771,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-you-really-get-rid-of-that-lingering-smoke-smell.html",
+        "bytes": 17901,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-right-way-to-handle-soot-cleanup-a-quick-guide.html",
+        "bytes": 16691,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-a-fire-in-your-home.html",
+        "bytes": 17466,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-tackle-fire-damage-cleanup-a-step-by-step-guide.html",
+        "bytes": 16413,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-for-fire-damage-repair.html",
+        "bytes": 17567,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-about-emergency-fire-restoration-debunked.html",
+        "bytes": 18272,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-emergency-fire-restoration.html",
+        "bytes": 16410,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-secure-your-property-after-a-fire-emergency.html",
+        "bytes": 16345,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-a-house-fire.html",
+        "bytes": 16276,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-professional-cleanup-crucial-after-a-house-fire.html",
+        "bytes": 18599,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-during-house-fire-cleanup.html",
+        "bytes": 18314,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-my-apartment-livable-after-a-fire.html",
+        "bytes": 18291,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/navigating-apartment-fire-cleanup-a-step-by-step-guide.html",
+        "bytes": 17413,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-call-for-professional-apartment-fire-cleanup.html",
+        "bytes": 19140,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-cleaning-up-kitchen-fire-damage.html",
+        "bytes": 18422,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-you-need-professional-help-after-a-kitchen-fire.html",
+        "bytes": 17955,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-a-kitchen-fire.html",
+        "bytes": 16194,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/restoring-your-garage-after-fire-damage-a-step-by-step-guide.html",
+        "bytes": 16802,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-myths-about-diy-garage-fire-restoration.html",
+        "bytes": 18180,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-professional-garage-fire-cleanup-essential.html",
+        "bytes": 18151,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-i-clean-up-small-fire-damage-myself.html",
+        "bytes": 17412,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-right-after-a-small-kitchen-fire.html",
+        "bytes": 15756,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-for-professional-small-fire-cleanup.html",
+        "bytes": 17313,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-when-your-home-has-fire-damage.html",
+        "bytes": 16324,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-all-fire-damage-visible.html",
+        "bytes": 16797,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-about-fire-damaged-house-cleanup.html",
+        "bytes": 17016,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-professional-smoke-damage-testing-really-necessary.html",
+        "bytes": 18064,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dealing-with-smoke-damage-common-mistakes-to-avoid.html",
+        "bytes": 17421,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-professionals-for-smoke-damage-in-your-house.html",
+        "bytes": 17594,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-get-rid-of-stubborn-smoke-smell-in-your-home.html",
+        "bytes": 16085,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/smoke-smell-after-a-fire-myths-vs-facts.html",
+        "bytes": 18059,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-house-still-smell-like-smoke-after-a-fire.html",
+        "bytes": 18065,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-right-after-a-fire-incident-at-your-property.html",
+        "bytes": 18099,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-call-a-professional-for-fire-damage.html",
+        "bytes": 19547,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-people-make-after-a-house-fire.html",
+        "bytes": 19524,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-handle-lingering-smoke-smells-after-a-fire.html",
+        "bytes": 18806,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-about-cleaning-up-smoke-damage-yourself.html",
+        "bytes": 20412,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-ensure-complete-smoke-removal-from-your-home.html",
+        "bytes": 19109,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-soot-damage-feels-overwhelming.html",
+        "bytes": 17604,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/navigating-the-fire-damage-restoration-process.html",
+        "bytes": 16244,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-for-professional-soot-cleanup.html",
+        "bytes": 17696,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/are-you-making-these-common-fire-cleanup-errors.html",
+        "bytes": 17774,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-your-property-truly-clean-after-soot-exposure.html",
+        "bytes": 18487,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-your-options-for-fire-damage-cleanup.html",
+        "bytes": 18028,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-biggest-mistakes-to-avoid-after-a-house-fire.html",
+        "bytes": 18548,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-the-fire-damage-restoration-process.html",
+        "bytes": 18032,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-professional-fire-restoration-so-important.html",
+        "bytes": 18021,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-i-clean-up-fire-damage-myself.html",
+        "bytes": 17764,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-after-a-house-fire.html",
+        "bytes": 17345,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-professional-fire-cleanup-crucial-for-your-home.html",
+        "bytes": 17565,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-steps-are-involved-in-apartment-fire-restoration.html",
+        "bytes": 16158,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-vs-facts-about-apartment-fire-cleanup.html",
+        "bytes": 17770,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-for-professional-apartment-fire-cleanup.html",
+        "bytes": 18139,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/steps-to-take-when-your-kitchen-has-had-a-fire.html",
+        "bytes": 16859,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-cleaning-up-a-kitchen-fire.html",
+        "bytes": 18300,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/getting-your-garage-back-to-normal-after-a-fire.html",
+        "bytes": 16028,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/steps-to-take-after-a-garage-fire.html",
+        "bytes": 16662,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-you-shouldn-t-tackle-garage-fire-cleanup-alone.html",
+        "bytes": 18399,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-after-a-small-kitchen-fire.html",
+        "bytes": 17226,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-home-had-a-small-fire-can-i-clean-it-myself.html",
+        "bytes": 17826,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-cleaning-up-small-fire-damage.html",
+        "bytes": 17488,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-for-professional-fire-damaged-house-cleanup.html",
+        "bytes": 17519,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/guide-to-cleaning-up-your-fire-damaged-house.html",
+        "bytes": 17551,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-i-clean-smoke-damage-myself-or-do-i-need-a-pro.html",
+        "bytes": 18530,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dealing-with-the-aftermath-a-guide-to-smoke-damage-restoration.html",
+        "bytes": 17904,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-you-have-hidden-smoke-damage-after-a-small-fire.html",
+        "bytes": 17783,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-house-still-smell-smoky-after-a-fire.html",
+        "bytes": 17693,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-best-way-to-tackle-stubborn-smoke-odors-in-your-home.html",
+        "bytes": 16327,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-when-trying-to-remove-smoke-odor.html",
+        "bytes": 17783,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-your-home-has-smoke-damage.html",
+        "bytes": 17965,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-professional-smoke-odor-removal-necessary.html",
+        "bytes": 17763,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-process-of-removing-smoke-odors-from-your-home.html",
+        "bytes": 17841,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-smoke-damage-myths-vs-facts.html",
+        "bytes": 18341,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-happens-if-smoke-odor-isn-t-fully-removed.html",
+        "bytes": 17820,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-my-home-still-damaged-after-the-flames-are-gone.html",
+        "bytes": 17432,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-does-fire-damage-require-professional-help.html",
+        "bytes": 17156,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-deal-with-the-lingering-smell-of-smoke-after-a-fire.html",
+        "bytes": 16159,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-the-hidden-dangers-of-smoke-damage.html",
+        "bytes": 17329,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-people-make-when-cleaning-up-smoke-damage.html",
+        "bytes": 17343,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/don-t-make-these-mistakes-after-a-house-fire.html",
+        "bytes": 17747,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-professional-fire-damage-cleanup-truly-necessary.html",
+        "bytes": 18081,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-safely-tackle-soot-and-smoke-stains.html",
+        "bytes": 16161,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-you-shouldn-t-delay-soot-cleanup.html",
+        "bytes": 17648,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-soot-damage-cleaning-covered-by-insurance.html",
+        "bytes": 17705,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-people-make-after-fire-damage.html",
+        "bytes": 17835,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-professional-fire-restoration-really-necessary.html",
+        "bytes": 18653,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-truth-about-lingering-smoke-odors.html",
+        "bytes": 17535,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-acting-fast-after-a-fire-is-crucial.html",
+        "bytes": 17705,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-the-emergency-fire-restoration-process.html",
+        "bytes": 18136,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/a-step-by-step-guide-to-house-fire-cleanup.html",
+        "bytes": 18642,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-about-fire-damage-restoration.html",
+        "bytes": 18640,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-call-professionals-for-apartment-fire-cleanup.html",
+        "bytes": 19461,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-after-an-apartment-fire.html",
+        "bytes": 19010,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/restoring-your-apartment-after-a-fire-a-complete-guide.html",
+        "bytes": 19703,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-biggest-mistakes-in-kitchen-fire-cleanup-you-should-avoid.html",
+        "bytes": 17581,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-professional-help-essential-for-kitchen-fire-damage.html",
+        "bytes": 17582,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-garage-fire-cleanup-errors-and-how-to-prevent-them.html",
+        "bytes": 17547,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-you-need-professional-garage-fire-restoration.html",
+        "bytes": 17552,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-right-after-a-small-fire.html",
+        "bytes": 16436,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-fire-cleanup-mistakes.html",
+        "bytes": 17954,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-professional-help-needed-for-fire-damage.html",
+        "bytes": 18621,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dealing-with-the-aftermath-of-a-house-fire.html",
+        "bytes": 18092,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-the-fire-damaged-house-cleanup-process.html",
+        "bytes": 16984,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-about-fire-damage-restoration-debunked.html",
+        "bytes": 17889,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-about-persistent-smoke-smell-after-a-fire.html",
+        "bytes": 16730,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-my-house-still-smelling-smoky-after-a-fire.html",
+        "bytes": 18378,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-seek-professional-help-for-smoke-smell-removal.html",
+        "bytes": 18401,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-home-has-smoke-damage-what-should-i-do-first.html",
+        "bytes": 16578,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-biggest-mistakes-when-cleaning-up-smoke-damage.html",
+        "bytes": 18418,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-does-smoke-damage-require-professional-restoration.html",
+        "bytes": 18551,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-house-still-smells-smoky-after-a-fire.html",
+        "bytes": 17473,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-a-fire-to-prevent-lasting-smoke-odor.html",
+        "bytes": 16665,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-about-cleaning-up-smoke-after-a-fire.html",
+        "bytes": 18545,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-get-rid-of-stubborn-smoke-odor-in-your-home.html",
+        "bytes": 17303,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-smoke-damage-cleanup.html",
+        "bytes": 17791,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-worry-about-lingering-smoke-smells.html",
+        "bytes": 17688,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-a-fire-strikes-your-home.html",
+        "bytes": 16123,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-diy-fire-cleanup-can-be-a-huge-mistake.html",
+        "bytes": 17997,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-professional-fire-damage-restoration-absolutely-necessary.html",
+        "bytes": 18792,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-hidden-dangers-of-smoke-damage-you-might-be-missing.html",
+        "bytes": 18132,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-get-your-home-back-to-normal-after-smoke-damage.html",
+        "bytes": 16731,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/debunking-common-myths-about-smoke-damage-cleanup.html",
+        "bytes": 18654,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-not-to-do-after-a-fire-avoiding-common-mistakes.html",
+        "bytes": 17960,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/a-step-by-step-guide-to-soot-cleanup-after-a-fire.html",
+        "bytes": 16565,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-for-professional-fire-damage-cleanup.html",
+        "bytes": 18521,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-diy-soot-cleanup-can-be-a-mistake.html",
+        "bytes": 17839,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-and-facts-about-fire-damage-restoration.html",
+        "bytes": 18555,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/recognizing-when-professional-soot-cleanup-is-essential.html",
+        "bytes": 18073,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-handle-smoke-damage-after-a-fire.html",
+        "bytes": 16332,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-timely-emergency-fire-restoration-is-crucial.html",
+        "bytes": 17367,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-emergency-fire-cleanup.html",
+        "bytes": 17569,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-a-professional-for-fire-damage.html",
+        "bytes": 18541,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-steps-to-take-after-an-apartment-fire.html",
+        "bytes": 16051,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-diy-fire-cleanup-is-a-bad-idea-for-your-home.html",
+        "bytes": 17974,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-call-professionals-after-a-house-fire.html",
+        "bytes": 18668,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-apartment-fire-cleanup.html",
+        "bytes": 17913,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-house-fire-restoration-a-step-by-step-guide.html",
+        "bytes": 18962,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-about-apartment-fire-cleanup-you-need-to-know.html",
+        "bytes": 18668,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-my-kitchen-still-sooty-after-i-cleaned-it.html",
+        "bytes": 17776,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-kitchen-fire-damage.html",
+        "bytes": 17770,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-people-make-after-a-garage-fire.html",
+        "bytes": 17694,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-safely-clean-up-after-a-small-garage-fire.html",
+        "bytes": 16292,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-garage-fire-damage-too-much-to-handle-myself.html",
+        "bytes": 18065,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-right-after-a-small-fire-in-your-home.html",
+        "bytes": 17523,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-diy-fire-cleanup-can-be-a-big-mistake.html",
+        "bytes": 17642,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-handle-smoke-damage-after-a-kitchen-fire.html",
+        "bytes": 16343,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/steps-to-take-when-your-house-has-fire-damage.html",
+        "bytes": 16123,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/knowing-when-your-home-needs-professional-fire-restoration.html",
+        "bytes": 17859,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-you-really-clean-up-fire-damage-yourself.html",
+        "bytes": 17787,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-house-has-smoke-damage.html",
+        "bytes": 17386,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-dealing-with-smoke-damage-in-your-home.html",
+        "bytes": 17895,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-professional-for-smoke-damage-in-your-house.html",
+        "bytes": 17652,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-get-rid-of-that-lingering-smoke-smell-after-a-fire.html",
+        "bytes": 16518,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-vs-facts-about-removing-smoke-smell-after-a-fire.html",
+        "bytes": 18614,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-about-lingering-smoke-odor-after-a-house-fire.html",
+        "bytes": 16326,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-i-really-clean-smoke-odor-myself.html",
+        "bytes": 17382,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-call-a-professional-for-smoke-odor-removal.html",
+        "bytes": 17552,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-biggest-mistakes-people-make-with-smoke-damage.html",
+        "bytes": 17642,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-the-science-of-smoke-odor-removal.html",
+        "bytes": 17787,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-after-a-house-fire.html",
+        "bytes": 15970,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-does-fire-damage-become-a-health-hazard.html",
+        "bytes": 18361,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-deal-with-smoke-damage-odors.html",
+        "bytes": 16812,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-hidden-dangers-of-smoke-damage.html",
+        "bytes": 18249,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/should-i-air-out-my-home-after-smoke-damage.html",
+        "bytes": 18568,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-soot-stains-won-t-budge-a-guide-to-effective-cleanup.html",
+        "bytes": 19210,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-can-t-i-just-clean-soot-myself-myths-vs-facts.html",
+        "bytes": 19257,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-professional-for-soot-cleanup.html",
+        "bytes": 20270,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-a-fire-to-minimize-damage.html",
+        "bytes": 19060,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-dangers-of-delayed-fire-damage-cleanup.html",
+        "bytes": 20551,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/navigating-insurance-for-fire-damage-cleanup-what-s-covered.html",
+        "bytes": 21004,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-property-still-smells-like-smoke-after-a-fire.html",
+        "bytes": 17828,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-professionals-for-fire-damage.html",
+        "bytes": 18324,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-the-full-extent-of-fire-damage.html",
+        "bytes": 17634,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-house-caught-fire-now-what.html",
+        "bytes": 16171,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/preventing-further-damage-after-a-house-fire.html",
+        "bytes": 17898,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-tackle-the-aftermath-of-an-apartment-fire.html",
+        "bytes": 16318,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-your-apartment-catches-fire-next-steps.html",
+        "bytes": 17722,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dealing-with-smoke-damage-in-your-apartment.html",
+        "bytes": 17902,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-kitchen-fire-creates-a-huge-mess.html",
+        "bytes": 18016,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/thinking-of-diying-your-kitchen-fire-cleanup.html",
+        "bytes": 18283,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-get-your-kitchen-back-to-normal-after-a-fire.html",
+        "bytes": 17316,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-garage-caught-fire-now-what.html",
+        "bytes": 17886,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/should-you-try-to-clean-up-a-garage-fire-yourself.html",
+        "bytes": 18792,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-garage-fire-damage-too-much-to-handle-alone.html",
+        "bytes": 18307,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-house-just-had-a-small-fire-what-now.html",
+        "bytes": 17585,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-after-a-small-fire.html",
+        "bytes": 17609,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-for-small-fire-damage-cleanup.html",
+        "bytes": 18370,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-all-fire-damage-covered-by-insurance-myths-vs-facts.html",
+        "bytes": 18915,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-process-of-cleaning-up-after-a-house-fire.html",
+        "bytes": 18205,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-home-has-smoke-damage.html",
+        "bytes": 17770,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-you-can-t-get-rid-of-that-smoke-smell-after-a-fire.html",
+        "bytes": 17949,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-dealing-with-smoke-damage.html",
+        "bytes": 17893,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-effectively-remove-stubborn-smoke-odors.html",
+        "bytes": 17209,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-smoke-damage-in-your-home.html",
+        "bytes": 18189,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/myths-and-facts-about-smoke-smell-after-a-fire.html",
+        "bytes": 18609,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-people-make-when-trying-to-clear-smoke-smell.html",
+        "bytes": 17983,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-professional-smoke-odor-removal-absolutely-necessary.html",
+        "bytes": 18358,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/the-dangers-of-lingering-smoke-odor-more-than-just-a-bad-smell.html",
+        "bytes": 17627,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/a-step-by-step-guide-to-professional-smoke-odor-restoration.html",
+        "bytes": 17409,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -14523,17 +15688,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 1269373,
+        "bytes": 1368768,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 350450,
+        "bytes": 380950,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 350450,
+        "bytes": 380950,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -14543,17 +15708,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 441145,
+        "bytes": 477678,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 373232,
+        "bytes": 401866,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1037,
+        "bytes": 29671,
         "purpose": "Standard sitemap"
       }
     ]
