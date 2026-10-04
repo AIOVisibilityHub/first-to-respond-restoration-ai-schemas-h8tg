@@ -1,0 +1,1981 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "My House Just Had a Fire — What Do I Do First?",
+      "anchorSlug": "my-house-just-had-a-fire-what-do-i-do-first",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-house-just-had-a-fire-what-do-i-do-first.html"
+    },
+    {
+      "title": "Can I Really Get Rid of That Smoke Smell After a Fire?",
+      "anchorSlug": "can-i-really-get-rid-of-that-smoke-smell-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-really-get-rid-of-that-smoke-smell-after-a-fire.html"
+    },
+    {
+      "title": "Help! My Home is Soot-Covered After a Fire!",
+      "anchorSlug": "help-my-home-is-soot-covered-after-a-fire",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/help-my-home-is-soot-covered-after-a-fire.html"
+    },
+    {
+      "title": "Uh Oh, I Think I Have Mold – Now What?",
+      "anchorSlug": "uh-oh-i-think-i-have-mold-now-what",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/uh-oh-i-think-i-have-mold-now-what.html"
+    },
+    {
+      "title": "Why Does This Mold Keep Coming Back?",
+      "anchorSlug": "why-does-this-mold-keep-coming-back",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-this-mold-keep-coming-back.html"
+    },
+    {
+      "title": "Can Mold Really Be Hiding in My Walls?",
+      "anchorSlug": "can-mold-really-be-hiding-in-my-walls",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-mold-really-be-hiding-in-my-walls.html"
+    },
+    {
+      "title": "What to Do When Your Pipes Burst and Water Starts Flooding Your Home",
+      "anchorSlug": "what-to-do-when-your-pipes-burst-and-water-starts-flooding-your-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-pipes-burst-and-water-starts-flooding-your-home.html"
+    },
+    {
+      "title": "Why Acting Fast is Key When Your Property Experiences Water Damage",
+      "anchorSlug": "why-acting-fast-is-key-when-your-property-experiences-water-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-acting-fast-is-key-when-your-property-experiences-water-damage.html"
+    },
+    {
+      "title": "When is Water Damage Restoration More Than Just Drying?",
+      "anchorSlug": "when-is-water-damage-restoration-more-than-just-drying",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-water-damage-restoration-more-than-just-drying.html"
+    },
+    {
+      "title": "Suddenly, Your Toilet's Backed Up – Now What?",
+      "anchorSlug": "suddenly-your-toilet-s-backed-up-now-what",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/suddenly-your-toilet-s-backed-up-now-what.html"
+    },
+    {
+      "title": "Why You Can't DIY Sewage Cleanup After a Backup",
+      "anchorSlug": "why-you-can-t-diy-sewage-cleanup-after-a-backup",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-you-can-t-diy-sewage-cleanup-after-a-backup.html"
+    },
+    {
+      "title": "How to Know if Your Water Damage is a Biohazard Situation",
+      "anchorSlug": "how-to-know-if-your-water-damage-is-a-biohazard-situation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-know-if-your-water-damage-is-a-biohazard-situation.html"
+    },
+    {
+      "title": "My Roof Leaks After a Storm—What Now?",
+      "anchorSlug": "my-roof-leaks-after-a-storm-what-now",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-roof-leaks-after-a-storm-what-now.html"
+    },
+    {
+      "title": "Can I Deal with Storm Damage Myself?",
+      "anchorSlug": "can-i-deal-with-storm-damage-myself",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-deal-with-storm-damage-myself.html"
+    },
+    {
+      "title": "What Happens When Storm Water Gets Inside My Home?",
+      "anchorSlug": "what-happens-when-storm-water-gets-inside-my-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-when-storm-water-gets-inside-my-home.html"
+    },
+    {
+      "title": "When Is Professional Biohazard Cleanup Necessary?",
+      "anchorSlug": "when-is-professional-biohazard-cleanup-necessary",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-biohazard-cleanup-necessary.html"
+    },
+    {
+      "title": "Is it Safe to Clean Up Sewage Myself?",
+      "anchorSlug": "is-it-safe-to-clean-up-sewage-myself",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-it-safe-to-clean-up-sewage-myself.html"
+    },
+    {
+      "title": "How Do I Know If My Property Needs Biohazard Remediation?",
+      "anchorSlug": "how-do-i-know-if-my-property-needs-biohazard-remediation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-know-if-my-property-needs-biohazard-remediation.html"
+    },
+    {
+      "title": "What to Do When Your Commercial Property Suffers Water Damage",
+      "anchorSlug": "what-to-do-when-your-commercial-property-suffers-water-damage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-commercial-property-suffers-water-damage.html"
+    },
+    {
+      "title": "How to Get Your Business Back Up and Running After a Fire",
+      "anchorSlug": "how-to-get-your-business-back-up-and-running-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-your-business-back-up-and-running-after-a-fire.html"
+    },
+    {
+      "title": "My Business Had a Disaster – How Do I Minimize Downtime?",
+      "anchorSlug": "my-business-had-a-disaster-how-do-i-minimize-downtime",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-business-had-a-disaster-how-do-i-minimize-downtime.html"
+    },
+    {
+      "title": "My Property Was a Drug Lab; Now What?",
+      "anchorSlug": "my-property-was-a-drug-lab-now-what",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-property-was-a-drug-lab-now-what.html"
+    },
+    {
+      "title": "Dealing With a Hoarder Cleanout: Where Do I Begin?",
+      "anchorSlug": "dealing-with-a-hoarder-cleanout-where-do-i-begin",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-a-hoarder-cleanout-where-do-i-begin.html"
+    },
+    {
+      "title": "The Mystery Smell That Won't Go Away",
+      "anchorSlug": "the-mystery-smell-that-won-t-go-away",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-mystery-smell-that-won-t-go-away.html"
+    },
+    {
+      "title": "What to Do When Your Home Has Fire Damage?",
+      "anchorSlug": "what-to-do-when-your-home-has-fire-damage",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-home-has-fire-damage.html"
+    },
+    {
+      "title": "Mistakes to Avoid After Fire Damage",
+      "anchorSlug": "mistakes-to-avoid-after-fire-damage",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-after-fire-damage.html"
+    },
+    {
+      "title": "When is it Time to Call a Pro for Fire Damage?",
+      "anchorSlug": "when-is-it-time-to-call-a-pro-for-fire-damage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-a-pro-for-fire-damage.html"
+    },
+    {
+      "title": "How to Tackle Lingering Smoke Odors After a Fire",
+      "anchorSlug": "how-to-tackle-lingering-smoke-odors-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-tackle-lingering-smoke-odors-after-a-fire.html"
+    },
+    {
+      "title": "Myths vs. Facts About Smoke Damage Cleanup",
+      "anchorSlug": "myths-vs-facts-about-smoke-damage-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-vs-facts-about-smoke-damage-cleanup.html"
+    },
+    {
+      "title": "Why Is Professional Smoke Damage Restoration a Must?",
+      "anchorSlug": "why-is-professional-smoke-damage-restoration-a-must",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-professional-smoke-damage-restoration-a-must.html"
+    },
+    {
+      "title": "Mistakes to Avoid After a Fire Incident",
+      "anchorSlug": "mistakes-to-avoid-after-a-fire-incident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-after-a-fire-incident.html"
+    },
+    {
+      "title": "Why Professional Fire Damage Cleanup is Crucial",
+      "anchorSlug": "why-professional-fire-damage-cleanup-is-crucial",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-professional-fire-damage-cleanup-is-crucial.html"
+    },
+    {
+      "title": "How to Tackle Fire Damage: A Step-by-Step Guide",
+      "anchorSlug": "how-to-tackle-fire-damage-a-step-by-step-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-tackle-fire-damage-a-step-by-step-guide.html"
+    },
+    {
+      "title": "What to Do When Soot Takes Over Your Property",
+      "anchorSlug": "what-to-do-when-soot-takes-over-your-property",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-soot-takes-over-your-property.html"
+    },
+    {
+      "title": "Can You Really Get Rid of That Lingering Smoke Smell?",
+      "anchorSlug": "can-you-really-get-rid-of-that-lingering-smoke-smell",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-you-really-get-rid-of-that-lingering-smoke-smell.html"
+    },
+    {
+      "title": "The Right Way to Handle Soot Cleanup: A Quick Guide",
+      "anchorSlug": "the-right-way-to-handle-soot-cleanup-a-quick-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-right-way-to-handle-soot-cleanup-a-quick-guide.html"
+    },
+    {
+      "title": "What to Do Immediately After a Fire in Your Home",
+      "anchorSlug": "what-to-do-immediately-after-a-fire-in-your-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-fire-in-your-home.html"
+    },
+    {
+      "title": "How to Tackle Fire Damage Cleanup: A Step-by-Step Guide",
+      "anchorSlug": "how-to-tackle-fire-damage-cleanup-a-step-by-step-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-tackle-fire-damage-cleanup-a-step-by-step-guide.html"
+    },
+    {
+      "title": "When is it Time to Call for Fire Damage Repair?",
+      "anchorSlug": "when-is-it-time-to-call-for-fire-damage-repair",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-for-fire-damage-repair.html"
+    },
+    {
+      "title": "Myths About Emergency Fire Restoration Debunked",
+      "anchorSlug": "myths-about-emergency-fire-restoration-debunked",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-emergency-fire-restoration-debunked.html"
+    },
+    {
+      "title": "What to Expect During Emergency Fire Restoration",
+      "anchorSlug": "what-to-expect-during-emergency-fire-restoration",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-emergency-fire-restoration.html"
+    },
+    {
+      "title": "How to Secure Your Property After a Fire Emergency",
+      "anchorSlug": "how-to-secure-your-property-after-a-fire-emergency",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-secure-your-property-after-a-fire-emergency.html"
+    },
+    {
+      "title": "What to Do Immediately After a House Fire?",
+      "anchorSlug": "what-to-do-immediately-after-a-house-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-house-fire.html"
+    },
+    {
+      "title": "Why is Professional Cleanup Crucial After a House Fire?",
+      "anchorSlug": "why-is-professional-cleanup-crucial-after-a-house-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-professional-cleanup-crucial-after-a-house-fire.html"
+    },
+    {
+      "title": "Common Mistakes to Avoid During House Fire Cleanup",
+      "anchorSlug": "common-mistakes-to-avoid-during-house-fire-cleanup",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-avoid-during-house-fire-cleanup.html"
+    },
+    {
+      "title": "Is My Apartment Livable After a Fire?",
+      "anchorSlug": "is-my-apartment-livable-after-a-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-apartment-livable-after-a-fire.html"
+    },
+    {
+      "title": "Navigating Apartment Fire Cleanup: A Step-by-Step Guide",
+      "anchorSlug": "navigating-apartment-fire-cleanup-a-step-by-step-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-apartment-fire-cleanup-a-step-by-step-guide.html"
+    },
+    {
+      "title": "When Should I Call for Professional Apartment Fire Cleanup?",
+      "anchorSlug": "when-should-i-call-for-professional-apartment-fire-cleanup",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-call-for-professional-apartment-fire-cleanup.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Cleaning Up Kitchen Fire Damage",
+      "anchorSlug": "mistakes-to-avoid-when-cleaning-up-kitchen-fire-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-cleaning-up-kitchen-fire-damage.html"
+    },
+    {
+      "title": "Signs You Need Professional Help After a Kitchen Fire",
+      "anchorSlug": "signs-you-need-professional-help-after-a-kitchen-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-need-professional-help-after-a-kitchen-fire.html"
+    },
+    {
+      "title": "What to Do Immediately After a Kitchen Fire",
+      "anchorSlug": "what-to-do-immediately-after-a-kitchen-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-kitchen-fire.html"
+    },
+    {
+      "title": "Restoring Your Garage After Fire Damage: A Step-by-Step Guide",
+      "anchorSlug": "restoring-your-garage-after-fire-damage-a-step-by-step-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/restoring-your-garage-after-fire-damage-a-step-by-step-guide.html"
+    },
+    {
+      "title": "Common Myths About DIY Garage Fire Restoration",
+      "anchorSlug": "common-myths-about-diy-garage-fire-restoration",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-myths-about-diy-garage-fire-restoration.html"
+    },
+    {
+      "title": "When is Professional Garage Fire Cleanup Essential?",
+      "anchorSlug": "when-is-professional-garage-fire-cleanup-essential",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-garage-fire-cleanup-essential.html"
+    },
+    {
+      "title": "Can I Clean Up Small Fire Damage Myself?",
+      "anchorSlug": "can-i-clean-up-small-fire-damage-myself",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-clean-up-small-fire-damage-myself.html"
+    },
+    {
+      "title": "What to Do Right After a Small Kitchen Fire?",
+      "anchorSlug": "what-to-do-right-after-a-small-kitchen-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-right-after-a-small-kitchen-fire.html"
+    },
+    {
+      "title": "When to Call for Professional Small Fire Cleanup?",
+      "anchorSlug": "when-to-call-for-professional-small-fire-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-for-professional-small-fire-cleanup.html"
+    },
+    {
+      "title": "What to Expect When Your Home Has Fire Damage",
+      "anchorSlug": "what-to-expect-when-your-home-has-fire-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-when-your-home-has-fire-damage.html"
+    },
+    {
+      "title": "Is All Fire Damage Visible?",
+      "anchorSlug": "is-all-fire-damage-visible",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-all-fire-damage-visible.html"
+    },
+    {
+      "title": "Myths About Fire Damaged House Cleanup",
+      "anchorSlug": "myths-about-fire-damaged-house-cleanup",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-fire-damaged-house-cleanup.html"
+    },
+    {
+      "title": "Is Professional Smoke Damage Testing Really Necessary?",
+      "anchorSlug": "is-professional-smoke-damage-testing-really-necessary",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-professional-smoke-damage-testing-really-necessary.html"
+    },
+    {
+      "title": "Dealing with Smoke Damage: Common Mistakes to Avoid",
+      "anchorSlug": "dealing-with-smoke-damage-common-mistakes-to-avoid",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-smoke-damage-common-mistakes-to-avoid.html"
+    },
+    {
+      "title": "When to Call Professionals for Smoke Damage in Your House",
+      "anchorSlug": "when-to-call-professionals-for-smoke-damage-in-your-house",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-professionals-for-smoke-damage-in-your-house.html"
+    },
+    {
+      "title": "How to Get Rid of Stubborn Smoke Smell in Your Home",
+      "anchorSlug": "how-to-get-rid-of-stubborn-smoke-smell-in-your-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-rid-of-stubborn-smoke-smell-in-your-home.html"
+    },
+    {
+      "title": "Smoke Smell After a Fire: Myths vs. Facts",
+      "anchorSlug": "smoke-smell-after-a-fire-myths-vs-facts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smoke-smell-after-a-fire-myths-vs-facts.html"
+    },
+    {
+      "title": "Why Does My House Still Smell Like Smoke After a Fire?",
+      "anchorSlug": "why-does-my-house-still-smell-like-smoke-after-a-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-house-still-smell-like-smoke-after-a-fire.html"
+    },
+    {
+      "title": "What to Do Right After a Fire Incident at Your Property",
+      "anchorSlug": "what-to-do-right-after-a-fire-incident-at-your-property",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-right-after-a-fire-incident-at-your-property.html"
+    },
+    {
+      "title": "When Should You Call a Professional for Fire Damage?",
+      "anchorSlug": "when-should-you-call-a-professional-for-fire-damage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-call-a-professional-for-fire-damage.html"
+    },
+    {
+      "title": "Common Mistakes People Make After a House Fire",
+      "anchorSlug": "common-mistakes-people-make-after-a-house-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-people-make-after-a-house-fire.html"
+    },
+    {
+      "title": "How to Handle Lingering Smoke Smells After a Fire",
+      "anchorSlug": "how-to-handle-lingering-smoke-smells-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-handle-lingering-smoke-smells-after-a-fire.html"
+    },
+    {
+      "title": "Myths About Cleaning Up Smoke Damage Yourself",
+      "anchorSlug": "myths-about-cleaning-up-smoke-damage-yourself",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-cleaning-up-smoke-damage-yourself.html"
+    },
+    {
+      "title": "How to Ensure Complete Smoke Removal from Your Home",
+      "anchorSlug": "how-to-ensure-complete-smoke-removal-from-your-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-ensure-complete-smoke-removal-from-your-home.html"
+    },
+    {
+      "title": "What to Do When Soot Damage Feels Overwhelming",
+      "anchorSlug": "what-to-do-when-soot-damage-feels-overwhelming",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-soot-damage-feels-overwhelming.html"
+    },
+    {
+      "title": "Navigating the Fire Damage Restoration Process",
+      "anchorSlug": "navigating-the-fire-damage-restoration-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-the-fire-damage-restoration-process.html"
+    },
+    {
+      "title": "When is it Time to Call for Professional Soot Cleanup?",
+      "anchorSlug": "when-is-it-time-to-call-for-professional-soot-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-for-professional-soot-cleanup.html"
+    },
+    {
+      "title": "Are You Making These Common Fire Cleanup Errors?",
+      "anchorSlug": "are-you-making-these-common-fire-cleanup-errors",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-you-making-these-common-fire-cleanup-errors.html"
+    },
+    {
+      "title": "Is Your Property Truly Clean After Soot Exposure?",
+      "anchorSlug": "is-your-property-truly-clean-after-soot-exposure",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-property-truly-clean-after-soot-exposure.html"
+    },
+    {
+      "title": "Understanding Your Options for Fire Damage Cleanup",
+      "anchorSlug": "understanding-your-options-for-fire-damage-cleanup",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-your-options-for-fire-damage-cleanup.html"
+    },
+    {
+      "title": "What are the Biggest Mistakes to Avoid After a House Fire?",
+      "anchorSlug": "what-are-the-biggest-mistakes-to-avoid-after-a-house-fire",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-mistakes-to-avoid-after-a-house-fire.html"
+    },
+    {
+      "title": "Understanding the Fire Damage Restoration Process",
+      "anchorSlug": "understanding-the-fire-damage-restoration-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-fire-damage-restoration-process.html"
+    },
+    {
+      "title": "Why is Professional Fire Restoration So Important?",
+      "anchorSlug": "why-is-professional-fire-restoration-so-important",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-professional-fire-restoration-so-important.html"
+    },
+    {
+      "title": "Can I Clean Up Fire Damage Myself?",
+      "anchorSlug": "can-i-clean-up-fire-damage-myself",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-clean-up-fire-damage-myself.html"
+    },
+    {
+      "title": "Mistakes to Avoid After a House Fire",
+      "anchorSlug": "mistakes-to-avoid-after-a-house-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-after-a-house-fire.html"
+    },
+    {
+      "title": "Why is Professional Fire Cleanup Crucial for Your Home?",
+      "anchorSlug": "why-is-professional-fire-cleanup-crucial-for-your-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-professional-fire-cleanup-crucial-for-your-home.html"
+    },
+    {
+      "title": "What Steps Are Involved in Apartment Fire Restoration?",
+      "anchorSlug": "what-steps-are-involved-in-apartment-fire-restoration",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-steps-are-involved-in-apartment-fire-restoration.html"
+    },
+    {
+      "title": "Myths vs. Facts About Apartment Fire Cleanup",
+      "anchorSlug": "myths-vs-facts-about-apartment-fire-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-vs-facts-about-apartment-fire-cleanup.html"
+    },
+    {
+      "title": "When to Call for Professional Apartment Fire Cleanup",
+      "anchorSlug": "when-to-call-for-professional-apartment-fire-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-for-professional-apartment-fire-cleanup.html"
+    },
+    {
+      "title": "Steps to Take When Your Kitchen Has Had a Fire",
+      "anchorSlug": "steps-to-take-when-your-kitchen-has-had-a-fire",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/steps-to-take-when-your-kitchen-has-had-a-fire.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Cleaning Up a Kitchen Fire",
+      "anchorSlug": "mistakes-to-avoid-when-cleaning-up-a-kitchen-fire",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-cleaning-up-a-kitchen-fire.html"
+    },
+    {
+      "title": "Getting Your Garage Back to Normal After a Fire",
+      "anchorSlug": "getting-your-garage-back-to-normal-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-your-garage-back-to-normal-after-a-fire.html"
+    },
+    {
+      "title": "Steps to Take After a Garage Fire",
+      "anchorSlug": "steps-to-take-after-a-garage-fire",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/steps-to-take-after-a-garage-fire.html"
+    },
+    {
+      "title": "Why You Shouldn't Tackle Garage Fire Cleanup Alone",
+      "anchorSlug": "why-you-shouldn-t-tackle-garage-fire-cleanup-alone",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-you-shouldn-t-tackle-garage-fire-cleanup-alone.html"
+    },
+    {
+      "title": "What to Do After a Small Kitchen Fire?",
+      "anchorSlug": "what-to-do-after-a-small-kitchen-fire",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-after-a-small-kitchen-fire.html"
+    },
+    {
+      "title": "My Home Had a Small Fire – Can I Clean It Myself?",
+      "anchorSlug": "my-home-had-a-small-fire-can-i-clean-it-myself",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-home-had-a-small-fire-can-i-clean-it-myself.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Cleaning Up Small Fire Damage",
+      "anchorSlug": "mistakes-to-avoid-when-cleaning-up-small-fire-damage",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-cleaning-up-small-fire-damage.html"
+    },
+    {
+      "title": "When to Call for Professional Fire Damaged House Cleanup",
+      "anchorSlug": "when-to-call-for-professional-fire-damaged-house-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-for-professional-fire-damaged-house-cleanup.html"
+    },
+    {
+      "title": "Guide to Cleaning Up Your Fire Damaged House",
+      "anchorSlug": "guide-to-cleaning-up-your-fire-damaged-house",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/guide-to-cleaning-up-your-fire-damaged-house.html"
+    },
+    {
+      "title": "Can I Clean Smoke Damage Myself, or Do I Need a Pro?",
+      "anchorSlug": "can-i-clean-smoke-damage-myself-or-do-i-need-a-pro",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-clean-smoke-damage-myself-or-do-i-need-a-pro.html"
+    },
+    {
+      "title": "Dealing with the Aftermath: A Guide to Smoke Damage Restoration",
+      "anchorSlug": "dealing-with-the-aftermath-a-guide-to-smoke-damage-restoration",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-the-aftermath-a-guide-to-smoke-damage-restoration.html"
+    },
+    {
+      "title": "Signs You Have Hidden Smoke Damage After a Small Fire",
+      "anchorSlug": "signs-you-have-hidden-smoke-damage-after-a-small-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-have-hidden-smoke-damage-after-a-small-fire.html"
+    },
+    {
+      "title": "Why Does My House Still Smell Smoky After a Fire?",
+      "anchorSlug": "why-does-my-house-still-smell-smoky-after-a-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-house-still-smell-smoky-after-a-fire.html"
+    },
+    {
+      "title": "The Best Way to Tackle Stubborn Smoke Odors in Your Home",
+      "anchorSlug": "the-best-way-to-tackle-stubborn-smoke-odors-in-your-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-best-way-to-tackle-stubborn-smoke-odors-in-your-home.html"
+    },
+    {
+      "title": "Common Mistakes When Trying to Remove Smoke Odor",
+      "anchorSlug": "common-mistakes-when-trying-to-remove-smoke-odor",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-when-trying-to-remove-smoke-odor.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Your Home Has Smoke Damage",
+      "anchorSlug": "mistakes-to-avoid-when-your-home-has-smoke-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-your-home-has-smoke-damage.html"
+    },
+    {
+      "title": "When is Professional Smoke Odor Removal Necessary?",
+      "anchorSlug": "when-is-professional-smoke-odor-removal-necessary",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-smoke-odor-removal-necessary.html"
+    },
+    {
+      "title": "The Process of Removing Smoke Odors from Your Home",
+      "anchorSlug": "the-process-of-removing-smoke-odors-from-your-home",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-process-of-removing-smoke-odors-from-your-home.html"
+    },
+    {
+      "title": "Understanding Smoke Damage: Myths vs. Facts",
+      "anchorSlug": "understanding-smoke-damage-myths-vs-facts",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-smoke-damage-myths-vs-facts.html"
+    },
+    {
+      "title": "What Happens if Smoke Odor Isn't Fully Removed?",
+      "anchorSlug": "what-happens-if-smoke-odor-isn-t-fully-removed",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-if-smoke-odor-isn-t-fully-removed.html"
+    },
+    {
+      "title": "Why is My Home Still Damaged After the Flames Are Gone?",
+      "anchorSlug": "why-is-my-home-still-damaged-after-the-flames-are-gone",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-home-still-damaged-after-the-flames-are-gone.html"
+    },
+    {
+      "title": "When Does Fire Damage Require Professional Help?",
+      "anchorSlug": "when-does-fire-damage-require-professional-help",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-does-fire-damage-require-professional-help.html"
+    },
+    {
+      "title": "How to Deal with the Lingering Smell of Smoke After a Fire",
+      "anchorSlug": "how-to-deal-with-the-lingering-smell-of-smoke-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-deal-with-the-lingering-smell-of-smoke-after-a-fire.html"
+    },
+    {
+      "title": "Understanding the Hidden Dangers of Smoke Damage",
+      "anchorSlug": "understanding-the-hidden-dangers-of-smoke-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-hidden-dangers-of-smoke-damage.html"
+    },
+    {
+      "title": "Mistakes People Make When Cleaning Up Smoke Damage",
+      "anchorSlug": "mistakes-people-make-when-cleaning-up-smoke-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-people-make-when-cleaning-up-smoke-damage.html"
+    },
+    {
+      "title": "Don't Make These Mistakes After a House Fire",
+      "anchorSlug": "don-t-make-these-mistakes-after-a-house-fire",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/don-t-make-these-mistakes-after-a-house-fire.html"
+    },
+    {
+      "title": "When is Professional Fire Damage Cleanup Truly Necessary?",
+      "anchorSlug": "when-is-professional-fire-damage-cleanup-truly-necessary",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-fire-damage-cleanup-truly-necessary.html"
+    },
+    {
+      "title": "How to Safely Tackle Soot and Smoke Stains?",
+      "anchorSlug": "how-to-safely-tackle-soot-and-smoke-stains",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-safely-tackle-soot-and-smoke-stains.html"
+    },
+    {
+      "title": "Why You Shouldn't Delay Soot Cleanup",
+      "anchorSlug": "why-you-shouldn-t-delay-soot-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-you-shouldn-t-delay-soot-cleanup.html"
+    },
+    {
+      "title": "Is Soot Damage Cleaning Covered by Insurance?",
+      "anchorSlug": "is-soot-damage-cleaning-covered-by-insurance",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-soot-damage-cleaning-covered-by-insurance.html"
+    },
+    {
+      "title": "Common Mistakes People Make After Fire Damage",
+      "anchorSlug": "common-mistakes-people-make-after-fire-damage",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-people-make-after-fire-damage.html"
+    },
+    {
+      "title": "When is Professional Fire Restoration Really Necessary?",
+      "anchorSlug": "when-is-professional-fire-restoration-really-necessary",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-fire-restoration-really-necessary.html"
+    },
+    {
+      "title": "The Truth About Lingering Smoke Odors",
+      "anchorSlug": "the-truth-about-lingering-smoke-odors",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-truth-about-lingering-smoke-odors.html"
+    },
+    {
+      "title": "Why Acting Fast After a Fire is Crucial",
+      "anchorSlug": "why-acting-fast-after-a-fire-is-crucial",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-acting-fast-after-a-fire-is-crucial.html"
+    },
+    {
+      "title": "Understanding the Emergency Fire Restoration Process",
+      "anchorSlug": "understanding-the-emergency-fire-restoration-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-emergency-fire-restoration-process.html"
+    },
+    {
+      "title": "A Step-by-Step Guide to House Fire Cleanup",
+      "anchorSlug": "a-step-by-step-guide-to-house-fire-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/a-step-by-step-guide-to-house-fire-cleanup.html"
+    },
+    {
+      "title": "Myths About Fire Damage Restoration",
+      "anchorSlug": "myths-about-fire-damage-restoration",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-fire-damage-restoration.html"
+    },
+    {
+      "title": "When Should You Call Professionals for Apartment Fire Cleanup?",
+      "anchorSlug": "when-should-you-call-professionals-for-apartment-fire-cleanup",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-call-professionals-for-apartment-fire-cleanup.html"
+    },
+    {
+      "title": "Common Mistakes After an Apartment Fire",
+      "anchorSlug": "common-mistakes-after-an-apartment-fire",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-after-an-apartment-fire.html"
+    },
+    {
+      "title": "Restoring Your Apartment After a Fire: A Complete Guide",
+      "anchorSlug": "restoring-your-apartment-after-a-fire-a-complete-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/restoring-your-apartment-after-a-fire-a-complete-guide.html"
+    },
+    {
+      "title": "The Biggest Mistakes in Kitchen Fire Cleanup You Should Avoid",
+      "anchorSlug": "the-biggest-mistakes-in-kitchen-fire-cleanup-you-should-avoid",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-biggest-mistakes-in-kitchen-fire-cleanup-you-should-avoid.html"
+    },
+    {
+      "title": "When Is Professional Help Essential for Kitchen Fire Damage?",
+      "anchorSlug": "when-is-professional-help-essential-for-kitchen-fire-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-help-essential-for-kitchen-fire-damage.html"
+    },
+    {
+      "title": "Common Garage Fire Cleanup Errors and How to Prevent Them",
+      "anchorSlug": "common-garage-fire-cleanup-errors-and-how-to-prevent-them",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-garage-fire-cleanup-errors-and-how-to-prevent-them.html"
+    },
+    {
+      "title": "Signs You Need Professional Garage Fire Restoration",
+      "anchorSlug": "signs-you-need-professional-garage-fire-restoration",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-need-professional-garage-fire-restoration.html"
+    },
+    {
+      "title": "What to Do Right After a Small Fire?",
+      "anchorSlug": "what-to-do-right-after-a-small-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-right-after-a-small-fire.html"
+    },
+    {
+      "title": "Avoiding Common Fire Cleanup Mistakes",
+      "anchorSlug": "avoiding-common-fire-cleanup-mistakes",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-fire-cleanup-mistakes.html"
+    },
+    {
+      "title": "When is Professional Help Needed for Fire Damage?",
+      "anchorSlug": "when-is-professional-help-needed-for-fire-damage",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-help-needed-for-fire-damage.html"
+    },
+    {
+      "title": "Dealing with the Aftermath of a House Fire",
+      "anchorSlug": "dealing-with-the-aftermath-of-a-house-fire",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-the-aftermath-of-a-house-fire.html"
+    },
+    {
+      "title": "Understanding the Fire Damaged House Cleanup Process",
+      "anchorSlug": "understanding-the-fire-damaged-house-cleanup-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-fire-damaged-house-cleanup-process.html"
+    },
+    {
+      "title": "Myths About Fire Damage Restoration Debunked",
+      "anchorSlug": "myths-about-fire-damage-restoration-debunked",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-fire-damage-restoration-debunked.html"
+    },
+    {
+      "title": "What to Do About Persistent Smoke Smell After a Fire?",
+      "anchorSlug": "what-to-do-about-persistent-smoke-smell-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-about-persistent-smoke-smell-after-a-fire.html"
+    },
+    {
+      "title": "Why Is My House Still Smelling Smoky After a Fire?",
+      "anchorSlug": "why-is-my-house-still-smelling-smoky-after-a-fire",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-house-still-smelling-smoky-after-a-fire.html"
+    },
+    {
+      "title": "When to Seek Professional Help for Smoke Smell Removal",
+      "anchorSlug": "when-to-seek-professional-help-for-smoke-smell-removal",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-seek-professional-help-for-smoke-smell-removal.html"
+    },
+    {
+      "title": "My Home Has Smoke Damage – What Should I Do First?",
+      "anchorSlug": "my-home-has-smoke-damage-what-should-i-do-first",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-home-has-smoke-damage-what-should-i-do-first.html"
+    },
+    {
+      "title": "What Are the Biggest Mistakes When Cleaning Up Smoke Damage?",
+      "anchorSlug": "what-are-the-biggest-mistakes-when-cleaning-up-smoke-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-mistakes-when-cleaning-up-smoke-damage.html"
+    },
+    {
+      "title": "When Does Smoke Damage Require Professional Restoration?",
+      "anchorSlug": "when-does-smoke-damage-require-professional-restoration",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-does-smoke-damage-require-professional-restoration.html"
+    },
+    {
+      "title": "Why Your House Still Smells Smoky After a Fire",
+      "anchorSlug": "why-your-house-still-smells-smoky-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-house-still-smells-smoky-after-a-fire.html"
+    },
+    {
+      "title": "What to Do Immediately After a Fire to Prevent Lasting Smoke Odor",
+      "anchorSlug": "what-to-do-immediately-after-a-fire-to-prevent-lasting-smoke-odor",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-fire-to-prevent-lasting-smoke-odor.html"
+    },
+    {
+      "title": "Myths About Cleaning Up Smoke After a Fire",
+      "anchorSlug": "myths-about-cleaning-up-smoke-after-a-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-cleaning-up-smoke-after-a-fire.html"
+    },
+    {
+      "title": "How to Get Rid of Stubborn Smoke Odor in Your Home",
+      "anchorSlug": "how-to-get-rid-of-stubborn-smoke-odor-in-your-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-rid-of-stubborn-smoke-odor-in-your-home.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Smoke Damage Cleanup",
+      "anchorSlug": "avoiding-common-mistakes-in-smoke-damage-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-smoke-damage-cleanup.html"
+    },
+    {
+      "title": "When to Worry About Lingering Smoke Smells",
+      "anchorSlug": "when-to-worry-about-lingering-smoke-smells",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-worry-about-lingering-smoke-smells.html"
+    },
+    {
+      "title": "What to Do Immediately After a Fire Strikes Your Home",
+      "anchorSlug": "what-to-do-immediately-after-a-fire-strikes-your-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-fire-strikes-your-home.html"
+    },
+    {
+      "title": "Why DIY Fire Cleanup Can Be a Huge Mistake",
+      "anchorSlug": "why-diy-fire-cleanup-can-be-a-huge-mistake",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-diy-fire-cleanup-can-be-a-huge-mistake.html"
+    },
+    {
+      "title": "When Is Professional Fire Damage Restoration Absolutely Necessary?",
+      "anchorSlug": "when-is-professional-fire-damage-restoration-absolutely-necessary",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-fire-damage-restoration-absolutely-necessary.html"
+    },
+    {
+      "title": "The Hidden Dangers of Smoke Damage You Might Be Missing",
+      "anchorSlug": "the-hidden-dangers-of-smoke-damage-you-might-be-missing",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-hidden-dangers-of-smoke-damage-you-might-be-missing.html"
+    },
+    {
+      "title": "How to Get Your Home Back to Normal After Smoke Damage",
+      "anchorSlug": "how-to-get-your-home-back-to-normal-after-smoke-damage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-your-home-back-to-normal-after-smoke-damage.html"
+    },
+    {
+      "title": "Debunking Common Myths About Smoke Damage Cleanup",
+      "anchorSlug": "debunking-common-myths-about-smoke-damage-cleanup",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/debunking-common-myths-about-smoke-damage-cleanup.html"
+    },
+    {
+      "title": "What Not to Do After a Fire: Avoiding Common Mistakes",
+      "anchorSlug": "what-not-to-do-after-a-fire-avoiding-common-mistakes",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-not-to-do-after-a-fire-avoiding-common-mistakes.html"
+    },
+    {
+      "title": "A Step-by-Step Guide to Soot Cleanup After a Fire",
+      "anchorSlug": "a-step-by-step-guide-to-soot-cleanup-after-a-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/a-step-by-step-guide-to-soot-cleanup-after-a-fire.html"
+    },
+    {
+      "title": "When is it Time to Call for Professional Fire Damage Cleanup?",
+      "anchorSlug": "when-is-it-time-to-call-for-professional-fire-damage-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-for-professional-fire-damage-cleanup.html"
+    },
+    {
+      "title": "Why DIY Soot Cleanup Can Be a Mistake",
+      "anchorSlug": "why-diy-soot-cleanup-can-be-a-mistake",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-diy-soot-cleanup-can-be-a-mistake.html"
+    },
+    {
+      "title": "Myths and Facts About Fire Damage Restoration",
+      "anchorSlug": "myths-and-facts-about-fire-damage-restoration",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-and-facts-about-fire-damage-restoration.html"
+    },
+    {
+      "title": "Recognizing When Professional Soot Cleanup is Essential",
+      "anchorSlug": "recognizing-when-professional-soot-cleanup-is-essential",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/recognizing-when-professional-soot-cleanup-is-essential.html"
+    },
+    {
+      "title": "How to Handle Smoke Damage After a Fire",
+      "anchorSlug": "how-to-handle-smoke-damage-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-handle-smoke-damage-after-a-fire.html"
+    },
+    {
+      "title": "Why Timely Emergency Fire Restoration is Crucial",
+      "anchorSlug": "why-timely-emergency-fire-restoration-is-crucial",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-timely-emergency-fire-restoration-is-crucial.html"
+    },
+    {
+      "title": "What to Expect During Emergency Fire Cleanup",
+      "anchorSlug": "what-to-expect-during-emergency-fire-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-emergency-fire-cleanup.html"
+    },
+    {
+      "title": "When is it Time to Call a Professional for Fire Damage?",
+      "anchorSlug": "when-is-it-time-to-call-a-professional-for-fire-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-a-professional-for-fire-damage.html"
+    },
+    {
+      "title": "What Steps to Take After an Apartment Fire?",
+      "anchorSlug": "what-steps-to-take-after-an-apartment-fire",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-steps-to-take-after-an-apartment-fire.html"
+    },
+    {
+      "title": "Why DIY Fire Cleanup is a Bad Idea for Your Home",
+      "anchorSlug": "why-diy-fire-cleanup-is-a-bad-idea-for-your-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-diy-fire-cleanup-is-a-bad-idea-for-your-home.html"
+    },
+    {
+      "title": "When Should You Call Professionals After a House Fire?",
+      "anchorSlug": "when-should-you-call-professionals-after-a-house-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-call-professionals-after-a-house-fire.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Apartment Fire Cleanup",
+      "anchorSlug": "avoiding-common-mistakes-in-apartment-fire-cleanup",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-apartment-fire-cleanup.html"
+    },
+    {
+      "title": "Understanding House Fire Restoration: A Step-by-Step Guide",
+      "anchorSlug": "understanding-house-fire-restoration-a-step-by-step-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-house-fire-restoration-a-step-by-step-guide.html"
+    },
+    {
+      "title": "Myths About Apartment Fire Cleanup You Need to Know",
+      "anchorSlug": "myths-about-apartment-fire-cleanup-you-need-to-know",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-apartment-fire-cleanup-you-need-to-know.html"
+    },
+    {
+      "title": "Why is My Kitchen Still Sooty After I Cleaned It?",
+      "anchorSlug": "why-is-my-kitchen-still-sooty-after-i-cleaned-it",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-kitchen-still-sooty-after-i-cleaned-it.html"
+    },
+    {
+      "title": "When to Call a Pro for Kitchen Fire Damage",
+      "anchorSlug": "when-to-call-a-pro-for-kitchen-fire-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-kitchen-fire-damage.html"
+    },
+    {
+      "title": "Mistakes People Make After a Garage Fire",
+      "anchorSlug": "mistakes-people-make-after-a-garage-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-people-make-after-a-garage-fire.html"
+    },
+    {
+      "title": "How to Safely Clean Up After a Small Garage Fire",
+      "anchorSlug": "how-to-safely-clean-up-after-a-small-garage-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-safely-clean-up-after-a-small-garage-fire.html"
+    },
+    {
+      "title": "When Is Garage Fire Damage Too Much to Handle Myself?",
+      "anchorSlug": "when-is-garage-fire-damage-too-much-to-handle-myself",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-garage-fire-damage-too-much-to-handle-myself.html"
+    },
+    {
+      "title": "What to Do Right After a Small Fire in Your Home",
+      "anchorSlug": "what-to-do-right-after-a-small-fire-in-your-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-right-after-a-small-fire-in-your-home.html"
+    },
+    {
+      "title": "Why DIY Fire Cleanup Can Be a Big Mistake",
+      "anchorSlug": "why-diy-fire-cleanup-can-be-a-big-mistake",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-diy-fire-cleanup-can-be-a-big-mistake.html"
+    },
+    {
+      "title": "How to Handle Smoke Damage After a Kitchen Fire",
+      "anchorSlug": "how-to-handle-smoke-damage-after-a-kitchen-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-handle-smoke-damage-after-a-kitchen-fire.html"
+    },
+    {
+      "title": "Steps to Take When Your House Has Fire Damage",
+      "anchorSlug": "steps-to-take-when-your-house-has-fire-damage",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/steps-to-take-when-your-house-has-fire-damage.html"
+    },
+    {
+      "title": "Knowing When Your Home Needs Professional Fire Restoration",
+      "anchorSlug": "knowing-when-your-home-needs-professional-fire-restoration",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/knowing-when-your-home-needs-professional-fire-restoration.html"
+    },
+    {
+      "title": "Can You Really Clean Up Fire Damage Yourself?",
+      "anchorSlug": "can-you-really-clean-up-fire-damage-yourself",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-you-really-clean-up-fire-damage-yourself.html"
+    },
+    {
+      "title": "What to Do When Your House Has Smoke Damage",
+      "anchorSlug": "what-to-do-when-your-house-has-smoke-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-house-has-smoke-damage.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Dealing with Smoke Damage in Your Home",
+      "anchorSlug": "mistakes-to-avoid-when-dealing-with-smoke-damage-in-your-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-dealing-with-smoke-damage-in-your-home.html"
+    },
+    {
+      "title": "When to Call a Professional for Smoke Damage in Your House",
+      "anchorSlug": "when-to-call-a-professional-for-smoke-damage-in-your-house",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-professional-for-smoke-damage-in-your-house.html"
+    },
+    {
+      "title": "How to Get Rid of that Lingering Smoke Smell After a Fire",
+      "anchorSlug": "how-to-get-rid-of-that-lingering-smoke-smell-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-rid-of-that-lingering-smoke-smell-after-a-fire.html"
+    },
+    {
+      "title": "Myths vs. Facts About Removing Smoke Smell After a Fire",
+      "anchorSlug": "myths-vs-facts-about-removing-smoke-smell-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-vs-facts-about-removing-smoke-smell-after-a-fire.html"
+    },
+    {
+      "title": "What to Do About Lingering Smoke Odor After a House Fire",
+      "anchorSlug": "what-to-do-about-lingering-smoke-odor-after-a-house-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-about-lingering-smoke-odor-after-a-house-fire.html"
+    },
+    {
+      "title": "Can I Really Clean Smoke Odor Myself?",
+      "anchorSlug": "can-i-really-clean-smoke-odor-myself",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-really-clean-smoke-odor-myself.html"
+    },
+    {
+      "title": "When Should I Call a Professional for Smoke Odor Removal?",
+      "anchorSlug": "when-should-i-call-a-professional-for-smoke-odor-removal",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-call-a-professional-for-smoke-odor-removal.html"
+    },
+    {
+      "title": "The Biggest Mistakes People Make with Smoke Damage",
+      "anchorSlug": "the-biggest-mistakes-people-make-with-smoke-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-biggest-mistakes-people-make-with-smoke-damage.html"
+    },
+    {
+      "title": "Understanding the Science of Smoke Odor Removal",
+      "anchorSlug": "understanding-the-science-of-smoke-odor-removal",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-science-of-smoke-odor-removal.html"
+    },
+    {
+      "title": "What to Do After a House Fire?",
+      "anchorSlug": "what-to-do-after-a-house-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-after-a-house-fire.html"
+    },
+    {
+      "title": "When Does Fire Damage Become a Health Hazard?",
+      "anchorSlug": "when-does-fire-damage-become-a-health-hazard",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-does-fire-damage-become-a-health-hazard.html"
+    },
+    {
+      "title": "How to Deal with Smoke Damage Odors",
+      "anchorSlug": "how-to-deal-with-smoke-damage-odors",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-deal-with-smoke-damage-odors.html"
+    },
+    {
+      "title": "What are the Hidden Dangers of Smoke Damage?",
+      "anchorSlug": "what-are-the-hidden-dangers-of-smoke-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-hidden-dangers-of-smoke-damage.html"
+    },
+    {
+      "title": "Should I Air Out My Home After Smoke Damage?",
+      "anchorSlug": "should-i-air-out-my-home-after-smoke-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/should-i-air-out-my-home-after-smoke-damage.html"
+    },
+    {
+      "title": "When Soot Stains Won't Budge: A Guide to Effective Cleanup",
+      "anchorSlug": "when-soot-stains-won-t-budge-a-guide-to-effective-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-soot-stains-won-t-budge-a-guide-to-effective-cleanup.html"
+    },
+    {
+      "title": "Why Can't I Just Clean Soot Myself? Myths vs. Facts",
+      "anchorSlug": "why-can-t-i-just-clean-soot-myself-myths-vs-facts",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-can-t-i-just-clean-soot-myself-myths-vs-facts.html"
+    },
+    {
+      "title": "When to Call a Professional for Soot Cleanup",
+      "anchorSlug": "when-to-call-a-professional-for-soot-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-professional-for-soot-cleanup.html"
+    },
+    {
+      "title": "What to Do Immediately After a Fire to Minimize Damage",
+      "anchorSlug": "what-to-do-immediately-after-a-fire-to-minimize-damage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-fire-to-minimize-damage.html"
+    },
+    {
+      "title": "The Dangers of Delayed Fire Damage Cleanup",
+      "anchorSlug": "the-dangers-of-delayed-fire-damage-cleanup",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-dangers-of-delayed-fire-damage-cleanup.html"
+    },
+    {
+      "title": "Navigating Insurance for Fire Damage Cleanup: What's Covered?",
+      "anchorSlug": "navigating-insurance-for-fire-damage-cleanup-what-s-covered",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-insurance-for-fire-damage-cleanup-what-s-covered.html"
+    },
+    {
+      "title": "Why Your Property Still Smells Like Smoke After a Fire",
+      "anchorSlug": "why-your-property-still-smells-like-smoke-after-a-fire",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-property-still-smells-like-smoke-after-a-fire.html"
+    },
+    {
+      "title": "When Is it Time to Call Professionals for Fire Damage?",
+      "anchorSlug": "when-is-it-time-to-call-professionals-for-fire-damage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-professionals-for-fire-damage.html"
+    },
+    {
+      "title": "Understanding the Full Extent of Fire Damage",
+      "anchorSlug": "understanding-the-full-extent-of-fire-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-full-extent-of-fire-damage.html"
+    },
+    {
+      "title": "My House Caught Fire, Now What?",
+      "anchorSlug": "my-house-caught-fire-now-what",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-house-caught-fire-now-what.html"
+    },
+    {
+      "title": "Preventing Further Damage After a House Fire",
+      "anchorSlug": "preventing-further-damage-after-a-house-fire",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preventing-further-damage-after-a-house-fire.html"
+    },
+    {
+      "title": "How to Tackle the Aftermath of an Apartment Fire",
+      "anchorSlug": "how-to-tackle-the-aftermath-of-an-apartment-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-tackle-the-aftermath-of-an-apartment-fire.html"
+    },
+    {
+      "title": "When Your Apartment Catches Fire: Next Steps",
+      "anchorSlug": "when-your-apartment-catches-fire-next-steps",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-apartment-catches-fire-next-steps.html"
+    },
+    {
+      "title": "Dealing with Smoke Damage in Your Apartment",
+      "anchorSlug": "dealing-with-smoke-damage-in-your-apartment",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-smoke-damage-in-your-apartment.html"
+    },
+    {
+      "title": "What to Do When Your Kitchen Fire Creates a Huge Mess",
+      "anchorSlug": "what-to-do-when-your-kitchen-fire-creates-a-huge-mess",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-kitchen-fire-creates-a-huge-mess.html"
+    },
+    {
+      "title": "Thinking of DIYing Your Kitchen Fire Cleanup?",
+      "anchorSlug": "thinking-of-diying-your-kitchen-fire-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-of-diying-your-kitchen-fire-cleanup.html"
+    },
+    {
+      "title": "How to Get Your Kitchen Back to Normal After a Fire",
+      "anchorSlug": "how-to-get-your-kitchen-back-to-normal-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-your-kitchen-back-to-normal-after-a-fire.html"
+    },
+    {
+      "title": "My Garage Caught Fire, Now What?",
+      "anchorSlug": "my-garage-caught-fire-now-what",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-garage-caught-fire-now-what.html"
+    },
+    {
+      "title": "Should You Try to Clean Up a Garage Fire Yourself?",
+      "anchorSlug": "should-you-try-to-clean-up-a-garage-fire-yourself",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/should-you-try-to-clean-up-a-garage-fire-yourself.html"
+    },
+    {
+      "title": "When is Garage Fire Damage Too Much to Handle Alone?",
+      "anchorSlug": "when-is-garage-fire-damage-too-much-to-handle-alone",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-garage-fire-damage-too-much-to-handle-alone.html"
+    },
+    {
+      "title": "My House Just Had a Small Fire – What Now?",
+      "anchorSlug": "my-house-just-had-a-small-fire-what-now",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-house-just-had-a-small-fire-what-now.html"
+    },
+    {
+      "title": "Mistakes to Avoid After a Small Fire",
+      "anchorSlug": "mistakes-to-avoid-after-a-small-fire",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-after-a-small-fire.html"
+    },
+    {
+      "title": "When to Call for Small Fire Damage Cleanup",
+      "anchorSlug": "when-to-call-for-small-fire-damage-cleanup",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-for-small-fire-damage-cleanup.html"
+    },
+    {
+      "title": "Is All Fire Damage Covered by Insurance? (Myths vs. Facts)",
+      "anchorSlug": "is-all-fire-damage-covered-by-insurance-myths-vs-facts",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-all-fire-damage-covered-by-insurance-myths-vs-facts.html"
+    },
+    {
+      "title": "The Process of Cleaning Up After a House Fire",
+      "anchorSlug": "the-process-of-cleaning-up-after-a-house-fire",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-process-of-cleaning-up-after-a-house-fire.html"
+    },
+    {
+      "title": "What to Do When Your Home Has Smoke Damage",
+      "anchorSlug": "what-to-do-when-your-home-has-smoke-damage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-home-has-smoke-damage.html"
+    },
+    {
+      "title": "Why You Can't Get Rid of That Smoke Smell After a Fire",
+      "anchorSlug": "why-you-can-t-get-rid-of-that-smoke-smell-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-you-can-t-get-rid-of-that-smoke-smell-after-a-fire.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Dealing with Smoke Damage",
+      "anchorSlug": "mistakes-to-avoid-when-dealing-with-smoke-damage",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-dealing-with-smoke-damage.html"
+    },
+    {
+      "title": "How to Effectively Remove Stubborn Smoke Odors",
+      "anchorSlug": "how-to-effectively-remove-stubborn-smoke-odors",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-effectively-remove-stubborn-smoke-odors.html"
+    },
+    {
+      "title": "When to Call a Pro for Smoke Damage in Your Home",
+      "anchorSlug": "when-to-call-a-pro-for-smoke-damage-in-your-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-smoke-damage-in-your-home.html"
+    },
+    {
+      "title": "Myths and Facts About Smoke Smell After a Fire",
+      "anchorSlug": "myths-and-facts-about-smoke-smell-after-a-fire",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-and-facts-about-smoke-smell-after-a-fire.html"
+    },
+    {
+      "title": "Mistakes People Make When Trying to Clear Smoke Smell",
+      "anchorSlug": "mistakes-people-make-when-trying-to-clear-smoke-smell",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-people-make-when-trying-to-clear-smoke-smell.html"
+    },
+    {
+      "title": "When is Professional Smoke Odor Removal Absolutely Necessary?",
+      "anchorSlug": "when-is-professional-smoke-odor-removal-absolutely-necessary",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-smoke-odor-removal-absolutely-necessary.html"
+    },
+    {
+      "title": "The Dangers of Lingering Smoke Odor: More Than Just a Bad Smell",
+      "anchorSlug": "the-dangers-of-lingering-smoke-odor-more-than-just-a-bad-smell",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-dangers-of-lingering-smoke-odor-more-than-just-a-bad-smell.html"
+    },
+    {
+      "title": "A Step-by-Step Guide to Professional Smoke Odor Restoration",
+      "anchorSlug": "a-step-by-step-guide-to-professional-smoke-odor-restoration",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/a-step-by-step-guide-to-professional-smoke-odor-restoration.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://first2respond.aiovisibility.net/articles.html",
+    "https://first2respond.aiovisibility.net/articles/getting-started.html",
+    "https://first2respond.aiovisibility.net/articles/services-and-process.html",
+    "https://first2respond.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://first2respond.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://first2respond.aiovisibility.net/articles/local-service-guidance.html",
+    "https://first2respond.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}
