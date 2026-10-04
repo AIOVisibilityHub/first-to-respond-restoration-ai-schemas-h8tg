@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:52:59.068Z",
+  "generatedAt": "2026-10-04T00:53:26.534Z",
   "client": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "https://first2respond.aiovisibility.net",
@@ -307,7 +307,7 @@
   },
   "package": {
     "totalFiles": 2799,
-    "totalBytes": 9636761,
+    "totalBytes": 9556773,
     "stats": {
       "qna": 22,
       "faqs": 2437,
@@ -14211,72 +14211,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 17890,
+        "bytes": 11998,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 21894,
+        "bytes": 16142,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 181184,
+        "bytes": 175379,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 36956,
+        "bytes": 31406,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 16081,
+        "bytes": 10456,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1694372,
+        "bytes": 1688684,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 17627,
+        "bytes": 11977,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 125498,
+        "bytes": 119832,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 291894,
+        "bytes": 286207,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 95702,
+        "bytes": 89945,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 21174,
+        "bytes": 15446,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 91340,
+        "bytes": 85576,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 27021,
+        "bytes": 21363,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 18056,
+        "bytes": 12290,
         "purpose": "LLM-optimized public page"
       }
     ],
