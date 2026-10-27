@@ -1,19 +1,19 @@
 # First To Respond Restoration — Full AI Context
 
 **Canonical URL:** https://first2respond.aiovisibility.net
-**Generated:** 2026-10-04
+**Generated:** 2026-10-27
 
 ## Overview
 First To Respond Restoration publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
-- **22** qna
 - **2437** faqs
-- **18** reviews
+- **233** helpArticles
 - **56** services
 - **1** locations
-- **233** helpArticles
 - **1** organization
+- **18** reviews
+- **22** qna
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] First To Respond Restoration — canonical website — https://first2respond.aiovisibility.net

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:53:26.534Z",
+  "generatedAt": "2026-10-27T19:33:38.930Z",
   "client": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "https://first2respond.aiovisibility.net",
@@ -307,23 +307,23 @@
   },
   "package": {
     "totalFiles": 2799,
-    "totalBytes": 9556773,
+    "totalBytes": 9659631,
     "stats": {
-      "qna": 22,
       "faqs": 2437,
-      "press": 0,
-      "total": 2818,
-      "awards": 0,
-      "reviews": 18,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 233,
       "services": 56,
       "webpages": 0,
-      "locations": 1,
       "personnel": 0,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 233,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 18,
+      "qna": 22,
+      "research": 0,
+      "total": 2818
     }
   },
   "entrypoints": {
@@ -14211,72 +14211,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11998,
+        "bytes": 17890,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 16142,
+        "bytes": 22468,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 175379,
+        "bytes": 196355,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 31406,
+        "bytes": 37530,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 10456,
+        "bytes": 16655,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1688684,
+        "bytes": 1694946,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 11977,
+        "bytes": 18994,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 119832,
+        "bytes": 126072,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 286207,
+        "bytes": 292468,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 89945,
+        "bytes": 96276,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 15446,
+        "bytes": 21748,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 85576,
+        "bytes": 91914,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 21363,
+        "bytes": 27595,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 12290,
+        "bytes": 18630,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -14308,7 +14308,7 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1682,
+        "bytes": 1700,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
