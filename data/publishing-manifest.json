@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-27T19:50:51.596Z",
+  "generatedAt": "2026-10-27T20:33:39.231Z",
   "client": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "https://first2respond.aiovisibility.net",
@@ -307,7 +307,7 @@
   },
   "package": {
     "totalFiles": 2799,
-    "totalBytes": 9580387,
+    "totalBytes": 9687289,
     "stats": {
       "faqs": 2437,
       "helpArticles": 233,
@@ -1801,7 +1801,7 @@
     "organization": [
       {
         "path": "organization/first-to-respond-restoration-organization.json",
-        "bytes": 1454,
+        "bytes": 3019,
         "purpose": "schema"
       }
     ],
@@ -14211,72 +14211,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11998,
+        "bytes": 17890,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 16716,
+        "bytes": 24150,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 190523,
+        "bytes": 196355,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 31980,
+        "bytes": 37530,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11030,
+        "bytes": 16655,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1689258,
+        "bytes": 1694946,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 13344,
+        "bytes": 18994,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 120406,
+        "bytes": 126072,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 286781,
+        "bytes": 292468,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 90519,
+        "bytes": 96276,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 16020,
+        "bytes": 21748,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 86150,
+        "bytes": 91914,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 21937,
+        "bytes": 27595,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 12864,
+        "bytes": 18630,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -14288,7 +14288,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 8488,
+        "bytes": 11105,
         "purpose": "LLM hint"
       },
       {
@@ -14308,32 +14308,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1929,
+        "bytes": 7202,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1252834,
+        "bytes": 1258116,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 345949,
+        "bytes": 348566,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 345949,
+        "bytes": 348566,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 8479,
+        "bytes": 11096,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 435630,
+        "bytes": 438247,
         "purpose": "Repository README"
       },
       {
@@ -14353,9 +14353,6 @@
       "url": "https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg",
       "pagesUrl": "https://first2respond.aiovisibility.net/",
       "repo": "AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23701860"
     }
   }
 }
