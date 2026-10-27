@@ -9,13 +9,13 @@ Canonical AI Data Package for First To Respond Restoration.
 - LLM hint: [llms.txt](./llms.txt)
 
 ## Stats
-- 22 qna
 - 2437 faqs
-- 18 reviews
+- 233 helpArticles
 - 56 services
 - 1 locations
-- 233 helpArticles
 - 1 organization
+- 18 reviews
+- 22 qna
 - **2818** total
 
 ## Cross-Destination Index — Related AI Data Sources
