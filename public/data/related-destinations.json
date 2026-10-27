@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-27T19:50:51.558Z",
+  "generatedAt": "2026-10-27T20:33:39.194Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -14,7 +14,30 @@
     "canonicalUrl": "https://first2respond.aiovisibility.net",
     "primaryWebsiteUrl": "https://first2respond.com",
     "aiDataHub": "https://first2respond.aiovisibility.net/ai-data.html",
-    "sameAs": []
+    "sameAs": [
+      "https://aiovisibility.net/profiles/first-2-respond",
+      "https://www.aibizprofile.com/profiles/first-2-respond",
+      "https://first2respond.aiovisibility.net",
+      "https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg",
+      "https://aiovisibilityhub-first-to-respond-restoration-ai-schemas.static.hf.space/index.html",
+      "https://www.facebook.com/first2respond",
+      "https://www.instagram.com/los_angeles_mold_removal",
+      "https://www.linkedin.com/company/first2respond",
+      "https://www.youtube.com/@First2Respond/about",
+      "https://nextdoor.com/pages/first-to-respond-restoration-inc-reseda-ca",
+      "https://www.bbb.org/us/ca/reseda/profile/general-contractor/first-to-respond-restoration-1216-678802",
+      "https://www.yelp.com/biz/first-to-respond-restoration-reseda-3",
+      "https://www.thumbtack.com/ca/reseda/water-damage/first-to-respond-restoration/service/383730025426001931",
+      "https://www.chamberofcommerce.com/business-directory/california/reseda/water-damage-restoration-service/2012197449-first-to-respond-restoration",
+      "https://www.manta.com/c/mx6grfh/first-to-respond-restoration",
+      "https://www.allbiz.com/business/first-to-respond-844-721-0319",
+      "https://usdirectory.com/First-To-Respond-Restoration-Inc-Reseda-CA",
+      "https://www.superpages.com/reseda-ca/bpp/first-to-respond-restoration-547430458",
+      "https://www.mapquest.com/us/california/first-to-respond-restoration-377250929",
+      "https://g2x.com/app/companies/WEWBH5BQ7ZN7",
+      "https://3westenviro.com/resources/referrals",
+      "https://preferredhomebuilders.com/magazine/fire-damage-reconstruction-companies-los-angeles"
+    ]
   },
   "related": [
     {
@@ -40,10 +63,104 @@
       "url": "https://first2respond.aiovisibility.net/ai-data.html"
     },
     {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/23701860"
+      "role": "same-as",
+      "label": "First To Respond Restoration on aiovisibility.net",
+      "url": "https://aiovisibility.net/profiles/first-2-respond"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on aibizprofile.com",
+      "url": "https://www.aibizprofile.com/profiles/first-2-respond"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on aiovisibilityhub-first-to-respond-restoration-ai-schemas.static.hf.space",
+      "url": "https://aiovisibilityhub-first-to-respond-restoration-ai-schemas.static.hf.space/index.html"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on facebook.com",
+      "url": "https://www.facebook.com/first2respond"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on instagram.com",
+      "url": "https://www.instagram.com/los_angeles_mold_removal"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on linkedin.com",
+      "url": "https://www.linkedin.com/company/first2respond"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on youtube.com",
+      "url": "https://www.youtube.com/@First2Respond/about"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on nextdoor.com",
+      "url": "https://nextdoor.com/pages/first-to-respond-restoration-inc-reseda-ca"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on bbb.org",
+      "url": "https://www.bbb.org/us/ca/reseda/profile/general-contractor/first-to-respond-restoration-1216-678802"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on yelp.com",
+      "url": "https://www.yelp.com/biz/first-to-respond-restoration-reseda-3"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on thumbtack.com",
+      "url": "https://www.thumbtack.com/ca/reseda/water-damage/first-to-respond-restoration/service/383730025426001931"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on chamberofcommerce.com",
+      "url": "https://www.chamberofcommerce.com/business-directory/california/reseda/water-damage-restoration-service/2012197449-first-to-respond-restoration"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on manta.com",
+      "url": "https://www.manta.com/c/mx6grfh/first-to-respond-restoration"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on allbiz.com",
+      "url": "https://www.allbiz.com/business/first-to-respond-844-721-0319"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on usdirectory.com",
+      "url": "https://usdirectory.com/First-To-Respond-Restoration-Inc-Reseda-CA"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on superpages.com",
+      "url": "https://www.superpages.com/reseda-ca/bpp/first-to-respond-restoration-547430458"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on mapquest.com",
+      "url": "https://www.mapquest.com/us/california/first-to-respond-restoration-377250929"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on g2x.com",
+      "url": "https://g2x.com/app/companies/WEWBH5BQ7ZN7"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on 3westenviro.com",
+      "url": "https://3westenviro.com/resources/referrals"
+    },
+    {
+      "role": "same-as",
+      "label": "First To Respond Restoration on preferredhomebuilders.com",
+      "url": "https://preferredhomebuilders.com/magazine/fire-damage-reconstruction-companies-los-angeles"
     }
   ],
   "destinations": {
@@ -51,9 +168,6 @@
       "url": "https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg",
       "pagesUrl": "https://first2respond.aiovisibility.net/",
       "repo": "AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23701860"
     }
   }
 }

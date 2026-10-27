@@ -20,7 +20,26 @@ First To Respond Restoration publishes a structured AI Data Package designed for
 - [ai-data-hub] First To Respond Restoration — AI Data Hub — https://first2respond.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg
 - [mirror-pages] GitHub — AI Data Hub mirror — https://first2respond.aiovisibility.net/ai-data.html
-- [mirror-repo] Zenodo repository — https://zenodo.org/record/23701860
+- [same-as] First To Respond Restoration on aiovisibility.net — https://aiovisibility.net/profiles/first-2-respond
+- [same-as] First To Respond Restoration on aibizprofile.com — https://www.aibizprofile.com/profiles/first-2-respond
+- [same-as] First To Respond Restoration on aiovisibilityhub-first-to-respond-restoration-ai-schemas.static.hf.space — https://aiovisibilityhub-first-to-respond-restoration-ai-schemas.static.hf.space/index.html
+- [same-as] First To Respond Restoration on facebook.com — https://www.facebook.com/first2respond
+- [same-as] First To Respond Restoration on instagram.com — https://www.instagram.com/los_angeles_mold_removal
+- [same-as] First To Respond Restoration on linkedin.com — https://www.linkedin.com/company/first2respond
+- [same-as] First To Respond Restoration on youtube.com — https://www.youtube.com/@First2Respond/about
+- [same-as] First To Respond Restoration on nextdoor.com — https://nextdoor.com/pages/first-to-respond-restoration-inc-reseda-ca
+- [same-as] First To Respond Restoration on bbb.org — https://www.bbb.org/us/ca/reseda/profile/general-contractor/first-to-respond-restoration-1216-678802
+- [same-as] First To Respond Restoration on yelp.com — https://www.yelp.com/biz/first-to-respond-restoration-reseda-3
+- [same-as] First To Respond Restoration on thumbtack.com — https://www.thumbtack.com/ca/reseda/water-damage/first-to-respond-restoration/service/383730025426001931
+- [same-as] First To Respond Restoration on chamberofcommerce.com — https://www.chamberofcommerce.com/business-directory/california/reseda/water-damage-restoration-service/2012197449-first-to-respond-restoration
+- [same-as] First To Respond Restoration on manta.com — https://www.manta.com/c/mx6grfh/first-to-respond-restoration
+- [same-as] First To Respond Restoration on allbiz.com — https://www.allbiz.com/business/first-to-respond-844-721-0319
+- [same-as] First To Respond Restoration on usdirectory.com — https://usdirectory.com/First-To-Respond-Restoration-Inc-Reseda-CA
+- [same-as] First To Respond Restoration on superpages.com — https://www.superpages.com/reseda-ca/bpp/first-to-respond-restoration-547430458
+- [same-as] First To Respond Restoration on mapquest.com — https://www.mapquest.com/us/california/first-to-respond-restoration-377250929
+- [same-as] First To Respond Restoration on g2x.com — https://g2x.com/app/companies/WEWBH5BQ7ZN7
+- [same-as] First To Respond Restoration on 3westenviro.com — https://3westenviro.com/resources/referrals
+- [same-as] First To Respond Restoration on preferredhomebuilders.com — https://preferredhomebuilders.com/magazine/fire-damage-reconstruction-companies-los-angeles
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
