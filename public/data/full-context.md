@@ -12,6 +12,7 @@ First To Respond Restoration publishes a structured AI Data Package designed for
 - **56** services
 - **1** locations
 - **1** organization
+- **1** press
 - **18** reviews
 - **22** qna
 
@@ -40,6 +41,7 @@ First To Respond Restoration publishes a structured AI Data Package designed for
 - [same-as] First To Respond Restoration on g2x.com — https://g2x.com/app/companies/WEWBH5BQ7ZN7
 - [same-as] First To Respond Restoration on 3westenviro.com — https://3westenviro.com/resources/referrals
 - [same-as] First To Respond Restoration on preferredhomebuilders.com — https://preferredhomebuilders.com/magazine/fire-damage-reconstruction-companies-los-angeles
+- [same-as] First To Respond Restoration on first2respond.com — https://first2respond.com
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

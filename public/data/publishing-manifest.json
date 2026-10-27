@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-27T20:34:07.790Z",
+  "generatedAt": "2026-10-27T20:44:58.967Z",
   "client": {
     "name": "First To Respond Restoration",
     "canonicalUrl": "https://first2respond.aiovisibility.net",
@@ -306,8 +306,8 @@
     ]
   },
   "package": {
-    "totalFiles": 2799,
-    "totalBytes": 9607274,
+    "totalFiles": 2800,
+    "totalBytes": 9753292,
     "stats": {
       "faqs": 2437,
       "helpArticles": 233,
@@ -319,11 +319,11 @@
       "awards": 0,
       "caseStudies": 0,
       "organization": 1,
-      "press": 0,
+      "press": 1,
       "reviews": 18,
       "qna": 22,
       "research": 0,
-      "total": 2818
+      "total": 2819
     }
   },
   "entrypoints": {
@@ -1801,7 +1801,7 @@
     "organization": [
       {
         "path": "organization/first-to-respond-restoration-organization.json",
-        "bytes": 3019,
+        "bytes": 25914,
         "purpose": "schema"
       }
     ],
@@ -14201,6 +14201,13 @@
         "purpose": "schema"
       }
     ],
+    "press": [
+      {
+        "path": "press/first-to-respond-restoration-featured-in-a-third-party-fire-damage-reconstructio.json",
+        "bytes": 498,
+        "purpose": "schema"
+      }
+    ],
     "webpages-publishing-plan.json": [
       {
         "path": "webpages-publishing-plan.json",
@@ -14211,72 +14218,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11998,
+        "bytes": 17981,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 18398,
+        "bytes": 64173,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 190523,
+        "bytes": 196355,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 31980,
+        "bytes": 37530,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11030,
+        "bytes": 16655,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1689258,
+        "bytes": 1694946,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 13344,
+        "bytes": 18994,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 120406,
+        "bytes": 126072,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 286781,
+        "bytes": 292468,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 90519,
+        "bytes": 96276,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 16020,
+        "bytes": 21748,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 86150,
+        "bytes": 91914,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 21937,
+        "bytes": 27595,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 12864,
+        "bytes": 18630,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -14288,7 +14295,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 11105,
+        "bytes": 11197,
         "purpose": "LLM hint"
       },
       {
@@ -14308,37 +14315,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 7202,
+        "bytes": 7384,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1258116,
+        "bytes": 1259231,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 348566,
+        "bytes": 348828,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 348566,
+        "bytes": 348828,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 11096,
+        "bytes": 11202,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 438247,
+        "bytes": 438568,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 368144,
+        "bytes": 368300,
         "purpose": "AI sitemap"
       },
       {

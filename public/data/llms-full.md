@@ -11,6 +11,7 @@ Package contents:
 - 56 services
 - 1 locations
 - 1 organization
+- 1 press
 - 18 reviews
 - 22 qna
 
@@ -39,6 +40,7 @@ Package contents:
 - [same-as] First To Respond Restoration on g2x.com — https://g2x.com/app/companies/WEWBH5BQ7ZN7
 - [same-as] First To Respond Restoration on 3westenviro.com — https://3westenviro.com/resources/referrals
 - [same-as] First To Respond Restoration on preferredhomebuilders.com — https://preferredhomebuilders.com/magazine/fire-damage-reconstruction-companies-los-angeles
+- [same-as] First To Respond Restoration on first2respond.com — https://first2respond.com
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
@@ -3138,6 +3140,9 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://first2respond.aiovisibility.net/reviews/anonymous-7-review.json — schema
 - https://first2respond.aiovisibility.net/reviews/anonymous-8-review.json — schema
 - https://first2respond.aiovisibility.net/reviews/anonymous-9-review.json — schema
+
+### Press (1)
+- https://first2respond.aiovisibility.net/press/first-to-respond-restoration-featured-in-a-third-party-fire-damage-reconstructio.json — schema
 
 ### webpages-publishing-plan.json (1)
 - https://first2respond.aiovisibility.net/webpages-publishing-plan.json — schema

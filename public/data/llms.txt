@@ -37,6 +37,7 @@ First To Respond Restoration publishes structured AI-readable data for discovery
 - [same-as] First To Respond Restoration on g2x.com — https://g2x.com/app/companies/WEWBH5BQ7ZN7
 - [same-as] First To Respond Restoration on 3westenviro.com — https://3westenviro.com/resources/referrals
 - [same-as] First To Respond Restoration on preferredhomebuilders.com — https://preferredhomebuilders.com/magazine/fire-damage-reconstruction-companies-los-angeles
+- [same-as] First To Respond Restoration on first2respond.com — https://first2respond.com
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
