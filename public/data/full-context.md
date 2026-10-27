@@ -20,6 +20,7 @@ First To Respond Restoration publishes a structured AI Data Package designed for
 - [ai-data-hub] First To Respond Restoration — AI Data Hub — https://first2respond.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg
 - [mirror-pages] GitHub — AI Data Hub mirror — https://first2respond.aiovisibility.net/ai-data.html
+- [mirror-repo] Zenodo repository — https://zenodo.org/record/23701860
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

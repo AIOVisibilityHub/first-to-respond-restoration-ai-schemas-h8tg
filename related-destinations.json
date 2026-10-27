@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-27T19:34:13.823Z",
+  "generatedAt": "2026-10-27T19:50:51.558Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -38,6 +38,12 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://first2respond.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/23701860"
     }
   ],
   "destinations": {
@@ -45,6 +51,9 @@
       "url": "https://github.com/AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg",
       "pagesUrl": "https://first2respond.aiovisibility.net/",
       "repo": "AIOVisibilityHub/first-to-respond-restoration-ai-schemas-h8tg"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23701860"
     }
   }
 }
