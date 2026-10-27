@@ -14,9 +14,10 @@ Canonical AI Data Package for First To Respond Restoration.
 - 56 services
 - 1 locations
 - 1 organization
+- 1 press
 - 18 reviews
 - 22 qna
-- **2818** total
+- **2819** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] First To Respond Restoration — canonical website — https://first2respond.aiovisibility.net
@@ -43,6 +44,7 @@ Canonical AI Data Package for First To Respond Restoration.
 - [same-as] First To Respond Restoration on g2x.com — https://g2x.com/app/companies/WEWBH5BQ7ZN7
 - [same-as] First To Respond Restoration on 3westenviro.com — https://3westenviro.com/resources/referrals
 - [same-as] First To Respond Restoration on preferredhomebuilders.com — https://preferredhomebuilders.com/magazine/fire-damage-reconstruction-companies-los-angeles
+- [same-as] First To Respond Restoration on first2respond.com — https://first2respond.com
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
@@ -2858,6 +2860,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`reviews/anonymous-7-review.json`](./reviews/anonymous-7-review.json) — schema
 - [`reviews/anonymous-8-review.json`](./reviews/anonymous-8-review.json) — schema
 - [`reviews/anonymous-9-review.json`](./reviews/anonymous-9-review.json) — schema
+
+### Press (1)
+- [`press/first-to-respond-restoration-featured-in-a-third-party-fire-damage-reconstructio.json`](./press/first-to-respond-restoration-featured-in-a-third-party-fire-damage-reconstructio.json) — schema
 
 ### webpages-publishing-plan.json (1)
 - [`webpages-publishing-plan.json`](./webpages-publishing-plan.json) — schema
